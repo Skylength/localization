@@ -1,0 +1,526 @@
+﻿l_english:
+ 
+ trait_bog_blaster:0 "Bog Blaster"
+ bog_blaster_desc:0 "In Ireland, Milandria is believed to have hailed from Tír na nÓg. Modern day [GetTrait('futa_milandrite').GetName( GetNullCharacter )]s are therefore held in better regards than the average $trait_futa$. Some Milandrites are so proud of this heritage, that they devoted their lives to the defence of the homeland, especially it's waters, thus becoming known as "Bog Blasters""
+ 
+ trait_futa_decendant_of_boann:0 "Decendant of Boann"
+ futa_decendant_of_boann_desc:0 "Bóinn and Milandra sired a child long ago within Tír na nÓg, yet none know of their fate. It is suspected that [ROOT.GetCharacter.GetFirstNameNoTooltip] can trace their ansestory back to Bóinn herself!"
+
+ ## TITLES
+ d_laamp_boggiest_blasters: "Boggiest Blasters"
+ d_laamp_boggiest_blasters_article: "$DEFAULT_TITLE_NAME_ARTICLE$"
+
+ d_laamp_edens_boggers: "Eden's Boggers"
+ d_laamp_edens_boggers_article: "$DEFAULT_TITLE_NAME_ARTICLE$"
+
+ futa_bog_bamboozler_title_name: "Bog Blaster Bamboozlers"
+ futa_bog_bamboozler_new_duchy_title_name: "Independent Bog Blaster Duchy"
+ futa_belligerent_blasters_title_name: "Belligerent Bog Blasters"
+ 
+ ##MODIFIERS
+ meath_secured_modifier:0 "Meath Secured"
+ bog_blasted_army_modifier:0 "Bog Blasted Army"
+ bog_blasted_army_modifier_desc:0 "Soldiers still can feel the mark left by the deep fucking they recieved after losing to Bog Blasters..."
+ boann_bond_modifier:0 "Bond of Boann"
+ bog_rally_modifier:0 "Bog Blasters Rallied"
+ bog_disorganised_modifier:0 "Bog Blasters are too busy fooling around to fight properly..."
+ trusted_bog_blasters:  "Trusted Bog Blasters"
+ trusted_bog_blasters_desc: "\n\nCan recruit [GetMaA('bog_blasters').GetName] as [men_at_arms|E]"
+ 
+ ##FUTA MAA
+ bog_blasters:0 "Bog Blasters"
+ bog_blasters_flavor:0 "Milandrite traditionalists who take their rumored fae origins to heart, living in the wetlands and striking out against anyone they consider unworthy."
+ 
+ futa_priestesses_of_boann:0 "Priestesses of Boann"
+ futa_priestesses_of_boann_flavor:0 "Despite largly believed to be dead, Bóinn priestesses continue to perform honourary rites. This group of worshipers can manipulate the wetlands of thier home to hinder your foe's movement, making them easy targets."
+ 
+ futa_boga_shortbows:0 "Boga Shortbows"
+ futa_boga_shortbows_flavor:0 "The Boga Shortbows have operated near the lands of Britannia since before the first Roman Legion ever arrived. A Futanari people, they always found themselves on the edge of neighbouring civilisations. They fought and lost to Rome like the rest, scattering along with the rest of the natives. \n\nThroughout the years since they have honed their skills as archers, favouring short bows for close engagements. Due to being cursed Futanari, they were never integrated into local cultures and thus maintain a unique identity despite being scattered."
+ 
+ futa_hermillia_matrons:0 "Hermillia’s Matrons"
+ futa_hermillia_matrons_flavor:0 "As Hermillia returns to the world, so do her blessings. Futanari who have lived lives full of fertility may now receive visions of a greater calling. Should they accept, these mature Futanari mothers undertake a ritual, donning symbols of fertility and earning a portion of divine power based on their reproductive history. They seek to protect Hermillia’s most devout."
+ 
+ futa_hermillias_imbued_matrons:0 "Hermillia’s Imbued Matrons"
+ futa_hermillias_imbued_matrons_flavor:0 "Having taken in the essance of the Goddess, these faithful mothers of the Hermillian faith have gained access to supernatural strength for a time."
+ 
+ futa_vagrant_drengs:0 "Vagrant Drenġs"
+ futa_vagrant_drengs_flavor:0 "Like all peoples of the isles, the Futanari population of Britannia has been shaped by the many invasions across history. Outsiders who fought alongside Futanari would allow their allies to pillage and rape the “old enemies” in preference to breeding with their own. Over the generations, a cast of Futanari emerged with heritage between romans, saxons, celts and norse. Whilst they struggle to find acceptance within their homelands, they are all accepting of one another. \n\nDue to the origin of their bloodlines, these Futanari are especially prone to their urges, but they prefer to unleash their passions on each other."
+ 
+ futa_vagrant_drengs_preggo:0 "$futa_vagrant_drengs$ (Pregnant)"
+ futa_vagrant_drengs_preggo_flavor:0 "All actions have consequences. Their merry making has resulted in a few new Futanari growing within the regiment. Less useful - and morally grey to send - in a battle until they have been given time to give birht and recover."
+ 
+ futa_burial_wardens:0 "Burial Mound Wardens"
+ futa_burial_wardens_flavor:0 "A fading order native to Ireland who oversee the maintainence and protection of its many burial sites. The constant infighting of Irish upstarts has rendered their numbers few. They only approach those they deem show proper respect."
+ 
+ ##SPECIAL TROOPS
+ futa_blaster_recruited_special_troops:0 "Hired Bog Blasters"
+ futa_bamboozling_bog_blasters:0 "The Bamboozling Blasters"
+ futa_belligerent_blasters:0 "The Belligerent Blasters"
+ futa_boggiest_blasters:0 "The Boggiest Blasters"
+ fut_bog_blasters_army: "Bog Blasters"
+ futa_edens_blasters: "Eden's Blasters"
+ futa_imbued_matrons: "Imbued Matrons"
+ futa_defected_matrons: "Defected Matrons"
+ 
+ ##FUTA NICKNAMES
+ futa_bog_blaster:0 "'The Bog Blaster'"
+ futa_bog_blaster_desc:0 "[CHARACTER.GetShortUINameNoTooltipNoFormat] is a proud woman of Tradition, living in the sacred waters of Ireland and keeping them safe from invaders!"
+ 
+ ##FUTA TRADITIONS
+ 
+ tales_of_nog_tradition_name: "Tales of Tír na nÓg"
+ tales_of_nog_tradition_desc: "Tír na nÓg is a mythical land of bounty, everlasting youth and magic that has been connected to Ireland in the past. According to the legend, a Futanari known as Milandria was taken to Tír na nÓg on the back of a golden boar that rode her across a bridge of SunLight. Whilst there, Milandria frolicked amongst the fae. She exchanged stories about the struggles of the mortal world and the fae who only knew joy were heart touched. They gave her a set of enchanted bracers that were said to ensure the path she walked would always be with bounty. She spent a long time partying in the land of Mag Mell. Partying and fucking. She found herself desiring to show her children the land of her birth. The Fae warned her that they should not tarry for long, and should Milandria touch foot on the earth the path back would become sealed forever. And so she rode the golden Boar back to Ireland with her children in tow. It had changed a great deal, the passage of time felt slow in Tír na nÓg. Whilst riding through the tree’s it is said Milandria caught a glimpse of the most beautiful woman to ever live. In her daze, she was knocked off the boar by a branch. The legend states that her last words to her children were to find that woman, before she turned to stone."
+
+ culture_parameter_irish_milandrite_bonus: "[GetTrait('futa_milandrite').GetName( GetNullCharacter )] [trait|E] will have [opinion|E] bonuses"
+ culture_parameter_unlock_bond_boann_decision: "Enables the [futa_bond_boann|E] [decision|E] for [characters|E] in the [GetGeographicalRegion('futa_ireland_region').GetName] [region|E]"
+
+ game_concept_futa_bond_boann: "$bond_of_boann_decision$"
+ game_concept_futa_bond_boann_desc: "Conduct an ancient rite to show your respect for Bóinn's lost child and experience contemplation with a special someone"
+
+ futa_favored_by_morrigan_tradition_name: "Favoured by the Morrígan"
+ futa_favored_by_morrigan_tradition_desc: "The whims of a Goddess surface the wee minds of us folk who till the earth and lead humble lives. It is therefore accepted that despite their vices, the Morrígan favoured the Futanari of Ireland. It is said that Macha enhanced their bounty, ensuring that the Futanari would be fruitful and multiply whilst remaining in strong family units. Nemain’s chaotic nature was imbued within their loins, causing the Futanari to gain access to a slither of her immense power at the cost of losing their senses. Badb therefore would choose to watch over the Futanari in battle, a crow flying overhead, sparing the bravest of Futanari from a mindless death. \n\nSo high was the position in which the Morrígan held the Futanari, that it is even said she had birthed some. No one can agree for sure, but the people of Connacht that #EMP Queen Maeve#! was both a daughter of the Morrígan and a Futanari as well."
+
+ culture_parameter_futa_trait_gives_stewardship: "[GetTrait('futa_genetic').GetName( GetNullCharacter )] [trait|E] will give [stewardship|E] bonuses"
+ 
+ ##WEAPONS
+ WP_claymore_name:0 "Irish Claymore"
+ WP_claymore_desc:0 "This large blade requires ample strength to wield effectively. It's sheer size grants the wielder an advantage against convential swords and axes. Anbitious mercs and savage Bog Blasters have taken to using these weapons."
+ 
+ WP_bb_claymore_name:0 "Boggiest Claymore"
+ WP_bb_claymore_desc:0 "This Claymore has been passed down by the most infamous group of Bog Blasters. It reeks of mud, sweat and... Something #EMP else#!."
+ 
+ futa_bog_spear_artifact_name:0 "Bog Blaster Reed Spear"
+ futa_bog_spear_artifact_desc:0 "Simplistic, cheap and easy to use. Bog Blaster traditionally craft their weapons from the very wetlands they defend."
+ 
+ WP_bb_carldenite_blade_name:0 "Carldenite Bog Blade"
+ WP_bb_carldenite_blade_desc:0 "A weapon bestowed by the Catholic Church to the Bog Blasters of Ireland most open to hearing the true word of God so that they might better educate their bretheren."
+ 
+ ##ITEMS
+ futa_other_world_ring_name:0 "Other World Ring?"
+ futa_other_world_ring_desc:0 "A strange rocky ring that is cold to the touch. The wearer tens to find small fortunes, but is this the sign of other-wordly will?"
+
+ ##NOTIFICATION EVENTS:
+ futa_irish_battle_event.title:0 ""Stop the invaders!!!"
+ futa_irish_battle_event.desc:0 "Our brave [GetTrait('bog_blaster').GetName( GetNullCharacter )]s rallied behind your call!"
+ 
+ msg_bog_siege_rape_title:0 "Local raped by Bog Blaster!"
+ msg_bog_siege_rape_message:0 "One of the small folk by the name of [victim.GetFirstName] was taken forcefully by the despicable [futa_bog_blaster.GetFirstName]
+ 
+ msg_bog_rejection_title:0 "Offer Rejected!"
+ msg_bog_rejection_message:0 "“I don’t associate with perverts.”"
+ 
+ futa_nun_combat_event.title:0 "Battle Nuns Rally Army!"
+ futa_nun_combat_event.desc:0 "Your faithful Futanari Nuns pray for God's protection, inspiring your troops!"
+
+ futa_boga_shortbows_made_bodkin_arrows.title: "Bodkin Arrows"
+ futa_boga_shortbows_made_bodkin_arrows.desc: "Your [GetMaA('futa_boga_shortbows').GetName] have made some new ammunition to use during a battle!"
+ futa_boga_shortbows_made_bodkin_arrows_tt: "[GetMaA('futa_boga_shortbows').GetName] have procured some heavy bodkin arrows"
+
+ futa_boga_shortbows_battle_event.title: "Enemy Pelted with Bodkin Arrows"
+ futa_boga_shortbows_battle_event_damage_maa.desc: "Our archers have seriously damaged an enemy regiment!"
+ futa_boga_shortbows_battle_event_damage_knight.desc: "Our archers have seriously damaged an enemy fighter!"
+ futa_boga_shortbows_battle_event_enemy.title: "Pelted with Bodkin Arrows"
+ futa_boga_shortbows_battle_event_damage_maa_enemy.desc: "Enemy archers have seriously damaged one of our regiments!"
+ futa_boga_shortbows_battle_event_damage_knight_enemy.desc: "Enemy archers have seriously damaged one of our fighters!"
+
+ futa_matrons_defect_battle_event.title: "The Matrons Defect!"
+ futa_matrons_defect_battle_event.desc: "Troubling news from the front lines. My squad of Hermillia’s Matrons have #EMP abandoned#! my cause, joining with the enemy due to a supposed “Destined one” walking amongst them."
+ 
+ futa_boggy_blasters_event.title:0 "Bog Blaster Bounty"
+ futa_boggy_blasters_event.desc:0 "The Bog Blasters have decided to reward themselves with our opponent’s vulnerable holes. This mass defilement has shaken the enemy ranks."
+ 
+ ##FUTA DECISIONS
+ bond_of_boann_decision:0 "Bond Of Boann"
+ bond_of_boann_decision_desc:0 "It is tradition amongst the Milandrites of the Emerald Isle to spill their seed in memory and respect for Bóinn's lost child with Milandria many years ago."
+ bond_of_boann_decision_tooltip:0 "Who shall join me?"
+ bond_of_boann_decision_confirm:0 "To the waters!"
+ 
+ futa_contact_bog_blasters_decision:0 "Contact Bog Blasters"
+ futa_contact_bog_blasters_decision_desc:0 "Wherever you find wetlands in Ireland, you find Bog Blasters as well. Or rather, they find you. If I am going to lead within Ireland for any period of time I shall need to treat with these warriors."
+ futa_contact_bog_blasters_decision_tooltip:0 "#EMP Is this a good idea?#!"
+ futa_contact_bog_blasters_decision_confirm:0 "Contact them"
+ 
+ futa_honour_boann_decision:0 "Honour Boann"
+ futa_honour_boann_decision_desc:0 "Irish land is more than a patch of dirt to be squabbled over. It is our #EMP home#!, our ancestor's home, our children's home. It has been around longer than any of us and will continue to exist for long after we have all sunk into the peat."
+ futa_honour_boann_decision_tooltip:0 "Important cultural members will arrive"
+ futa_honour_boann_decision_confirm:0 "Begin the Rite"
+
+ secure_meath_decision:0 "Secure Meath"
+ secure_meath_decision_desc:0 "Invaders have targeted Meath for too long! It is sacred ground. It is #BOLD Irish#! land! Only a strong, true Irish can and should call this region their home and there is no soul better fit than I."
+ secure_meath_decision_tooltip:0 "You will become the independant ruler of Meath."
+ secure_meath_decision_confirm:0 "#EMP For Ireland!#!"
+
+ ## CUSTOM TOOLTIPS
+
+ futa_bog_blaster_decision_modifier_tt: "#V As your [house|E] is #P trusted#! by the Bog Blasters, your contacts will provide with different options!#!"
+
+ futa_bog_blaster_decision_no_modifier_tt: "#V Contact the Bog Blasters to request the following:\n\n$BULLET$Sign a temporary truce to quell their hostilities\n$BULLET$Recruit [special_troops|E]\n$BULLET$Hire a [GetTrait('bog_blaster').GetName( GetNullCharacter )] [knight|E]#!"
+
+ futa_blasters_hire_knight_tt: "A [GetTrait('bog_blaster').GetName( GetNullCharacter )] will become your [knight|E] for #V 5#! years, after which she will leave your service"
+ futa_blasters_hire_courtier_tt: "A [GetTrait('bog_blaster').GetName( GetNullCharacter )] will join you"
+
+ futa_meath_cede_to_blaster_tt: "#N The Lands and the title of the [futa_bid_for_meath_title.GetName] will be ceded to a [GetTrait('bog_blaster').GetName( GetNullCharacter )]!#!"
+
+ ## WARS
+
+ # Bog Bamboozling
+
+ futa_bog_blaster_bamboozle_war: "Bog Blaster Ambush"
+ FUTA_BOG_BLASTER_BAMBOOZLE_WAR_NAME: "[ATTACKER.GetFirstNamePossessive] Ambush of [DEFENDER.GetTitledFirstName]"
+ FUTA_BOG_BLASTER_BAMBOOZLE_WAR_NAME_BASE: "[ATTACKER.GetFirstNamePossessive] Ambush"
+ FUTA_BOG_BLASTER_BAMBOOZLE_NAME: "[ATTACKER.GetFirstNamePossessive] Ambush of [DEFENDER.GetTitledFirstName]"
+
+ # Bog Belligerence
+
+ futa_bog_blaster_belligerence_war: "Bog Blaster Belligerence"
+ FUTA_BOG_BLASTER_BELLIGERENCE_WAR_NAME: "Bog Blaster Belligerence"
+
+ # Bid for Meath
+
+ futa_bog_blaster_bid_for_meath_war: "Bid for Meath"
+ FUTA_BOG_BLASTER_BID_FOR_MEATH_WAR_NAME: "Bid for [TITLE.GetNameNoTier]"
+ 
+ ## CULTURE
+ futa_bog_blaster_cul:0 "Bog Blaster"
+ futa_bog_blaster_cul_collective_noun:0 "Bog Blasters"
+ futa_bog_blaster_cul_prefix:0 "Boggy"
+
+ ##EVENTS
+ 
+ nog_events.0001.title:0 "Child Of Bóinn"
+ nog_events.0001.desc:0 "All the adults have been really happy about me for some reason. I don't know why. They told me I am #EMP special#!. That someone in my family was related to Bóinn? I don't really know why anyone cares but it sounds like fun!"
+ nog_accept.0001.a:0 "I'm related to Bóinn!"
+ 
+ #
+ 
+ nog_events.0002.title:0 "The Boyne Secured"
+ nog_events.0002.desc:0 "At last, the river Boyne is safe from miscreants and invaders. Now that we true Irish are its custodians we can ensure the people maintain rightful - guarded - control of its waters and bounty. \n\nMoreover, this landmark is of great importance to us Milandrites. Some even say it might be the last remaining connection to our ancestral homeland Tír na nÓg remaining in this world!"
+ nog_accept.0002.a:0 "I will defend our lands!"
+ 
+ #
+ 
+ nog_events.0003.title:0 "The Bond Of Boann"
+ nog_events.0003.desc:0 "The waters are cool and calm this day, and me sack tis brimming with eager swimmers. There is no better time than now to carry out one of the most sacred traditions of the Emerald Isle. To honour the lost child of Milandria and Bóinn, any decent Milandrite would be willing to give her seed to the waters of Ireland. \n\nThe only thing left to consider is how I shall go about it. Historically this ritual is supposed to be a bonding experience with a partner, but more recently some lass’ have taken to performing the rite solo."
+ nog_accept.0003.a:0 "My wonderful Partner!"
+ nog_accept.0003.b:0 "Not traditional, but he #EMP is#! my partner!"
+ nog_accept.0003.c:0 "This is between me and Bóinn."
+ 
+ #
+ 
+ nog_events.0004.title:0 "The Bond Of Boann" # - Climax
+ nog_events.0004.desc:0 "Such a wonderful deliverer if pleasure [partner.GetFirstName] truly is! Our bodies intertwined within the cool waters once watched over by Bóinn oh so long ago. [partner.GetFirstName]’s plush lips fastened tight against my cock. I cannot help but lose myself in these lustful waters. \n\nWe take time to honour Bóinn properly, spending a good forty minutes of dedicated pleasuring. [partner.GetFirstName] worked tirelessly to complete this rite, so much so that I may have forgotten to bring them up for air. \n\nNone-the-less I was brought to my limits, spilling my seed into the waters around us. There may not be a guardian spirit to receive it, but I hope the gesture is appreciated all the same."
+ nog_events.0004.solo.desc:0 "Partner or not I will offer my pledge to the waters. The volume of liquid surrounding my cock brings with it a cool excitement. I pump away at my shaft, yet it feels as if my hand belonged to a lover. My form embraced by their body, caressed by their touch, encouraging me to mark them with my seed. \n\nMy testicles swell, but they are comforted by the waters. Supported by the buoyancy. It is as if Bóinn herself has taken interest in me. \n\nThe thought of that is enough to bring me to finish. I let loose a lewd moan as strings of my milky white ropes flood into the surrounding waters. Cloud after cloud of my offerings puff out into the azure liquid."
+ nog_accept.0004.a:0 ""I hope that was enough for you.""
+ 
+ #
+ 
+ nog_events.0005.title:0 "Honouring The Boann"
+ nog_events.0005.desc:0 "\n\nNow that the majaroty of the river Boyne is safely under my control it is finally safe for us true Irish to pay our proper respects to Bóinn and ask her to watcher over our homeland once more. Offerings are gathered into bowls and sent onto the water's surface. This is a time meant for reflection, wishes and peace. \n\nA group of women approach me whilst I gaze into the horizon. "So tis you we ought to thanks for this rite? It has been far too long since someone with enough sense to respect the old ways had been in power around here. We are oracles of Bóinn, some of the few who do not believe her to be truely dead. This ancient rite was vital for communicating to Bóinn that we await her return, but it had been unsafe for us to practise." \n\nThe women reveal they have brought their own gernerous bounty of an offering. Samon, Apples, boar tusks and hazelnuts in vast quantites. Alongside the food is some sort of smoking container with whate appears to be a lid, except it is filled with holes. \n\n"As a sign of our gratitude we would like to serve in your court. We can help ensure our traditions keep. We can also help in more than just domestic issues. Our affiliation with Bóinn has taught us a thing or two  about the ancient waters. We can manipulate the water soaked earth to hamper your enemies movements, I sware on the life of my newborn babe tis true." \n\nManipulate the earth? How? With some sort of contraption? The whole thing sounds nuts, but having their presence at court could prove useful in keeping your subjects in check. You don't even have to pay them anything."
+ nog_accept.0005.a:0 "Welcome abord."
+ 
+ #
+ 
+ nog_events.0006.title:0 "Emerging From The Bog"
+ nog_events.0006.desc:0 "Ireland, my home. My people's home. Now that I have finally turned 16 I have been welcomed into the ranks of my local Bog Blasters. We celebrated with roasted boar seasoned with hazelnuts. There are great expectations that I will help defend Ireland."
+ nog_accept.0006.a:0 "And I will."
+ 
+ #
+ 
+ nog_events.4000.title:0 "Like Frogs In A Pond"
+ nog_events.4000.desc:0 "My encounters with the Bog Blasters so far have proven to be… Less than ideal. Their dedication to causing mayhem has become too much of an issue to be simply ignored. I have no other option than to try and meet with them on peaceful ground in the hopes we can come to some sort of arrangement. \n\nAlthough sharing a cause, there are many different groups of these mud women. Some might be less receptive to my pleas than others… \n\n”That’s close enough fella.” A pointed spear is directed near my neck. Five dirt covered - and mostly naked - individuals rise from the tall grasses, surrounding me. I tell them I mean them no harm, but they don’t back down. \n\n”You mean us no harm? Big words for someone we got surrounded dontcha think? Aye, we know why you are here. Luckily for you we’re in a good mood. Out with it then, what do you want?”"
+ nog_accept.4000.a:0 "“We would benefit from not attacking each other.”"
+ futa_blasters_truce_rights_tt:0 "You will allow them to take from your farmers livestock and crop as they please..."
+ nog_accept.4000.b:0 "“I am willing to pay you for your services.”"
+ nog_accept.4000.c:0 "“#EMP You#! Look fierce. Why don’t you work for me?”"
+ nog_accept.4000.e: "“I promise you leadership of your lands”"
+ nog_accept.4000.d:0 "“This was a bad idea…”"
+ 
+ #
+ 
+ nog_events.4002.opening:0 "Enough Blasting"
+ nog_events.4002.desc:0 "My time with ya troop is over. The bogs are my home and I must return to them. Make sure not to fall in if you ever come by!"
+ nog_accept.4002.a:0 "Goodbye."
+ 
+ #
+ 
+ nog_events.4003.title:0 "Contacting The Bog Blasters"
+ nog_events.4003.desc:0 "Aliance or no, trecking into Bog Blaster territory with minimal guards is always an anxious event. They know I have arrived before I see them, but thankfully they respect our current relationship and leave my group unharmed. \n\nWadding through the mud, I eventually arrive at one of their camps. A boar is being roasted over a warm fire whilst numerous Milandrites sharpen spears and prepare traps... All with their fat girlcocks flopping about of course. One of them finally acknowledges my pressence with a strong look. \n\n"How can we help ya. Look'n for muscle, or would you rather have some fun? We're aboout to see who can dump the most nuts in their bitch, you'd hate to miss the show."
+ nog_accept.4003.a:0 "Actually I am looking for a warrior."
+ nog_accept.4003.b:0 "I need a weapon."
+ nog_accept.4003.c:0 "Sex you say?"
+ nog_accept.4003.d:0 "Maybe later."
+ 
+ #
+ 
+ nog_events.4004.title:0 "Contacting The Bog Blasters" #Need a Weapon
+ nog_events.4004.desc:0 "I'm led to one of the few huts set up that is not half sunken into the mud. A rush of heat greets me on the way in, accompanied by the sound of striking metal. A forge - or at least the cloest thing to one that the Bog Blsasters could manage - is being operated by a burly Norseman. Spear heads and sword hilts are cluttered over the furniture around him as he quenches hot steel in a bucket of water and pauses to attend to us. \n\nMy guide pats him on the shoulder. "How is my favourite captive turned smith doing today?" \n\nThe man immediatly shuffles back into the corner, shoulders raised defensivly. "D-dont touch me! #EMP Don't.#!" An awkward silence follows. Clearly some "events" must have taken place prior to this current arrangement. \n\nThe Bog Blaster throws up her hands and leaves. "Sorry about him, he is a bit up-tight, oh! #EMP poor choice of words#!. Hahaha!" \n\n... \n\n"What do you want?" he asks you coldly. Not in any provocative manner, but that of a man long out of hope. You tell him you were in the market for a new weapon. \n\n"If you need something sharp to stab at first whelp you see then I can give you one of the reed spears these... #EMP Creative#! women make for themselevs. But if you are wanting to actually topple a worthy warrior, I could make you one of the finest instruments of death this side of the North Sea. It will cost you a pretty tribute though, I might be a captive but I am #BOLD not#! a thrall."
+ nog_accept.4004.a:0 "Just the spear will do."
+ nog_accept.4004.b:0 "I'll take that sword."
+ nog_accept.4004.c:0 "All of these are worthless."
+ 
+ #
+ 
+ nog_events.4005.title:0 "The Blasting"
+ nog_events.4005.desc:0 "They take me to their main “hall”, which looks more like some abandoned hearth they loosely repaired. Even before I passed through the entrance I could hear the hollering of Bog Blasters. The well-lit interior was nice and warm from all the people gathered inside. \n\nBog Blasters were downing alcohol as if it were fresh water in the desert, a pair even shattered their mugs after bashing them together, laughing it off. But the main attraction is taking place in the middle, where a crowd has formed a ring around numerous couples #EMP fucking the daylights#! out of one another \n\n”Go on! She’s still looking a little slim there lass!” \n\n”Filler er’ up! Filler er’ up!” \n\n”#EMP UUUrghhh!!!!!, FUCK!#!” \n\n#EMP *Plap* Plap* Plap* Plap* Plap*#!  \n\nOne of the Bog Blasters is drilling her cock into the soaking pussy of a Futanari presenting under her. Her body blurs, large and bloated testicles crashing against one another. The Futanari getting mounted grips the floor hard enough to turn her knuckles white, grunting like a pig from the Bog Blaster’s penetration. Her lonely cock firing rope after rope aimlessly onto the ground, whilst the Bog Blaster clogs up her womb with swampy spunk."
+ nog_accept.4005.a:0 "I’ve seen enough."
+ nog_accept.4005.b:0 "I want to get blasted!"
+ 
+ #
+ 
+ nog_events.4006.title:0 "The Blasting" #Got Blasted
+ nog_events.4006.desc:0 "“You hear that, our fine friend over here has some holes that need loosening up!” \n\n”Hahaha! I’ll gladly help! Been getting lonely using my hand anyhow.” A woman staggers before you, crashing into some of the onlookers who laugh and thrust her towards you. Her cock flaccid but #EMP thick#!, jiggling about as much as her generously sized breasts. \n\n”Get on the ground.” \n\n#BOLD *CREAK* *SLAM* *SPANK* *PLAP* *PLAP* *GRUNT*#! \n\nYour world is getting rocked. The Bog Blaster manhandles you to the floor and slaps you across the face with her thickening club. Not much in the way of lubricant is supplied, preferring to instead coat her prick with some half-drunken ale before squeezing it inside you. \n\nShe doesn’t know how to take it easy, tenderising your body with her #BOLD fat fucking cock#! which overloads your mind with pain and pleasure. Your thighs involuntarily squirm from all the pressure, but the instant any sound that isn’t shameless moaning exits your lips the Bog Blaster slaps you around and thrusts even harder. \n\n”#EMP Her comes the big one! #BOLD I’M GONNA BLAST IN YA BOG!!!#!#!” The masturbating Bog Blasters all cheer as your partner crashes her hips into you, splintering the wooden planks forced to support your debauchery. Your insides #EMP ache#! from the sudden impact of thick gunk #BOLD blasted#! out from the woman’s regrettably unwashed cock. \n\nShe slaps you one last time for good measure before pulling out. A gush of her spunk expels once her plug-like cock is removed, but the vast amount of her ejaculation now rests within you."
+ nog_accept.4006.a:0 "*Shudder and orgasm*"
+ 
+ #
+ 
+ nog_events.4007.title:0 "The Rightful Seat"
+ nog_events.4007.desc:0 "“Say again fella? You meant to say you will march with us to ensure the Boyne is under rightful occupation?” The Bog Blaster’s attitude shifts. You see curling lips and energetic stances as they begin hollering into the sky and arming themselves. There is a new energy to this gathering now. The Bog Blasters look at you with something akin to… Respect. \n\nIt is clear this war - that river - #EMP means something#! to them. The leading lady places a comforting hand on your shoulder. “You are doing something great for the likes of us. If you do this, we won’t soon forget it. But make no mistake, if you plan to cross us we will fall upon you like a tree in a hurricane”."
+ nog_accept.4007.a:0 "All this for an alliance..."
+ 
+ #
+ 
+ nog_events.4008.title:0 "Power Play"
+ nog_events.4008.desc:0 "These dumb slut-daughters think they are worthy of me! #EMP Ha!#!, I am the mightiest she-cock this side of the river Boyne! The big bitch who thought I would be her little dumpster got a #EMP hard lesson#! in how a true Futanari treats her bitches. \n\n#BOLD *Plap* *Plap* *Plap* *Plap* *Plap*#! \n\n”#EMP Oooooooh! #BOLD Fuck,#! You’re breaking in me bog!#!” My partner stutters out as I rearrange her guts. Our coupling is #EMP raw#! and #EMP primal.#! My cock leaves no inch of her anus unclaimed, her balls reddening from the impact of my own. She throws her arse back into me to meet every thrust straight on, plunging my girldick deeper up her ass. \n\n”gah, #EMP FECKIN’ DRILL ME!#!” \n\n#BOLD *SLAM* *SLAM* *SLAM* *SLAM* *SLAM*#! \n\nI grab hold of her sweaty neck as I reach the apex of my endurance, blasting her bog full of Bóinn-blessed swimmers whilst her own die out upon the floor. I was so caught up in the moment I forgot we were not alone. After a moment of silence - aside from my partner’s moans - the others erupt into a cheer."
+ nog_accept.4008.a:0 "“Remember to invite me to the next one”"
+ 
+ #
+ 
+ nog_events.4009.title:0 "Power Play" #Meet Ex
+ nog_events.4009.desc:0 "“Excuse me.” A hushed voice lures my attention on my way to gather supplies. My heart almost jumps out of my chest as I witness a beautiful Irish girl flash her dripping cock at me. \n\n”You don’t know me, but I sure know you. A few days ago you attended a meeting amongst the Bog Blasters where you… Demonstrated your prowess. The target of your lust was my lady friend…” So that’s what this is. My muscles tense for a moment, but I notice the girl is biting her lip, blushing like a cherry. \n\n”It was so #EMP hot#!. As much as she likes to flaunt her cock, [futa_bog_blaster.GetFirstName] has failed time and time again to knock me up. I’m done with her antics. I want you and your fat bitch breaker, #BOLD now#!.” \n\nThe girl is serious, I can see her body reacting to my presence. \n\n”Oh! #EMP I think I just ovulated.#!”"
+ nog_accept.4009.a:0 "Fuck her #BOLD immediately#!"
+ nog_accept.4009.b:0 "I don’t take sloppy seconds."
+ 
+ #
+ 
+ nog_events.4010.title:0 "Power Play" #Sex Ex
+ nog_events.4010.desc:0 "We fuck like hogs gone wild. [futa_ex_blaster.GetFirstName] fires rope after rope of her backed up seed into the air showing no care who or what might get coated in her cream, all whilst I break open her pussy and show her how Futanari sex should feel! \n\nBy the time we are done the both of us are heaving on the floor, covered in cum and dirt as we embrace. \n\n”Do you think you could take me with you? I don’t think I could go on without you in my life after that.”"
+ nog_accept.4010.a:0 "*Kiss her*"
+ nog_accept.4010.b:0 "Far too clingy for me!"
+ 
+ #
+ 
+ nog_events.7000.title:0 "Bogged Down"
+ nog_events.7000.desc:0 ""#BOLD Arggh! Get off of me! Let me go!#!" My foes lie broken at my feet. They thought to try and beat the Bog Blasters in their home territory. A grave mistake. All around me I can see "proud" soldiers being tossed about in the mud by these fierce women. \n\nOne man thinks to slip away unoticed, but a Bog Blaster causually drags him into a bog and does away with his clothing. "Easy now fella, you'll enjoy this more if you you keep your body nice and relaxed.""
+ nog_accept.7000.a:0 "Better them than me."
+ 
+ #
+ 
+ nog_events.7001.title:0 "Soggy Spoils"
+ nog_events.7001.desc:0 "The siege was a guaranteed success. My enemies were foolish to think their walls would spear them for the tenacity of my true-born warriors. This marshy terrain is the environment we #EMP thrive#! in. \n\nMy Bog Blasters knew how to destabilise the foundations, contaminate the water and ambush any attempts at a breakout. \n\nNow that the muscle work is behind us, I have permitted them to take their prize. One of these warriors is rewarding herself on the ground beside me, joined by a local lass who is learning how to take the enchanted cock of a Milandrite inside her pussy."
+ nog_accept.7001.a:0 "Such #EMP vigor#!."
+ 
+ #
+ 
+ nog_events.7003.title:0 "Bog Blaster Bamboozle!"
+ nog_events.7003.desc:0 "Just when I thought the march through this wetland couldn't get any worse... A squad of screaming half-naked Futanari emerge from the bog, weapons drawn and charging our way. \n\n"#BOLD Die pigs!!!#!""
+ nog_accept.7003.a:0 "So #EMP rough#!."
+ 
+ #
+ 
+ nog_events.7002.title:0 "Bog Drought"
+ nog_events.7002.desc:0 "Nobody enjoys marching in full war gear under the hot sun for hours on end, I understand this all too well. But part of being a soldier is knowing how to operate when others would falter. A quality my Bog Blasters are evidently unfamiliar with. They have been moaning about the heat for almost as long as we’ve been marching. \n\n”You gotta give us a break! I swear the soles of me feet turned blood red!” \n\n “Aye, no decent fella would march us fine ladies like no slaves.” \n\n”My Family Jewels are #EMP swollen!#!” \n\nThe rest of your army are rapidly losing morale to all the belly aching and truth be told, so are you. The relentless sun will shine no matter what you say, but something need to change."
+ nog_accept.7002.a:0 "“You, loud one. Let me give you a kiss.”"
+ nog_accept.7002.b:0 "“They say you can alleviate aches with new ones…”"
+ nog_accept.7002.c:0 "“Just deal with yourselves.”"
+ 
+ #
+ 
+ nog_events.7005.opening:0 "Bog Blaster Belligerence"
+ nog_events.7005.desc:0 "You loathesome Eejit \n\nYou are unfit to walk these marshes, let alone rule them. We Bog Blasters demand our freedom!"
+ nog_accept.7005.a:0 "I am in charge here!"
+ 
+ #
+ 
+ 
+ nog_events.7006.title:0 "Bog Drought" #Kiss
+ nog_events.7006.desc:0 "You fondle the rear of one of your Bog Blasters, much to the envy of her sisters in arms. “Ha, looks like I’m her favourite lass!” Despite her gusto, the raspy tinge behind her voice indicates that she really is feeling the heat out in the open sun. You are no god of rain, but you have an idea how to alleviate some of the pressure. \n\nIt doesn’t take much encouragement to get her to do as you command. Her naked cheeks are bare before you. Crouching down you play with them some more, watching how they wobble and shift. \n\n”Are you just wanting to look all day?” \n\n#S *SMACK*#! \n\n”AH! #EMP My arse!#!” You swat her rear, catching a glimpse of her sweaty puckered hole winking in surprise. You told her she would get a kiss, but you didn’t say where. \n\n”#EMP Ermp! Oh lord!#!” Her anus spread wide, you rub your face across her taint and tickle her sex with your tongue before digging in to the main meal. The trials of the march are told to you not in words, but the musky sweat of an overworked ass. You dutifully lap up as much as you can, making sure to plant a sloppy wet kiss on her button once you are done. \n\n”Oh, she’s a natural. I think my little heart has fallen in love!”"
+ nog_accept.7006.a:0 "I feel a little dizzy now…"
+ 
+ #
+ 
+ nog_events.7007.title:0 "Bog Drought" #sex
+ nog_events.7007.desc:0 "“Well I can’t rightly turn you down commander.” The Bog Blaster plays coy, but she was already stripping out of her clothes for you. She takes up against a large rock whilst you brandish your rod, ready to churn some discipline inside your unruly regiments. \n\nYou slide your cock across her taint as you line up your line entering attack, coating it with the sheer amount of sweat dripping from her ass. Your glans kisses against her moist ring in a lewd kiss. It takes some forcing, but eventually you pop inside. Its #EMP hot#! and moist, but that just makes it easier to help your Bog Blaster complete her training #EMP drill#!. \n\nYour cock is a blur, slamming in and out of the bog like you were battering down a portcullis. The Bog Blaster is moaning out loud enough to reveal your location to the enemy, but thankfully the flat terrain shows no sign of approach. \n\nDesperate for water, her anus grinds as well as it can for a sweaty hole around your shaft. It feels as if hundreds of fingers are polishing your cock head. With a deep grunt you fire a volley of doomed children into her bowels. Precious fluids you lose and she gains. Not that it compensates for the small lake of semen she wasted on the hot soil below."
+ nog_accept.7007.a:0 "Now get back in line."
+ 
+ #
+ 
+ nog_events.7008.title:0 "Bog Drought" #Watch
+ nog_events.7008.desc:0 "This is the army, not some nursery… #EMP But it is hot out here.#! Rather than continue to suffer their moaning, you allocate an unplanned break and tell your Bog Blasters to go entertain themselves whilst they can. Whereas most of your forces fight over the miniscule amount of shade or simply rest their feet, the Bog Blasters had something entirely different in mind. \n\n”Oooh! Mind how you go lass.” \n\n”You are so full today, think you can last against my hands?” \n\n”I told you I would be blasting your arse before the day was over!” \n\n”#EMP FuCk!#! Just like that! GRIND MY PROSTATE INTO DUST YOU WONKY COCKED WHORE!” \n\nSuffice to say, the rest of the army had one of their most #EMP unique#! marches of the entire campaign, and quite possibly of their entire lives."
+ nog_accept.7008.a:0 "Forward… Uh… March…"
+ 
+ #
+ 
+ nog_events.7010.title:0 "Counter Blasters"
+ nog_events.7010.desc:0 "I had thought with the aid of some hardened blasters my war effort would have been an assured victory, however I have been told that my enemy has also recruited the aid of Bog Blaster troop. \n\nMoreover, those new arrivals are apparently the sworn enemies of the Boggiest Blasters! Maeve informs me that the “fools” have been influenced by Catholics, pledging that the bogs of Ireland should belong solely to the Pope!"
+ nog_accept.7010.a:0 "For a wetland, this is getting rather heated…"
+ 
+ #
+ 
+ nog_events.7011.title:0 "Off-Shore Blasting"
+ nog_events.7011.desc:0 "To the victor goes the spoils, which includes my group of Bog Blasters. Besieging villages outside of their wetlands is not their preferred method of approach, which caused all manner of sexual fantasies to boil up with them. \n\n”Who knew a foreign couchie could *squeeze* so good?” \n\n“Me thinks I’ll be taking this one back to the Bog!” \n\nThey wasted no time exploring the damp holes this land had to offer. By the time we were done, they left with empty sacks and arms full of new ladies destined for a life full of mud and cum."
+ nog_accept.7011.a:0 "“Alright, back to work ladies.”"
+ 
+ #
+ 
+ nog_events.8000.title:0 "Amongst The Reeds"
+ nog_events.8000.desc:0 "A disturbing repetitive sound had my entourage on edge. Being the leader, I took the responsibility of ensuring safe passage upon my own shoulders and looked ahead. The land is a character with many different quirks. One moment I am on stable footing, the next my leg sinks knee-deep into the mud. \n\n#EMP *Schlick* *Schlick* *Schlick* *Schlick*#! \n\nThere is that infernal sound once again. It seems to be close- #EMP What in the world?#! Some Futanari is masturbating out in the open! \n\n”Mmm, should’a been mine…. Umph- Just needed- #EMP OI!!!#! What a ya looking at you perverted little weasel?!?!” She is calling #EMP me#! A pervert? What lunacy is this? I am not the one defiling nature with that fat tool of hers! \n\n”#EMP Just when I was close too…#! Well, fuck it. Not going to enjoy myself now.” She stops jerking her shaft, but her hand remains resting upon it as she glares at you. \n\n”Well? You trying something funny? I got my girls just around the corner y’know!”"
+ nog_accept.8000.a:0 "“Don’t let me stop you.”"
+ nog_accept.8000.b:0 "“Why not you all join with us?”"
+ 
+ #
+ 
+ nog_events.8001.title:0 "Within The Reeds"
+ nog_events.8001.desc:0 "News on dangers lurking within the wetlands had become more prevalent as of late, so when you heard strange sounds from the reeds you decided to investigate as the leader of the entourage. \n\n#EMP What in the world?#! As you push some flora out of the way, you behold what seems to be a Futanari crouched within the bog… #EMP Choking her chicken?!#! \n\n”#EMP Argh Come on! I’m so close!#!” Her eyelids twitch, riding on the edge of ecstacy, yet her expression suggests frustration. So enthralled by this display as you were, you fail to conceal yourself. \n\n”WAH! H-how long have you been watching me?!” Her voice quite clearly disgusted as her beet red face glares towards you. Despite this, her hand does not stop moving."
+ nog_accept.8001.a:0 "Get me out of here!"
+ nog_accept.8001.b:0 "Need a “hand”?"
+ 
+ #
+ 
+ nog_events.8002.title:0 "Within The Reeds" #handy
+ nog_events.8002.desc:0 "“Are you crazy?” \n\n”...” \n\n”Ah fuck it, yes please. Hand, mouth, anything just get this fella to release!” \n\nFor what reason did you decide the best course of action was to stroke an unknown futanari’s cock in the wilderness, who can say? But it is the path you have chosen for yourself. The woman barely pays attention as you move besides her, too busy shaking her hands along her shaft. You place your hand on top of hers, causing her to take a sharp breath. \n\n”Oh!” Like a reassuring lover, you smile into her eyes as your hand gets to work. Seeing her squirm under your touch is its own kind of fun. \n\nThe sensation of another's hand seems to be what the woman was needing as before long she starts firing her backed up load into the waters. She holds onto your arm, panting after the deed was done. \n\n”Tis no way I let you walk off without me now!”"
+ nog_accept.8002.a:0 "Cute."
+ 
+ #
+ 
+ nog_events.8003.title:0 "Nuts Of Wisdom"
+ nog_events.8003.nog.desc:0 "The weariness of travel begins to weigh down on my entourage. With the weather being especially pleasant, I allow a moment of rest by the river banks. Taking a spot close to the edge, I observe my own features in the clear water surface. So clear and pure, it is easy to overlook the simple qualities of life amongst the demands of leadership. \n\nDances of swimming Salmon take hold of my attention, until a curious pair of objects bob into view. #EMP Purple nuts?#! Lest my eyes deceive me, a duo of oddly coloured hazelnuts are floating down stream. \n\n#EMP It couldn’t be?#! I carefully reach towards them and fish them out of the river. Rolling them over in my palm confirms my suspicions. Their purple hue does not wash off, the shell remains hard with no sign of rot. #EMP Segais Hazelnuts!!!#! \n\nThese seeds are said to have bathed within the Well of Segais long ago, but when Bóinn allegedly perished it’s waters surged and all the Hazelnuts of wisdom were scattered across Ireland! \n\nTo think I might have found some!"
+ nog_events.8003.desc:0 "The weariness of travel begins to weigh down on my entourage. With the weather being especially pleasant, I allow a moment of rest by the river banks. Taking a spot close to the edge, I observe my own features in the clear water surface. So clear and pure, it is easy to overlook the simple qualities of life amongst the demands of leadership. \n\nDances of swimming Salmon take hold of my attention, until a curious pair of objects bob into view. #EMP Purple nuts?#! Lest my eyes deceive me, a duo of oddly coloured hazelnuts are floating down stream. \n\nWho knows how rotten they must have been to turn colour so drastically. Or so I thought, but one of the Bog Blasters in my company places her hand on my shoulder. \n\n”Those there ain't your run of the mill nuts y’know. Aye, they be #EMP Segais Hazelnuts!#! Rare and mythical those are.” She starts to reach for them, but I did find them first. Just in case they have some sort of value to the local Irish, I quickly nab them for myself. The Bog Blaster pouts as she gazes at them in my hand. \n\n”They say that long ago there was a well in these parts where the nuts of nine hazel trees fell. These were special trees, who’s wee nuts would bestow great knowledge to those who consumed them. A lad could suck his own thumb an see his future the next morn he could!” She seems convinced, but what a preposterous notion. Future seeing thumb sucking? \n\n”Tis true, I swear on me Mum’s Grandmother's Auntie’s saggy sack! Anyway, what’s important is that when Bóinn vanished - not perished as some fools would try and tell ya - the waters of the Segais Well erupted, scattering all these purple nuts across Ireland! You are lucky to find them here.”"
+ nog_accept.8003.a:0 "Such Valuable Trinkets."
+ 
+ #
+ 
+ nog_events.8004.title:0 "Monuments Of Another World"
+ nog_events.8004.desc:0 "Something one is bound to discover sooner or later when travelling through the emerald isle is the abundance of elaborate and ancient burial mounds dotted about the landscape. Some of them are said to predate the oldest of known records! \n\nThere are many rumours about such old and mysterious sites. It is said that they hold the secret to traversing into “The Other World”, but such a thing couldn’t be possible… Couldn’t it?"
+ nog_events.8004.bog.desc:0 "Something one is bound to discover sooner or later when travelling through the emerald isle is the abundance of elaborate and ancient burial mounds dotted about the landscape. Some of them are said to predate the oldest of known records! \n\nThere are many rumours about such old and mysterious sites. It is said that they hold the secret to traversing into “The Other World”, but such a thing couldn’t be possible… Couldn’t it? \n\n“Stop lollygagging and find me a shovel! I bet you a great and proud Futanari warrior is buried in here. Last thing she would want is for her legendary heirlooms to rot in the mud.” [bog.GetFirstName] insists, trying to convince me to disturbed this hallowed ground."
+ nog_accept.8004.a:0 "What a load of nonsense."
+ nog_accept.8004.b:0 "I will pay my respects to the dead."
+ nog_accept.8004.c:0 "The structure is incredible!"
+ nog_accept.8004.d:0 "“Fine [bog.GetFirstName].”"
+ 
+ #
+ 
+ nog_events.8006.title:0 "Monuments Of Another World" #mist
+ nog_events.8006.desc:0 "Something one is bound to discover sooner or later when travelling through the emerald isle is the abundance of elaborate and ancient burial mounds dotted about the landscape. Some of them are said to predate the oldest of known records! \n\nThere are many rumours about such old and mysterious sites. It is said that they hold the secret to traversing into “The Other World”, but such a thing couldn’t be possible… Couldn’t it?"
+ nog_events.8006.bog.desc:0 "Something one is bound to discover sooner or later when travelling through the emerald isle is the abundance of elaborate and ancient burial mounds dotted about the landscape. Some of them are said to predate the oldest of known records! \n\nThere are many rumours about such old and mysterious sites. It is said that they hold the secret to traversing into “The Other World”, but such a thing couldn’t be possible… Couldn’t it? \n\nAn ominous wind has been stirring ever since I approached the site… And a sudden mist has enveloped the area as well… \n\n“Stop lollygagging and find me a shovel! I bet you a great and proud Futanari warrior is buried in here. Last thing she would want is for her legendary heirlooms to rot in the mud.” [bog.GetFirstName] insists, trying to convince me to disturbed this hallowed ground."
+ nog_accept.8006.a:0 "What a load of nonsense."
+ nog_accept.8006.b:0 "I will pay my respects to the dead."
+ nog_accept.8006.c:0 "The structure is incredible!"
+ nog_accept.8006.d:0 "“Fine [bog.GetFirstName].”"
+ nog_accept.8006.e:0 "*Inhale the Mist*"
+ 
+ #
+ 
+ nog_events.8007.title:0 "Monuments Of Another World" #Fknight
+ nog_events.8007.desc:0 "Curiosity gets the better of me as I purposefully step into a cloud of the strange mist seeping out from the burial mound. It itches at my nostrils and compounds inside my lungs. #EMP This may have been a mistake!#! \n\n”My liege!” [fknight.GetFirstName] rushes towards me like a mother to her wayward child, clutching my body tight as she tosses me back with all her strength. I look up from the mud to see her coffing as that same mist enters her lungs. \n\n#EMP Is he okay?#! \n\n”I… I am fine, truly. Seems nothing more than foul air to my fortune. But #EMP you,#! what were you thinking breathing that in out of the blue? Please take better care of your health my liege. I thought you might… Never mind.”"
+ nog_accept.8007.a:0 "You have my thanks."
+ 
+ #
+ 
+ nog_events.9000.title:0 "Get Of Me Land!"
+ nog_events.9000.desc:0 "“Oi! You fella!” You jump as a sudden harsh voice calls to you from the waters. A woman emerges - weapon in hand - with a fierce look in her eyes. “Bugger off me land if you know what tis good for ya!” To accentuate her point, she thrusts her weapon in your direction. \n\nThe simple act of moving to defend yourself is treated as an act of aggression. \n\n”Oh, you’re in for it now!”"
+ nog_accept.9000.a:0 "Looks like it’s a fight!"
+ 
+ #
+ 
+ nog_events.9002.title:0 "Get Of Me Land!" #Loss
+ nog_events.9002.desc:0 "“Now I ought to teach ya a lesson ya damn scamp!” Winded and bruised, the Bog Blaster easily topples you into the wet earth as the sense of defeat sinks in. She quickly removes her garb, revealing a thick trunk of a girlcock that springs to life, already dripping from anticipation. Whilst she gives it a few strokes, you start to crawl away. \n\n”Tisk Tisk, naughty!” You feel a sharp sudden pain in your back. The Bog Blaster drops her body on top of yours, pressing a knee against you to keep you down. Her fingers dance about your body, undressing you like a cheap whore. You cannot ignore the prodding of her moist glans around your ass as she does so. \n\n Her slimey arm catches your neck in a choke hold, which she leverages to force your head back closer to her own. \n\n”If you try anything funny, or if you have any fella’s try to surprise me, #EMP I’ll cut ya fucking throat.#!” \n\nWith her threat left to linger in your mind, she lines up her cock with your hole. \n\n”Scream loud for me darling!” \n\n#BOLD *Plap* *Plap* *Plap* *Plap* *Plap* \n\nYour current tour guide of the marsh seems #EMP thrilled#! to give a detailed first hand account of how well the locals can fuck naughty little wanderers. Your rear is on fire, getting stretched out  by a phallus that doesn’t know when to quit. Snot and tears pour from your face as the Bog Blaster maintains her choke hold whilst #EMP drilling#! Deep into you. \n\nIt almost comes a sa relief when her next thrust abruptly ends, but then you feel her glans twitching. \n\n”#EMP FUUUUUUUUCCCCKKKKKKK!#” Your insiders are completely plastered by her bog gunk, occupying every crevice available as it fills up your capacity and then some. A back-blast of her cream fires past the seal of her pulsating cock, panting some of the mud an off-white huge, all the whilst her churning orbs pump more of her sticky stuff inside your compacted hole. \n\n”I'll let ya keep that as something to remember me by. Oh, and next time, #EMP Stay the fuck out of me land!#!”"
+ nog_accept.9002.a:0 "How humiliating…"
+ 
+ #
+ 
+ nog_events.9003.title:0 "Get Of Me Land!" #Victory
+ nog_events.9003.desc:0 "The rambunctious woman lies defeated before you. Her hand wearily reaches for her weapon, but you punt it away with your foot. \n\n”Fuck you, ya daft fucking ogre!” Even now she insults you, despite being the one to attack out of the blue.  Such an act surely must be punished, but in what way?"
+ nog_accept.9003.a:0 "Kill her."
+ nog_accept.9003.b:0 "Take her prisoner."
+ nog_accept.9003.c:0 "Leave her in the mud."
+ nog_accept.9003.d:0 "Use her for sex."
+ 
+ #
+ 
+ nog_events.9004.title:0 "Get Of Me Land!" #Sex Prep
+ nog_events.9004.desc:0 "You order your party to take a moment to relax, whilst dragging your aggressor into a nice secluded pit of moisture. Her figure is only covered by patchwork cloth and repurposed armour, her precious cock always on display. As you reach around her rear and expose your prize to the open air, you are shocked to note she is missing a very special area you were hoping to enjoy. \n\n”Hehehe! What’s the matter? Not find what you were looking for you #EMP fecking bastard!#!” She seems amused with herself, knowing this marks the end of your advances. All that lies before you is her tight pucker, a set of large rolling orbs and the hint of a fat cock."
+ nog_accept.9004.a:0 "“Ha! I’m into this!”"
+ nog_accept.9004.b:0 "“I was looking for a nice juicy cock.”"
+ nog_accept.9004.c:0 "*Spank her ass and walk away*"
+ 
+ #
+ 
+ nog_events.9005.title:0 "Get Of Me Land!" #Use Cock
+ nog_events.9005.desc:0 "“What?” Now it is the Bog Blaster’s turn to be surprised. With a wide grin on your face you grab hold of her rear and start kneading her dough. The environment has already got her skin moist, but her ass is extremely soft and inviting. You theorise that spending all her days exercising in the mud has coincidently kept her skin in great condition. \n\nAs fun as this is, you don’t have all day. The Milandrite squirms in your grasp as you spread her cheeks wide to get a good look at her whole. It twitches anxiously under your gaze, #EMP wet and moist#! Just as you were hoping. \n\n”Get ya filthy fingers away from me-” You plap the head of your cock against her ring, immediately shifting the riley woman’s stature. \n\n”I think we might have gotten off on the wrong footing before. My name is- #EMP AUGHHHHHHHH!#!” You delve inside her anus, leveraging your body weight to keep the Bog Blaster pinned beneath you. She strikes the wet earth with a clenched fist and heaves against you, but all she achieves is choking you snake in #EMP just#! the right way to really get you going. \n\nYour thrusts are accentuated by the spray of mud and water as you make a Bog Blaster shaped indent into the ground. Her sphincter has quickly taken to your rod, keeping you stimulated at every moment. \n\n”Oooh! Fuck yes, keep it coming!! #EMP Urgh!#!” If your objective was to punish, then you have failed. Despite her prior protesting, this Bog Blaster is loving the way you are treating her soggy hole. A creamy mixture of soil and cum rapidly spreads from the tip of her cock, your prostate examination frequently causing ropes of her tadpoles to splash into the mixture. \n\nThen, one of your many thrusts suddenly rocks your world. You stop, clenching on the Bog Blaster’s ass subconsciously as you keel over and unleash a fat load of cum up her asshole."
+ nog_accept.9005.a:0 "You are free to go."
+ 
+ #
+ 
+ nog_events.9006.title:0 "Get Of Me Land!" #Ride Cock
+ nog_events.9006.desc:0 "You eagerly cup her large, round testicles in your hand and grope them greedily as if they were a pair of grain bags for you to squeeze. The Bog’s Blaster quickly hardens to an impressive size, throbbing precum into the dirt. Your technique is evidently quite effective. \n\n”You got magic hands you do!” Someone is pleased, but this is supposed to be #EMP for you!#! To help remind the Milandrite you flip her onto her back, allowing her pole to reach for the sky as you position yourself on top. Your fingers guide her moist glans to your wet entrances, but instead of taking her in you instead start gyrating your hips around her tip. \n\nAs this goes on, a steady stream of precum lubricates your toy’s stick for you. The owner however, is red in the face. Hands twitching with sexual frustration. #EMP Desperate#! eyes pleading with yours to proceed, As fun as this is, you are getting pretty desperate yourself. \n\nYou slam down onto her fat girlcock, failing to bottom out as your mind gets spiked with pleasure from the girth. The Bog Blaster throws her head back into the mud and moans uncontrollably. \n\n”Oh Mama! Looks like I’ll be joining ya in heaven soon!” \n\nUsually riding through wetlands is not recommended, but you are doing a pretty good job at it. The Bog Blaster is enslaved by her senses, forced to endure the pleasure you enact upon her penis as you rapidly bounce up and down her shaft. #EMP FUCK!!! UUUUUURRGRHH!!!#! \n\nYou orgasm mid thrust around the centre of her shaft, creaming it in your juices as  you twitch all over it. The sight of you losing your mind sets your partner off as well, exploding like a volcano into your pussy and sharing her bounty with you."
+ nog_accept.9006.a:0 "That… Was good."
+ 
+ #
+ 
+ futa_maa_events.0001.title:0 "Heiress of the Goddess" #Located in Futa MAA Events
+ futa_maa_events.0001.desc:0 "“Our apologies if we come to you at an inconvenient time, but my fellow worshipers and I have come to request if we could sample some of your divine seed?” A member of Hermillia’s matrons approaches me, her compatriots in toe. It is true my birth was a sign of Hermillia’s will manifested. These mature Futanari revere the goddess thoroughly. It would displease Hermillia if I were to neglect them."
+ futa_maa_events.0001.a:0 ""Very well.""
+ 
+ #
+ 
+ futa_maa_events.0002.title:0 "Heiress of the Goddess" #Part 2
+ futa_maa_events.0002.desc:0 "”My my, look at how cute your holy rod is. I think it’s time it received some appropriate worship.” It has been #EMP hours#!.. Hours of explicit, ball draining suction from these fine women of faith. My sack has shrunken to the smallest I can ever recall. I am drenched in sweat, my strength flowing out of me alongside my special seed. \n\n”Thank you ever so much special one. Your seed was just the catalyst we needed to properly serve our goddess. Before to long you will be #EMP very#! glad you shared this gift with us.”"
+ futa_maa_events.0002.a:0 "“I already am.”"
+ 
+ #
+ 
+ futa_maa_events.0003.title:0 "A Divine Confrontation"
+ futa_maa_events.0003.desc:0 "The battlefield harbours such an insulting sight. My foe rides with Futanari claiming to be “Hermillia’s Matrons” when their Goddess lives and breathes before them! To think they would #EMP dare#! betray their own kind like that. My mind is boiling with anger, but I must think. It is a duty of a Goddess to keep her followers in line and lead them towards the correct path. They have merely been misled by this world full of Futanari haters…"
+ futa_maa_events.0003.a:0 "“Join me and find redemption!”"
+ futa_maa_events.0003.b:0 "“#EMP Feel your Goddess’ #BOLD WRATH!#!#!”"
+ 
+ #
+ 
+ futa_maa_events.0011.title:0 "Beacon of Worship"
+ futa_maa_events.0011.desc:0 "Marching an army requires effective communication at all times, lest your ranks fall into disarray in hostile territory. I knew what was required of me and prepared accordingly, but I must admit I am struggling under the pressure of expectation. Well that… And another pressure building up between my legs. \n\nCertain… #EMP Mature#! members of my troop have been smothering me with unrequested attention… And bosoms. Normally I would discipline such behaviour, but considering their rank I am in a tough spot. #EMP And their bodies are really cuddly…#! \n\n”Please commander, let us take care of you for a moment. Our forces rely on you having a clear mind and sharp focus. We’ve all been caught by nature, nothing to be ashamed of. And we have heard such #EMP great things#! about how you treat your women.”"
+ futa_maa_events.0011.a:0 "“No, #BOLD #EMP March#!#!”"
+ futa_maa_events.0011.b:0 "“If you insist…”"
+ 
+ #
+ 
+ futa_maa_events.0012.title:0 "Beacon of Worship" #Part 2
+ futa_maa_events.0012.desc:0 "#EMP *Slurp* *Suck* *Lick* #! \n\n#EMP OooOOhhhh it feels sooooo GOOD#! The experienced matrons have been lining up to pleasure me using nothing but their experienced mouths and milky breasts. My legs are trembling as I try to stand firm, but orgasm after orgasm has left me rather sensitive. \n\n”Oh heavens, what a fine piece of stud meat our commander is. Hermillia must have blessed her cock herself!” \n\n”Stop hogging her to yourself, I’m going to burst before I even got a taste!” \n\n#EMP Nughhh!#! I can feel another load on its way out…"
+ futa_maa_events.0012.a:0 "“Gah! #EMP Cumming!#!""
+ 
+ #
+ 
+ futa_maa_events.0021.title:0 "The Price Of Payment"
+ futa_maa_events.0021.desc:0 "“Now now, no need for the surprised look on your face. We ladies can be quite fair, all things considered. ‘EMP You#! Are the one unable to uphold your own terms, not the mark of a great leader is it?” \n\nTerrible times bring dark tidings. My rulership has devolved into a state of financial decay. Why does nobody understand that gold does not grow on trees! The band of Futanari Mercenaries I had hired took note of my financial decline and are afraid I shall toss them out or renege on payments. \n\n”I’ll keep this short and sweet. We are pretty backed up and eager to let loose some steam. We usually refrain from doing so, but your current state could be a boon for both of us. Hand over someone precious to you to act as our #EMP stress relief#! and in return, we will overlook missing payments of coin… For now.” \n\nThe Futanari all leer at me, a fair few of them having growing bulges between their legs. #EMP What am I to do?#!"
+ futa_maa_events.0021.a:0 ""You can have my wife…""
+ futa_maa_events.0021.b:0 "“My Daughter and heir…”"
+ futa_maa_events.0021.c:0 "“You will have #EMP nothing!#!”"
+ 
+ #
+ 
+ futa_maa_events.0022.title:0 "The Price Of Payment" #Given Tribute
+ futa_maa_events.0022.desc:0 "The Futanari use [tribute.GetFirstName] for hours. You try to forget about what is happening, but #EMP nothing#! Would stop the sounds of her defilement from reaching your ears. \n\nThese brutish mercenaries call her every degenerate phrase under the sun. Groping at her body, tainting her flesh with their scent. You can hear [tribute.GetFirstName] wailing through the night, likely from the abuse… #EMP Surely.#! \n\nWill she ever forgive you for what you have done to her? Will you ever forgive yourself?"
+ futa_maa_events.0022.a:0 "They are still using her…"
+ 
+ #
+ 
+ futa_maa_events.0031.title:0 "Drenġs Celebrations"
+ futa_maa_events.0031.desc:0 "With my recent victory my people enter a period of celebration and recovery. Whilst there is always a need for soldiers, I grant those who had fought hardest on the front lines a brief reprieve. Rumor quickly spreads of how a certain group from the army decided to celebrate. \n\nThose Futanari Drenġs went into a lustful orgie. Each one of them having a go taking and receiving numerous of her comrades in arms at a time! Apparently this is just the way their people do things. \n\nSome on lookers were worried if this would devolve into a series of rapes against allied forces, but from what I hear the Drenġs have kept it to themselves and are #EMP loving#! One another’s company!"
+ futa_maa_events.0031.a:0 "May many more victories follow!"
+ 
+ #
+ 
+ futa_maa_events.0032.title:0 "Drenġs Miracle"
+ futa_maa_events.0032.desc:0 "Some members of my army have pulled me aside for a “serious conversation”. They look a little… Anxious? Moreover, I cannot help but notice some of them look like they have gained some weight all of a sudden. \n\n”So uh, hi boss. We might have partied a bit hard and well, the storks have come to roost!” \n\n”She means to say, we got knocked up.” \n\n”Big time.” One of the Futanari emphasises as she clutches her belly. \n\n”I know this isn’t ideal but we can still fight! #weak probably.#! If you keep us employed, we will be sure to try extra hard for you after we are, well, #EMP not#! Pregnant anymore.”"
+ futa_maa_events.0032.a:0 "Of all of the…"
+ 
+ #
+ 
+ futa_maa_events.0033.title:0 "Drenġs Family"
+ futa_maa_events.0033.desc:0 "A messenger has informed me that those Vagrant Drenġs who had gotten pregnant are preparing to rejoin my forces in full force. Their offspring are to be cared for by a mixture of volunteers and those of them that would prefer to continue life as Mothers. Maybe they will grow up to be an asset to my realm in the future?"
+ futa_maa_events.0033.a:0 "Time will tell."
+ 
+ #
+ 
+ futa_maa_events.0034.title:0 "Drenġs of Age"
+ futa_maa_events.0034.desc:0 "An entourage of armed futanari of various dispositions had requested a meeting with me. They all look young and healthy, which is worrying that such a group seems to have business with me. \n\n”We come in peace and wish good tidings upon you. This might sound strange, but we are hoping you will accept our request to enter your employment.” \n\nShe is right, this is a surprise. Why would these women wish to fight in battles for me? \n\n”Our Mothers had fought for your side in years past. We heard tales of the victories won back in those days. Whilst most of our sisters have decided a more peaceful life is for them, we cannot say the same. Glory and conquest is in our blood. Should you add us to your payroll you shall not find us lacking.”"
+ futa_maa_events.0034.a:0 "“Extra troops? Welcome aboard!”"

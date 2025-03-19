@@ -1,0 +1,160 @@
+﻿l_english:
+
+ ## Events
+
+ futa_bodyguard_events.0001.title: "Grand Protector"
+ futa_bodyguard_events.0001.desc: "It has been a couple of weeks since I've sent word out about a new personal guard. Multiple candidates have come and gone, but none of them were satisfactory. When I thought that there would be no more people, one last person shows up. A big and tall woman, easily twice the size of most ordinary men, introduces herself.\n\n“Greetings, my fair [ROOT.Char.GetLadyLord]. I've heard about your search for a personal guard. I'd like to apply to this position if the offer is still valid. I've spent many moons on the road, going from realm to realm, fighting any who dared to find my travels #EMP inappropriate#!. There are many who think a woman wielding a blade is something unfathomable. At first, they tried to stop me, then as word of my exploits started to spread, some tried to “win” me, none were able to successfuly tame me. Now, I have spent the last few years offering my blade to any one would like to receive my services.”\n\nMost impressive. One question. Why is she not under employment right now?\n\n“My previous employer and I had a little… #EMP disagreement#!, which brings me to my conditions. My price is non-negotiable. I will require an upfront payment and a constant salary, #EMP more#! than what would be payed normally. I'm afraid I cannot lend my skills for anything less. I assure you, I'm #EMP more#! than worth the price.”"
+
+ futa_bodyguard_events.0001.a: "I accept your proposal."
+ futa_bodyguard_events.0001.b: "I cannot accept these terms."
+
+ #
+
+ futa_bodyguard_events.0002.title: "Sword of Damocles"
+ futa_bodyguard_events.0002.desc: "Today has been a particularly active day, and oh do I need a nice bath to calm myself. I get ready to ready to enter the bathing chamber when I notice a few garments placed near the entrance. Upon closer inspection, they seem to be the equipment and clothes of [futa_bodyguard.GetFirstName]. Ah, well, no matter. You have nothing to hide from eachother, and she is your bodyguard! Might as well join her, it can be nice to have a bathing companion every now and then.\n\nNothing could've prepared me for what I saw when I entered. [futa_bodyguard.GetFirstNameNoTooltip] is sitting down on a bench, head thrown back, legs fully spread apart. A #EMP huge#! cock sprouts from her crotch, standing tall towards the sky! #EMP She is a $trait_futa$!#! Her head jolts when she notices I come in and she quickly grabs a towel and puts it on her “little” companion… #EMP Is that a joke? How would that help in this situation? You can still see almost half of her dick!#!\n\n“Oh, uh my [ROOT.Char.GetLadyLord], uh. Hi.”\n\nHow has she managed to hide her situation from you? You never seen her act differently all these years, and the $trait_futa$ don't manage to be a sneaky bunch about their #EMP condition#!!\n\n“What, you think I am an unhinged beast? Take every opportunity to rub my meat on something, try to stick it in every vaguely hole shaped thing I come across? All the others are weaklings, whim to their lust. I managed to develop a few “techniques” to control myself. Now, that is not to say I don't get #EMP full#!, however I never let it take control, my mind never gets clouded. This is just another challange to beat, one many manage to fail.”\n\nWas #EMP this#! the #EMP disagreement#! she had with her previous employer?\n\n“… Yes. It was not about the money. I was hired to protect the princess of a far away realm. Everything was fine for a while, but similar to this situation, eventually people found out what I was. I never did anything untold towards her, I would #EMP never#! break an oath. She wasn't even aware until the very end. None of it mattered though, they tried to imprison me, so I… #EMP left.#!”\n\nHer eyes look sad. She looks towards you with anticipation, no doubt waiting to hear your verdict."
+
+ futa_bodyguard_events.0002.desc_futa_accepted: "\n\nYou ask her why she is still hiding herself here. The $trait_futa$ are welcome and accepted with you.\n\n“Force of habit. I don't want the word to get out. It tends to skew people's perspectives, one way or another. I don't need more #EMP drama#! in my life, being a woman blademaster already causes enough in most of the world as is.”"
+
+ futa_bodyguard_events.0002.desc_revealed: "Once again I catch [futa_bodyguard.GetFirstName] in quite the pose in the baths. Her dick stands proud and tall, and she looks comfortable about my presence to boot. She still tries to hide her “little” companion under a comically small towel like the first time, however. I assume in order to make me feel more at ease? It was quite the amusing sight then, still is now.\n\n“Ah, my [ROOT.Char.GetLadyLord]! Welcome, make yourself comfortable. I'd be honoured to have you join me.”\n\nI have not heard about any #EMP incidents#! involving her ever since I learned of her secret. Her words spoke of the truth, by the looks of things. I should be able to spend a little time with her alone in the bath, after all, if I can't trust her here, how can I trust her with my life? #EMP I wonder how much of a problem that little gal has been causing her. It is twitching constantly, the poor thing…#!"
+
+ futa_bodyguard_events.0002.a: "Why don't we help #EMP eachother#! out?"
+ futa_bodyguard_events.0002.a_flavor: "You slowly start undressing and let your garments fall to the ground as you approach her"
+
+ futa_bodyguard_events.0002.b: "I'll leave you to it then."
+ futa_bodyguard_events.0002.b_flavor: "You saw nothing, heard nothing. Everything stays the same"
+
+ futa_bodyguard_events.0002.c: "Don't mind if I do!"
+ futa_bodyguard_events.0002.c_flavor: "She is quite the pleasant company!"
+
+ futa_bodyguard_events.0002.d: "I no longer want your services."
+ futa_bodyguard_events.0002.d_flavor: "You cannot trust her to be alone with you constantly, who knows what she might do, no matter if she claims otherwise"
+
+ #
+
+ futa_bodyguard_events.0003.title: "$futa_bodyguard_events.0002.title$"
+ futa_bodyguard_events.0003.desc: "“…Excuse me? Woah, uh, my [ROOT.Char.GetLadyLord], what are you doing?” I take off the pathetic little excuse for a “cover” that is the towel and kneel infront of her, placing my hands on her knees. My face stands a few inches away from her sword. Due to her recent activity in the bath, she smells of pleasant soap. Her giant body is on full display, her wetness provides a shine and accentuates her hardened muscles along with her battle-scars in all their glory. My heartbeats quicken, each release of my breath causes her glistening member to #EMP twitch#! and #S throb#!. A constant trickle of pre-cum oozes from her tip, slowly dripping down along her shaft and over her melon sized testicles.\n\n“My [ROOT.Char.GetLadyLord], please! I'm flattered but I don't think this is a good idea. Rumors will inevitibly start to spread. Your reputation is important!” She should stop worrying her pretty little head about such things. She is devoutly protecting her [ROOT.Char.GetLadyLord]'s #EMP assets#! day and night, it is only fair those same #EMP assets#! help her. “Really, I am grateful, but-”\n\nI take one of her balls into my mouth. That shut up her up. I start to suckle the orb that I only managed to take in half-way, every suck causing more and more pre-cum to spurt out. After I had my fun, I release the delicacy and attach my tongue right between her orbs where all the cum has been making its way down. Inch by inch, I slowly run my tongue up along her shaft, collecting more and more of her thick salty cream. By the time I reach the tip, my mouth was already filled to the brim with her essence. I steel myself and send all of it down my throat with one #S gulp#!\n\nWhen I look at her, I find her looking back at me with eyes wide open. She must like what she sees, as my object of desire and gotten more #EMP restless#!, each heartbeat of hers felt through with full force. I give her a wink and continue my “persuasion” by taking her tip between my lips as I grasp her rod. My hands start pumping her cock as my tongue works on her tip.\n\n“My [ROOT.Char.GetLadyLord], please stop! I'm close!” Music to my ears. I hasten my pace, I shall not stop until her extra obligations are extracted! As soon I felt her orgasm rushing through her dick, I release my mouth and keep pumping with my grip. Wave after wave, more thick batter shoots up into air and lands on top of me, her whole body convulsing with each batch she churnes out.\n\nAfter marking me from head to toe, she finally stops. When I'm sure she is able to listen to me, I once again make my proposal.\n\n“…”\n\nI notice her cock is still standing at full attention, throbbing with all its might as her testicles pulse, no doubt churning out millions more sperm to take the place of the ones who were recently ejected. I point out that this sheer #EMP virility#! can be problematic to try and keep locked up. Allow yourself to help her, just like she helps you. “…Whatever my [ROOT.Char.GetLadyLord] desires. I accept your proposal.”"
+
+ futa_bodyguard_events.0003.a: "I'm sure you'll find this quite the beneficial arrangement."
+ futa_bodyguard_events.0003.a_flavor: "Now, I'm also in need of these baths"
+
+ #
+
+ futa_bodyguard_events.0004.title: "$futa_bodyguard_events.0002.title$"
+ futa_bodyguard_events.0004.desc: "“#EMP sigh#! Of course, [ROOT.Char.GetLadyLord]. I apologise for any distress I've caused. I shall gather my things and take my leave. You'll never see me again.”\n\nHer voice was sullen. She stands up and moves towards the exit.\n\n#EMP “I don't know why I thought things would be different this time”#!"
+
+ futa_bodyguard_events.0004.a: "I feel safer already."
+
+ #
+
+ futa_bodyguard_events.1000.title: "Training the Sword"
+ futa_bodyguard_events.1000.desc: "With having nothing else better to do, you decide to join your bodyguard [futa_bodyguard.GetFirstName] during her training. She mostly seems to be training her stamina. It is no secret her skill with the blade is among the best, if not THE best.\n\nAn idea pops into your head. It is her job to protect you, true, but what if you were to get a little training session going with her? It would be great exercise, if nothing else."
+
+ futa_bodyguard_events.1000.a: "Grab your training gear."
+ futa_bodyguard_events.1000.b: "I'll just watch her."
+
+ #
+
+ futa_bodyguard_events.1001.title: "$futa_bodyguard_events.1000.title$"
+ futa_bodyguard_events.1001.desc: "Upon seeing you approach in your gear, [futa_bodyguard.GetFirstName] starts to smile. “What is this my [ROOT.Char.GetLadyLord]? Do you wish to no longer require my services?” It is nice to have a little exercise now and then, and what better way to get training from the best? “I do not deserve your such high praises, my [ROOT.Char.GetLadyLord]. I would be glad to train you.”\n\n#S *clang* *clang* *CLASH*#!\n\nYou are feeling the fatigue slowly starting to set in. Your breathing has become rapid and uncontrollable, and it seems like the end of the session is coming up. You take a look at [futa_bodyguard.GetFirstName]. #EMP Has she even broke a sweat?#!\n\n“A very fun session my [ROOT.Char.GetLadyLord], if I do say so myself! It is important to keep up a regular training regiment! You should take a rest afterwards, you've absolutely deserved it.”"
+
+ futa_bodyguard_events.1001.desc_tease: "\n\nThe training is still not over, and you feel like you have little bit more left in the tank. All this sweating has gotten you hot and bothered, then a devious idea plants itself in your head. #EMP What I were to turn the tables on her, tease her where it hurts? Though that would probably ruin all the potential of this training…#!"
+
+ futa_bodyguard_events.1001.a: "Push yourself to the end."
+ futa_bodyguard_events.1001.b: "Let's have a little fun…"
+
+ #
+
+ futa_bodyguard_events.1002.title: "$futa_bodyguard_events.1000.title$"
+ futa_bodyguard_events.1002.desc: "I refuse to be the only one to come out of this all hot and flustered! Time to show [futa_bodyguard.GetFirstName] #EMP exactly#! what I can do. I take off my training gear and toss it aside, making sure to open up the bosom so my shining cleavage is clearly in full view.\n\n“Uh, my [ROOT.Char.GetLadyLord]? What are you doing?” Oh nothing, I was just feeling #EMP hot#! and so I needed to cooldown. “I understand but you might get sick, it is better for us to end the training here for no-” I suddenly lunge forward. I do not use any proper fighting stance or technique, my whole purpose is to show off as much of my body to her as possible. I practically dance infront of her, occasionally throwing out a few half-measured strikes which she deflects with ease. Taken aback, I manage to slowly move her backwards with each step.\n\n“My [ROOT.Char.GetLadyLord], what has gotten into you? You might get hurt! Please calm down!” That is when I spot a rock behind her. My plan set in motion, I inch her ever closer to the target, and then… She stumbles! Her balance now shaken, I throw my whole body on her. She falls down, but holds me tight, making sure to protect me with her sturdy body.\n\nAfter a moment she looks at me like I've gone mad. Her gaze falters when I start to rub her crotch with my knee as I lay on top of her. “My [ROOT.Char.GetLadyLord], this is #EMP highly inappropriate#!. We are in public, what if someone sees?” Then I'll show them just much of a #EMP great lover#! my protector is also. After all that activity, this has finally caused her face to redden. I give her a wink and plant a quick kiss on her neck, then I make my way up to her ear."
+
+ futa_bodyguard_events.1002.a: "See you #EMP soon#!."
+
+ #
+
+ futa_bodyguard_events.1003.title: "The Evening Meal"
+ futa_bodyguard_events.1003.desc: "It is time for yet another dinner. The table has been prepared and filled with all sort of delicious food. [futa_bodyguard.GetFirstName] sits next to me, happily munching away at the food in front of her. She looks to be enjoying herself, at least. The food #EMP is#! quite good.\n\n“My compliments to the cook. Everything is #EMP very#! tasty. I should find them and congratulate them personally sometime, #EMP maybe even give them a little extra bonus for job well done…#!"
+
+ futa_bodyguard_events.1003.desc_tease: "\n\nShe #EMP is#! quite satisfied, huh? What if you were to make her evening #EMP even better?#! I know #bold I#! will enjoy it…"
+
+ futa_bodyguard_events.1003.a: "#EMP Oooh#! Some treats!"
+ futa_bodyguard_events.1003.b: "Let's have a little fun…"
+
+ #
+
+ futa_bodyguard_events.1004.title: "$futa_bodyguard_events.1003.title$"
+ futa_bodyguard_events.1004.desc: "I lean in close to her and whisper in her ear: #EMP I can think of something more delicious.#!\n\n“Hmm?” Her mouth full, she gives me a side eye. I take my hand and place it on her crotch and she jumps slighty at my touch. I think I almost made her choke.\n\nGetting to work, I rub my hand over her clothes, trying to free her genie from her imprisonment, not forgetting to give it a slight #EMP squeeze#! occasionally. Having swallowed her food, she now tries to keep our activity discreet.\n\n#EMP “My [ROOT.Char.GetLadyLord], we could get caught, this is very improper!”#! This is highly unfair! She gets to enjoy a delicious meal, but her [ROOT.Char.GetLadyLord] has been forgotten! No meal seems to scratch that itch anymore. Only her #bold thick, salty, creamy#! batter is able to satify my hunger!\n\nMy words seem to make her blush. I am getting quite good at teasing and flustering her! I can feel her member's hardness through her garments now, looks like she is fully engaged. Keeping up my teasing for a while longer, I decide to stop torturing poor thing and stop, but not before giving her cock and balls one final #EMP squish#!. There would be no way to hide her #bold virility#! if she finished, so it can't be helped."
+
+ futa_bodyguard_events.1004.a: "#EMP Heh heh heh#!"
+
+ #
+
+ futa_bodyguard_events.2000.title: "Training of the Champions"
+ futa_bodyguard_events.2000.desc: "It is one of the rare times where your bodyguard [futa_bodyguard.GetFirstName] is not escorting you. The sounds of clashing steel has piqued your interest, and you decide to follow the sound.\n\nOn an opening, you see [futa_bodyguard.GetFirstName] and [futa_untamed_trainee.GetFirstName] engaged in a fast duel. They seem evenly matched, though you have a feeling that [futa_bodyguard.GetFirstNameNoTooltip] is not giving her all. After a while, they decide to stop their bonding experience. Your bodyguard then spots you and approaches.\n\n“Hail, my [ROOT.Char.GetLadyLord]! I was just patrolling the area and [futa_untamed_trainee.GetFirstNameNoTooltip] wanted to spar with me. I saw no harm in it.”\n\n"
+
+ futa_bodyguard_events.2000.desc_fknight: "You look at [futa_untamed_trainee.GetFirstNameNoTooltip] and see that she is still practising some of the movements from their duel. When she notices you, she quickly sprints to your side. “Greetings, my Liege! As we all know [futa_bodyguard.GetFirstNamePossessiveNoTooltip] skill is unmatched! I couldn't let the opportunity slide and begged her to indulge me with a sparring match! I have learned a lot, but I'm nowhere near close to her level! If you'll excuse me, I will get back to training.”\n\n“She's got a good soul that one. You don't find many like her. She might even surpass me someday if she keeps it up.”"
+
+ futa_bodyguard_events.2000.desc_fcrawler: "You look at [futa_untamed_trainee.GetFirstNameNoTooltip] and see that she is hunched over, her face is completely flushed red. She is totally drenched in sweat and out of breath. When she spots you she tries to stand up straight.\n\n“H-hey there boss. #EMP *wheeze*#!. I wished to learn how to be a better fighter so I can be ready for anything out there, #EMP just in case#!, and decided to learn from the best. #EMP Whew#!. I #EMP think#! I learned a few tricks but she, uh, she absolutely kicked my butt. We were no match. If this were a real fight, I would've been dead instantly. Look at her! She is not even breathing hard while I'm trying to stand on my feet! I'm just glad she is on our side. Now, I gotta take rest after that ass kicking.”\n\n“Ah, she is exaggerating my [ROOT.Char.GetLadyLord].” You #EMP do#! spot a hint of blush on her face. “She is quite the feisty spirit, I have to say. She definitely breathes life around her, if nothing else. People like her can be quite valuable.”"
+
+ futa_bodyguard_events.2000.a: "Nice to see them get along."
+
+ #
+
+ futa_bodyguard_events.3000.title: "Breaching the Castle"
+ futa_bodyguard_events.3000.desc: "#S *PLAP*\n\n*PLAP*\n\n*CLAP*\n\n*PLAP*#!\n\nWords cannot describe the emotions and feelings swirling inside of me, all caused thanks to my bodyguard [futa_bodyguard.GetFirstName]. She has me pinned against the wall with my legs over her shoulders, holding me up with her own strong frame. She stalls between each thrust, every single shove made into me is slow but calculated, methodical. She is not here to rush, but to take her time to execute the perfect conquest. Her cock is akin to a battering ram, hitting my walls with all its might with the sole purpose to impregnate the impregnable.\n\n#S *PLAP* *PLAP* *PLAP*#!\n\nHer pace slowly picks up, signaling her time of triumph is near. She leans in and presses her mouth against yours, no doubt in order to prevent your moans from alerting any who might be nearby to hear your subjugation.\n\nWith one final plunge she completely bottoms out inside of you, her millions of soldiers flood in through your entrance into your inner chamber. Wave after wave, the only thing you can do is resign as you are hit with another orgasm."
+
+ futa_bodyguard_events.3000.a: "She saw, she #EMP came#!, she conquered…"
+
+ #
+
+ futa_bodyguard_events.3001.title: "Secret Service"
+ futa_bodyguard_events.3001.desc: "#S *squelch* *slurp* *glurk* *glurk* #!\n\n“What a loyal subject I am. Not only do I protect my [ROOT.Char.GetLadyLord]'s life with my own, I also bring her breakfast without delay, with complete secrecy nonetheless. You won't find better service elsewhere.”\n\nMy bodyguard [futa_bodyguard.GetFirstName] seems to be saying something, but I don't quite hear it. All of my attention is being taken by her girl-cock continuously getting shoved down my throat, every thrust she makes is making her engorged balls slap me on the chin. I stopped trying to match her pace a long time ago, I'm barely able to keep myself from fainting as is.\n\n“Here it comes, breakfast is served! Can't have my [ROOT.Char.GetLadyLord] starving now, can I? What kind of servant would I be?” She grabs your head and drives it into her crotch. Pulse after pulse her orbs jolt up and down, sending her thick hot batter that has been churning inside all night straight into your stomach, not giving you a choice to reject your “meal”. After what feels like an eternity, she starts slowly pulling out her meat, still cumming all the while. With a sound #S *pop*#! her dick is freed from your mouth, a couple of spurts hitting your tongue and face.\n\nShe rests her feeder on your face, leaving you with one unobstructed eye to look up at her while you gasp for air. A mix of tears, snot, saliva, sweat and cum is all running down to your chest, providing quite the messy sight. You eagerly swallow the remainder of her salty, creamy essence left in your mouth with a loud \n\n#S *gulp*#!\n\nThis must've awakened something in her, as her cock starts to throb again, #S violently#!, while her sack begins to #S pulse#!.\n\n“… Y'know, Why don't I help you skip lunch, my [ROOT.Char.GetLadyLord]? It would be rather efficient while we're still here, #EMP and#! it would free up a part of your day, wouldn't you say?” Without waiting for a response, she puts her cock back through your lips and down your cum-gluttonous throat."
+
+ futa_bodyguard_events.3001.a: "#S *glurk* *glurk* *squelch*#!"
+
+ #
+
+ futa_bodyguard_events.3002.title: "Secure the Succession"
+ futa_bodyguard_events.3002.desc: "#S *PLAP* *PLAP* *CREEK* *PLAP* *CLAP*#!\n\nMy world is a blur. Bodyguard has me pinned down on my bed, her mouth intertwined with mine, our tongues dancing around each other. All I can do under her frame is grip her muscled back. My legs are flung open to the sides to give her full access to my deepest and most precious chamber, which has already been flooded with her batter multiple times. She pounds my nethers with her hips while her balls #S slap#! my cheeks in a fast rhythm, never missing a beat nor slowing down, even after her numerous ejaculations. My lower half and the bed has been completely sullied white thanks to the mix of the copious amount of fluids gushing out my pussy. I am not sure what got her in such a rut, and she is allowing me no time to think!\n\n#S *PLAP* *CLAP* *PLAP*#!\n\n“I've noticed a distinct lack of a potential heir growing inside of you, my [ROOT.Char.GetLadyLord]. Is #EMP no one#! able to give you an offspring? Do not worry, I'll provide you with #EMP plenty#! of candidates, maybe even multiple at a time if you are lucky, so do not stress yourself out about your succession and your dynasty's future! I'm sworn to protect you #EMP and#! your house, after all!” She momentarily breaks our kiss to deliver her message, then immediately reattaches herself, preventing me from giving her a response and muffling my moans.\n\n#S *PLAP* *PLAP* *CREEK*#!\n\nI once again feel her deposit spurt after spurt of her virile sperm to join their brethren along inside my stuffed fertile core without stopping her motions, a feeling I am now oh so familiar with by now that it sends me over the edge as a reflex. #EMP Her rhythm unfaltered, she still shows no signs of being close to stopping yet…#!"
+
+ futa_bodyguard_events.3002.a: "#S mHHmPh… *moan*#!"
+
+ #
+
+ futa_bodyguard_events.3003.title: "Cleaning Obligation"
+ futa_bodyguard_events.3003.desc: "I find myself once again alone with my bodyguard [futa_bodyguard.GetFirstName] as she is bathing. “Ah, my [ROOT.Char.GetLadyLord]! Welcome. Please, join me! The water is great.” I am quite familiar with the sight of her girl-cock stretching towards the sky at this point, but it still doesn't cease to amaze. #EMP It does seem to be twitching harder than before. Someone must be happy to see me! Few memories involuntarily creeping back, perhaps?#!\n\n“Oh, uh. My friend here has been a bit of a distraction lately, you know how it is. I decided take some time to relax and clear my mind up, purge these feelings.” She must've noticed how hard I was staring at her. “I apologise if it is a distraction. Please, make yourself comfortable! #EMP There should be a towel around here somewhere…#!”\n\nOh, the poor thing. She must've have #EMP a lot#! saved up if she is in this state. I #EMP could#! help her out, clean-up wouldn't be much of a problem considering where we are…"
+
+ futa_bodyguard_events.3003.a: "You #EMP poor#! thing. Let me help you out."
+ futa_bodyguard_events.3003.a_flavor: "We made a deal, after all."
+
+ futa_bodyguard_events.3003.b: "Don't mind if I join you!"
+ futa_bodyguard_events.3003.b_flavor: "She is always the most wonderful bathing companion!"
+
+ #
+
+ futa_bodyguard_events.3004.title: "$futa_bodyguard_events.3003.title$"
+ futa_bodyguard_events.3004.desc: "I tell her that the towel won't be necessary as I start taking a step towards her. Must I remind her of our deal, or did she manage to forget? Maybe I should #EMP remind#! her once again? Right on cue, her member starts twitching. #EMP Looks like someone is really looking forward to what is about to happen#! She watches me as kneel infront of her. My hands start caressing her muscular thighs as I slowly lean forward towards her eager friend.\n\n“Of course, my [ROOT.Char.GetLadyLord]. I am forever grateful for your generosit#EMP yyyyyyy-#!” Looks like she was not expecting me to suddenly pounce on her batter makers. I start suckling the pair like my life depended on emptying what was stored inside. With my free hand, I grip her cock and start pumping away. More and more juices flow out, providing natural lubrication. I tear myself away from her crotch to take a look at my handiwork. Her erection has been coated in her thick pre from top to bottom.\n\nI lick my lips in anticipation towards my #EMP reward#! and plant my tongue on the base of her shaft. #EMP Slooowly#! I move my head up along her meat, collecting as much of her ejaculate as I feasibly can manage in my mouth. When I reached the tip, I already had a mouthful of $trait_futa$ delicacy. I eagerly #S gulp#! down all of it down and plant my lips on the head without missing a beat to extract more of her nectar. Grasping with both my hands, I continue siphoning out her essence. I bob my head up and down on her mushroom tip, sucking and putting my tongue to work.\n\n“My [ROOT.Char.GetLadyLord], I'm at my limit!” Upon hearing those words my pace quickens. I unlatch my mouth and keep pumping. Cum. CUM. MARK ME AS YOURS. Not soon after she erupts, showering me in her semen as her testicles clench with each spurt fired out. By the time she finishes, I am covered in her white sludge. It feels like I've put on twice my weight. #EMP The smell is so heavy… and thick…#! If only her cum had skin benefits. You would #EMP never#! leave your skin alone without coated in her batter. Her sex once again starts to throb. “No need my [ROOT.Char.GetLadyLord]. You are already as beautiful as they come.”\n\n…"
+
+ futa_bodyguard_events.3004.a: "Always a pleasure."
+ futa_bodyguard_events.3004.a_flavor: "She certainly knows how to flatter a lady. Makes me want to rock her world even harder…"
+
+ 
+
+ ## Tooltips
+
+ futa_untamed_bodyguard_intimate_encounter_tt: "You two have gotten more intimate…"
+
+ ## Modifiers
+
+ futa_the_untamed_fighter_modifier: "The Untamed Fighter"
+ futa_the_untamed_fighter_modifier_desc: "Through years of strife, she still came out on top. None shall chain her down.\n\n"
+ futa_the_untamed_fighter_wage_modifier: "The Untamed's Wage"
+ futa_the_untamed_fighter_wage_liege_modifier: "The Untamed's Wage"
+ futa_the_untamed_fighter_wage_liege_modifier_desc: "#V Due to game limitations, this will not show on your monthly income.#!\n\n[tax|E]: [gold_i|E]#N -5.00#!/month"
+
+
+ ## Decisions
+
+ futa_hire_bodyguard_decision: "Hire a Bodyguard"
+ futa_hire_bodyguard_decision_desc: "Threat is around every corner. I shall send word out that I'm looking for any capable fighters to serve as my personal bodyguard."
+ futa_hire_bodyguard_decision_confirm: "Send the Word"
+ futa_hire_bodyguard_decision_tooltip: "Start the Search"

@@ -1,0 +1,750 @@
+﻿l_english:
+ 
+ #  trait_futa: "Futanari"
+ ##MODIFIERS:
+
+ futa_warlord_destined_for_glory_modifier: "Destined for Glory"
+ futa_warlord_destined_for_glory_modifier_desc: "This character has a destiny to fulfill.\n\n"
+ futa_empyrean_legion_protection_modifier: "The Empyrean Guard"
+ futa_empyrean_legion_protection_modifier_desc: "Loyal and diligent, the Empyrean ensure the utmost safety of their leader at all times.\n\n"
+
+ futa_khatun_wrath_modifier: "Khatun's Wrath"
+ futa_khatun_wrath_modifier_desc: "This location has been subjected to the Khatun's Wrath…"
+ futa_khatun_mercy_modifier: "Khatun's Mercy"
+ futa_khatun_mercy_modifier_desc: "This location has been granted the mercy of the generous Khatun…"
+
+ futa_khatun_devestating_sack_modifier: "Devastating Sack"
+ futa_khatun_devestating_sack_modifier_desc: "This location has suffered a terrible sacking by the Khatun, suffering massive devastation for a the foreseeable future.\n"
+
+ futa_khatun_fertility_ritual_aftermath_modifier: "Aftermath of the Ritual"
+ futa_khatun_fertility_ritual_aftermath_modifier_desc: "After a particularly intense ritual, this character's body has been permanently altered."
+
+ death_futa_fertility_shaman_reason: "joined the Sky-Lord in the Eternal Blue Sky after using her life force to fuel a fertility ritual and giving birth"
+ 
+ # LANDLESS TITLES
+ d_laamp_warlord: "Disparate Tribe"
+ d_laamp_warlord_article: "$DEFAULT_TITLE_NAME_ARTICLE$"
+
+ ## TITLES
+
+ e_futa_azure_empire_article: "the "
+ e_futa_azure_empire: "Azure Empire"
+ e_futa_azure_empire_adj: "Azure"
+
+ ## ARTIFACTS
+
+ futa_warlords_blade_name: "Ecel"
+ futa_warlords_blade_desc: "The blade of a person destined to become the Lord of the Steppes and beyond. Its golden glint is the last thing many see, and such, it has earned the name of #EMP “Ecel.”#! Death, and the end that comes from it."
+
+ ## CULTURE
+ futa_khatun: "Khatun"
+ futa_khatun_collective_noun: "Khatuns"
+ futa_khatun_prefix: "Khatuno"
+
+ # Legacy of the Struggle
+
+ futa_legacy_of_the_struggle_culture_name: "Legacy of the Struggle"
+ futa_legacy_of_the_struggle_culture_desc: "Battered. Bruised. Shunned. #EMP Hated.#! We will not forget our origins and how our way of living made us survive the harsh and vast steppe."
+
+ futa_cannot_have_tradition_futa_legacy_of_the_struggle_culture: "$cannot_combine_tradition_trigger_desc$ #high $futa_legacy_of_the_struggle_culture_name$#!"
+
+
+ culture_parameter_futa_unlock_maa_futa_steppe_huntress: "Can recruit [GetMaA('futa_steppe_huntress').GetName] as [men_at_arms|E]"
+ culture_parameter_futa_sieges_replenish_maa: "Successful [sieges|E] will recover [men_at_arms|E]"
+ culture_parameter_futa_sieges_provide_slave_soldiers: "Successful [sieges|E] will provide Slave [soldiers|E] #weak (#V 1 Year#! Cooldown. Sieged [title|E] must have at least #V 500#! [garrison|E])#!"
+ culture_parameter_futa_battles_provide_slave_soldiers: "Winning [battles|E] will provide Slave [soldiers|E] #weak (#V 1 Year#! Cooldown. Enemy [army|E] must have at least #V 1000#! [soldiers|E])#!"
+
+ ##DYNASTY
+ futa_warlord_dynasty: "Gök-Alevi"
+ azureflame: "Gök-Alevi"
+ futa_warlord_dynasty_motto: "All the World Under Thundering Hooves"
+
+ # MAAs
+ futa_disparate_tribe: "The Disparate Tribe"
+ futa_enslaved_troops: "Enslaved Levies"
+
+ futa_steppe_huntress: "Steppe Hunters"
+ futa_steppe_huntress_flavor: "#weak The $trait_futa$ of the steppes are a cut above the rest to ensure their and their tribe's survival amongst the hostile environment.#!"
+
+ futa_empyrean_legion: "Empyrean Legion"
+ futa_empyrean_legion_flavor: "#weak The most skilled, loyal and devoted elite warriors of the steppe, always ready to lead the rest to war and ensure their leader's utmost safety.#!"
+
+ ## CB / WARS
+
+ futa_warlord_secure_land: "Secure Land"
+ FUTA_WARLORD_SECURE_LAND_WAR_NAME: "Secure Land"
+ FUTA_WARLORD_SECURE_LAND_WAR_NAME_BASE: "Secure Land"
+ FUTA_WARLORD_SECURE_LAND_NAME: "Secure Land"
+
+ futa_warlord_duchy_war: "Duchy Invasion"
+ FUTA_WARLORD_DUCHY_WAR_NAME: "Khatun's Duchy Invasion of [TITLE.GetNameNoTier]"
+ FUTA_WARLORD_DUCHY_CB_NAME: "Khatun Invasion of [duchy|E]"
+
+ futa_warlord_kingdom_war: "Kingdom Invasion"
+ FUTA_WARLORD_KINGDOM_WAR_NAME: "Khatun's Kingdom Invasion of [TITLE.GetNameNoTier]"
+ FUTA_WARLORD_KINGDOM_CB_NAME: "Khatun Invasion of [kingdom|E]"
+
+ futa_warlord_empire_war: "Empire Invasion"
+ FUTA_WARLORD_EMPIRE_WAR_NAME: "Khatun's Empire Invasion of [TITLE.GetNameNoTier]"
+ FUTA_WARLORD_EMPIRE_CB_NAME: "Khatun Invasion of [empire|E]"
+
+ futa_warlord_realm_war: "Realm Invasion"
+ FUTA_WARLORD_REALM_WAR_NAME: "Khatun's Realm Invasion of [DEFENDER.GetPrimaryTitle.GetNameNoTier]"
+ FUTA_WARLORD_REALM_CB_NAME: "Khatun Invasion of [realm|E]"
+
+ ## INTERACTIONS
+
+ futa_warlord_demand_subjugation_interaction: "Demand Subjugation"
+ futa_warlord_demand_subjugation_interaction_desc: "[recipient.GetShortUINameNoTooltip] will be offered the privilege of serving under you. Send [recipient.GetHerHim] your demands. [recipient.GetSheHe|U] will be allowed to keep [recipient.GetHerHis] lands and [recipient.GetHerHis] people will be spared."
+
+ futa_warlord_demand_subjugation_futa_tributary_tt: "[futa_warlord_demand_recipient.GetShortUINamePossessive] [vassal_contract|E] gains [GetVassalContractType( 'futa_tributary' ).GetObligationName( 'futa_tributary_active' )]"
+
+ ## TRAIT
+
+ trait_futa_warlord_warpath: "Warpath"
+ trait_futa_warlord_warpath_herald: "Herald of the [ROOT.Char.GetFaith.HighGodNameAlternate]"
+ trait_futa_warlord_warpath_punishment: "Punishment of the [ROOT.Char.GetFaith.HighGodNameAlternate]"
+ trait_futa_warlord_warpath_lance: "Lance of the [ROOT.Char.GetFaith.HighGodNameAlternate]"
+ 
+ trait_track_futa_warlord_warpath: "Path of Glory"
+ trait_track_futa_warlord_warpath_desc: "They will bend, or they will break."
+
+ futa_warlord_warpath_desc: "Full of resolve and ambition, the Earth herself is on her warpath.\n\n#P You will gain experience from:\n$BULLET$Every Offensive War Victory\n$BULLET$Every #V [SCOPE.ScriptValue('futa_warlord_warpath_xp_increase_sieges_value')|0]#! Successful Sieges or Raids #V ([SCOPE.ScriptValue('futa_warlord_warpath_xp_increase_current_sieges_value')|0]/[SCOPE.ScriptValue('futa_warlord_warpath_xp_increase_sieges_value')|0])#!\n$BULLET$Every #V [SCOPE.ScriptValue('futa_warlord_warpath_xp_increase_battles_value')|0]#! Battle Victories Against Armies with at least #V 1000#! Soldiers#! #V ([SCOPE.ScriptValue('futa_warlord_warpath_xp_increase_current_battles_value')|0]/[SCOPE.ScriptValue('futa_warlord_warpath_xp_increase_battles_value')|0])#! \n\n#N You will lose experience from:\n$BULLET$Every War Defeat\n$BULLET$Every War White Peace\n\nIf you ever get unlanded, you will lose this trait and the associated story.#!"
+
+ futa_warlord_warpath_desc_unlocked_rewards: "\n\n#P You have unlocked the following:#!"
+
+ futa_warlord_warpath_desc_reward_5: "\n#P $BULLET$ 5 XP: [GetMaA('futa_empyrean_legion').GetName]#!"
+
+ futa_warlord_warpath_desc_reward_10: "\n#P $BULLET$ 10 XP: Education Trait Upgrade#!"
+
+ futa_warlord_warpath_desc_reward_20: "\n#P $BULLET$ 20 XP: Kingdom Tier Invasions#!"
+
+ futa_warlord_warpath_desc_reward_30: "\n#P $BULLET$ 30 XP: Education Trait Upgrade#!"
+
+
+
+ trait_futa_warlord_ai_marriage_blocker: "Refusing to Marry"
+ trait_futa_warlord_ai_marriage_blocker_desc: "This character is refusing to marry until a more appropriate time presents itself."
+
+ ## Decisions
+
+ futa_streamline_the_legion_training_decision: "Streamline the Legion's Training"
+ futa_streamline_the_legion_training_decision_desc: "The Legion is our pride and joy. Nowhere else has the world seen a better, more loyal and more diligent force. However, there is only so few of them we can manage to train. Gathering up enough experience with them on the field should provide the necessary adjustments to at least enable them to be trained for our most important people."
+ futa_streamline_the_legion_training_decision_confirm: "The Legion Protects"
+ futa_streamline_the_legion_training_decision_tooltip: "The Legion shall serve"
+
+ futa_gather_the_required_ritual_artifacts_decision: "Gather the Required Ritual Artifacts"
+ futa_gather_the_required_ritual_artifacts_decision_desc: "In order to cure my infertility, apparently I will require to undergo a ritual. The shaman needs a particular set of items alongside some funds first, however.\n\n#BOL $futa_warlord_fertility_ritual_value_tt$#!"
+ futa_gather_the_required_ritual_artifacts_decision_confirm: "Provide the funds"
+ futa_gather_the_required_ritual_artifacts_decision_tooltip: "Gather the resources"
+
+ futa_proclaim_khatun_of_khans_decision: "Proclaim the Khatun of Khans"
+ futa_proclaim_khatun_of_khans_decision_desc: "#F I have undoubtedly proven myself to be one of greatest ruler of them all, if not the greatest. They will proclaim me the Khatun of Khans and Khatuns, Ruler of all that is under the Sky.#!"
+ futa_proclaim_khatun_of_khans_decision_confirm: "They will know my name"
+ futa_proclaim_khatun_of_khans_decision_tooltip: "Become the Genghis Khatun - The ruler of Earth"
+
+ futa_found_the_azure_empire_decision: "Found an Empire"
+ futa_found_the_azure_empire_decision_desc: "All my efforts are finally starting to pay off. They do not dare challenge my people. Instead, they are wrought with #S fear#!. Fear of what I will do to those who saw fit to chain us down.\n\nIt is time to proclaim myself a true ruler. I can call myself whatever I want, what is important is that the #EMP everyone on Earth Herself#! will acknowledge what I am, a woman Khan amongst them all, a #EMP Khatun#!"
+ futa_found_the_azure_empire_decision_confirm: "One step closer"
+ futa_found_the_azure_empire_decision_tooltip: "Establish your realm and become a Khatun"
+
+ futa_elevate_the_realm_decision: "Elevate the Realm"
+ futa_elevate_the_realm_decision_desc: "The time has come for us to abandon our tribal ways and reform into a more sustainable rule of government. The question is, #EMP which one?#!"
+ futa_elevate_the_realm_decision_confirm: "I should think…"
+ futa_elevate_the_realm_decision_tooltip: "Reform your realm"
+
+ futa_integrate_the_land_decision: "Integrate the Lands"
+ futa_integrate_the_land_decision_desc: "We have conquered. Now, it is time for us to properly hold on to our spoils of war. In order to not repeat the same mistakes of the past tribes, we will start integrating the land under our rule."
+ futa_integrate_the_land_decision_confirm: "For further stability"
+ futa_integrate_the_land_decision_tooltip: "Integrate the lands of a random [empire|E]"
+
+ ## Nicknames
+
+ futa_warlord_punishment: "Punishment of the [CHARACTER.GetFaith.HighGodNameAlternate]"
+ futa_warlord_punishment_desc: "[CHARACTER.GetFirstNameNoTooltip] believes herself to be the righteous authority of her divine, carrying out Her retribution against the Earth with the punishment of those who dared to oppress the Sky's children.\n\n#weak “If God had not wanted her to fuck the Earth, she wouldn't have been born a Futanari.”#!"
+
+ futa_genghis_khatun: "Genghis Khatun"
+ futa_genghis_khatun_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] [CharAreIs(CHARACTER)] the punishment of [CHARACTER.GetFaith.HighGodName] for all the world's sins — for if the world were not full of sinners, would [CHARACTER.GetFaith.HighGodName] have sent one such as #EMP [CharYouHerHim(CHARACTER)]#! in punishment?"
+
+ futa_warlord_herald: "Herald of the [CHARACTER.GetFaith.HighGodNameAlternate]"
+ futa_warlord_herald_desc: "[CHARACTER.GetFirstNameNoTooltip] is the Herald of a $trait_futa$ God in the Sky, determined to spread Her blessing across the Earth."
+
+ futa_warlord_lance: "Lance of the [CHARACTER.GetFaith.HighGodNameAlternate]"
+ futa_warlord_lance_desc: "[CHARACTER.GetFirstNameNoTooltip] is the faithful weapon of her God, ready to strike at any who dare stand against the Sky."
+
+ ## TOOLTIPS
+
+ futa_warlord_story: "Warlord's Path"
+
+ futa_warlord_warpath_warning_tt: "#N If you ever get unlanded, the story will end#!"
+
+ futa_warlord_all_horsies_will_be_destroyed_tt: "Every [archer_cavalry|E] [men_at_arms|E] will be #N destroyed#!"
+ futa_warlord_empyrean_legion_warning_tt: "#N You will get only 1 $futa_empyrean_legion$ [regiment|E]. If they are ever destroyed or otherwise gotten rid of, you will not be able to recruit another one!#!"
+ futa_empyrean_legion_battle_victories_tt: "Personally lead [armies|E] with $futa_empyrean_legion$ [regiment|E] into victory against [armies|E] with at least #V 1000#! [soldiers|E] #weak (Current: #V [GetPlayer.MakeScope.Var('futa_lead_empyrean_legion_into_victory').GetValue|0]/[SCOPE.ScriptValue('futa_empyrean_legion_battle_victories_requirement_value')|0]#!)#!"
+ futa_empyrean_legion_will_unlock_for_house_heads_tt: "The [GetMaA('futa_empyrean_legion').GetName] will be available to recruited by the [house_heads|E] of the [GetPlayer.GetDynastyName] [dynasty|E]"
+
+ futa_warlord_trait_gain_progress_callous_tt: "#V This would be quite the #S Callous#! decision…#!"
+ futa_warlord_trait_gain_progress_arbitrary_tt: "#V Due to some provinces having a $trait_futa$ accepting [culture|E] or [faith|E], this would be quite the #S Arbitrary#! decision…#!"
+ futa_warlord_trait_gain_progress_just_tt: "#V This could be considered a #S Just#! decision…#!"
+
+ futa_every_conquered_title_tt: "Every Conquered Title"
+ futa_every_conquered_title_except_futa_accepting_tt: "Every Conquered Title without a $trait_futa$ Accepting [culture|E] or [faith|E]"
+
+ futa_warlord_kingdom_wars_unlocked_tt: "#V Kingdom Tier Invasions are now available#!"
+
+ futa_warlord_skyspawn_all_holy_sites_tt: "#V As you are on the [GetTrait('futa_warlord_warpath').GetName( GetNullCharacter )], accomplishing to activate all hidden [holy_sites|E] will instead grant:#!\n$BULLET$[dynasty_prestige_i|E] #P 100000#! [dynasty_prestige|E]"
+
+ futa_warlord_infertility_story_ritual_decision_available_tt: "#V The decision to acquire the required artifacts is now available#!"
+
+
+
+ futa_warlord_fertility_ritual_value_tt: "Each required [artifact|E] procured will reduce the decision's cost"
+ futa_warlord_fertility_ritual_maliah_branch_requirement_tt: "You have #V 5#! Maliah Branches #weak (Current: #V [SCOPE.ScriptValue('futa_warlord_artifact_amount_branch_value')|0]/5#! )#!"
+ futa_warlord_fertility_ritual_ring_of_rut_requirement_tt: "You have #V 2#! Rings of Rut #weak (Current: #V [SCOPE.ScriptValue('futa_warlord_artifact_amount_ring_value')|0]/2#!)#!"
+ futa_warlord_fertility_shaman_must_be_in_court_tt: "The Shaman must be your [courtier|E]"
+
+ futa_warlord_infertility_removed_tt: "#V You can now impregnate and get pregnant to your heart's content!#!"
+
+ futa_warlord_will_lose_titles_tt: "#N Any titles you have inside the war target will be lost if the war is lost!#!"
+
+ futa_warlord_azure_integration_title_req_tt: "You [completely_control|E] an [empire|E] [title|E] that is #V NOT#! [GetPlayer.GetPrimaryTitle.GetName]"
+ futa_warlord_azure_integration_title_tt: "An [empire|E] [title|E] you [completely_control|E] will have its [kingdoms|E] integrated into the [GetPlayer.GetPrimaryTitle.GetName]!\n"
+
+
+ futa_warlord_special_sack_building_destroyed_tt: "#N Every building in [futa_warlord_valid_special_sack_province.GetName] will be downgraded or destroyed!#!"
+ futa_warlord_azure_empire_conquests_are_region_free_tt: "#XB The Empire is now allowed to randomly declare war on all of their neighbours without restrictions and expand further#!"
+ 
+ ## BOOKMARKS
+
+ Tutku: "Tutku"
+
+ bookmark_warlord: "Herald from the Steppe"
+ bookmark_warlord_desc: "An outcast from the moment she was born, the only reason she survived was a family in the tribe showed pity and adopted her into their home. Shunned and rejected by the rest of the tribe, as she was breaking into her teens, a raid from a tribe of $trait_futa$ took away the only people that showed her kindness. Realising she was one of their own, the raiding tribe took her in. Even amongst her fellow kin, she was different from the ordinary $trait_futa$, but they accepted her all the same. Her heart beating with vengeance for her family, she challenged the leader. She now stands as the head of the small but hardened and formidable nomadic tribe. Her thirst unquenched, she looks towards securing some land for her kin…\n\n#BOLD Can you fulfill her ambitions of establishing a realm that she can call home and herald in a new age for the $trait_futa$?#!"
+
+ ## EVENTS
+
+ # ---------------------------------------------------------------------------- #
+ #                        Generic Story and Setup Events                        #
+ # ---------------------------------------------------------------------------- #
+
+ bookmark_warlord_events.0001.title: "Path to Freedom"
+ bookmark_warlord_events.0001.desc: "The time is upon us. Shunned and hated for merely #EMP existing#!. Scraping by and staying on the move to not draw the ire of local tribes to be able to barely survive another day. No more!\n\nEven though my new tribe accepted me and took me in, they still snuffed out the warmth of my family during their raid, the only ones to ever treat me with kindness… The reason why I'm even #EMP alive.#! I was able to have my revenge.\n\nThe leader was content to simply exist. As long as we made it through another day, everything was all #EMP fine.#! Pathetic. Now she will be forgotten. Her mere existence a question.\n\nIt was easy to gather support, since the tribe thinks me something special. #EMP “Even among the $trait_futa$, you are not quite like us”#! they say. I do not know if they speak true, but I shall not complain nonetheless.\n\nI will not suffer the same pitiful day to day survival. I will never be chased out ever again. #EMP Never.#! A piece of land we scouted before during our travels would be a decent location we can claim for our own. Surrounded by mountains, close to a lake with plenty of open terrain. The only hurdle is the local [futa_warlord_settle_war_target.GetTitleAsNameNoTooltip] who has claimed the land…"
+
+ bookmark_warlord_events.0001.a: "We ride."
+
+ #
+
+ bookmark_warlord_events.0002.title: "$bookmark_warlord_events.0001.title$"
+ bookmark_warlord_events.0002.desc: "It is done. We've managed to secure ourselves a patch of land we can call our own. We can finally graze our herds and grow them to their full capacity. No more running.\n\nMy work is not yet over, however. Other local powers will surely try to take this land, especially when the land in question has been claimed by #EMP $trait_futa$ upstarts#!. If I want to ensure we will not be chased back out to the steppes all broken and tattered, I need to build up strength, and arguably more important, #BOLD a reputation#!. None will dare take what is ours from us, soon enough.\n\n#BOLD This is merely the start of my warpath. I will give them a true reason to fear, and make the Earth herself regret I was born a $trait_futa$.#!"
+
+ bookmark_warlord_events.0002.a: "This is only the beginning."
+
+ #
+
+ bookmark_warlord_events.0003.title: "The Khatuns of the Steppes"
+ bookmark_warlord_events.0003.desc: "It has been a while since we've managed to secure ourselves some grazing lands. Such #EMP humble#! beginnings, but we still have much to do. I have been pondering our… #EMP identity#! as of late.\n\nWe have been constantly on the move. Well, all nomadic tribes are, but we couldn't afford to stay and stick to somewhere for a while. The hatred towards us made sure of that. Because of this, we've developed some certain #EMP skills#! and a lifestyle to keep us alive on the steppe. I have been with this tribe for over a decade, but they've been living like this for who knows how long. They've certainly gained their own culture.\n\nNow that we have some land of our own, we have started to reside and populate these areas, drawing more and more of the oppressed into our way of life. Who needs khans when you have khatuns?"
+
+ bookmark_warlord_events.0003.a: "We are the daughters of the steppe."
+ bookmark_warlord_events.0003.b: "Drive out the locals, we shall inhabit these lands."
+
+ #
+
+ bookmark_warlord_events.0004.title: "The Children of the Sky"
+ bookmark_warlord_events.0004.desc: "I find myself resting atop of a hill. The vast steppe lies before me. I can feel the cool breeze caress my hair. I'm at peace.\n\nAll of a sudden, the blue sky starts to darken, black clouds form and start hammering the Earth with all their might, sending lighting bolts with each passing second. I hear a voice call out to me, then everything darkens.\n\nOnce again the sky starts to regain its blue colour, and I hear the voice from before clearly:\n\n#BOLD “My poor, poor child. You have lived through much strife. I'm terribly sorry. It never was my will for your kind to be persecuted, to be chased out from society. The people have been driven into fear and prejudice, through no fault of your own. Know this, you are all my own children, and I love you all dearly.#!"
+
+ bookmark_warlord_events.0004.a: "Who- who are you?"
+
+ #
+
+ bookmark_warlord_events.0005.title: "$bookmark_warlord_events.0004.title$"
+ bookmark_warlord_events.0005.desc: "I suddenly jerk awake and I can feel the soft bed on my back. What was all that? A dream?\n\nI can remember the sky talking to me. Saying it is sorry. It loves me and did not want the $trait_futa$ to be hated? We all are its children?"
+
+ bookmark_warlord_events.0005.a: "The… #S THE GREAT TENGRI HAS SPOKEN TO ME#!"
+ bookmark_warlord_events.0005.b: "Hmm, this certainly gives me an idea…"
+
+ #
+
+ bookmark_warlord_events.0006.title: "$bookmark_warlord_events.0004.title$"
+ bookmark_warlord_events.0006.desc_zealous: "Of- of course! What else could it mean! and-and-and we are all its children!? We were not meant to be hated! #EMP This means Tengri, The Eternal Blue Sky, The Sky-Father has been a #S $trait_futa$#! all along!#!\n\nThis is bigger than my petty ambitions! My priority has become saving all of the Sky-Lord's children from their shackles! Some big treachery has befallen my kin, and I shall be the faithful Lance of the Sky-Lord Herself!\n\n#BOL My first priority should be taking control of the holy sites of our true faith from those other#! #S “believers”#!"
+
+ bookmark_warlord_events.0006.desc_cynical: "Well, a dream is just that. A dream. But this particular dream has given me an idea…\n\nFaith is a #EMP very#! strong tool if utilised correctly. And what better way to ensure the stability of my new $trait_futa$ realm by painting one of the divine as a #S $trait_futa$#!? Faith transcends culture, as I have noticed across multiple tribes of different origins, they all still believe in the Eternal Blue Sky.\n\nA faith proclaiming the $trait_futa$ should be accepted should help people's view towards my rule.\n\n#BOL I shall continue my conquests, now in the name of the “$trait_futa$ Lord”, and my first priority should be taking control of the “holy sites” of our faith.#!"
+
+ bookmark_warlord_events.0006.a: "#BOLD FOR THE GLORY OF THE SKY-LORD!#!"
+ bookmark_warlord_events.0006.b: "After all, faith brings all together. Heh."
+
+ #
+
+ bookmark_warlord_events.0007.title: "The True Path"
+ bookmark_warlord_events.0007.desc: "Maybe it was during a moment of weakness. Too stressed, perhaps? In any case, I shall not stray away from the [ROOT.GetFaith.HighGodNameAlternate], for I am Her faithful servant."
+
+ bookmark_warlord_events.0007.a: "I will not stray."
+
+ #
+
+ bookmark_warlord_events.0008.title: "The Succession"
+ bookmark_warlord_events.0008.desc: "Your two beautiful children. Special in their own right. They are growing into fine women.\n\nYour thought now turn to your succession. Which one would be better for the realm?\n\nThe religion inclined [futa_warlord_scholar_twin.GetFirstName], #BOL who would surely manage to propel your realm into more than a collection of tribal lands?#!\n\nThe more war inclined [futa_warlord_martial_twin.GetFirstName], #BOL who will surely continue your [GetTrait('futa_warlord_warpath').GetName( GetNullCharacter )]?#!"
+
+ bookmark_warlord_events.0008.a: "[futa_warlord_scholar_twin.GetFirstName] will be better for the future of the realm."
+ bookmark_warlord_events.0008.b: "[futa_warlord_martial_twin.GetFirstName] will continue my path."
+
+ # ---------------------------------------------------------------------------- #
+ #                            Warpath Related Events                            #
+ # ---------------------------------------------------------------------------- #
+
+ bookmark_warlord_events.1000.title: "The $futa_empyrean_legion$"
+ bookmark_warlord_events.1000.desc: "The more we war, the more I realise I need something… #EMP more. Special.#! Our hunters and archers are formidable, yes, but they have the potential to become an unstoppable force.\n\nI will get to work on picking, choosing and training the most promising from my soldiers. This may cause a short-term setback for my army, but what I will gain shall be more than worth the price."
+
+ bookmark_warlord_events.1000.a: "Train the Legion."
+
+ #
+
+ bookmark_warlord_events.1001.title: "The $futa_empyrean_legion$"
+ bookmark_warlord_events.1001.desc: "I've done it. War after war, battle after battle, we trained the mettle of the Legion. We should now be able to train up more of them for the protection of the important people in our dynasty."
+
+ bookmark_warlord_events.1001.a: "The Legion is eternal."
+
+ #
+
+ bookmark_warlord_events.1002.title: "Lessons of War"
+ bookmark_warlord_events.1002.desc: "With each passing victory, my intuition on the battlefield grows more and more. Finding the quick response to any sudden development has started to become second nature. Sometimes, I find myself winning the whole war before the first arrow gets fired."
+
+ bookmark_warlord_events.1002.a: "My skill grows."
+
+ #
+
+ bookmark_warlord_events.1003.title: "The Path of Ambition"
+ bookmark_warlord_events.1003.desc: "As another realm falls before the might of my horde, so does my confidence. It is dangerous to suddenly take over huge swaths of land in one fell swoop, as it leads to instability inside the conquered realms. However, as my reputation grows, people start to get the message."
+
+ bookmark_warlord_events.1003.a: "All will bend."
+
+ #
+
+ bookmark_warlord_events.1004.title: "$bookmark_warlord_events.1002.title$"
+ bookmark_warlord_events.1004.desc: "$bookmark_warlord_events.1002.desc$"
+
+ bookmark_warlord_events.1004.a: "$bookmark_warlord_events.1002.a$"
+
+ #
+
+ bookmark_warlord_events.1005.title: "Name for the Ages"
+ bookmark_warlord_events.1005.desc: "No one can dare question my might. I have broken many other who opposed me and my armies. There are whispers in the air. People have started to call me names. #EMP Powerful#! ones.\n\nIf that is true, maybe one can use this to their advantage. Reputation #EMP is#! important, after all."
+
+ bookmark_warlord_events.1005.a: "I am the one who will spread the faith!"
+ bookmark_warlord_events.1005.b: "I was sent as a punishment from the [ROOT.Char.GetFaith.HighGodNameAlternate]!"
+ bookmark_warlord_events.1005.c: "I am the faithful weapon of the [ROOT.Char.GetFaith.HighGodNameAlternate]!"
+ bookmark_warlord_events.1005.d: "Bah. I have no need for petty names."
+
+ #
+
+ bookmark_warlord_events.1006.title: "The Earth Beneath Me"
+ bookmark_warlord_events.1006.desc: "They all know my name. War after war, battle after battle, conquest after conquest, countless times have I merged victorious. There is no debate.\n\nI emerge from my tent as the first rays of the [ROOT.Char.GetFaith.HighGodNameAlternate] shine upon me. My faithful army is already awake, restless, awaiting.\n\nThey greet me, knowing that I am not merely their ruler. I am the ruler of all Earth, and the universe. The greatest of them all — Genghis Khatun."
+ bookmark_warlord_events.1006.a: "Any who still stands, shall fall."
+ bookmark_warlord_events.1006.b: "Forget the title. My actions speak louder."
+
+ #
+
+ bookmark_warlord_events.1007.title: "An Undisputed Khatun"
+ bookmark_warlord_events.1007.desc: "All of my conquests, all the wars I've won, they've all finally lead up to this point. A realm we can call our own. A realm no other can dispute the existence of. And I stand as the unquestionable leader. I take my place amongst the other Khans of the world. They will all acknowledge me for what I am. A female Khan. A #EMP $trait_futa$#! Khan. I am a #S Khatun#!."
+ bookmark_warlord_events.1007.a: "My work is not yet done."
+
+
+ # ---------------------------------------------------------------------------- #
+ #                                 Ritual Events                                #
+ # ---------------------------------------------------------------------------- #
+
+ bookmark_warlord_events.2000.title: "Succession Worries"
+ bookmark_warlord_events.2000.desc: "Another day dawns, but there is an ever growing worry in my heart. #EMP My succession.#!\n\nPeople don't tend to hear $trait_futa$ being childless, we usually have an advantage regarding that, but…\n\nIt is not from lack of trying on my end. I've lost count the amount of times I shared my seed with a maiden, or welcomed another's.\n\n#EMP Was this what my tribe saw in me when they said I wasn't like them? How could they have known?#!\n\nI don't seem to share the same… #EMP distractions#! my fellow kin seem to be plagued by. This could be that particular boon's consequence.\n\nMy time on this Earth will come to an end eventually. What about my realm? Everything I've built up so far? Could I trust my successor to uphold my values? Keep my accomplishments from crumbling into nothingness?\n\nMaybe I should send word out about my predicament. At this point, I have nothing to lose, #EMP do I?#!"
+
+ bookmark_warlord_events.2000.a: "Prepare the messengers."
+ bookmark_warlord_events.2000.b: "Forget about it."
+ bookmark_warlord_events.2000.b_flavor: "Nothing would be any help anyway, right? My realm will survive without a direct heir…"
+
+ #
+
+ bookmark_warlord_events.2001.title: "Azure Shaman"
+ bookmark_warlord_events.2001.desc: "It has been a while since I started seeking help for my predicament. I've had many come and go, men and women of faith, healers, doctors. None of them have been able to cure me.\n\nRight as I was about to give up, a woman claiming to be the a devoted [ROOT.Char.GetFaith.PriestFemale] of the [ROOT.Char.GetFaith.HighGodNameAlternate] came before me. She is #EMP quite#! the looker too, you have to say. You notice your guards watching her like a hawk, though you suspect there are other reasons than your safety. They are probably chomping at the bit to #EMP spend some time#! together with her.\n\n“My glorious Khatun. I have learned of a problem you are facing regarding… heir production. My apologies for taking so long to reach you. I am certain the affliction you face is no ordinary thing. In order to be able to cure you, we will need to resort to #EMP drastic#! methods. I know of a ritual you might call… #EMP touched by impious elements#!”\n\nHuh? Well she is quite to brave to even suggest such a thing. It feels like I've exhausted every option available. This might be the only thing left…"
+
+ bookmark_warlord_events.2001.a: "I am willing to give you a chance."
+
+ bookmark_warlord_events.2001.b: "Away with you!"
+ bookmark_warlord_events.2001.b_flavor: "I shall not suffer your foul magics!"
+
+ #
+
+ bookmark_warlord_events.2002.title: "$bookmark_warlord_events.2001.title$"
+ bookmark_warlord_events.2002.desc: "“Most excellent. You shall not be disappointed, I assure you. Now, I'll need to gather more knowledge, to make sure #EMP everything#! will be set up properly. I'll come before you when I take note of everything I need, my liege.”"
+
+ bookmark_warlord_events.2002.a: "We shall see."
+
+ #
+
+ bookmark_warlord_events.2003.title: "The List"
+ bookmark_warlord_events.2003.desc: "“Excuse me, my Khatun. I have made sure to take everything into consideration for the ritual. We cannot afford to make any mistakes. Your time is precious, and the required items I need are not exactly easy to come by. If you have any in your possession already, or if you manage to find any in the future, it should help cover the costs. Otherwise, I'll need a hefty sum of gold to be able to procure everything.”\n\n“Do not dally my liege. The sooner we cure you, the better.”"
+
+ bookmark_warlord_events.2003.a: "Interesting."
+
+ #
+
+ bookmark_warlord_events.2004.title: "$bookmark_warlord_events.2003.title$"
+ bookmark_warlord_events.2004.desc: "Everything is all prepared. I fork over the required funds to [futa_warlord_fertility_shaman.GetFirstName], who seems quite ecstatic about the news.\n\n“Thank you. I'll get on right on preparing the ritual. It may take a while. In the mean time, make sure you are not busy warring, my Khatun. This be will time sensitive, and we don't want to miss the opportunity by having you be busy out on the battlefield. Not to mention you will need to rest, gather up as #BOL much#! of your energy as possible.”"
+
+ bookmark_warlord_events.2004.a: "I suppose I should halt my conquests for a while…"
+
+ #
+
+ bookmark_warlord_events.2005.title: "The Ritual"
+ bookmark_warlord_events.2005.desc: "The long awaited time has finally arrived. [futa_warlord_fertility_shaman.GetFirstName] informed me this morning that everything is prepared, and I should come to the designated spot at my earliest convenience. She made sure to have me choose a time where I wouldn't be required for any duties for a few days. She has been #EMP emphasising#! quite a lot that this will be a time costly affair. Curious.\n\nI arrive at her prepared location. A couple of guards are posted outside. They immediately stand straight as soon as they see me approach. Pushing past the door, I enter her chambers.\n\nAs soon as I get in, the air #EMP hits#! me. It is quite #EMP thick#!, it makes me struggle to breathe. #EMP How has she been staying here!?#! The room is under a thick fog, produced by what feels like hundreds of incense burners.\n\n“Ah, welcome my Khatun. Make yourself comfortable, we shall start soon.”\n\nI look around the room. It is rather spacious. #EMP Oh#!! There seem to be a lot of freshly prepared food, snacks and drinks. #EMP Mmmmm.#! Even some of your favourites are here! Then, a bottle standing to the side catches your eye. Walking over to it, you start to inspect the curious thing. The… fluid? inside constantly changes between different shades of white, pink, and blue. It is almost like it is #EMP pulsing.#!\n\n“Ah, please be careful. Anything wrong happens with that bottle, and we will be set back years! But, that is also our instrument for the ritual. I even heard some $trait_futa$ are peddling a version of this for a fertility boost too. Users of these are pretty much guaranteed to impregnate, or get pregnant, #EMP no matter their age.#! Though what they use is largely watered down, which allows them to use it recreationally. I prepared the pure distillation to cure your affliction, as anything short of that would not work.”\n\n“Whenever you are ready, pop the vial open and drink what is inside. #BOL However!#! It is #BOL imperative#! you swallow it all in one swift motion. Do not linger, do not stop to inhale and smell what is inside, do not put some in your mouth to taste, do not keep any in your mouth. #BOL All of it needs to be swallowed immediately.#! Please, otherwise this will not work. Do not worry, I told your guards we are not to be disturbed for the whole day, by them or anyone else.”\n\n… This is sounding more suspicious by the minute. Do I #EMP really#! want to do this?"
+
+ bookmark_warlord_events.2005.a: "Here goes nothing."
+ bookmark_warlord_events.2005.a_flavor: "If she was an assassin sent by your enemies, congratulations to them for this plot."
+
+ bookmark_warlord_events.2005.b: "I will not go ahead with this."
+ bookmark_warlord_events.2005.b_flavor: "This is all too suspicious. All her pleas fall on deaf ears as she is sent to be executed."
+
+ #
+
+ bookmark_warlord_events.2006.title: "$bookmark_warlord_events.2005.title$"
+ bookmark_warlord_events.2006.desc: "You take one final look at [futa_warlord_fertility_shaman.GetFirstName] before you open the vial. She is wearing a #EMP very#! revealing outfit. The white dress seems to be made out of silk. Two strips come down from her shoulders, covering up her nipples and only a portion of her ample breasts, merging into a single strip that drapes over her nethers. A few golden bracelets and jewels are worn around her ankles, wrists, thighs and arms, with a golden choker on her neck as the finishing touch. Her thighs are left on full display, alongside most of her body. Though it is #EMP trying#! to cover at least some things up, the transparent nature of the dress leaves #EMP nothing#! to the imagination.\n\nMy eyes pry themselves away from her body and onto her face, and I find her giving me a warm smile. She nods to me, signaling that we should start. #EMP Wait, she is going to take part in the ritual personally? Is that a good idea? Shouldn't she watch over things in case something goes wrong? You didn't even know what the ritual entailed, though her explanation from before about the bottle and her attire gives you a pretty good idea.#!\n\nBefore you manage to talk yourself out of it, you take off most of your clothes, pop the vial open and follow her instructions, swallowing the whole thing in one go. As soon as you do, a huge #EMP pain#! hits your stomach, making you bend and drop the vial. As you clutch over your tummy, you feel your heart #S pounding#! in your chest, like it is trying to burst out from its cage. The shock and pain to your body makes you completely miss what is happening to your sex. A constant stream of fluids are running down from your legs, while your balls have gone into overdrive and enlargened in size, each #S throb#! and #S pulse#! spurts out thick ropes of pre-cum from your equally lively cock.\n\n#EMP Is this the end? Are you about to die? So this was a ploy all along. You were a fool to trust.#! You feel something press up against you. Something #EMP warm#! and #EMP soft#!. Oh. They are breasts. Warmth of another body. You feel happy. Safe. She pulls away. #EMP Wait! Don't go!#!\n\nYou look up. She is lying down. She has pushed away the slight bit of dress covering up her sex to the side. Her legs are spread. She is beckoning you over. You feel other than pain. Your own nethers ache. You feel an urge."
+
+ bookmark_warlord_events.2006.a: "I… I must… #S BREED!#!"
+
+ #
+
+ bookmark_warlord_events.2007.title: "$bookmark_warlord_events.2005.title$"
+ bookmark_warlord_events.2007.desc: "You crash upon her voluptuous form like a storm, showing no care or thought, just a #EMP RAW#! Urge to #BOLD breed#! the delectable hole presented to you. Your erection greedily saps a large quantity of blood flow from your brain, leaving your actions and awareness somewhat clumsy. \n\n#EMP Something so #BOLD warm#! and #BOLD wet#! is pressing against my c-cock, #BOLD Urgh!!!#! In. I need in!#! \n\n“OooH! My Khatun! I’m not going anywhere, why not ease in t- #EMP EHHHHHH!!!#!” The fuck meat’s talking subsides in concordances with the growing sensation of warmth around your cock. It #EMP feels#! different than you remember. Bigger. #EMP Better#!. Your hips drive forward, wet squelched cheering you on. Each thrust draws as deep as your target is able, kissing her inner seal and spiking your brain with a fresh shot of adrenaline. So overtaken by the moment are your thoughts that you allow your jaw to slacken and tongue to waver as you draw out of the fuck-sleeve, only to plummet all the way back inside once more. \n\n“#EMP UURRRGHHUGH!!!!#!” The bitch grunts and moans so loud it #EMP almost#! overpowers the beating of your heart. #EMP Is this hole suggesting that #BOLD I#! am not going hard enough? Grrrr…#! \n\nRage flows through your spine and bubbles up inside your weighty - aching - great seeds. Your hands find themselves around her lying throat as you squeeze down hard for leverage, allowing your prestigious throbbing rod to #EMP drill#! down to depths she has never explored before. \n\n#BOLD *Slap* *Slap* *Slap* *Slap* *Slap* *Slap*#! \n\nYour slamming hips cause the weighty sack behind them to crash into the drenched rear of your broodmare. So engorged has your sack become that it scarcely even lifts from the ground, lazily humping against the ass flesh as your cock does all the work. Each time the vaginal walls of your slut contract, a jet of juice squirts out from your pussy. \n\n#EMP This #BOLD whore#! must have been blue balling me!!! FUCK HER, HOW DARE SHE DENIED ME MY RELEASE!!!#! \n\nYes that’s right, the only reason you would be like this is if you had been maliciously teased for weeks. Months even. This whore has to #EMP pay#!. \n\n“#weak Kha- Khatun… I need, *Gasp* need air…#!” This #EMP traitor#! thinks she can command you? Your grip doesn’t loosen. You curse her snorty paling face as you hilt your stallion inside her stable and #EMP ROAR#! as your burdened testicles fire hoards of your liquid herd inside her breached stable. Each pulse of seed causes your hips to twitch rapidly, not that you are aware. Overcome with stimulation, your clutch on the bitch’s neck weakens, your face looking towards the [ROOT.Char.GetFaith.HighGodNameAlternate] Herself with glossy eyes and a loose tongue."
+
+ bookmark_warlord_events.2007.a: "*One more thrust*"
+
+ #
+
+ bookmark_warlord_events.2008.title: "$bookmark_warlord_events.2005.title$"
+ bookmark_warlord_events.2008.desc: "#EMP Throat. Dry. Hurts. Water. Need drink. Ah. There.#!\n\n#S *step* *step* *step* *step*\n\n*gulp* *gulp*#!\n\n#EMP Ahhh. Oh. Food. Good.#!\n\n#S *munch* *munch*#!\n\n#EMP Uh. Whe-Where am I? What am I doing? Aching. My body aches. Something beats in my chest. Hard. Hard? Hard! Look down. Something hard.Throbs on the beat of my chest. Something is spilling out. It wants something. What is it?\n\nLook up. Around. See something. Legs? Spread open. Drenched in fluid. White. Between the legs. Fluid comes out. It wants that? Yes. Release more. Wants to breed. I want to breed. Breed. Breed. BREED. BREED.#! #S BREED. BREED. BREED BREED BREEDBREEDBREEDBREEDBREEDBREEDBREEDBREEDBREEDBREED"
+
+ bookmark_warlord_events.2008.a: "#S BREEDBREEDBREEDBREEDBREEDBREED#!"
+
+ #
+
+ bookmark_warlord_events.2009.title: "$bookmark_warlord_events.2005.title$"
+ bookmark_warlord_events.2009.desc: "*Gug* *Gug* *Gug* *Gug* *Gug* *Gug* #BOLD *wheeze*#! \n\n#EMP MmMMMmMm!!! Throat Pussy is #BOLD GOOD#!. Warm and tight. Makes sweet music when I #BOLD FUCK IT#! just right!#! \n\nYour testicles - though considerably smaller - still churn up new steeds in desperate need for a good charge. Falling disappointed with your cock puppet’s performance, you have resorted to choke holding her between your thighs, using this point of leverage to force her cock-gobbler over your meaty spear at your preferred pace. \n\nBubbles of seed and spit routinely inflate and burst from her nose as she helplessly sucks away. At the same time, you busy yourself trying to keep as much of your seed from escaping her pussy. First you used an empty jug to collect it, but once that overflowed you ended up just shoving it up her gaping pussy to keep everything in. \n\n#EMP She still wasted some of #BOLD MY CHILDREN!!!#!#! \n\nHow could this #EMP whore#! do such a thing? You decide to deliver her a righteous spank for each stallion now drying up around you. Unfortunately she is such a miserable slut that you notice her throat contract with each hit. Ah well, you are sure you are getting more enjoyment out of it than she is. \n\nYour sack jiggles like a weighty purse as you continue to spear the #BOLD whore’s#! mouth. The friction is applied directly over your neglected clit, causing rivers of nectar to flow between your thighs. \n\n#EMP Tend to all my needs if you know what’s good for you!#! You bark your command. After a short delay, you feel the presence of a delicate finger caressing your hood. \n\nIt feels #EMP good#!, enough to make you #EMP shudder.#! Then, another intrusion, but lower down and #EMP not#! expected. Something breaches your back door, and the shock of which sends you into yet another orgasm. \n\nYour legs press the throat all the way down your length, and you keep it there throughout the entirety of your cum churning orgasm. You can #EMP feel#! the splatter of your own hot cum rebounding out of a nostril onto the exterior of your sack. Fortunately a lot more correctly gets forced inside."
+
+ bookmark_warlord_events.2009.a: "TAKE IT ALL YOU BITCH!!"
+
+ #
+
+ bookmark_warlord_events.2010.title: "$bookmark_warlord_events.2005.title$"
+ bookmark_warlord_events.2010.desc: "#EMP Ow. Ooowww.#! Your whole body #EMP hurts!#! You can feel each and every muscle spasm and scream. You look to be sitting down on, at least what you think it to be, a cushion. Your entire body is covered in a mix of dry and fresh sweat. Something #EMP stings#!. Below. You look down. Oh, a penis. Who does it belong to?\n\n…\n\nWhy is it so #R red!?#! What the hell happened to you!? It looks way bigger than you remember, #S too big!#! Some amount of cum meekly spurts out from the tip occasionally, the poor thing has no choice but to softly lay down in front of you, no strength left. Just a small touch on it sends a shockwave of pain through your whole being. Your orbs don't look or #EMP feel#! any better either.\n\nYou weakly get yourself up. There seems to be some water left in a jug. You hadn't even noticed how thirsty you were as you eagerly start gulping down the contents inside. Wiping away your mouth, you begin to look around. Most of the floor looks to be absolutely #S covered#! in white fluid. Some of it has completely dried out, some still looks recent. You have an idea what this is, with another hint #EMP spurting#! from your below. Bu- but how!? This is absurd!\n\nYou then notice something layed out on top of a surface. Looks like a filled up sack. There is what looks to be a pair of legs coming out of it. #EMP Wait, what?#! Something? #EMP No, someone!#! She seems to be in the same situation as the floor, with more cum stuffed inside her. Occasional batter spurts out from between her legs, you can't even see behind her bloated belly.\n\nSlowly making your way around, you see who the pair of legs belongs to. It is [futa_warlord_fertility_shaman.GetFirstName]! Everything slowly starts coming back to you. The- the ritual! #S This was the ritual!?#! She is not even moving! Is she still alive? You poke her on her arms and belly a few times. After a while, she #EMP barely#! opens her eyes to look at you.\n\n#weak “Ah, he-hello. It looks like we- we succeeded.#!”\n\nSuccess!? What about #EMP this#! is a success! You feel like you have fought a thousand battles in the span of a minute and are about to drop dead any moment!\n\n#weak “I understand your anger, my Kha-Khatun. I'll explain everything when I'm in more of a… better health. Ma-may I have what is leftover in that jug? I'm awfully thirsty.”#!\n\nYou #EMP really#! ponder about what to do, but guess what is done is done. You put the jug up to her mouth and let her slowly drink from it.\n\n#weak “Ah, thank you so much, my generous Khatun. I can feel it. We have been successful in what we've set out to do. Do not worry about the room or anything else. I'll take care of everything when I'm… able… I'll make sure to inform you with the fruits of labour when the seeds take root.#!"
+
+ bookmark_warlord_events.2010.a: "For your sake, you #EMP better#! get pregnant."
+ bookmark_warlord_events.2010.a_flavor: "She can only give you a weak smile as you stumble your way out. You'll make sure to plant some trusted sentries around her so she doesn't try to deceive you."
+
+ #
+
+ bookmark_warlord_events.2011.title: "Seeds of Life"
+ bookmark_warlord_events.2011.desc: "I decide to visit the chambers of [futa_warlord_fertility_shaman.GetFirstName] once again. She had promised me an heir and a cure for my #EMP affliction#!, and after the #EMP hilarious#! stunt she pulled with that whole “ritual” business, I made sure to put my most trusted around her to monitor her every move. Who knows, she might've gone behind your back to welcome the seed of another's and pass the child off as if it is yours. You certainly know #EMP a lot#! of #EMP volunteers#! around her which would be up to the task.\n\nShe has tried nothing of sort. No tricks, nor any other deceit. She has shown signs of pregnancy for a while now, and you routinely visit your #EMP benefactor#! to ensure she is taken well care of.\n\nHer belly has visibly started to bulge at this point. #EMP My wonderful child… I had completely lost hope…#! There is something else that is… off about her, however. She looks a bit under the weather, the under of her eyes are a slight shade of purple and her skin has gotten whiter. Her workaholic nature and diligent energy that you've been accustomed to all these years are completely devoid from her.\n\n“Ah, do not worry about it my Khatun. Everything is fine. Your child will be completely healthy, I assure you. It is probably the ritual and my work taking its toll on me.”\n\nSomething feels off, but I shall not push her too much. All the signs point to the life growing inside of her, is a piece of me."
+
+ bookmark_warlord_events.2011.a: "Make sure you are well rested."
+
+ #
+
+ bookmark_warlord_events.2012.title: "The Nature of $trait_futa$"
+ bookmark_warlord_events.2012.desc: "Ever since the ritual, there is something #EMP off#! about me. Or to be more precise, #EMP my nethers#!.\n\nMy penis has gotten #EMP considerably#! larger than before. It is not as big as it was the aftermath of of the ritual, but it is still easily #EMP twice#! as big from before!\n\nNot to mention my testicles. Same as their companion, they've easily doubled in size, if not more! And I can #EMP feel#! them being more active. They have been quite the distraction for me as of late. My thoughts regularly have started to become consumed by how I need to empty the contents of them inside, one way or another…\n\nI decide to visit [futa_warlord_fertility_shaman.GetFirstName] to check up on her health and get some answers. Her belly has gotten quite big. However, unlike she assured me, her health has not gotten any better. In fact, it has been the opposite. Her skin is #EMP noticeably#! paler now, and she barely has the energy to get up and move around.\n\nStill, I do not want to bother her too much, especially in this state, so I only prod her about what has happened to #EMP me.#! Her voice is low when she speaks to you.\n\n“#EMP Ah, that… is the consequence of the ritual, my Khatun. Or rather, the substance you drank. I'm pretty sure you've noticed how your $trait_futa$ warriors and guards can be a bit troublesome regarding their… urges? How about all the other $trait_futa$ that been a part of your life? Your tribe? This has been absent from your body. The concoction I've prepared was to fix your infertility, and the “consequences” of that on the body is that it #BOL permanently#! sends the body into overdrive regarding all matters in baby-making. Your body now functions similarly to the bodies of the most virile among the $trait_futa$.#!”\n\nThis is going to be #EMP permanent!?#! How does one live like this on a regular basis!?"
+
+ bookmark_warlord_events.2012.a: "… You are #EMP lucky#! you are carrying my child."
+ bookmark_warlord_events.2012.a_flavor: "I guess I have to get used to this. So this is what majority of $trait_futa$ feels like, huh?"
+
+ #
+
+ bookmark_warlord_events.2013.title: "Miracle of Life"
+ bookmark_warlord_events.2013.desc: "The day has come. [futa_warlord_fertility_shaman.GetFirstName] has went into labor not long ago, and the midwives are hard at work to help her deliver your heir. This is the first time in a while you felt anxious, not unlike your first battle. You pace back and forth while all you can do is to wait to receive the news.\n\nAfter what feels like an eternity, two of the midwives comes out clutching something in their hands.\n\n“Congratulations my Khatun! You have two perfect little daughters!”\n\nDaughter…#S s!?#! Two!? Multiple!? I… I can't believe it! I never would've dreamed of getting a child a year ago, now I've been told I've gotten #S twins#!!"
+
+ bookmark_warlord_events.2013.a: "Oh, my perfect children!"
+
+ #
+
+ bookmark_warlord_events.2014.title: "Consequences of Life"
+ bookmark_warlord_events.2014.desc: "My excitement is cut short, however, when they inform me that [futa_warlord_fertility_shaman.GetFirstName] is not well. Her health has deteriorated as the pregnancy went on, and the birth might've taken its toll on her.\n\nI enter the room to visit her. She is laying there on the bed, her face is covered in sweat. When I try to talk to her, her voice is barely audible.\n\n“#weak He-hello my Kha-Khatun. They told me I gave birth to twins! I'm so proud of what I've been able to accomplish for you!#!”\n\nYou ask her how is she feeling.\n\n“#weak I guess there is nothing to hide anymore. I knew what my fate would be as soon as I entered your court. I was not walking away with my life, one way or another. I have not been forthcoming with you, and for that, I'm truly sorry. The ritual, and the concoction, is quite dangerous, which is why it is barely practiced anymore, and why the $trait_futa$ peddlers water it down to such a degree. It drains your life force, many who partake in the ritual don't even survive it. Most of the those who do, suffer broken minds afterwards. Their body and mind live only to spill and take in as much seed as possible. That is the reason I had the ritual prepared that way, your body needed much release, lest it burst. In addition, I mixed in some of my own knowledge in the particular arts to ensure everything went smoothly.#!”\n\nAfter taking a long breath, she continues.\n\n“#weak Please do not think I willingly endangered your life. On the contrary, I knew it would be I who would suffer the consequences health wise, but I do not regret anything. On the $trait_futa$ side, since your body was not ailed with any of the ordinary $trait_futa$ woes, the permanent effect it had on you was it propelled and put your body into overdrive in sexual matters. Basically, you are now accustomed to what a $trait_futa$ goes through on a daily basis, though a particularly virile one. Now imagine what would happen to a $trait_futa$ who was already very active in that regard. That is why they usually don't survive, one way or another.#!”\n\nEven just speaking seems to be making her suffer right now.\n\n“#weak I did this in the name of the [ROOT.Char.GetFaith.HighGodNameAlternate]. I saw what was in my destiny, and I would gladly do it again if given the opportunity. I have one final request, if I may. The view towards what is called “witchcraft” is not favourable. It is through these practices and the guidance of the [ROOT.Char.GetFaith.HighGodNameAlternate] that I have been able to make my way over to you, cure you and give you heirs. Please, allow these practices to be utilised in your realm. So much potential is wasted due to superstition. You are the Herald, and the faith follows your guidance. Your two children are truly blessed, and they will be special in their own right.#!”\n\nShe closes her eyes.\n\n“#weak Forgive me, but I would like to rest now. The [ROOT.Char.GetFaith.HighGodNameAlternate] calls for Her faithful servant, and I shall take my place in the Eternal Blue Sky alongside Her in a few days time.”#!\n\nYou have nothing to say but to thank her for her sacrifice as you leave the room. You command your servants to make her last days as comfortable and peaceful as possible. Just as she predicted, she passes away after a few days."
+
+ bookmark_warlord_events.2014.a: "…"
+ bookmark_warlord_events.2014.a_flavor: "A proper funeral ceremony will be held for her. It is the least I could do."
+
+ #
+
+ bookmark_warlord_events.2015.title: "Snuffed Hope"
+ bookmark_warlord_events.2015.desc: "The shaman which came to my halls has sadly died prematurely before the ritual could be completed. With her untimely death, there is no way for me to keep going on with the ritual, as she has taken the knowledge with her."
+
+ bookmark_warlord_events.2015.a: "#EMP and my hopes…#!"
+
+ # ---------------------------------------------------------------------------- #
+ #                            Conquest Related Events                           #
+ # ---------------------------------------------------------------------------- #
+
+ bookmark_warlord_events.3000.title: "Spoils of Victory"
+ bookmark_warlord_events.3000.desc: "Another victory, another land under my rule. As the victor, now I can decide what should be fate of those who opposed me."
+
+ bookmark_warlord_events.3000.a: "Burn it #S all#!."
+ bookmark_warlord_events.3000.b: "Spare the sympathizers."
+ bookmark_warlord_events.3000.c: "Show them my mercy."
+
+ #
+
+ bookmark_warlord_events.3001.opening: "My destined servant,"
+ bookmark_warlord_events.3001.desc: "It is time for you to take your rightful place beneath me. Let it be under an oath of fealty, and your lands and people shall be spared from my warpath."
+ bookmark_warlord_events.3001.a: "I submit with honor, my [futa_azure_emperor.GetTitleAsNameNoTooltip]."
+
+ bookmark_warlord_events.3001.b: "I shall never bow to you willingly, [ROOT.Char.GetFaith.DevilName] incarnate!"
+
+ #
+
+ bookmark_warlord_events.3002.opening: "Honored [futa_azure_emperor.GetTitleAsNameNoTooltip],"
+ bookmark_warlord_events.3002.desc: "I submit to your rightful and benevolent grace. I will stand with you against any who oppose your destiny."
+ bookmark_warlord_events.3002.a: "A wise choice, my servant."
+
+ #
+
+ bookmark_warlord_events.3003.opening: "You [futa_azure_emperor.Custom('InsultAdjective')] incarnation of [recipient.GetFaith.DevilName],"
+ bookmark_warlord_events.3003.desc: "You dare think you can threaten me into submission? I will show you what a true ruler does with your so-called invincible army!"
+ bookmark_warlord_events.3003.a: "You were given a choice."
+
+ #
+
+ bookmark_warlord_events.3004.opening: "You [ROOT.Char.Custom('InsultAdjective')] worm,"
+ bookmark_warlord_events.3004.desc: "The time has come for you to pay for your crimes. Your lands shall be used to further help my cause. You should be honored for this privilege."
+ bookmark_warlord_events.3004.a: "I will see you on the battlefield, [attacker.Custom('InsultNoun')]!"
+ bookmark_warlord_events.3004.b: "Stop! Spare my people and I shall bow to you!"
+ bookmark_warlord_events.3004.c: "Everything will be fine… [defender.GetFirstName] will protect us…"
+ bookmark_warlord_events.3004.d: "Together, we shall beat back the [attacker.Custom('InsultNoun')]!"
+ bookmark_warlord_events.3004.e: "You are my true liege!"
+
+ #
+
+ bookmark_warlord_events.3100.title: "Azure Wrath"
+ bookmark_warlord_events.3100.desc: "My armies have taken more land to be used for our cause. While most of my warriors are busy pillaging and #EMP “having fun”#! across my conquest, I turn my gaze towards a certain #EMP special#! prize…\n\n#EMP [futa_warlord_valid_special_sack_province.GetNameNoTier]#!."
+
+ bookmark_warlord_events.3100.desc_generic: " The city certainly has some splendid - #EMP and wealthy#! monuments."
+
+ bookmark_warlord_events.3100.desc_constantinople: " The so called #EMP “City of World's Desire.”#! It is certainly an impressive settlement, that is for sure. Breathtaking architecture litters the city, all being protected by a glorious wall. #EMP It wasn't enough to stop you…#!"
+
+ bookmark_warlord_events.3100.desc_roma: " The seat of the oppressors. This is where their head of faith resides, and decides the fate of all $trait_futa$ that live according to their beliefs."
+
+ bookmark_warlord_events.3100.a: "#XB Strip the land bare!#!"
+ bookmark_warlord_events.3100.b: "I will grant them my mercy."
+
+ #
+
+ bookmark_warlord_events.3101.title: "Azure Wrath"
+ bookmark_warlord_events.3101.desc: "Word has reached that the armies of [futa_warlord_province_sacker.GetTitledFirstName] of [futa_warlord_province_sacker.GetPrimaryTitle.GetName] have breached and conquered an important and wealthy city. The [futa_warlord_province_sacker.GetTitleAsName] has then decide to sack the whole place, stripping every single wealth and monument it had, while [futa_warlord_province_sacker.GetHerHis] $trait_futa$ warriors went around and collected their “prizes.”\n\n[futa_warlord_valid_special_sack_province.GetNameNoTier]"
+
+ bookmark_warlord_events.3101.desc_generic: " has become nothing more than a former shell of its glory, and it will take huge effort to recover it."
+
+ bookmark_warlord_events.3101.a: "Those $trait_futa$ savages!"
+ bookmark_warlord_events.3101.b: "Is this #EMP truly#! what they deserved?"
+ bookmark_warlord_events.3101.c: "Another monument falls before our might!"
+
+ # ---------------------------------------------------------------------------- #
+ #                          Global Notification Events                          #
+ # ---------------------------------------------------------------------------- #
+
+ bookmark_warlord_events.8000.title: "$bookmark_warlord_events.1007.title$"
+ bookmark_warlord_events.8000.desc_accepting_vassal: "The leader of our realm, [futa_warlord_azure_emperor.GetFullName], has managed to carve out a sufficient amount of land, gathered prestige and the respect of numerous tribes. As a new day dawns, [futa_warlord_azure_emperor.GetSheHe] has proclaimed [futa_warlord_azure_emperor.GetHerselfHimself] to be a [futa_warlord_azure_emperor.GetTitleAsName], a title [futa_warlord_azure_emperor.GetSheHe] has rightfully earned!\n\n[futa_warlord_azure_emperor.GetSheHe|U] now seeks to spread the might and the truth of our people far and wide!"
+
+ bookmark_warlord_events.8000.desc_non_accepting_vassal: "Our #EMP most benevolent#! overlord, [futa_warlord_azure_emperor.GetFullName], has managed to secure enough land and prestige to proclaim [futa_warlord_azure_emperor.GetHerselfHimself] to be a [futa_warlord_azure_emperor.GetTitleAsName]. It seems [futa_warlord_azure_emperor.GetHerHis] ambitions knows no bounds, as [futa_warlord_azure_emperor.GetSheHe] shows no signs of stopping here…"
+
+ bookmark_warlord_events.8000.desc_generic: "Word has reached to me that a new upstart tribal leader over in the steppes has managed to unite enough land to proclaim [futa_warlord_azure_emperor.GetHerselfHimself] to be a proper leader of [futa_warlord_azure_emperor.GetHerHis] people, and [futa_warlord_azure_emperor.GetSheHe] still dreams of spreading [futa_warlord_azure_emperor.GetHerHis] realm far…"
+
+ bookmark_warlord_events.8000.a: "Bah, these steppe warlords come and go."
+ bookmark_warlord_events.8000.b: "A commendable cause for the fate of $trait_futa$, though [futa_warlord_azure_emperor.GetHerHis] methods are #EMP slightly#! violent…"
+ bookmark_warlord_events.8000.c: "Glory to our [futa_warlord_azure_emperor.GetTitleAsName]!"
+ bookmark_warlord_events.8000.d: "Hope [futa_warlord_azure_emperor.GetSheHe] drops dead soon…"
+
+ #
+
+ bookmark_warlord_events.8001.title: "The Ruler of All"
+ bookmark_warlord_events.8001.desc_accepting_vassal: "Our glorious [futa_warlord_genghis_khatun.GetTitleAsName] has truly been chosen by [ROOT.Char.GetFaith.HighGodName]! [futa_warlord_genghis_khatun.GetSheHe|U] has earned the right to be the Ruler of All That Exists by right of conquest and cunning!\n\nOur armies stand ready at [futa_warlord_genghis_khatun.GetHerHis] command! We shall bring the whole Earth beneath her!"
+
+ bookmark_warlord_events.8001.desc_non_accepting_vassal: "Our overlord, [futa_warlord_genghis_khatun.GetFullName], has proven to be the spawn of [ROOT.Char.GetFaith.random_EvilGodNames]! [futa_warlord_genghis_khatun.GetHerHis|U] conquests and terror shows no sign of stopping anytime soon, and she has now been proclaimed the #EMP “Ruler of All That is Beneath the Sky”#! What a ridiculous notion!"
+
+ bookmark_warlord_events.8001.desc_generic: "Word has reached to me that a new upstart tribal leader over in the steppes has managed to unite enough land to proclaim [futa_warlord_genghis_khatun.GetHerselfHimself] to be the #EMP “Ruler of All That is Beneath the Sky”#! It is said their armies are truly invincible! What a ridiculous notion!"
+
+ bookmark_warlord_events.8001.a: "I doubt [futa_warlord_genghis_khatun.GetSheHe] will be able to do much more…"
+ bookmark_warlord_events.8001.b: "Looks like the violence won't stop anytime soon…"
+ bookmark_warlord_events.8001.c: "We stand ready!"
+ bookmark_warlord_events.8001.d: "[futa_warlord_genghis_khatun.GetSheHe|U] #EMP really#! should be claimed by [ROOT.Char.GetFaith.random_EvilGodNames] soon…"
+
+ #
+
+ bookmark_warlord_events.8002.title: "The Azure Succession"
+ bookmark_warlord_events.8002.desc: "The [futa_old_azure_emperor.GetTitledFirstName] has passed away, and the Empire has a new [futa_new_azure_emperor.GetTitleAsName]!\n\nThis new [futa_new_azure_emperor.GetTitleAsName] is rumored to be"
+
+ bookmark_warlord_events.8002.desc_martial: "even more cruel than [futa_new_azure_emperor.GetHerHis] predecessor. [futa_new_azure_emperor.GetSheHe|U] has heard the plight of $trait_futa$ and decided to take pleasure in making the #EMP guilty#! pay for their crimes. Carrying the vision of [futa_old_azure_emperor.GetTitledFirstName], [futa_new_azure_emperor.GetTitledFirstName] wants to keep expanding the Empire to new heights!"
+
+ bookmark_warlord_events.8002.desc_scholar: "a change from [futa_new_azure_emperor.GetHerHis] predecessor. Instead of continuing this warpath [futa_old_azure_emperor.GetTitledFirstName] has went on, [futa_new_azure_emperor.GetSheHe] has decided that the best course of action for her people would be to abandon their extreme expansionist ways, and reform out of being a tribal nomadic society. It seems that the era of Azure aggression has come to an end."
+
+ bookmark_warlord_events.8002.desc_generic: "no one of particular specialty. It seems that the era of aggression and reformation for the Empire has come to an end. Time will tell if [futa_new_azure_emperor.GetTitledFirstName] will be able to keep the Empire from falling apart."
+
+ bookmark_warlord_events.8002.a: "Interesting…"
+
+ #
+
+ bookmark_warlord_events.8003.title: "The Untethered Tide"
+ bookmark_warlord_events.8003.desc: "There are concerning reports regarding the recent steppe realm of [futa_warlord_azure_emperor.GetPrimaryTitle.GetNameNoTier]. Their scouts' were sighted moving further out into neighbouring realms around them. It seems they are satisfied with their focused conquests of the steppes and the close realms, and now the [futa_warlord_azure_emperor.GetTitleAsName] seeks to expand the realm even further…"
+
+
+ bookmark_warlord_events.8003.a: "The Warpath continues…"
+
+
+ # ---------------------------------------------------------------------------- #
+ #                                     Twins                                    #
+ # ---------------------------------------------------------------------------- #
+
+ # ---------------------------------- Scholar --------------------------------- #
+
+ bookmark_warlord_events.4001.title: "What? Why? How?"
+ bookmark_warlord_events.4001.desc: "There is so much to see, and smell, and touch! Where do you come from? Why is the sky blue? What is beyond that hill? Please, please, I want to go and find out!"
+ bookmark_warlord_events.4001.a: "There are so many questions!"
+
+ bookmark_warlord_events.4001.message: "My [ROOT.Char.Custom2('RelationToMe', personality_child)] [personality_child.GetTitledFirstName] is always full of questions!"
+
+ #
+
+ bookmark_warlord_events.4002.title: "$bookmark_warlord_events.4001.title$"
+ bookmark_warlord_events.4002.desc: "There is never a quiet moment! My [ROOT.GetCharacter.Custom2('RelationToMe' , personality_child) ] [personality_child.GetTitledFirstName] is so full of questions! I do my best to encourage [personality_child.GetHerHis] curiosity, but sometimes I cannot help but get exhausted by the constant stream of thoughts and queries."
+ bookmark_warlord_events.4002.a: "When a $trait_futa$ and a mother love each other very much..."
+
+ #
+
+ bookmark_warlord_events.4004.title: "The Diligent Ant"
+ bookmark_warlord_events.4004.desc: "There is so much do! I will not shirk my duties! Finish reading practices, gather up my toys! No matter what, I'll always finish what I need to do!"
+ bookmark_warlord_events.4004.a: "I'll rest when I'm finished!"
+
+ #
+
+ bookmark_warlord_events.4005.title: "$bookmark_warlord_events.4004.title$"
+ bookmark_warlord_events.4005.desc: "My [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('child'))] [child.GetTitledFirstName] is always busy with something! Whether that be homework, training or any other activity, [child.GetSheHe] is always present to do her duty, and [child.GetSheHe] does not stop until everything is finished!"
+
+ bookmark_warlord_events.4005.a: "Such a diligent little thing!"
+
+ #
+
+ bookmark_warlord_events.4006.title: "The Value of Patience"
+ bookmark_warlord_events.4006.desc: "As I grow up, I've been learning and hearing stories of my mother's own childhood! How through patience and perseverance she was able to survive the hostile upbringing she had and how she managed to take over the tribe that led us to this day!\n\nThe more I hear about her, the more I think being patient and waiting for the right opportunity is the best course of action."
+
+ bookmark_warlord_events.4006.a: "“Greatness comes in time. Be there to grasp it when it does.”"
+
+ #
+
+ bookmark_warlord_events.4007.title: "$bookmark_warlord_events.4006.title$"
+ bookmark_warlord_events.4007.desc: "[child.Custom2('MyCharacterIntroduction', ROOT.Char)|U] has been impressed with the stories of my own childhood, adventures and upbringing. The more she listened, the more she has started to think being patient is one of the most important aspect a ruler and leader could have. She has been repeating a phrase to herself for a while now:\n\n#EMP “Greatness comes in time. Be there to grasp it when it does.”#!"
+
+ bookmark_warlord_events.4007.a: "Yes, opportunities always come in time."
+
+ #
+
+ bookmark_warlord_events.4008.title: "All in Moderation"
+ bookmark_warlord_events.4008.desc: "I tried to have a little more sweets than should've last evening, and I've been having terrible tummy aches all day! This was a lesson learned. No matter what I try doing, if I do too much, it results in something bad. Studying, working, eating. No matter what, I should learn to do things in moderation, and I'll be feeling better off as a result!"
+
+ bookmark_warlord_events.4008.a: "Moderation is key!"
+
+ #
+
+ bookmark_warlord_events.4009.title: "$bookmark_warlord_events.4008.title$"
+ bookmark_warlord_events.4009.desc: "My [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('child'))] [child.GetFirstName] has been feeling down today. After pressing her about it, it turns out she had snuck into the pastries and indulged in too many sweets! She says she has learned her lesson however, and assures everything she will be doing from now on will be done in moderation."
+
+ bookmark_warlord_events.4009.a: "It is important to be not be excessive."
+
+ #
+
+ bookmark_warlord_events.4010.title: "Calm During Storm"
+ bookmark_warlord_events.4010.desc: "We were doing our routine training when I was faced with a sudden challenge! The horse I was riding got spooked for whatever reason, but staying calm through the situation, I managed to take control of everything and all was well in the end. I noticed that whenever I managed to be calm, the problem in front of me becomes very simple to fix."
+ bookmark_warlord_events.4010.a: "Calmness during a storm is valuable."
+
+ #
+
+ bookmark_warlord_events.4011.title: "$bookmark_warlord_events.4010.title$"
+ bookmark_warlord_events.4011.desc: "[child.Custom2('MyCharacterIntroduction', ROOT.Char)|U] was training with horses today when all of a sudden the animal got spooked by something and caused quite the stir. However, [child.GetFirstName] managed to keep a level head throught the whole ordeal and controlled the beast once again.\n\nShe seems to be able to keep a calm head, no matter the situation she finds herself in. A #EMP very#! valuable trait in these parts."
+
+ bookmark_warlord_events.4011.a: "Her judgment will never be clouded."
+
+ #
+
+ bookmark_warlord_events.4012.title: "A New Era"
+ bookmark_warlord_events.4012.desc: "The old ways have served us well, and we will always honor them. However, as the [ROOT.Char.GetTitleAsNameNoTooltip] of [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip], in order to prevent everything that my mother has built from crumbling to nothingness, I have concluded that we must reform ourselves from being a collection of petty tribes to a realm with proper laws and government system.\n\nThere are multiple options I can take my realm, imitating certain governing bodies of the others around us. I should make my choice carefully…"
+
+ bookmark_warlord_events.4012.a: "We shall take from the Western people."
+ bookmark_warlord_events.4012.b: "Our house is important. We shall imitate the Muslim realms."
+ bookmark_warlord_events.4012.c: "We will need something more. The Romans have an interesting take on ruler-ship."
+ bookmark_warlord_events.4012.d: "We are not ready yet."
+
+ #
+
+
+ # ---------------------------------- Martial --------------------------------- #
+
+ bookmark_warlord_events.5001.title: "A Kindling Fire"
+ bookmark_warlord_events.5001.desc: "My [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('guardian'))] [guardian.GetFirstName] keeps ordering me to sit still and be quiet, even though I tell [guardian.GetHerHim] it is impossible! It is like my arms and legs are moving on their own and if I do not follow, they will fall off and run away without me!"
+ bookmark_warlord_events.5001.a: "I do what I want!"
+
+ bookmark_warlord_events.5001.message: "My [ROOT.Char.Custom2('RelationToMe',personality_child)] [personality_child.GetTitledFirstName] is always up to something!"
+
+ #
+
+ bookmark_warlord_events.5002.title: "A Brewing Troublemaker"
+ bookmark_warlord_events.5002.desc: "While I have come to expect mischief from my [ROOT.GetCharacter.Custom2('RelationToMe' , personality_child) ] [personality_child.GetTitledFirstName], [personality_child.GetHerHis] creativity keeps me on my toes. When it is not a prank, it is a brawl, a disgruntled tutor or grazed knees from an adventure gone wrong."
+ bookmark_warlord_events.5002.a: "Never a dull moment!"
+
+ #
+
+ bookmark_warlord_events.5004.title: "The Brave Lion"
+ bookmark_warlord_events.5004.desc: "Our culture and our past is so fascinating! Our warriors, guards, the adults around me are so cool! I want to be just like them! I will not back down from any challenge, no matter what! They will know me as the greatest warrior ever!"
+
+ bookmark_warlord_events.5004.a: "Fear me!"
+ bookmark_warlord_events.5004.a_flavor: "Well, except maybe mother…"
+
+ #
+
+ bookmark_warlord_events.5005.title: "$bookmark_warlord_events.5004.title$"
+ bookmark_warlord_events.5005.desc: "My [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('child'))] [child.GetTitledFirstName] has started to become quite young warrior! [child.GetSheHe|U] is fascinated by our warrior's training and does not let go off her wooden sword! [child.GetSheHe|U] does not back down from any challenge either!"
+
+ bookmark_warlord_events.5005.a: "What a brave warrior!"
+
+ #
+
+ bookmark_warlord_events.5006.title: "The World Beneath the Sky"
+ bookmark_warlord_events.5006.desc: "I've been listening to what the shamans around me have been talking about. They are usually #EMP sooooo boring!#! However, something interested me this time. We live under the Eternal Blue Sky, the realm of the Sky-Lord. Everything that the Sky touches, we shall liberate from those cruel people who hate my mother and her friends! I may not be like mother and most of the others, but I will help them accomplish this as long as I live!"
+
+ bookmark_warlord_events.5006.a: "I will make all of them kneel before the Sky!"
+
+ #
+
+ bookmark_warlord_events.5007.title: "$bookmark_warlord_events.5006.title$"
+ bookmark_warlord_events.5007.desc: "[child.Custom2('MyCharacterIntroduction', ROOT.Char)|U] was found snooping around listening the shamans. However, it seems she did not have any mischief planned this time around. Instead, she was captivated by the mission of Skyspawn, and she is determined to help the $trait_futa$ spread the realm as much as possible."
+
+ bookmark_warlord_events.5007.a: "A commendable goal."
+
+ #
+
+ bookmark_warlord_events.5008.title: "The Lord's Zeal"
+ bookmark_warlord_events.5008.desc: "The more I learn about our faith, the more fascinated I become with it! The Sky-Lord Herself, Her domain, the treacherous Earth-Mother, and their relationship to each other! It is impossible to comprehend how all the other people could just shun $trait_futa$ like that! It is unthinkable! I will be a loyal servant of the Sky-Lord for as long as I live!"
+
+ bookmark_warlord_events.5008.a: "Thank you Sky-Lord for your continuous blessings!"
+
+ #
+
+ bookmark_warlord_events.5009.title: "$bookmark_warlord_events.5008.title$"
+ bookmark_warlord_events.5009.desc: "My [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('child'))] [child.GetTitledFirstName] has become fascinated with the faith as of late. She breathlessly listen to all the lessons given by the shamans, and keeps asking questions about the nature of Sky-Lord, $trait_futa$ and Earth-Mother. Her belief in the has become unshakable."
+
+ bookmark_warlord_events.5009.a: "She is quite the devout follower."
+
+ #
+
+ bookmark_warlord_events.5010.title: "The Punishment of the Guilty"
+ bookmark_warlord_events.5010.desc: "All these other people. The #EMP guilty#!. The ones who hate my mother. The ones who hate the Sky-Lord. The ones who hate $trait_futa$ for what they are. All of them #EMP must pay.#!\n\nI heard how the $trait_futa$ are being treated all over the Earth. Our cause, my mother's cause, all of it has become clear. I may have not been blessed to be a $trait_futa$, but that will not stop me. I will help them take their revenge. The only thing sweeter than helping out a downtrodden $trait_futa$ will be the #EMP cries of the guilty.#!"
+
+ bookmark_warlord_events.5010.a: "#EMP I will enjoy listening to them scream.#!"
+
+ #
+
+ bookmark_warlord_events.5011.title: "$bookmark_warlord_events.5010.title$"
+ bookmark_warlord_events.5011.desc: "My [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('child'))] [child.GetTitledFirstName] has started to show some… #EMP troubling#! signs. The more she has heard about the situation of the $trait_futa$, the more zealous in her beliefs she has become. She has made it quite clear what she thinks of the “guilty” and their fate should be, and how she will enjoy being responsible for dishing out their punishments personally. Her enthusiasm is certainly admirable, but she could be taking things a bit too far…"
+
+ bookmark_warlord_events.5011.a: "She very well could make the Earth cry…"
+

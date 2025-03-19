@@ -1,0 +1,40 @@
+﻿l_english:
+ #trait_futa_inquiz:0 "Futanari Inquisitor"
+ #futa_inquiz_desc:0 "Raised under the Catholic Church, this Futanari loathes her own kind and has dedicated herself to disiplining them."
+ 
+ ##MODIFIERS:
+ #futa_faithful_modifier:0 "Faithful"
+ 
+ # LANDLESS TITLES
+ d_laamp_hermillia: "Futadom"
+ d_laamp_hermillia_article: "$DEFAULT_TITLE_NAME_ARTICLE$"
+
+ futa_hermillia: "Hermillia"
+
+ 
+ ## BOOKMARKS
+ bookmark_hermillia: "Hermillia"
+ bookmark_hermillia_desc: "Whilst her people had suffered, Hermillia worked in the shadows. The Futanari need a hero, someone to liberate them from this oppressive world and assert their superiority as it should have been long ago! Who better than to lead them than their long lost Goddess herself? \n\nSeemingly coming out of nowhere, Hermillia has arrived with a legion of devoted followers and worshipers. After evading detection for so long, how will the world respond to such a powerful Futanari ruler? What is Hermillia’s true goal? Not even her closest followers know… #XB #BOLD Hermillia is an unfinished character. Consider her place here as a preview for what is to come.#!#!"
+ 
+ #COURT POSITIONS
+ #futa_nun_court_position:0 "Carldenite Nun"
+ #futa_nun_court_position_desc:0 "Futanari who follow the teachings of Carldenisim and accept they are inherinetly sinnful, but may yet earn a place in God's temple. These Nuns live apart from society and undergo rigerous meditation to bolster their feeble minds and surpase their primative desires."
+ 
+ #DOMICILE BUILDINGS
+ #futa_carldenite_nunnery_domicile_building:0 "Carldenite Futa Nunnery"
+ 
+ ##CHARACTER INTERACTIONS
+ #inquiz_nun_interaction:0 "Demand Repentance"
+ #inquiz_nun_interaction_desc:0 "If a Futanari wishes to stay in your care she will only do so under God's teachings!"
+ 
+ #ARTIFACTS
+ sliver_strike_name:0 "Sliver Strike"
+ sliver_strike_desc:0 "This curious blade is of unknown origins. Simply grasping the handle can send shivers through one's spine. It seems to have supernatural properties..."
+ 
+ ##EVENTS
+ 
+ bookmark_hermillia_events.0001.title:0 "The Return of a God"
+ bookmark_hermillia_events.0001.desc:0 "For too long have the Futanari suffered as a lower class under the rule of men. My stomach twists at the very idea #EMP we#! are somehow inferior to those who are simply lesser. My existence has been clouded with memories of avoiding attention, working from the shadows. Slithering in the Dark is not the way of a #EMP Queen#!, of a #BOLD GOD#! such as I. \n\nI have not been content with living like a slave. I have bided my time, honed my skills and made an army of my own all whilst under the noses of my #EMP “superiors”#!. \n\n#I That is all the glimpse you will get for now dear player. Enjoy sand-boxing as Hermillia if you wish, she has a pretty nifty sword all of her own.#!"
+ bookmark_hermillia_accept.0001.a:0 "Mysterious..."
+ 
+ #

@@ -1,0 +1,178 @@
+﻿l_english:
+ ## Put Everything related to the Schemes here. Can be merged with the main file of course.
+ 
+
+ ## Events
+ 
+ futa_conversion_events.milestone.success: "Excellent."
+ futa_conversion_events.milestone.failure: "Curses!"
+
+
+ futa_conversion_events.0001.title: "Now or Never" # Copied base game seduction event
+ futa_conversion_events.0001.desc: "It is almost time. My plan to claim [target.GetFirstNamePossessive] heart #italic and#! body has almost come to fruition. There is only a single question left on my mind. Should I make this a regular thing with [target.GetFirstName], or have this be a one time only event?"
+ futa_conversion_events.0001.a: "I #EMP want#! [target.GetHerHim]! I cannot let this be a one time thing."
+ futa_conversion_events.0001.a.tt: "You will become lovers with [target.GetFirstName] if the scheme succeeds"
+ futa_conversion_events.0001.b: "I will claim my prize and then leave."
+ futa_conversion_events.0001.b.tt: "You will #S NOT#! become lovers with [target.GetFirstName] if the scheme succeeds"
+
+ #
+
+ futa_conversion_events.0002.title: "Now or Never" # Copied base game seduction event
+ futa_conversion_events.0002.desc: "[target.GetTitledFirstNamePossessive] reactions to my advances tell me everything I need to know. The time has come to put my plan into action.\n\n"
+ futa_conversion_events.0002.positive.desc: "I think my chances are good, yet I must remember that [discoverer.Custom2('NamePossessiveCharacterIntroduction', target)] is always watching..."
+ futa_conversion_events.0002.negative.desc: "Yet, I fear the consequences. [discoverer.Custom2('NamePossessiveCharacterIntroduction', target)|U] and [discoverer.GetHerHis] agents could be hiding in any shadow, listening through any wall..."
+ futa_conversion_events.0002.a: "[target.GetFirstNameNoTooltip] will be mine!"
+ futa_conversion_events.0002.a.tt: "I go ahead with my attempt to seduce and convert [target.GetTitledFirstName]"
+ futa_conversion_events.0002.b: "I cannot risk discovery."
+
+ #
+
+ futa_conversion_events.0004.title: "Already Done"
+ futa_conversion_events.0004.desc: "It seems that [target.GetTitledFirstName] has gotten a newfound interest in women on [target.GetHerHis] own without my intervention. There is no reason to try and continue to convert [target.GetHerHis] sexuality. If I wish to still bed [target.GetHerHim], I should go about it in the normal way."
+ futa_conversion_events.0004.a: "Interesting."
+
+ #
+
+ futa_conversion_events.0005.title: "Cut Short"
+ futa_conversion_events.0005.desc: "With the death of [target.GetTitledFirstName], my plans for our future no longer matter.\n\nWhatever may once have been, it is now dead."
+ futa_conversion_events.0005.a: "If only I had won [target.GetHerHis] affections sooner!"
+
+ #
+
+ futa_conversion_events.0006.title: "Conversion of [target.GetTitledFirstName]"
+ futa_conversion_events.0006.desc: "I look down upon [target.GetTitledFirstName] to inspect the aftermath of our lovemaking.\n\n[target.GetSheHe|U] seems barely coherent and keeps mumbling to [target.GetHerselfHimself]. I find myself smiling with satisfaction and bliss. [target.GetTitledFirstName] is most likely in a very vulnerable state regarding #EMP “suggestions”#!, thanks to my friends at the $game_concept_futa_enclave$ and their special “remedy”."
+ futa_conversion_events.0006.a: "This is the kind of pleasure you can feel if you open your heart #weak (and legs)#! to us."
+ futa_conversion_events.0006.b: "From now on, every fiber of your body will be addicted to she-cock!"
+ futa_conversion_events.0006.c: "Forget [target.GetPrimarySpouse.GetFirstName], we will treat you better than [target.GetPrimarySpouse.GetSheHe] ever could."
+ futa_conversion_events.0006.d: "Forget [target.GetPrimarySpouse.GetFirstName], you'll only find pleasure from $trait_futa$ cock!"
+
+ #
+
+ futa_conversion_events.1000.title: "Caught in the Act" # Catch the target masturbating while thinking about you - Used some of base game seduction event descriptions
+ futa_conversion_events.1000.desc: "[target.GetFirstName] has become more noticeably affected by my presence. On one faithful evening, I decided to pay a visit to [target.GetFirstNamePossessive] chambers to keep up the pressure. A shiver of anticipation finds its way up my spine as I approach [target.GetHerHis] door.\n\nAs I was getting ready to knock, I heard some very #EMP peculiar#! sounds coming from inside, which left little imagination as to what was happening.\n\n#italic “Oh, [owner.GetFirstName]! You make me feel so excited! What have you done to me?”#!\n\n#EMP Very interesting.#! I was not expecting my advances to have an effect to this degree. Steeling my self, I decide to take... #EMP “responsibility”#! and help [target.GetFirstName] with [target.GetHerHis] #EMP “problem”#!."
+ futa_conversion_events.1000.a: "Open the door to her chambers."
+
+ #
+
+ futa_conversion_events.1001.title: "Caught in the Act" # Catch the target masturbating while thinking about you - Follow Up - Enter the Room
+ futa_conversion_events.1001.desc: "#italic “[owner.GetFirstName]!? Wha- what are you doing here!?”#!\n\n[target.GetFirstNamePossessive] face is crimson red as she frantically tries to cover [target.GetHerselfHimself] up. The tension in the air is so thick I could fuck it, but that would be no fun. [target.GetFirstName] has come far enough to take the initiative herself. \n\nI order her to disrobe me. \n\n”My liege? I-” My patience grows thin. She gulps but begins to approach me. Her hands still hovering over her unmentionables as if I had not already seen her playing with herself. \n\nHaving entered my arm’s reach, I stare into [target.GetFirstName]’s eyes knowingly. She takes a sharp breath and begins to undo my attire. I remain silent the entire time to help set the tone. \n\nMy dress falls by my feet which causes [target.GetFirstName] to gulp again as she sees my package in all its glory."
+ futa_conversion_events.1001.a: "Kneel."
+
+ #
+
+ futa_conversion_events.1002.title: "Caught in the Act" # Catch the target masturbating while thinking about you - Follow Up 2
+ futa_conversion_events.1002.desc: "“I uh, what?” \n\nI reiterate for her. #EMP Kneel.#! \n\n[target.GetFirstName] obeys, dropping before my girlcock. Her eyes widen as she takes my naked form in. She tilts towards my hanging fruit and subtly starts rubbing herself. \n\n”T-those are so #EMP big.#! \n\nAnd #EMP full#!, I make sure to add. [target.GetFirstName] may not notice, but my pussy is starting to drip rather heavily. This sexual tension is really getting to me, but I must hold fast to maintain the spell. \n\n[target.GetFirstName] simply gazes at my member, her rubbing becoming less and less discrete. A moan escapes her lips, sending her embarrassed gaze towards my eyes. \n\nI tell her that I am going to put my cock inside her wet little pussy, but #EMP only#! If she begs for it. \n\n”Can’t I at least touch it?” \n\nA cold gaze is her only response. [target.GetFirstName] contemplates her options. Sweat pools upon her brow. Her throat pulses in rhythm with her heart. She can’t even stop rubbing herself. I wiggle my hips a little which makes [target.GetFirstName] gasp. \n\n”Please, I want to feel it inside…” \n\nWas that all she had? \n\n”N-no! Please put your penis inside me!” \n\nThat really didn’t sound sincere. The last thing a ruler needs is rumours about not obtaining consent. \n\n”I’m begging you my liege. I have been thinking about you for many nights. Please show me what a Futanari can do in bed!” [target.GetFirstName] practically grovels at my feet in need. \n\nClearly she is just wasting my time, perhaps if she can be more honest next time I will recons- \n\n”#EMP SHOVE YOUR FUCKING GIRLCOCK UP MY PUSSY NOW!”"
+ futa_conversion_events.1002.a: "Roll her over."
+
+ #
+
+ futa_conversion_events.1003.title: "Caught in the Act" # Catch the target masturbating while thinking about you - Follow Up End
+ futa_conversion_events.1003.desc: "“Urgh, Ahhhha! Urrrrrrhhhh! Ohhhh yes, #EMP Fuck yes!#! Pound my pussy - OHHHHHHH!!!!! - Make me #EMP squirm!#! GODS! Your balls are so #EMP fucking fat!#! ARGH, CUMMING!!! \n\nEvery inch of [target.GetFirstName]’s slutty hole grips onto my shaft as I shape her into my perfect fucksleeve. There is no mercy, there is no asking for breaks. [target.GetFirstName] is pinned down and receptive to the absolute #EMP bitch braking#! fucking of her life. \n\n”Make me yours! Claim my cock teasing ass with your huge stud cock!” \n\n[target.GetFirstName] has become an absolute whore for my dick. All this acting has really gotten me backed up. IF YOU WANT IT SO BAD YOU CAN LOOK FORWARD TO BECOMING A MOTHER!”"
+ futa_conversion_events.1003.a: "Roll her over."
+
+ #### Milestone Events
+
+ futa_conversion_events.4000.title: "Suggestive Smells"
+ futa_conversion_events.4000.desc: "It is time to put the first part of the plan to convert [target.GetFirstNameRegnal] in motion. The $game_concept_futa_merchant$ has said that this curious little artifact called [futa_maliah_branch_artifact.GetName] would help me accomplish this goal of mine. After all, getting someone to be interested in someone they feel no attraction to is not easy to do, if not borderline impossible.\n\nOne of the ways she suggested using the $futa_maliah_branch_name$ was to inhale it via smoke. So I will prepare an incense made out of this peculiar plant.\n\nThe main question is; How do I get [target.GetFirstNameRegnal] to inhale it?"
+ futa_conversion_events.4000.a: "I will send it as a gift."
+ futa_conversion_events.4000.b: "I will invite [target.GetHerHim] over."
+ futa_conversion_events.4000.gift_success.desc: "The gift will succeed!"
+ futa_conversion_events.4000.gift_fail.desc: "The gift will fail!"
+ futa_conversion_events.4000.invite_success.desc: "The invite will succeed!"
+ futa_conversion_events.4000.invite_fail.desc: "The invite will fail!"
+
+ #
+
+ futa_conversion_events.4100.title: "Suggestive Smells - Success"
+ futa_conversion_events.4100.gift.desc: "I prepare a little package with the incense and arrange it to be delivered to [target.GetFirstNameRegnal].\n\nYou are not sure if this was the best choice, as you cannot ensure that [target.GetSheHe] will inhale the smoke, but you still think this was the best course of action to not arouse suspicion.\n\nShortly after, a letter arrives from [target.GetFirstNameRegnal], thanking me for the “gift”, noting that it has a very sweet and unique smell, one that she has never smelled before, and she intends to use it all up!"
+ futa_conversion_events.4100.invite.desc: "I invite [target.GetFirstNameRegnal] over to spend some time together.\n\nI prepare the room with the incense to be inhaled during our meeting. Shortly after, [target.GetFirstNameRegnal] arrives and we start talking about various topics. I try to subtly sneak in questions and suggestions about [target.GetHerHis] interest in women, all the while [target.GetHerHis] sense of smell is being assulted by the sweet aroma of the incense. This stuff is #EMP effective#!, you can barely keep your thoughts straight.\n\nWhen it was time to leave, [target.GetFirstNameRegnal] looked very #EMP distracted#!, like [target.GetHerHis] mind wasn't fully there."
+
+ #
+
+ futa_conversion_events.4200.title: "Suggestive Smells - Failure"
+ futa_conversion_events.4200.gift.desc: "I prepare a little package with the incense and arrange it to be delivered to [target.GetFirstNameRegnal].\n\nYou are not sure if this was the best choice, as you cannot ensure that [target.GetSheHe] will inhale the smoke, but you still think this was the best course of action to not arouse suspicion.\n\nShortly after, a letter arrives from [target.GetFirstNameRegnal], thanking me for the “gift”, noting that it has a very sweet and unique smell. However, it irritated her breathing, so [target.GetSheHe] decided to give the gift to someone else! [target.GetSheHe|U] states that [target.GetSheHe] is very thankful for the gesture nonetheless."
+ futa_conversion_events.4200.invite.desc: "I invite [target.GetFirstNameRegnal] over to spend some time together.\n\nI prepare the room with the incense to be inhaled during our meeting.\n\nHowever, [target.GetSheHe] never arrives. All the effort was for nothing, and more importantly, the incense was wasted!"
+
+ #
+
+ futa_conversion_events.5000.title: "Sweet Deception"
+ futa_conversion_events.5000.desc: "Another suggestion you've received from the $game_concept_futa_merchant_short$ was to have the person of your interest ingest the item one way or another. So I've decided to bake some sweets and pastries from what is leftover of the $futa_maliah_branch_name$ and invite [target.GetFirstNameRegnal] over to a little feast."
+ futa_conversion_events.5000.a: "Make the preparations and send the invite."
+ futa_conversion_events.5000.success.desc: "The invitation will succeed!"
+ futa_conversion_events.5000.fail.desc: "The invitation will fail!"
+
+ #
+
+ futa_conversion_events.5100.title: "Sweet Deception - Success"
+ futa_conversion_events.5100.desc: "Everything has been set up. I've made sure that the specially prepared sweets will only be delivered to [target.GetFirstNamePossessiveRegnal] plate. Only thing left to do is to wait for my object of desire to arrive.\n\n[target.GetSheHe|U] finally arrives and we take a seat. Of course, I arranged [target.GetHerHim] to be seated next to me, so I can put some #EMP suggestions#! into [target.GetHerHis] head when it is vulnerable.\n\nAfter eating a couple, [target.GetFirstNameRegnal] remarked how wonderfully delicious these delicacies are, and then started gobbling them up faster and faster!\n\nBelly and mind filled to the brim, [target.GetFirstNameRegnal] looks stunned, eyes nearly empty and staring into space. Taking this as a sign, I get to work."
+
+ #
+
+ futa_conversion_events.5200.title: "Sweet Deception - Failure"
+ futa_conversion_events.5200.desc: "Everything has been set up. I've made sure that the specially prepared sweets will only be delivered to [target.GetFirstNamePossessiveRegnal] plate. Only thing left to do is to wait for my object of desire [target.GetFirstNameRegnal] to arrive.\n\nHowever, [target.GetSheHe] never does. Whether by choice or by circumstance, [target.GetFirstNameRegnal] is a no-show! Now all that preparation and food has gone to waste!"
+
+ #
+
+ futa_conversion_events.5001.title: "Tempting Beverage"
+ futa_conversion_events.5001.desc: "It is time for step two; To have the person of your interest ingest the item one way or another. So I've decided to use what is leftover of the $futa_maliah_branch_name$ to mix it in with some beverages. Alcoholic  or herbal, doesn't matter, as long it is consumed."
+ futa_conversion_events.5001.a: "Make the preparations and invite over."
+ futa_conversion_events.5001.b: "Prepare the ingredients and send it to [target.GetFirstNameRegnal]."
+ futa_conversion_events.5001.gift_success.desc: "The gift will succeed!"
+ futa_conversion_events.5001.gift_fail.desc: "The gift will fail!"
+ futa_conversion_events.5001.invite_success.desc: "The invite will succeed!"
+ futa_conversion_events.5001.invite_fail.desc: "The invite will fail!"
+
+ #
+
+ futa_conversion_events.5101.title: "Tempting Beverage - Success"
+ futa_conversion_events.5101.gift.desc: "I prepare a little package with the ingredients and arrange it to be delivered to [target.GetFirstNameRegnal]. You've also made sure to include instructions on how to prepare and use these ingredients, of course.\n\nShortly after, a letter arrives from [target.GetFirstNameRegnal], thanking me for the “gift”, noting that drinks made with what I've sent over have a very sweet, almost addictive taste! One that [target.GetSheHe] will never tire of, and [target.GetSheHe] wishes to get more of these ingredients in the future!"
+ futa_conversion_events.5101.invite.desc: "I invite [target.GetFirstNameRegnal] over to talk over some freshly made drinks.\n\nI prepare the room and arrange the drinks to be served to [target.GetFirstNameRegnal]. Shortly after, [target.GetFirstNameRegnal] arrives and we start talking about various topics. [target.GetSheHe|U] starts to finish up [target.GetHerHis] drinks faster and faster. Almost as if [target.GetSheHe] cannot stop! I try to subtly sneak in questions and suggestions about [target.GetHerHis] interest in women.\n\nWhen it was time to leave, [target.GetFirstNameRegnal] had a blank smile, while looking over at me with an unfocused stare." 
+
+
+ #
+
+ futa_conversion_events.5201.title: "Tempting Beverage - Failure"
+ futa_conversion_events.5201.gift.desc: "I prepare a little package with the ingredients and arrange it to be delivered to [target.GetFirstNameRegnal]. You've also made sure to include instructions on how to prepare and use these ingredients, of course.\n\nShortly after, a letter arrives from [target.GetFirstNameRegnal], thanking me for the “gift”. However, [target.GetSheHe] did not get to try it out, as the ingredients somehow got lost! [target.GetSheHe|U] states that [target.GetSheHe] is very thankful for the gesture nonetheless."
+ futa_conversion_events.5201.invite.desc: "I invite [target.GetFirstNameRegnal] over to talk over some freshly made drinks.\n\nI prepare the room and arrange the drinks to be served to [target.GetFirstNameRegnal]. Shortly after, [target.GetFirstNameRegnal] arrives and we start talking about various topics.\n\nHowever, [target.GetSheHe] never touches the drinks! To top it all off, all the subtle effort to get [target.GetFirstNameRegnal] to drink the beverages also made things awkward!" 
+
+
+
+ ## Modifiers
+
+ futa_convert_cooldown_opinion: "Rebuffed Sexuality Conversion"
+ futa_convert_permanent_blocker_opinion: "Repulsed by Sexuality Conversion"
+
+ futa_convert_sexuality_scheme_scheme_phase_duration_add: "[GetScheme('futa_convert_sexuality_scheme').GetTypeName] [scheme_speed_single|E]"
+ futa_elope_scheme_phase_duration_add: "[GetScheme('futa_elope').GetTypeName] [scheme_speed_single|E]"
+
+ futa_convert_sexuality_scheme_enemy_scheme_phase_duration_add: "Incoming [GetScheme('futa_convert_sexuality_scheme').GetTypeName] [scheme_speed_single|E]"
+ futa_elope_enemy_scheme_phase_duration_add: "Incoming [GetScheme('futa_elope').GetTypeName] [scheme_speed_single|E]"
+
+
+ ## Character Interactions
+ futa_convert_sexuality_interaction: "Convert Sexuality #weak (Scheme)#!"
+ futa_convert_sexuality_scheme_interaction_notification: "Sexuality Conversion"
+ 
+
+ ## Schemes
+
+ futa_convert_sexuality_scheme: "Convert Sexuality"
+ futa_convert_sexuality_scheme_action: "Convert Sexuality of"
+ futa_convert_sexuality_scheme_desc: "I fancy [SCHEME.GetTargetCharacter.GetShortUINameNoTooltip], however [SCHEME.GetTargetCharacter.GetSheHe] does not seem to share the sentiment. I may be able to #italic convince#! and teach [SCHEME.GetTargetCharacter.GetHerHim] that some girls are as good as men, if not significantly better!"
+ futa_convert_sexuality_scheme_desc_general: "$futa_convert_sexuality_scheme$ is a [personal_scheme|E] that aims to show the [scheme_target|E] that $trait_futa$ are the best package deal, being able to provide both what a man and woman could provide, laying with them and causing a sexual awakening in the target in the process with the help of an item called a [futa_maliah_branch|E].\n\nPlenty of factors determine the [success_chance|E], such as [opinion|E], [trait|E] compatibility and many more."
+
+ futa_convert_sexuality_lover_relation: "[TARGET_CHARACTER.GetShortUIName|U] fell in love with [CHARACTER.GetShortUIName] upon discovering the sheer amount of pleasure [CHARACTER.GetShortUINamePossessive] $trait_futa$ dick makes [TARGET_CHARACTER.GetHerHim] feel."
+
+ futa_convert_sexuality_interaction_notification: "Sexuality Conversion"
+
+ FUTA_CONVERT_SEXUALITY_SUCCESS_DESC: "[TARGET_CHARACTER.GetShortUINamePossessive|U] [sexuality|E] will become more receptive towards women. [TARGET_CHARACTER.GetSheHe|U] may also become your [lover|E]"
+
+
+ futa_elope: "$trait_futa$ Elope"
+ futa_elope_desc: "Bring [SCHEME.GetTargetCharacter.GetShortUINameNoTooltip] to your [court|E] and [marry|E] [SCHEME.GetTargetCharacter.GetHerHim]"
+
+ ### Custom Tooltips
+ futa_convert_interaction_tt: "Attempt to convert [recipient.GetShortUINameNoTooltip], changing [recipient.GetHerHis] sexual orientation to [homosexual|E] or [bisexual|E], and possibly making [recipient.GetHerHim] your [lover|E]"
+
+ futa_convert_sexuality_invalid: "I stop trying to convert the sexuality of [target.GetTitledFirstNameNoTooltip] because it is no longer possible."
+ futa_convert_sexuality_invalidated_title: "@personal_scheme_icon! $futa_convert_sexuality_scheme$ Scheme Ends"

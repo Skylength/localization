@@ -1,0 +1,35 @@
+﻿l_english:
+ 
+ ## Act 1 Finale
+ PSFT_Act1_Finale_Decision.t: "Path of the Tigress"
+ PSFT_Act1_Finale_Decision.desc: "Having experienced the teachings of the Tigress first hand, you become inspired with a plan to help the [futa_enclave|E] integrate in a way you hadn't previously thought possible."
+ PSFT_Act1_Finale_Decision.confirm: "In the name of the Tigress!"
+ PSFT_Act1_Finale_Decision.tooltip: "Establish a new [activity|E]."
+ 
+ PSFT_Act1_Finale_Decision.req1: "Complete the #value 3#! Trials."
+ PSFT_Act1_Finale_Decision.req2: "Own a #value Duchy#! [title|E]."
+ PSFT_Act1_Finale_Decision.req3: "[futa_enclave|E] is sufficiently integrated."
+ 
+ PSFT_Act1_Finale_Decision.perk1: "Unlock a new [duchy_building|E]."
+ PSFT_Act1_Finale_Decision.perk2: "Unlock a new [activity|E]."
+ PSFT_Act1_Finale_Decision.perk3: "Gain #P 10#! favor with the Tigress."
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

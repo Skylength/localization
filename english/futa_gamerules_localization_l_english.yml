@@ -1,0 +1,246 @@
+﻿l_english:
+ 
+ game_rule_category_futanari_mod: "@futa_icon! Futanari Mod"
+
+ futa_event_freq_frequent: "Very Frequent"
+ futa_event_freq_often: "#high Often#!"
+ futa_event_freq_some_rare: "#high Somewhat Rare#!"
+ futa_event_freq_rare: "#high Rare#!"
+ futa_event_freq_very_rare: "#high Very Rare#!"
+ futa_event_freq_none: "#high None#!"
+
+ futa_event_freq_frequent_desc: "Events will show up #bold very frequently.#!"
+ futa_event_freq_often_desc: "Events will show up #bold often.#!"
+ futa_event_freq_some_rare_desc: "Events will show up #bold somewhat rarely.#!"
+ futa_event_freq_rare_desc: "Events will show up #bold rarely.#!"
+ futa_event_freq_very_rare_desc: "Events will show up #bold very rarely.#!"
+ futa_event_freq_none_desc: "Events will #bold never#! happen."
+
+
+  ############## Futa POV (Being a Futa) Events
+ rule_futa_futa_events_freq: "@futa_icon! Futa Event Frequency"
+ 
+ setting_futa_events_freq_very_frequent: "$futa_event_freq_frequent$"
+ setting_futa_events_freq_very_frequent_desc: "Controls how often events related to [GetTrait('futa_genetic').GetName( GetNullCharacter )] POV happen. $futa_event_freq_frequent$"
+ 
+ setting_futa_events_freq_often: "$futa_event_freq_often$"
+ setting_futa_events_freq_often_desc: "Controls how often events related to [GetTrait('futa_genetic').GetName( GetNullCharacter )] POV happen. $futa_event_freq_often_desc$"
+
+ setting_futa_events_freq_somewhat_rare: "$futa_event_freq_some_rare$"
+ setting_futa_events_freq_somewhat_rare_desc: "Controls how often events related to [GetTrait('futa_genetic').GetName( GetNullCharacter )] POV happen. $futa_event_freq_some_rare_desc$"
+
+ setting_futa_events_freq_rare: "$futa_event_freq_rare$"
+ setting_futa_events_freq_rare_desc: "Controls how often events related to [GetTrait('futa_genetic').GetName( GetNullCharacter )] POV happen. $futa_event_freq_rare_desc$"
+
+ setting_futa_events_freq_very_rare: "$futa_event_freq_very_rare$"
+ setting_futa_events_freq_very_rare_desc: "Controls how often events related to [GetTrait('futa_genetic').GetName( GetNullCharacter )] POV happen. $futa_event_freq_very_rare_desc$"
+
+ setting_futa_events_freq_none: "$futa_event_freq_none$"
+ setting_futa_events_freq_none_desc: "Controls how often events related to [GetTrait('futa_genetic').GetName( GetNullCharacter )] POV happen. $futa_event_freq_none_desc$"
+
+  ############### Relationship (Lovers)
+
+ rule_futa_relation_events_freq: "@futa_icon! Futa Relationship Event Frequency"
+ 
+ setting_futa_relation_events_freq_very_frequent: "$futa_event_freq_frequent$"
+ setting_futa_relation_events_freq_very_frequent_desc: "Controls how often events related to being in a relationship with a [GetTrait('futa_genetic').GetName( GetNullCharacter )] happen. $futa_event_freq_frequent_desc$"
+ 
+ setting_futa_relation_events_freq_often: "$futa_event_freq_often$"
+ setting_futa_relation_events_freq_often_desc: "Controls how often events related to being in a relationship with a [GetTrait('futa_genetic').GetName( GetNullCharacter )] happen. $futa_event_freq_often_desc$"
+
+ setting_futa_relation_events_freq_somewhat_rare: "$futa_event_freq_some_rare$"
+ setting_futa_relation_events_freq_somewhat_rare_desc: "Controls how often events related to being in a relationship with a [GetTrait('futa_genetic').GetName( GetNullCharacter )] happen. $futa_event_freq_some_rare_desc$"
+
+ setting_futa_relation_events_freq_rare: "$futa_event_freq_rare$"
+ setting_futa_relation_events_freq_rare_desc: "Controls how often events related to being in a relationship with a [GetTrait('futa_genetic').GetName( GetNullCharacter )] happen. $futa_event_freq_rare_desc$"
+
+ setting_futa_relation_events_freq_very_rare: "$futa_event_freq_very_rare$"
+ setting_futa_relation_events_freq_very_rare_desc: "Controls how often events related to being in a relationship with a [GetTrait('futa_genetic').GetName( GetNullCharacter )] happen. $futa_event_freq_very_rare_desc$"
+
+ setting_futa_relation_events_freq_none: "$futa_event_freq_none$"
+ setting_futa_relation_events_freq_none_desc: "Controls how often events related to being in a relationship with a [GetTrait('futa_genetic').GetName( GetNullCharacter )] happen. $futa_event_freq_none_desc$"
+
+  ############### Futanari Enclave Events
+
+ rule_futa_enclave_events_freq: "@futa_icon! Futa Enclave Event Frequency"
+ 
+ setting_futa_enclave_events_freq_very_frequent: "$futa_event_freq_frequent$"
+ setting_futa_enclave_events_freq_very_frequent_desc: "Controls how often events related to [GetTrait('futa_genetic').GetName( GetNullCharacter )] Enclave happen. $futa_event_freq_frequent_desc$"
+ 
+ setting_futa_enclave_events_freq_often: "$futa_event_freq_often$"
+ setting_futa_enclave_events_freq_often_desc: "Controls how often events related to [GetTrait('futa_genetic').GetName( GetNullCharacter )] Enclave happen. $futa_event_freq_often_desc$"
+
+ setting_futa_enclave_events_freq_somewhat_rare: "$futa_event_freq_some_rare$"
+ setting_futa_enclave_events_freq_somewhat_rare_desc: "Controls how often events related to [GetTrait('futa_genetic').GetName( GetNullCharacter )] Enclave happen. $futa_event_freq_some_rare_desc$"
+ 
+ setting_futa_enclave_events_freq_rare: "$futa_event_freq_rare$"
+ setting_futa_enclave_events_freq_rare_desc: "Controls how often events related to [GetTrait('futa_genetic').GetName( GetNullCharacter )] Enclave happen. $futa_event_freq_rare_desc$"
+ 
+ setting_futa_enclave_events_freq_very_rare: "$futa_event_freq_very_rare$"
+ setting_futa_enclave_events_freq_very_rare_desc: "Controls how often events related to [GetTrait('futa_genetic').GetName( GetNullCharacter )] Enclave happen. $futa_event_freq_very_rare_desc$"
+
+ setting_futa_enclave_events_freq_none: "#high None#!"
+ setting_futa_enclave_events_freq_none_desc: "Controls how often events related to [GetTrait('futa_genetic').GetName( GetNullCharacter )] Enclave happen. $futa_event_freq_none_desc$"
+
+  ############### Futa Knight Events
+
+ rule_futa_knight_events_freq: "@futa_icon! Futa Knightess Event Frequency"
+ 
+ setting_futa_knight_events_freq_very_frequent: "$futa_event_freq_frequent$"
+ setting_futa_knight_events_freq_very_frequent_desc: "Controls how often events related to [GetTrait('futa_genetic').GetName( GetNullCharacter )] Knightess happen. $futa_event_freq_frequent_desc$"
+ 
+ setting_futa_knight_events_freq_often: "$futa_event_freq_often$"
+ setting_futa_knight_events_freq_often_desc: "Controls how often events related to [GetTrait('futa_genetic').GetName( GetNullCharacter )] Knightess happen. $futa_event_freq_often_desc$"
+
+ setting_futa_knight_events_freq_somewhat_rare: "$futa_event_freq_some_rare$"
+ setting_futa_knight_events_freq_somewhat_rare_desc: "Controls how often events related to [GetTrait('futa_genetic').GetName( GetNullCharacter )] Knightess happen. $futa_event_freq_some_rare_desc$"
+ 
+ setting_futa_knight_events_freq_rare: "$futa_event_freq_rare$"
+ setting_futa_knight_events_freq_rare_desc: "Controls how often events related to [GetTrait('futa_genetic').GetName( GetNullCharacter )] Knightess happen. $futa_event_freq_rare_desc$"
+ 
+ setting_futa_knight_events_freq_very_rare: "$futa_event_freq_very_rare$"
+ setting_futa_knight_events_freq_very_rare_desc: "Controls how often events related to [GetTrait('futa_genetic').GetName( GetNullCharacter )] Knightess happen. $futa_event_freq_very_rare_desc$"
+
+ setting_futa_knight_events_freq_none: "#high None#!"
+ setting_futa_knight_events_freq_none_desc: "Controls how often events related to [GetTrait('futa_genetic').GetName( GetNullCharacter )] Knightess happen. $futa_event_freq_none_desc$"
+
+  ############### Femboi Events
+
+ rule_futa_femboi_events_freq: "@futa_icon! Femboi Event Frequency"
+ 
+ setting_futa_femboi_events_freq_very_frequent: "$futa_event_freq_frequent$"
+ setting_futa_femboi_events_freq_very_frequent_desc: "Controls how often events related to [GetTrait('femboi').GetName( GetNullCharacter )] happen. $futa_event_freq_frequent_desc$"
+ 
+ setting_futa_femboi_events_freq_often: "$futa_event_freq_often$"
+ setting_futa_femboi_events_freq_often_desc: "Controls how often events related to [GetTrait('femboi').GetName( GetNullCharacter )] happen. $futa_event_freq_often_desc$"
+
+ setting_futa_femboi_events_freq_somewhat_rare: "$futa_event_freq_some_rare$"
+ setting_futa_femboi_events_freq_somewhat_rare_desc: "Controls how often events related to [GetTrait('femboi').GetName( GetNullCharacter )] happen. $futa_event_freq_some_rare_desc$"
+ 
+ setting_futa_femboi_events_freq_rare: "$futa_event_freq_rare$"
+ setting_futa_femboi_events_freq_rare_desc: "Controls how often events related to [GetTrait('femboi').GetName( GetNullCharacter )] happen. $futa_event_freq_rare_desc$"
+ 
+ setting_futa_femboi_events_freq_very_rare: "$futa_event_freq_very_rare$"
+ setting_futa_femboi_events_freq_very_rare_desc: "Controls how often events related to [GetTrait('femboi').GetName( GetNullCharacter )] happen. $futa_event_freq_very_rare_desc$"
+
+ setting_futa_femboi_events_freq_none: "#high None#!"
+ setting_futa_femboi_events_freq_none_desc: "Controls how often events related to [GetTrait('femboi').GetName( GetNullCharacter )] happen. Events will #bold never#! happen."
+
+  ############### Futanari Consort (Spouse, Concubine) Events
+
+ rule_futa_consort_events_freq: "@futa_icon! Consort Event Frequency"
+ 
+ setting_futa_consort_events_freq_very_frequent: "$futa_event_freq_frequent$"
+ setting_futa_consort_events_freq_very_frequent_desc: "Controls how often events related to being a [spouse|E] or a [concubine|E] to a [GetTrait('futa_genetic').GetName( GetNullCharacter )] happen. $futa_event_freq_frequent_desc$"
+ 
+ setting_futa_consort_events_freq_often: "$futa_event_freq_often$"
+ setting_futa_consort_events_freq_often_desc: "Controls how often events related to being a [spouse|E] or a [concubine|E] to a [GetTrait('futa_genetic').GetName( GetNullCharacter )] happen. $futa_event_freq_often_desc$"
+
+ setting_futa_consort_events_freq_somewhat_rare: "$futa_event_freq_some_rare$"
+ setting_futa_consort_events_freq_somewhat_rare_desc: "Controls how often events related to being a [spouse|E] or a [concubine|E] to a [GetTrait('futa_genetic').GetName( GetNullCharacter )] happen. $futa_event_freq_some_rare_desc$"
+ 
+ setting_futa_consort_events_freq_rare: "$futa_event_freq_rare$"
+ setting_futa_consort_events_freq_rare_desc: "Controls how often events related to being a [spouse|E] or a [concubine|E] to a [GetTrait('futa_genetic').GetName( GetNullCharacter )] happen. $futa_event_freq_rare_desc$"
+ 
+ setting_futa_consort_events_freq_very_rare: "$futa_event_freq_very_rare$"
+ setting_futa_consort_events_freq_very_rare_desc: "Controls how often events related to being a [spouse|E] or a [concubine|E] to a [GetTrait('futa_genetic').GetName( GetNullCharacter )] happen. $futa_event_freq_very_rare_desc$"
+
+ setting_futa_consort_events_freq_none: "#high None#!"
+ setting_futa_consort_events_freq_none_desc: "Controls how often events related to being a [spouse|E] or a [concubine|E] to a [GetTrait('futa_genetic').GetName( GetNullCharacter )] happen. Events will #bold never#! happen."
+
+
+ # ---------------------------------------------------------------------------- #
+ #                               Other Game Rules                               #
+ # ---------------------------------------------------------------------------- #
+
+ # Ruins Content
+
+ rule_futa_enable_ruins_content: "@futa_icon! Ruins Generation"
+
+ setting_futa_ruins_content_enabled: "Enabled"
+ setting_futa_ruins_content_enabled_desc: "Ruins will spawn around the map dynamically."
+
+ setting_futa_ruins_content_disabled: "#high Disabled#!"
+ setting_futa_ruins_content_disabled_desc: "Ruins will not spawn. #warning This will lock you out of content.#!"
+
+ # Background Futa Relation Pregnancies
+
+ rule_futa_relations_background_impregnations: "@futa_icon! Periodic $trait_futa$ Relation Pregnancies"
+
+ setting_futa_relations_background_impregnations_enabled: "Enabled"
+ setting_futa_relations_background_impregnations_enabled_desc: "Chance for $trait_futa$ Pregnancies to happen for couples, independent from events. $futa_random_relation_pregnancies_info$"
+
+ setting_futa_relations_background_impregnations_disabled: "#high Disabled#!"
+ setting_futa_relations_background_impregnations_disabled_desc: "Disable periodic chances for $trait_futa$ Pregnancies. $futa_random_relation_pregnancies_info$"
+
+ futa_random_relation_pregnancies_info: "#highlight This is an extra option to mimic the base game's style of getting pregnant. The pregnancy chances from events are not affected.#!"
+
+ # Futa Pregnancy Child Gender
+
+ rule_futa_pregnancy_child_gender: "@futa_icon! Futa Pregnancy Child Gender"
+
+ setting_futa_pregnancy_child_gender_mostly_female: "Mosty Female"
+ setting_futa_pregnancy_child_gender_mostly_female_desc: "Futa born children will be more likely to be female."
+
+ setting_futa_pregnancy_child_gender_only_female: "#high Only Female#!"
+ setting_futa_pregnancy_child_gender_only_female_desc: "Futa born children will only be female."
+
+ setting_futa_pregnancy_child_gender_mostly_male: "#high Mostly Male#!"
+ setting_futa_pregnancy_child_gender_mostly_male_desc: "Futa born children will be more likely to be male."
+
+ setting_futa_pregnancy_child_gender_only_male: "#high Only Male#!"
+ setting_futa_pregnancy_child_gender_only_male_desc: "Futa born children will only be male."
+
+ # Futa Child Limits
+
+ rule_futa_child_limit: "@futa_icon! Futa Child Limit"
+
+ setting_futa_child_limit_no_limit: "No Limit"
+ setting_futa_child_limit_no_limit_desc: "There will be no limits to the amount of alive Futa Pregnancy children a $trait_futa$ couple can have."
+
+ setting_futa_child_limit_limited: "#high Limited#!"
+ setting_futa_child_limit_limited_desc: "Chances for any further Futa Pregnancies will start to lower with each #S alive#! [GetTrait('child_of_futa').GetName( GetNullCharacter )] above #high 5#!, limiting each character to sire or mother #high 10#! Futa Pregnancy children."
+
+ setting_futa_child_limit_only_ai: "#high Only AI#!"
+ setting_futa_child_limit_only_ai_desc: "The limit will only apply to AI outside of a relationship with the player."
+
+ setting_futa_child_limit_only_player: "#high Only Player#!"
+ setting_futa_child_limit_only_player_desc: "The limit will only apply to the player."
+
+ # Futa Equality Doctrine Seeding
+
+ rule_futa_faith_equality_doctrine_seeding: "@futa_icon! Futa Equality"
+ 
+ setting_futa_faith_equality_doctrine_seeding_dynamic: "Dynamic"
+ setting_futa_faith_equality_doctrine_seeding_dynamic_desc: "Every [religion|E] and [faith|E]'s look towards the [GetTrait('futa_genetic').GetName( GetNullCharacter )] will be dynamic. #highlight This is the default setting and the recommended one to play with, as the content is designed around this premise.#!"
+ 
+ setting_futa_faith_equality_doctrine_seeding_shunned: "#high Shunned#!"
+ setting_futa_faith_equality_doctrine_seeding_shunned_desc: "Every [religion|E] will see [GetTrait('futa_genetic').GetName( GetNullCharacter )] as [shunned|E]. $futa_equality_setting_non_dynamic_warning$"
+
+ setting_futa_faith_equality_doctrine_seeding_criminal: "[game_rule_extreme_i|e] #high Criminal#!"
+ setting_futa_faith_equality_doctrine_seeding_criminal_desc: "Every [religion|E] will see [GetTrait('futa_genetic').GetName( GetNullCharacter )] as [criminal|E]. $futa_equality_setting_non_dynamic_warning$"
+ 
+ setting_futa_faith_equality_doctrine_seeding_vilified: "[game_rule_extreme_i|e] #high Vilified#!"
+ setting_futa_faith_equality_doctrine_seeding_vilified_desc: "Every [religion|E] will see [GetTrait('futa_genetic').GetName( GetNullCharacter )] as evil incarnate. $futa_equality_setting_non_dynamic_warning$"
+ 
+ setting_futa_faith_equality_doctrine_seeding_accepted: "#high Accepted#!"
+ setting_futa_faith_equality_doctrine_seeding_accepted_desc: "Every [religion|E] will see [GetTrait('futa_genetic').GetName( GetNullCharacter )] as accepted. $futa_equality_setting_non_dynamic_warning$"
+
+ setting_futa_faith_equality_doctrine_seeding_virtuous: "[game_rule_unique_i|e] #high Virtuous#!"
+ setting_futa_faith_equality_doctrine_seeding_virtuous_desc: "Every [religion|E] will see [GetTrait('futa_genetic').GetName( GetNullCharacter )] as [virtuous|E]. $futa_equality_setting_non_dynamic_warning$"
+
+ setting_futa_faith_equality_doctrine_seeding_venerated: "[game_rule_unique_i|e] #high Venerated#!"
+ setting_futa_faith_equality_doctrine_seeding_venerated_desc: "Every [religion|E] will see [GetTrait('futa_genetic').GetName( GetNullCharacter )] as objects of worship. $futa_equality_setting_non_dynamic_warning$"
+
+
+ futa_equality_setting_non_dynamic_warning: "#warning This is not the intended setting. You will miss out on content, things might not make sense, and some stuff might break. Do not use for a serious playthrough.#!"
+ 
+ # Bog Blaster Nerfs
+ 
+ rule_futa_nerf_bogblaster_content: "@futa_icon! Nerf Bog Blasters"
+ 
+ setting_futa_nerf_bogblaster_content_enabled: "#high Enabled#!"
+ setting_futa_nerf_bogblaster_content_enabled_desc: "Bog Blasters will not rebel and AI will not use Bid For Meath wars. #BOLD NOT recommended.#!"
+ 
+ setting_futa_nerf_bogblaster_content_disabled: "Disabled"
+ setting_futa_nerf_bogblaster_content_disabled_desc: "The intended experiance to keep Ireland dynamic."

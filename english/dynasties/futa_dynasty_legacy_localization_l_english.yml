@@ -1,0 +1,150 @@
+﻿l_english:
+ 
+
+ # Finisher: This stuff will require a decent amount of custom localization, so keeping it on a seperate file
+
+ ## Dynasty Legacies
+
+ futa_heirs_of_nog_legacy_track_name: "Heirs of Tír na nÓg"
+ futa_heirs_of_nog_legacy_track_desc: "The land of meriment and eternal youth might be lost to use, but we are its progeny!\n\n#BOLD As Proud As Gold#!"
+ futa_heirs_of_nog_legacy_1_name: "Sunlight Roads"
+ futa_heirs_of_nog_legacy_2_name: "Boann's Love"
+ futa_heirs_of_nog_legacy_3_name: "The Golden Boar"
+ futa_heirs_of_nog_legacy_4_name: "Fruitful Bounty"
+ futa_heirs_of_nog_legacy_5_name: "Ageless Paradise"
+
+ futa_lustful_cursed_legacy_track_name: "Lustful Cursed"
+ futa_lustful_cursed_legacy_track_desc: "All Futanari know of it, all Futa feel it's pull.\n\n#BOLD Ultimate Fertility#!"
+ futa_lustful_cursed_legacy_1_name: "By the Barrel Full"
+ futa_lustful_cursed_legacy_2_name: "United in Strife"
+ futa_lustful_cursed_legacy_3_name: "Famed Lovers"
+ futa_lustful_cursed_legacy_4_name: "Feared Demons"
+ futa_lustful_cursed_legacy_5_name: "Strong Seed"
+
+ 
+
+ ## MAA
+
+ futa_enclave_recruited_troops: "Enclave Recruits"
+
+ futa_lust_starved_berserkers: "Lust Starved Berserkers"
+ futa_lust_starved_berserkers_flavor: "Deprived of sexual release and satisfaction for weeks and exposed to frequent violence, these ladies are ready to #EMP let loose#! and will hold #BOLD nothing back#!."
+
+ futa_forlorn_mercenaries: "Forlorn Mercenaries"
+ futa_forlorn_mercenaries_flavor: "Existing in a world that despises your nature breaks many, but these Futanari struggled against the odds to become feared yet respect warriors. Channeling their overwhelming urges and the explosive effects of their hormones, these Futanari train whilst abstaining from lust, resulting in huge strength gains and primal reaction times. \n\nThey only accept the best in their ranks and only serve high paying clients."
+
+ futa_defected_forlorn_mercs: "Defected $trait_futa$ Mercenaries"
+
+ ## Decision
+
+ contact_futa_enclave_legacy_perk_title: "Make contact with the [futa_enclave|E]"
+
+ futa_dynasty_contact_the_enclave_decision: "Contact the Enclave"
+ futa_dynasty_contact_the_enclave_decision_desc: "Futanari are shunned far and wide, but there is a network for that seeks to aid them and their families in this harsh world. Linking up with any nearby could help greatly."
+ futa_dynasty_contact_the_enclave_decision_tooltip: "You will make contact with a small group of Futanari Enclave members."
+ futa_dynasty_contact_the_enclave_decision_confirm: "Look for the signs"
+
+
+
+ contact_the_enclave_recruit_soldiers_option: "Recruit [special_troops|E]"
+ contact_the_enclave_recruit_soldiers_option_desc: "Take your pick from a variety of [special_troops|E]"
+ contact_the_enclave_recruit_soldiers_option_tooltip: "The outlaws are eager to serve"
+ contact_the_enclave_get_artifacts_option: "Get [artifacts|E]"
+ contact_the_enclave_get_artifacts_option_desc: "Acquire their procured [artifacts|E]"
+ contact_the_enclave_get_artifacts_option_tooltip: "They have many riches"
+
+
+ ## Effect Localization
+
+ seduce_enemy_scheme_phase_duration_add: "Enemy [GetScheme('seduce').GetTypeName] [scheme_speed_single|E]"
+
+ futa_dynasty_legacy_custom_effect_starter_futa: "$trait_futa$ of the [dynasty|E]"
+ futa_dynasty_legacy_custom_effect_starter_general: "[dynasty|E] members"
+
+ FUTA_LUSTFUL_CURSED_LEGACY_REQUIREMENT: "\n#S Legacy Requirement#!: #EMP The [dynast|E] must either have the [GetTrait('futa_genetic').GetName( GetNullCharacter )], [GetTrait('futa_bitch').GetName( GetNullCharacter )] or a [primary_spouse|E] with the [GetTrait('futa_genetic').GetName( GetNullCharacter )] [trait|E]#!"
+
+ FUTA_HEIRS_OF_NOG_LEGACY_REQUIREMENT: "\n#S Legacy Requirement#!: #EMP The [dynast|E] must have the [GetTrait('futa_milandrite').GetName( GetNullCharacter )] [trait|E]#!"
+ FUTA_HEIRS_OF_NOG_LEGACY_1_REQUIREMENT: "\n#S Legacy Requirement#!: #EMP The [dynast|E] must be located inside the [GetGeographicalRegion('futa_ireland_region').GetName] [region|E] and have the [GetTrait('futa_milandrite').GetName( GetNullCharacter )] [trait|E]#!"
+
+
+ FUTA_LUSTFUL_CURSED_1_BACKED_UP_EFFECT: "$futa_dynasty_legacy_custom_effect_starter_futa$ will have increased odds to impregnate, and will gain and lose extra [GetTrait('backed_up').GetName( GetNullCharacter )] [trait_level_track_xp|E]"
+
+ FUTA_LUSTFUL_CURSED_1_NO_SMOL_BALL_EFFECT: "$futa_dynasty_legacy_custom_effect_starter_futa$ cannot receive the #V Small#! ball type"
+
+ FUTA_LUSTFUL_CURSED_1_INCREASED_OVERPRODUCTIVE_EFFECT: "$futa_dynasty_legacy_custom_effect_starter_futa$ will have an increased chance of receiving the #V Overproductive#! ball type"
+
+ #
+
+ FUTA_LUSTFUL_CURSED_2_GOODWILL_EFFECT: "Gain #P 30#! yearly [futa_goodwill|E]"
+
+ FUTA_LUSTFUL_CURSED_2_CONTACT_ENCLAVE_DECISION_EFFECT: "Unlocks [futa_contact_enclave|E] [decision|E] for [adventurer_i|E] [adventurers|E]"
+
+ FUTA_LUSTFUL_CURSED_2_UNLOCK_FORLORN_MERCS_MAA_EFFECT: "Can recruit [GetMaA('futa_forlorn_mercenaries').GetName] as [men_at_arms|E]"
+
+ game_concept_futa_contact_enclave: "Contact the $game_concept_futa_enclave_short$"
+ game_concept_futa_contact_enclave_desc: "Enables the [decision|E] to contact the [futa_enclave|E] out in the wilderness to exchange [gold_i|E] [gold|E] and [futa_goodwill|E] to recruit [special_troops|E] and buy [artifacts|E] for [adventurer_i|E] [adventurers|E]"
+
+ futa_lustful_cursed_legacy_2_yearly_goodwill.title: "Gained $game_concept_futa_goodwill$"
+ futa_lustful_cursed_legacy_2_yearly_goodwill.desc: "Being united in strife with the $trait_futa$ has given you $game_concept_futa_goodwill$!"
+
+ #
+
+ FUTA_LUSTFUL_CURSED_3_FUTA_DICK_SIZE_EFFECT: "$futa_dynasty_legacy_custom_effect_starter_futa$ will have bigger dick sizes"
+
+ FUTA_LUSTFUL_CURSED_3_FUTA_PREGNANCY_TWIN_EFFECT: "$futa_dynasty_legacy_custom_effect_starter_general$ will have an increased chance to have #V twins#! from $trait_futa$ Pregnancies"
+
+ #
+
+ FUTA_LUSTFUL_CURSED_4_ENABLE_ONE_FREE_FUTA_INVASION_EFFECT: "Once per lifetime, gain access to a free [futa_merchant_invasion|E] regardless of the status of the [futa_enclave|E]"
+ FUTA_LUSTFUL_CURSED_4_UNLOCK_LUST_BERSERKERS_MAA_EFFECT: "Can recruit [GetMaA('futa_lust_starved_berserkers').GetName] as [men_at_arms|E]"
+ FUTA_LUSTFUL_CURSED_4_GOODWILL_GAIN_PER_BATTLE_VICTORY_EFFECT: "Battle Victories will grant [futa_goodwill|E] #weak (#V 1#! Goodwill per #V 100#! defeated [soldiers|E])#!"
+ FUTA_LUSTFUL_CURSED_4_FUTA_PREGNANCY_TRIPLET_EFFECT: "$futa_dynasty_legacy_custom_effect_starter_general$ will have a low chance to have #V triplets#! from $trait_futa$ Pregnancies"
+
+ #
+
+ FUTA_LUSTFUL_CURSED_5_FUTA_PREGNANCY_QUADRUPLET_EFFECT: "$futa_dynasty_legacy_custom_effect_starter_general$ will have a very low chance to have #V quadruplets#! from $trait_futa$ Pregnancies"
+
+
+ ##MAA
+ futa_lust_berserkers_regiment_event.title:0 "Futanari Beserkers Ravage the enemy!"
+ futa_lust_berserkers_regiment_event.desc:0 "My forces have manhandled the defeated enemy, reducing their numbers even further."
+ 
+ ## Events
+
+ futa_lustful_cursed_legacy_4_battle_victory_goodwill_gain.title: "Goodwill Gained from Battle"
+ futa_lustful_cursed_legacy_4_battle_victory_goodwill_gain.desc: "Your forces have earned you some Goodwill from their recent victory!"
+
+ #
+
+ futa_dynasty_events.0001.title: "Figures In The Dark"
+ futa_dynasty_events.0001.desc: "Once the sun has vanished from the skies I head out into the wilderness to follow a rumor I heard about the Enclave. Surely enough, I encounter a shady Futanari, or rather she finds me at knife point. \n\n”Dangerous time to be wandering alone wouldn’t you say? Of course, I am quite fond of #EMP certain#! Wanderers.” \n\nI make it clear my reasoning for trekking out in the middle of the night and tensions cooldown. \n\n”What are you looking for?”"
+
+ futa_dynasty_events.0001.a: "I would like to recruit fighters."
+ futa_dynasty_events.0001.b: "I want to look at the artifacts."
+ futa_dynasty_events.0001.c: "Nevermind."
+
+ #
+
+ futa_dynasty_events.0002.title: "Figures In The Dark - Troops"
+ futa_dynasty_events.0002.desc: "“Looking for some help at war eh? Well I know some fine girls who are in need of some stable employment. Let me know if any of these sound useful, but I warn you now, if you mistreat them you might not like my next visit.”"
+
+ futa_dynasty_events.0002.a: "I want your thieves."
+ futa_dynasty_events.0002.b: "I want your assassins."
+ futa_dynasty_events.0002.c: "I want your outlaw fighters"
+ futa_dynasty_events.0002.d: "I want your outlaw trappers"
+ futa_dynasty_events.0002.e: "I want your outlaw ambushers"
+ futa_dynasty_events.0002.f: "Nevermind."
+
+ #
+
+ futa_dynasty_events.0003.title: "Figures In The Dark - Items"
+ futa_dynasty_events.0003.desc: "futa_dynasty_events.0003.desc"
+
+ futa_dynasty_events.0003.a: "I want the [futa_maliah_branch|E]."
+ futa_dynasty_events.0003.b: "“I don’t carry much merchandise on me, but I do have this”. The Enclave Rogue reveals a pink branch. “There is a fancy trick you can do with this thing. For whatever reason, should you manage to get its material inside a woman, she will start becoming more… #EMP fond#! of our kind. I’d recommend burning it like an incense or something, but honestly the way you interact with the woman of your dreams is up to you.”"
+
+ #
+
+ futa_dynasty_events.1000.title: "Lust Unrestrained"
+ futa_dynasty_events.1000.desc: "A victory so sweet that it must be saviored, or so my berserkers say. Their bodies bulge with pressure from the #EMP burden#! they are forced to endure. Such brutal conditions for Futanari are also what can allow them to gain near-unatural levels of power should they be able to harness their lewd energy. \n\nHaving done their part, I am in no possition to revent them from finally #EMP unloading#! at the expense of our foes. The poor bastards didn't know what was coming until it was too late. My Futanari were desperate enough that they tore apart mail with their own hands, smashing in shields and breaking bones as they fought to earn themselves some toys. \n\nThe survivors likely wish they were slain, mounted in all manner of #EMP eccentric#! positions and #EMP split apart#! by the sheer mass of ranging she-meat forcing their way inside them. \n\nThe screams are like a war cry all on their own. If my foes were getting any ideas of a second wind I would wager that the anguish of their bretheren would have changed their minds. \n\nIt was not only the soldiers, but the camp followers of the enemy as well. My berserkers sprinted to the backlines in order to prevent any chance of a route, then worked their way to the front, trapping my foe. All the whilst they were pummelling and fucking. \n\nThe battlefield is covered in corpses and living - but dangerously bloated - lost souls."
+ futa_dynasty_events.1000.a: "At least my girls are happy now."

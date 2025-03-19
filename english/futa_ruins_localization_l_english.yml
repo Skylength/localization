@@ -1,0 +1,428 @@
+﻿l_english:
+ ## Events
+
+ futa_ruins_events.0002.title: "Ruins Sighted"
+ futa_ruins_events.0002.desc: "I have received some interesting news today. According to our scouts' reports, a small concentration of very ancient buildings were recently discovered on [futa_ruins_location.GetName]. Apparently, these ruins were on a very isolated location, and stayed undiscovered for ages.\n\nOur scouts decided to check the structures out briefly, and from what they've reported, these locations should still have many valuables left in them."
+ futa_ruins_events.0002.desc.settlement: "\n\nThese ruins seem to be some ancient $trait_futa$ settlement"
+ futa_ruins_events.0002.desc.temple: "\n\nThese ruins seem to be some ancient $trait_futa$ temple"
+ futa_ruins_events.0002.desc.bathhouse: "\n\nThese ruins seem to be some ancient $trait_futa$ bathhouse"
+ futa_ruins_events.0002.desc.smol_hint: "and they might contain riches and knowledge lost to time..."
+ futa_ruins_events.0002.a: "I should prepare an expedition..."
+ futa_ruins_events.0002.b: "Sell the location of the ruins."
+ futa_ruins_events.0002.c: "Provide the [futa_enclave_short|E] with full access to the ruins."
+
+ #
+
+ futa_ruins_events.0003.title: "Arrival"
+ futa_ruins_events.0003.desc: "We have finally arrived to [activity_location.GetName], the location of the ancient ruins. A camp has been prepared to rest and to act as a base of operations. We decide to rest after our journey, and start preparing to start our expedition into the structures."
+ futa_ruins_events.0003.desc.has_futa_merchant_scholar: "\n\n#highlight You have a $trait_futa$ Scholar with you! Your chances of finding rewards will be increased!#!"
+ futa_ruins_events.0003.desc.not_has_futa_merchant_scholar: "\n\n#N You do not have a $trait_futa$ Scholar with you! Your chances of finding rewards will be reduced! You can hire the scholar from the $game_concept_futa_merchant$ and bring her along with you.#!"
+ futa_ruins_events.0003.desc.has_futa_guard: "\n\n#highlight You either have $futa_knight$ or an $game_concept_futa_enclave_short$ Guard with you! Your chances of triggering traps and hazards will be reduced and chances of passing through the triggered hazards unharmed will be increased!#!"
+ futa_ruins_events.0003.desc.has_dungeon_crawler: "\n\n#highlight You have $futa_dungeon_crawler$ with you! Such an experienced explorer will reduce your chance of triggering traps and hazards! Your chances of finding rewards also will be increased!#!"
+
+ futa_ruins_events.0003.a: "We will move out soon."
+
+ #
+
+ futa_ruins_events.0004.title: "Traps!"
+ futa_ruins_events.0004.desc: "While we were making our way through the ruins of [activity_location.GetName], our crew has encountered some traps that still active! We need to handle this quickly and elegantly!"
+ futa_ruins_events.0004.a: "Carefully..."
+
+ #
+
+ futa_ruins_events.0005.title: "Small Treasures"
+ futa_ruins_events.0005.desc: "Your crew comes across a small room containing a few items.\n\nUpon closer inspection,"
+ futa_ruins_events.0005.desc.gold: "these seem to be small pouches of #Y gold coins!#!"
+ futa_ruins_events.0005.desc.prestige: "these seem to be some kind of jewelry!"
+ futa_ruins_events.0005.desc.renown: "these seem to be some old writing, detailing various legendary figures!"
+ futa_ruins_events.0005.desc.artifacts: "nothing looks to be anything of value. However, one of the items catches your eye."
+ futa_ruins_events.0005.desc.donate_reward_to_enclave: "\n\nYou also have the option of donating what you've found to the [futa_enclave_short|E], which should increase your standing with them."
+ futa_ruins_events.0005.desc.artifacts_rings: "\n\nIt looks be a... ring? of some sort. Maybe more like a bracelet, judging by its size."
+ futa_ruins_events.0005.desc.artifacts_maliah_branch: "\n\nIt looks be a... tree branch?. It doesn't look like its from any of the trees you've seen."
+ futa_ruins_events.0005.a: "These should benefit me nicely."
+ futa_ruins_events.0005.b: "What a curious looking item."
+ futa_ruins_events.0005.c: "Give it to the $game_concept_futa_enclave_short$."
+
+ #
+
+ futa_ruins_events.0006.title: "Main Treasure"
+ futa_ruins_events.0006.desc: "As your supplies are running low, your time at this place is slowly coming to an end. During one its final incursions to the ruins, your crew comes across an important looking marked door which opens into a huge and spacious chamber. What you've come across surprises you!\n\n"
+ futa_ruins_events.0006.desc.gold: "A big chest with #Y piles and piles of gold coins#! in and around it! The rest of the chamber has certainly seen better days, but this find should help recoup the cost of the investigation and help your coffers!"
+ futa_ruins_events.0006.desc.prestige: "A chest, filled and surrounded with various kinds of jewelry! These new items should help your standing amongst others!"
+ futa_ruins_events.0006.desc.renown: "Tomes! Pages and pages of ancient figures, exploits and much more! These should help with cementing the legacy of [GetPlayer.GetDynasty.GetBaseName]!"
+ futa_ruins_events.0006.desc.artifacts: "At first, you thought you found nothing. However, a short lookover of the area reveals a small entrace to what looks like some kind of an armory, or a place to store artifacts!"
+ futa_ruins_events.0006.desc.nothing: "#bold Nothing!#! Zilch! The chamber is completely overgrown with plant life, and everything in here has either crumbled into dust, torn apart or absolutely rusted over. You fail to find anything that resembles to have even a medicum of value."
+ futa_ruins_events.0006.desc.donate_reward_to_enclave: "\n\nYou also have the option of donating what you've found to the [futa_enclave_short|E], which should increase your standing with them."
+ futa_ruins_events.0006.a: "Jackpot!"
+ futa_ruins_events.0006.b: "This looks to be a valuable item."
+ futa_ruins_events.0006.c: "Give everything to the $game_concept_futa_enclave_short$."
+ futa_ruins_events.0006.d: "Curses!"
+
+ #
+
+ futa_ruins_events.0008.title: "The Main Temple Chamber"
+ futa_ruins_events.0008.desc: "As your supplies are running low, your time at this place is slowly coming to an end. During one its final incursions to the ruins, your crew comes across an important looking marked door which opens into a huge and spacious chamber. What you've come across surprises you!\n\nVarious murals, depictions and records about some Ancient $trait_futa$ Custom, provided in great detail. All this is information is quite facinating, and could bring drastic changes to your society if it were to be embraced..."
+
+ futa_ruins_events.0008.a: "We shall embrace this tradition!"
+ futa_ruins_events.0008.b: "Let's keep these customs in mind."
+
+ #
+
+ futa_ruins_events.0009.title: "The Settlement's Core"
+ futa_ruins_events.0009.desc: "As your supplies are running low, your time at this place is slowly coming to an end. During one its final incursions to the ruins, your crew comes across an important looking marked door which opens into a huge and spacious chamber. What you've come across surprises you!\n\nVarious murals, depictions and records about some Ancient $trait_futa$ Custom, provided in great detail. All this is information is quite facinating, and could bring drastic changes to your society if it were to be embraced..."
+
+ futa_ruins_events.0009.a: "We shall embrace this tradition!"
+ futa_ruins_events.0009.b: "Let's keep these customs in mind."
+
+ #
+
+ futa_ruins_events.0010.title: "The Main Bath Chamber"
+ futa_ruins_events.0010.desc: "As your supplies are running low, your time at this place is slowly coming to an end. During one its final incursions to the ruins, your crew comes across an important looking marked door which opens into a huge and spacious chamber. What you've come across surprises you!\n\n"
+ futa_ruins_events.0010.tradition_desc: "Various murals, depictions and records about some Ancient $trait_futa$ Custom, provided in great detail. All this is information is quite facinating, and could bring drastic changes to your society if it were to be embraced..."
+ futa_ruins_events.0010.bathwater_desc: "A big pool, filled to the brim with crystal clear water. You can feel the serenity emenating from the water, merely being around it seemingly calming your mind."
+
+ futa_ruins_events.0010.a: "We shall embrace this tradition!"
+ futa_ruins_events.0010.b: "Let's keep these customs in mind."
+ futa_ruins_events.0010.c: "This looks useful."
+ futa_ruins_events.0010.c_bathwater: "I will go inside the water."
+ futa_ruins_events.0010.d: "We should get out of here."
+
+ #
+
+ futa_ruins_events.9001.title: "End of the Excavation"
+ futa_ruins_events.9001.desc: "With the supplies being depleted, our time in [activity_location.GetName] has come to an end. We need start making our way back to [GetPlayer.GetCapitalLocation.GetName].\n\nYou and and your crew have taken notice, however, that there is still much more left to be discovered in this place. You definitely have not unearthed all that lies here.\n\nAnother Investigation in mind, you start preparing for the journey back."
+ futa_ruins_events.9001.a: "Until next time."
+
+ #
+
+ futa_ruins_events.9002.title: "Ruins Exhausted"
+ futa_ruins_events.9002.desc: "With the supplies being depleted, our time in [activity_location.GetName] has come to an end. We need start making our way back to [GetPlayer.GetCapitalLocation.GetName].\n\nAfter multiple excursions and excavations, you and your crew have pretty much exhausted all the valuable items from these structures. There is nothing left to be found here.\n\nYour adventures still fresh in mind, you wonder if there are more locations like this out there. With hopeful thoughts, you start preparing for the journey back."
+ futa_ruins_events.9002.desc.capital_bonus: "\n\nAfter some assessment, you deduct that what is leftover here could be relocated to [GetPlayer.GetCapitalLocation.GetName] with a little bit of extra effort."
+ futa_ruins_events.9002.a: "The leftover structures could provide a new settlement with resources."
+ futa_ruins_events.9002.b: "These resources should benefit [GetPlayer.GetCapitalLocation.GetName]."
+
+ #
+
+ futa_ruins_events.9003.title: "Ruins Exhausted"
+ futa_ruins_events.9003.desc_settlement: "It seems that the ancient Settlement ruins"
+ futa_ruins_events.9003.desc_temple: "It seems that the ancient Temple ruins"
+ futa_ruins_events.9003.desc_bathhouse: "It seems that the ancient Bathhouse ruins"
+ futa_ruins_events.9003.desc: " located on [futa_ruins_activity_location.GetName] has been completely emptied out by [futa_ruin_excavator.GetTitledFirstName]. There is nothing left to be gained from that place."
+
+ futa_ruins_events.9003.a: "Maybe I should take a look at one of those…"
+
+ #
+
+ futa_ruins_events.9004.title: "Ruins Sighted"
+ futa_ruins_events.9004.desc: "I have received some interesting news. According to reports, a small concentration of very ancient buildings were recently discovered on [futa_ruins_location.GetName] by [futa_ruins_finder.GetTitledFirstName]. Apparently, these ruins were on a very isolated location, and stayed undiscovered for ages.\n\nSome speculate that these locations still have many valuables left in them. We should act fast if we wish to unearth the treasures contained within."
+ futa_ruins_events.9004.desc_settlement: "\n\nThese ruins seem to be some ancient $trait_futa$ settlement."
+ futa_ruins_events.9004.desc_temple: "\n\nThese ruins seem to be some ancient $trait_futa$ temple."
+ futa_ruins_events.9004.desc_bathhouse: "\n\nThese ruins seem to be some ancient $trait_futa$ bathhouse."
+
+ futa_ruins_events.9004.a: "I should prepare an expedition..."
+
+
+ #### Dungeon Crawler
+
+ futa_ruins_events.1000.title: "Dungeon Crawler"
+ futa_ruins_events.1000.desc: "During our investigation, we are suddenly startled by a loud crashing noise. Thinking that it's probably a wild animal, we cautiously start approaching the direction of the sound, weapons ready.\n\nWe reach the small opening the sound came from. What we saw here was not an animal, but a person, sitting firmly on her bottom!\n\n“Oh, hello there! I fell down while trying to retrieve something from the shelf over there. Sorry if I scared y'all! I was just exploring this place! I'm assuming you are here to do the same? Don't worry, there seems to be plenty of valuables around here, I don't mind sharing!”\n\nYour party is a little taken aback by this energetic and bubbly woman. In no time she is back on her feet, rubbing her behind. “Pleased to meet'cha!”\n\nShe seems to have managed to amass a decent haul. You #EMP could liberate#! her from her spoils, or you could leave the fellow adventurer be. There also might be something she is hiding..."
+
+ futa_ruins_events.1000.a: "There is wealth a plenty around here. Leave [futa_dungeon_crawler.GetHerHim] be."
+ futa_ruins_events.1000.b: "[futa_dungeon_crawler.GetSheHe|U] might be hiding something..."
+ futa_ruins_events.1000.c: "My men would like a word with you about your purse and your belongings!"
+ futa_ruins_events.1000.d: "Why don't you join us?"
+
+ #
+
+ futa_ruins_events.1001.title: "$futa_ruins_events.1000.title$" # I regret everything
+ futa_ruins_events.1001.desc: "You are not sure if you can completely trust this random person that somehow showed up in this long-abandoned place. After all, you haven't seen #EMP any#! recent signs of life around these parts. Just who is she?\n\n"
+
+ futa_ruins_events.1001.investigate_failed_desc: "You start to poke and prod at her to find any trace of deceit in her words and demeanor.\n\n“I understand your caution, friends! I assure you, I'm here on completely legit and authorized business! I got permission from the local authorities to explore and find any valuables that might remain in this place, for providing them with a cut of the spoils, of course! Here is the seal and letter of proof!”\n\n"
+ futa_ruins_events.1001.investigate_failed_desc_2: "Try as you might, you can't tell if she is telling the truth, or if there is #EMP still#! something she is hiding. Frustrating."
+ futa_ruins_events.1001.investigate_failed_desc_naughty_hint: "You are not sure about the validity of these documents. This place is in such a remote location, barely anyone knows of its existence."
+ futa_ruins_events.1001.investigate_failed_desc_futa_hint: "Is that a hint of a #EMP bulge#! you spy? #EMP How curious#!."
+
+ futa_ruins_events.1001.investigate_success_she_clean_desc: "$futa_ruins_events.1001.investigate_failed_desc$ You do not spot any lies in her explanations and proof. She also seems to be not hiding anything else. She is as clean as they come."
+
+ futa_ruins_events.1001.investigate_success_desc: "You start to poke and prod at her to find any trace of deceit in her words and demeanor. Just #EMP something#! about her doesn't feel right. You decide to trust your intuition and subtly signal your men to apprehend this woman. You have small talk with her, trying to distract her long enough so that she doesn't realise what is about to happen. In one swift motion, she is quickly taken down to the ground and chained up. She couldn't even find the time to protest!\n\n“Hey! What do you think you're doing?! I had thought that you were fellow honorable adventurers and explorers!”\n\nJust a gut feeling, you tell her. #EMP Something#! just didn't feel right about her and this whole circumstance. After you make #EMP absolute#! sure that she is clean, you'll let her go, you assure her. Turning to your men, you tell them to search her belongings and strip her down to give her a thorough search.\n\n"
+
+ futa_ruins_events.1001.investigate_success_she_futa_desc: "$futa_ruins_events.1001.investigate_success_desc$Upon hearing your order, she suddenly turns pale.“W-wait! Friends! Pl-please! There is no need for this! Just let me go! You can take everything I've gathered! I'll also go away, leave everything else to you! #EMP Please!#!\n\nHer previous demeanor has completely disintegrated. She is practically whimpering. You might've found a criminal, judging by her reaction. You join the people looking over her documents and other belongings. Everything actually seems to be in order. Thinking you made a mistake, as you were comtemplating letting her go, you hear multiple #EMP gasps#!. You turn back around to look at the cause. She has been completely stripped down and stands there naked. Have they not seen a naked woman before? Then your eyes fall down to her crotch:\n\nAn #EMP absolutely humongous#! cock stands on the place where you'd not expect a woman to have one! A #EMP $trait_futa$#!. She is crossing her legs, trying to hide the #EMP enormous#! tool in-between her thighs, to no avail. You are not sure how you didn't spot this as soon as you looked at her, even before she was naked! It is #EMP impossible#! to miss!\n\nYour eyes meet hers. All colour has drained from her face, her lips are sealed shut. It is not anger, nor emberassment, but pure #EMP fear#!"
+
+ futa_ruins_events.1001.investigate_success_she_naughty_desc: "$futa_ruins_events.1001.investigate_success_desc$Upon hearing your order, she turns red.“How #EMP dare#! you! Insulting a pure maiden's honour like this! I really thought you better! Shame!” Well, she knows how to cause scene, doesn't she? No matter. You join the people looking over her documents and other belongings.\n\nAha! These documents, papers and sigils are clearly #EMP fake#!. She also seems to be in possession of some things that could be classified as contraband!\n\nWhen you turn back to face her, she is standing there naked from head to toe. She looks like an ordinary woman, maybe above avarage with more of a toned body and a bit more athletic. Her face is completely flushed red. Whether by anger or emberassment, you can't tell.\n\n“I'm telling y'all, I'm no criminal! Just a woman on adventure! Please, it's getting mighty cold in here!” After I make it clear to her that I am aware of the documents being fake and all the other stuff that is in her possession, she pipes down. “Oh, uh. Y'see I tried to get the permits but they wouldn't listen to me! I was going to pay them back after I had gathered some #EMP evidence#!! Honest!”\n\nNo matter, she is still a criminal, carrying around fake sigils and contraband like these."
+
+ futa_ruins_events.1001.investigate_success_she_naughty_futa_desc: "$futa_ruins_events.1001.investigate_success_desc$Upon hearing your order, she suddenly turns pale.“W-wait! Friends! Pl-please! There is no need for this! Just let me go! You can take everything I've gathered! I'll also go away, leave everything else to you! #EMP Please!#!\n\nHer previous demeanor has completely disintegrated. She practically started whimpering. You might've found a criminal, judging by her reaction. You quickly join the people looking over her documents and other belongings.\n\nAha! These documents, papers and sigils are clearly #EMP fake#! She also seems to be in possession of some things that could be classified as contraband!\n\n“Oh, u-uh. Y'see I tried to get the permits but the-they wouldn't listen! I was going to pay them back after I had gathered some look to show them that it's not a waste of time, I swear!”\n\nNo matter, she is still a criminal, carrying around fake sigils and contraband like these. You give the order to strip her down, just in case she is hiding more. The colour completely drains from her face. You tell her that you're doing it to check what she has on her, nothing more but she still begs us to stop and let her go. As soon as her lower garments were taken off, your eyes open as wide as they can:\n\nAn #EMP absolutely humongous#! cock stands on the place where you'd not expect a woman to have one! A #EMP $trait_futa$#!. She is crossing her legs, trying to hide the #EMP enormous#! tool in-between her thighs, to no avail. You are not sure how you didn't spot this as soon as you looked at her, even before she was naked! It is #EMP impossible#! to miss!\n\nYour eyes meet hers. All colour has drained from her face, her lips are sealed shut. #EMP A criminal $trait_futa$! Oh, she is in big, big trouble!#!"
+
+ futa_ruins_events.1001.a: "Leave [futa_dungeon_crawler.GetHerHim] be."
+ futa_ruins_events.1001.b: "You are a criminal and you are coming with us."
+ futa_ruins_events.1001.c: "I do not trust you. You are coming with us."
+ futa_ruins_events.1001.d: "Why don't you join us?""
+ futa_ruins_events.1001.e: "You are in no position to reject. Come, join us."
+ futa_ruins_events.1001.g: "My men would like a word with you about your purse and your belongings!"
+ futa_ruins_events.1001.h: "Your money or your life!"
+ futa_ruins_events.1001.i: "#EMP Criminal abomination!#! You do not deserve to live!"
+ futa_ruins_events.1001.j: "#EMP Mmmmm.#! Oh I'm #EMP very#! familiar with your kind."
+
+ #
+
+ futa_ruins_events.1002.title: "$futa_ruins_events.1000.title$" # Apparently I didn't regret it enough
+ futa_ruins_events.1002.join_diplo_desc: "“You want me to work with you? Hmmm...” She starts scratching her chin in an over the top way. “You know what? You've convinced me! Y'all look like a trustworthy bunch! I guess I can stick around your crew for a while, it was getting mighty boring exploring alone.”\n\n“Alright, Boss. I'm #EMP preeeety#! sure I cleaned out this area, so where we goin'?”\n\nBoss? What?\n\n“#EMP Yeeeah#! I'm not comfortable with names. You can call me by my name, but I'm just going to call you Boss. Don't take it personal.” She gives you a pat on the cheek and leans in to whisper:\n\n#EMP “I'm #S really#! good at finding valuables. I can guarantee you that with my help, you'll be finding more stuff from these places. However, I'll take a bigger cut than these other chumps.#!” then starts moving towards the door, her spoils in tow.\n\n“Name's [futa_dungeon_crawler.GetFirstName], by the way. #EMP Oh!#! I also call dibs on any shinies I find! Heh heh.”\n\nWha- what? What just happened?"
+
+ futa_ruins_events.1002.she_clean_imprison_desc: "“You can't do this to me! I have #EMP every#! right to be here! How #S dare#! you!” She yells as she is dragged out the room in chains. You're not sure if she is genuine or not, doesn't matter. You are not leaving her out here, who knows what she might do?"
+
+ futa_ruins_events.1002.she_futa_imprison_desc: "“#EMP Please! Please! I beg of you! Anything! I'll do anything! Please! Let me go!#!” She whimpers as she is dragged out the room in chains. You can't have a $trait_futa$ wandering around freely all by herself now can you?"
+
+ futa_ruins_events.1002.she_naughty_imprison_desc: "She says nothing as she is dragged out the room in chains, only gives you cold, piercing look. No matter, she is a criminal, and she will be treated like one."
+
+ futa_ruins_events.1002.she_naughty_futa_imprison_desc: "“#EMP Please! Please! I beg of you! Anything! I'll do anything! Please! Let me go!#!” She whimpers as she is dragged out the room in chains. You can't have her wandering around freely all by herself, now can you? She is a $trait_futa$, after all. A criminal one."
+
+ futa_ruins_events.1002.she_futa_blackmail_desc: "“E-excuse me?”\n\nShe heard you. Don't make you repeat yourself.“Y-you mean you're not going to..?”\n\n“...”\n\n“Why do you even want someone... #EMP something#! like me working for you?”\n\n You want her expertise. Even just by herself, she has managed to amass quite a haul. She must be experienced in this area. These places hold endless potential, and you want every advantage you can get. You also remind her that this might be the best oppurtunity she could get. Not many would seek to employ her kind.\n\n“A-alright. You've made your case. I a-accept. I'm quite good at finding valuables. I can g-guarantee you that with my help, you'll be finding more s-stuff!”"
+
+ futa_ruins_events.1002.she_naughty_blackmail_desc: "“You want me to work with you? I assume you wish to use my #EMP expertise#! in exchange for my freedom? Sure. I accept.”\n\nAfter she has been set free and joined our entourage, she comes up to me:\n\n“Alright, Boss. I'll have you know that I'm #EMP really#! good at finding valuables. I can guarantee you that with my help, you'll be finding more stuff from these places. However, I'll take a bigger cut than these other chumps.”"
+
+ futa_ruins_events.1002.she_naughty_futa_blackmail_desc: "“E-excuse me?”\n\nShe heard you. “Y-you mean you're not going to..?”\n\n“...”\n\n“Why do you even want someone... #EMP something#! like me working for you?”\n\n You want her expertise. Even just by herself, she has managed to amass quite a haul. She must be experienced in this area. These places hold endless potential, and you want every advantage you can get. You also remind her that she is a $trait_futa$ fugitive. She basically has no other choice and this might very well be the only oppurtunity she could ever get.\n\n“A-alright. You've made your case. I a-accept. I'm quite good at finding valuables. I can g-guarantee you that with my help, you'll be finding more s-stuff!”"
+
+ futa_ruins_events.1002.she_dead_desc: "You gather all the valuables around the room and on her person, then give one final look towards her now lifeless body, and resume your investigation."
+
+ futa_ruins_events.1002.she_seduced_desc: "You tell your entourage to leave you alone and you'll join them soon after deciding what to do with her. They can look around for anything valuable in the meantime. After a short while, you are left alone with the $trait_futa$.\n\nYou slowly start walking towards her with a slight swing in your hips. She watches you with fearful, trembling eyes, all the colour in her body still drained from when she got found out.\n\nYou lean in and start whispering in her ear in a sultry voice, while your hand lightly grabs her massive tool. Softly squeezing her shaft and orbs, you tell her just how familiar with her kind you are, planting a kiss on her neck and cheek after every sentence.#S *kiss*#! How great their cocks makes you feel.#S *smooch*#! How impressive their virility is compared to men. #S *kiss*#!\n\nWith your other free hand, you undo her chains and they fall down with a #S *clank*#!. You continue your attack on her senses, making sure to stroke and squeeze her bitch maker.\n\nHow your nethers have been pounded by their dicks.#S *kiss*#! How your mouth waters everytime you see the bulges of their clothes.#S *smooch*#! How your knees get weak in their presence.#S *kiss*#! How their dicks make their home in your insides.#S *kiss*#! How your womb has been coated endlessly by their baby batter.#S *kiss*#! How you have brought their many spawn into this world.#S *smooch*#! How you have become their cum-dump and #EMP bitch#!.#S *kiss*#! How you plan on continuing to pump out as many of their offspring as possible. #S *smooch*#!\n\nWith one final wet kiss planted right on the side of her lips, you step back from your “acquaintance” to view your handiwork. Her face is flushed red, her eyes are in a daze and unfocused, her mouth is slight agape, panting ever so slightly. Her girl-cock stands at half-mast, throbbing with each heartbeat, continuos pre-cum oozing from the tip. Looks like you've managed to bring some colour back to her, no traces left of her terrified self.\n\nUsing her state of vulnerability, you tell her that you can help with #EMP all#! her worries and you'll keep her #EMP very#! happy. In turn, you'd like to employ her expertise. If she accepts, she should gather her stuff and meet with your group. As you leave the room, you make sure to entice her further with your child bearing hips.\n\nAfter a while, you see her approaching your group. There is a slight wobble to her walk. When your eyes meet, you give her a wink. Her face gets even redder and she quickly averts her eyes. She stops in front of you, and whimpers: “#EMP I accept.#!”"
+
+ futa_ruins_events.1002.a: "What a strange character..."
+ futa_ruins_events.1002.b: "..."
+ futa_ruins_events.1002.b.flavor: "Wha-what? WHAT? What did she just do?! How dare she?!"
+ futa_ruins_events.1002.c: "Looking forward to working with you."
+ futa_ruins_events.1002.d: "Let us leave."
+ futa_ruins_events.1002.d.flavor: "Leave her body to the maggots."
+ futa_ruins_events.1002.e: "I look forward to #EMP working#! with you."
+
+ #
+
+ futa_ruins_events.1003.title: "Hermic Revelation"
+ futa_ruins_events.1003.desc: "Exploring this desecrated site has revealed all kinds of lost trivia and treasure. Say what you will about tomb raiding, but there is #EMP something#! inherently appealing about reclaiming what has been lost to time. \n\nOr so I had thought. \n\nFound within a sturdy but worn chest was a scroll of parchment. Time has eroded much of what was written, but taking some time to decipher the parts of what remained led to a troubling realisation. \n\n#EMP This scroll speaks of an unheard faith!#! \n\nMy hands tremble. It cannot be a ruse, no one has been in here for centuries or more! Not everything that was written is true, but one could apply the same criticism to our current scriptures. To find something like this… Was it #EMP meant#! to be? \n\nThis mysterious account refers to a Goddess named… #EMP Hermillia?#! Allegedly, she had a prominent following according to the “Festival of Fertility” described. Could these ruins have been associated with her? No one knows of their origin… \n\nBut these are sacrilegious thoughts surely? If this Goddess does indeed exist, it is stated that she beholds the [GetTrait('futa_genetic').GetName( GetNullCharacter )] with love? \n\nNone of this can be true… Can it?"
+
+ futa_ruins_events.1003.a: "This must have been Fate."
+ futa_ruins_events.1003.b: "BURN IT!"
+
+
+ ## Effect Localization
+ 
+
+ ## Script Localization
+
+
+ ## Decisions
+
+
+
+
+ ## Error log cleanup
+
+
+
+ ## MAA
+
+
+
+ ## Culture
+
+ # Ancient Marital Customs 
+
+ futa_ancient_marital_customs_culture_name: "Ancient Marital Customs"
+ futa_ancient_marital_customs_culture_desc: "This culture thinks that there is neither a reason to prevent a same-sex union involving $trait_futa$ nor viewing children born from these couples as lesser. One's loyalty to their spouse is also highly valued."
+
+ culture_parameter_futa_unlock_futa_marriages: "Allows same-sex [marriage|E] between [GetTrait('futa_genetic').GetName( GetNullCharacter )] and $SEX_FEMALE$ [characters|E] or other [GetTrait('futa_genetic').GetName( GetNullCharacter )]"
+ culture_parameter_futa_reverse_child_of_futa_penalties: "The [GetTrait('child_of_futa').GetName( GetNullCharacter )] [trait|E] is no longer negative and is seen as [prestige_i][prestigious|E]"
+
+ futa_rulers_with_futa_born_children_desc: "The [culture|E] does not have #V 3#! [rulers|E] with the [GetTrait('child_of_futa').GetName( GetNullCharacter )] [trait|E] #S OR#! #V 3#! [rulers|E] with at least #V 3#! children with the [GetTrait('child_of_futa').GetName( GetNullCharacter )] [trait|E]"
+ futa_you_do_not_have_a_correct_lover_desc: "You do not have a [GetTrait('futa_genetic').GetName( GetNullCharacter )] [lover|E]"
+
+ # Sacred Procreation
+
+ futa_sacred_procreation_culture_name: "Sacred Procreation"
+ futa_sacred_procreation_culture_desc: "This culture values the virility of $trait_futa$ and views the act of procreation with them and children born from these unions as sacred. In their eyes, the more offspring gets fathered by $trait_futa$, the more pious one will seem in front of their divine."
+
+ culture_parameter_futa_child_of_futa_is_holy: "The [GetTrait('child_of_futa').GetName( GetNullCharacter )] [trait|E] is seen as [piety_i][pious|E]"
+ culture_parameter_futa_stud_and_bitch_is_holy: "The [GetTrait('futa_stud').GetName( GetNullCharacter )] and [GetTrait('futa_bitch').GetName( GetNullCharacter )] [traits|E] are seen as [piety_i][pious|E]"
+ culture_parameter_futa_procreation_with_futa_is_holy: "Procreational acts involving [GetTrait('futa_genetic').GetName( GetNullCharacter )] will grant [piety_i][piety|E]"
+ culture_parameter_futa_piety_from_childbirth: "[GetTrait('child_of_futa').GetName( GetNullCharacter )] children will grant their parents [piety_i][piety|E] upon birth"
+ culture_parameter_futa_high_tier_backed_up_opinion_is_positive: "Higher tiers of the [GetTrait('backed_up').GetName( GetNullCharacter )] [trait|E] is seen as positive by the [characters|E] of the same [culture|E]"
+
+ futa_your_faith_missing_childbirth_piety_desc: "Your [faith|E] does not have $tenet_sacred_childbirth_name$"
+
+ # Hermillia's Law
+
+ futa_hermillia_law_culture_name: "Hermillia's Law"
+ futa_hermillia_law_culture_desc: "Hermillia's Law"
+
+ culture_parameter_futa_enables_hermillia_will_succession: "Can enact the [GetLaw('futa_hermillia_will_elective_succession_law').GetName] [succession_law|E] if in possesion of $futa_hermillia_crown_name$ [artifact|E]"
+ culture_parameter_futa_enables_futa_tributary_vassal_contract: "Unlocks the [GetVassalContractType( 'futa_tributary' ).GetObligationName( 'futa_tributary_active' )] [vassal_contract|E]"
+
+ # Way of the Marauder
+
+ futa_way_of_the_marauder_culture_name: "Way of the Marauder"
+ futa_way_of_the_marauder_culture_desc: "Dedicated to an old legendary figure, this culture believes in taking what is #EMP rightfully#! theirs from others."
+
+ culture_parameter_futa_enable_captive_raid_cb: "Enables the [futa_captive_raid|E] [casus_belli|E]"
+ culture_parameter_futa_enable_grand_raid_cb: "Enables the [futa_grand_raid|E] [casus_bellis|E]"
+
+
+ ## Activity
+
+ futa_ruins_investigation_intent: "Investigate the Ruins"
+ futa_ruins_investigation_intent_desc: "You will investigate the ruins in search of treasure and knowledge"
+
+ futa_ruins_investigation_option_length: "Investigation Length"
+ futa_ruins_investigation_option_size: "Crew Size"
+
+ futa_ruins_investigation_short: "Short Expedition"
+ futa_ruins_investigation_short_desc: "$BULLET_WITH_TAB$The ruins will be explored and excavated for #bold 4 #!weeks."
+
+ futa_ruins_investigation_medium: "Medium Expedition"
+ futa_ruins_investigation_medium_desc: "$BULLET_WITH_TAB$The ruins will be explored and excavated for #bold 8 #!weeks."
+
+ futa_ruins_investigation_long: "Long Expedition"
+ futa_ruins_investigation_long_desc: "$BULLET_WITH_TAB$The ruins will be explored and excavated for #bold 12 #!weeks."
+
+ futa_ruins_investigation_size_min: "Minimal Crew"
+ futa_ruins_investigation_size_min_desc: "$BULLET_WITH_TAB$You will bring along with you up to #V 10#! of your most trusted."
+
+ futa_ruins_investigation_reward_nothing.t: "You Find Nothing of Value"
+
+ futa_ruins_explore_phase: "Exploration & Excavation"
+ futa_ruins_explore_phase_desc: "Explore for valuables and extract as much treasure as possible"
+
+
+ activity_futa_ruins_investigation: "Ruins Investigation"
+ activity_futa_ruins_investigation_desc: "Some structures thought be from ancient times have been found. Reports suggest these locations might still hold valuables."
+ activity_futa_ruins_investigation_selection_tooltip: "Investigate the ancient mysterious ruin that has been recently discovered."
+ activity_futa_ruins_investigation_host_desc: "\nChance to gain various amounts of;\n$BULLET_WITH_TAB$[gold_i][gold|E]\n$BULLET_WITH_TAB$[prestige_i][prestige|E]\n$BULLET_WITH_TAB$[dynasty_prestige_i][dynasty_prestige|E]\n$BULLET_WITH_TAB$#highlight Unique#! [artifacts|E]\n\n"
+ activity_futa_ruins_investigation_settlement_desc: "This location seems to contain Ruins of a #highlight Settlement#!"
+ activity_futa_ruins_investigation_bathhouse_desc: "This location seems to contain Ruins of a #highlight Bathhouse#!"
+ activity_futa_ruins_investigation_temple_desc: "This location seems to contain Ruins of a #highlight Temple#!"
+ activity_futa_ruins_investigation_excavation_amount_desc: "and has been excavated #Y [SCOPE.ScriptValue('futa_ruins_excavation_amount_value_tt')|0]/5#! times"
+ activity_futa_ruins_investigation_guest_desc: "$activity_futa_ruins_investigation_host_desc$"
+ activity_futa_ruins_investigation_destination_selection: "Only the [barony|E] which houses the ruins is eligible."
+ activity_futa_ruins_investigation_predicted_cost: "The cost of a $activity_futa_ruins_investigation$ is affected by the Activity length and whether the location is inside of your [domain|E], [realm|E] or another [rulerpossessive|E] [realm|E]."
+ activity_futa_ruins_investigation_province_desc: "You will explore and excavate the Ruins located in [ROOT.Province.GetName]"
+ activity_futa_ruins_investigation_guest_help_text: "Any invited [guests|E] will help you excavate the ruins and provide support.\n\nAt the end of the investigation, every participating [guest|E] will receive #V 10%#! of the total spoils gotten during the excavation.\n#weak (This is not taken from your spoils and does not affect the final number. They merely gain 10% of what was found)#!"
+ activity_futa_ruins_investigation_conclusion_desc: "Due to low supplies, the $activity_futa_ruins_investigation$ comes to an end."
+
+ futa_merchant_scholar_special_guest: "The $trait_futa$ $trait_scholar$"
+ futa_merchant_scholar_special_guest_desc: "The $trait_futa$ $trait_scholar$ employed by the $game_concept_futa_enclave$ stands to have more knowledge regarding these ruins."
+ futa_merchant_scholar_special_guest_for_host: "The $trait_futa$ $trait_scholar$"
+ futa_merchant_scholar_special_guest_desc_for_host: "The $trait_futa$ $trait_scholar$ employed by the $game_concept_futa_enclave$ stands to have more knowledge regarding these ruins."
+ activity_window_character_futa_merchant_scholar_special_guest: "$futa_merchant_scholar_special_guest$\n[Character.GetShortUINameNoTooltip|U]"
+ activity_window_character_futa_knight: "$futa_knight$\n[Character.GetShortUINameNoTooltip|U]"
+ activity_window_character_futa_dungeon_crawler: "$futa_dungeon_crawler$\n[Character.GetShortUINameNoTooltip|U]"
+
+ futa_investigation_generic_rewards_log_title: "$activity_futa_ruins_investigation$ Found Small Room"
+ futa_investigation_generic_rewards_log: "[CHARACTER.GetShortUINamePossessive|U] crew found a small treasure room"
+
+ futa_investigation_final_rewards_log_title: "$activity_futa_ruins_investigation$ Found Huge Treasure Room"
+ futa_investigation_final_rewards_log: "[CHARACTER.GetShortUINamePossessive|U] crew found a huge treasure room"
+
+ futa_investigation_completed_log_title: "$activity_futa_ruins_investigation$ Outcome"
+ futa_investigation_completed_log: "[CHARACTER.GetShortUINamePossessive|U] crew excavated resources"
+
+ TRAVEL_NAME_FOR_activity_futa_ruins_investigation: "[Character.GetFirstNamePossessiveNoTooltip] journey to the $activity_futa_ruins_investigation$"
+
+ activity_futa_ruins_investigation_host_an_a: "$host_activity_a$"
+
+ ## Modifiers
+
+ backed_up_xp_gain_mult: "[GetTrait('backed_up').GetName( GetNullCharacter )] [trait_level_track_xp|E] Gain"
+ backed_up_xp_loss_mult: "[GetTrait('backed_up').GetName( GetNullCharacter )] [trait_level_track_xp|E] Loss"
+ backed_up_xp_degradation_mult: "Monthly [GetTrait('backed_up').GetName( GetNullCharacter )] [trait_level_track_xp|E] Relief"
+
+ futa_ruins_investigation_base_cost_desc: "Base Cost"
+ futa_ruins_location_cost: "Location of the Ruins"
+
+ futa_ruins_sighted_modifier: "Ruins Sighted"
+ futa_ruins_sighted_modifier_desc: "Some ancient structures have been recently uncovered here.\n\n#highlight Presence of this [county_modifier|E] allows the $activity_futa_ruins_investigation$ [activity|E] on this [barony|E]#!"
+
+ futa_ruins_leftover_modifier: "Exhausted Ruins"
+ futa_ruins_leftover_modifier_desc: "The ancient structures here have been utterly picked clean of their valuable items. However, the leftover resources could provide a new settlement with building materials.\n\n#highlight This [county_modifier|E] will change when a [holding|E] has been constructed on this [barony|E]#!\n\n"
+
+ futa_ruins_leftover_holding_constructed_modifier: "Ancient Settlements"
+ futa_ruins_leftover_holding_constructed_modifier_desc: "The previous ancient structures here have been integrated and assimilated into the newly constructed holding, providing the settlement here with mode space and ease of further constructions.\n\n"
+
+ futa_ruins_elevate_capital_modifier: "Elevated Capital"
+ futa_ruins_elevate_capital_modifier_desc: "Leftover resources from ancient structures have been relocated here, providing the settlement with valuable and useful materials.\n\n"
+
+ IS_FUTA_SCHOLAR_REASON: "[ROOT.Char.GetSheHe|U] is a $futa_merchant_scholar_special_guest$: $VALUE|=+0$"
+ IS_FUTA_DUNGEON_CRAWLER_REASON: "[ROOT.Char.GetSheHe|U] is a $futa_dungeon_crawler$: $VALUE|=+0$"
+ IS_FUTA_KNIGHT_REASON: "[ROOT.Char.GetSheHe|U] is $futa_knight$: $VALUE|=+0$"
+ IS_FUTA_ENCLAVE_CHARACTER_REASON: "[ROOT.Char.GetSheHe|U] is from the $game_concept_futa_enclave$: $VALUE|=+0$"
+ IS_ENCLAVE_GUARD_REASON: "[ROOT.Char.GetSheHe|U] is a $game_concept_futa_enclave_short$ guard: $VALUE|=+0$"
+
+
+ ## Traits
+
+
+ ## Hired Troops
+
+
+ ## Game Concepts
+
+ ## Character Interactions
+ 
+
+ ## Schemes
+
+
+ ### Custom Tooltips
+
+ futa_ruins_investigation_generic_reward_small_gold_tt: "#P [SCOPE.ScriptValue('futa_ruins_small_gold_value')|0]#! [gold_i] will be gained at the end of the excavation."
+ futa_ruins_investigation_generic_reward_small_prestige_tt: "#P [SCOPE.ScriptValue('futa_ruins_small_prestige_value')|0]#! [prestige_i] will be gained at the end of the excavation." 
+ futa_ruins_investigation_generic_reward_small_renown_tt: "#P [SCOPE.ScriptValue('futa_ruins_small_renown_value')|0]#! [dynasty_prestige_i] will be gained at the end of the excavation."
+ futa_ruins_investigation_generic_reward_small_goodwill_tt: "#P [SCOPE.ScriptValue('futa_ruins_small_goodwill_value')|0]#! [futa_goodwill|E] will be gained at the end of the excavation."
+ futa_ruins_investigation_generic_reward_artifact_goodwill_tt: "#P [SCOPE.ScriptValue('futa_ruins_small_goodwill_artifacts_value')|0]#! [futa_goodwill|E] will be gained at the end of the excavation."
+
+
+ futa_ruins_investigation_final_reward_gold_tt: "#P [SCOPE.ScriptValue('futa_ruins_huge_gold_value')|0]#! [gold_i] will be gained at the end of the excavation!"
+ futa_ruins_investigation_final_reward_prestige_tt: "#P [SCOPE.ScriptValue('massive_prestige_gain')|0]#! [prestige_i] will be gained at the end of the excavation!"
+ futa_ruins_investigation_final_reward_renown_tt: "#P [SCOPE.ScriptValue('futa_ruins_huge_renown_value')|0]#![dynasty_prestige_i] will be gained at the end of the excavation!"
+ futa_ruins_investigation_final_reward_goodwill_tt: "#P [SCOPE.ScriptValue('futa_ruins_huge_goodwill_value')|0]#! [futa_goodwill|E] will be gained at the end of the excavation!"
+ futa_ruins_investigation_final_reward_artifact_goodwill_tt: "#P [SCOPE.ScriptValue('futa_ruins_huge_goodwill_artifacts_value')|0]#! [futa_goodwill|E] will be gained at the end of the excavation!\n\n#X This is a Unique Artifact! Are you sure?#!"
+ futa_ruins_investigation_final_reward_nothing_tt: "You did not find the jackpot this investigation. Better luck next time!"
+
+ futa_ruins_investigation_gain_access_tt: "#highlight You will gain access to the $activity_futa_ruins_investigation$ [activity|E]"
+
+ futa_ruins_investigation_every_other_guest_tt: "Every Guest"
+ futa_ruins_investigation_everyone_tt: "Every Participant"
+ futa_ruins_investigation_fknight_scholar_tt: "$futa_knight$ and the $trait_futa$ Scholar"
+ futa_ruins_investigation_rewards_dungeon_crawler_tt: "$futa_dungeon_crawler$"
+
+ futa_ruins_investigation_req: "Any [barony|E] has the [GetModifier('futa_ruins_sighted_modifier').GetNameWithTooltip] [county_modifier|E]"
+
+ futa_ruins_investigation_no_ruins_tt: "[barony|E] does #bold NOT#! have the [GetModifier('futa_ruins_sighted_modifier').GetNameWithTooltip] [county_modifier|E]"
+
+ futa_ruins_investigation_total_excavation_amount_tt: "[activity_location.GetName] has been excavated #Y [SCOPE.ScriptValue('futa_ruins_excavation_amount_value_tt')|0]#! times"
+
+ futa_enables_picking_marriage_tradition_and_building_tt: "You will be able to add the [GetCultureTradition('futa_ancient_marital_customs_culture').GetName] [culture_tradition|E] and build the [GetDomicileBuilding('futa_shrine_marriage_shrine').GetName]"
+ futa_enables_picking_sacred_procreation_tradition_tt: "You will be able to add the [GetCultureTradition('futa_sacred_procreation_culture').GetName] [culture_tradition|E]"
+ futa_enables_picking_hermillia_law_tradition_tt: "You will be able to add the [GetCultureTradition('futa_hermillia_law_culture').GetName] [culture_tradition|E]"
+ futa_enables_picking_way_of_the_marauder_tradition_tt: "You will be able to add the [GetCultureTradition('futa_way_of_the_marauder_culture').GetName] [culture_tradition|E]"
+
+
+
+
+ futa_dungeon_crawler_robbed_successful: "You successfully robbed [futa_dungeon_crawler.GetShortName]!"
+ futa_dungeon_crawler_robbed_unsuccessful: "[futa_dungeon_crawler.GetShortName] managed to hold you off and run away!"
+
+ futa_dungeon_crawler_rob_outcome_success_tt: "#P [SCOPE.ScriptValue('futa_ruins_crawler_gold_value')|0]#! [gold_i] will be gained at the end of the excavation."
+ futa_dungeon_crawler_rob_outcome_failure_tt: "[futa_dungeon_crawler.GetSheHe|U] will manage to hold you off and run away!"
+
+
+
+ futa_dungeon_crawler_investigate_outcome_success_tt: "If [futa_dungeon_crawler.GetSheHe] is hiding anything, you will successfuly figure out what it is"
+ futa_dungeon_crawler_investigate_outcome_failure_tt: "Whether or not [futa_dungeon_crawler.GetSheHe] is hiding anything, you will not manage to figure out what it is"
+
+
+
+ futa_dungeon_crawler_joins: "[futa_dungeon_crawler.GetSheHe|U] decides to join and continue [futa_dungeon_crawler.GetHerHis] adventures with you!"
+ futa_dungeon_crawler_does_not_join: "[futa_dungeon_crawler.GetSheHe|U] does not want to join you"
+ 
+ futa_dungeon_crawler_join_offer_outcome_success_tt: "[futa_dungeon_crawler.GetSheHe|U] will join you"
+ futa_dungeon_crawler_join_offer_outcome_failure_tt: "[futa_dungeon_crawler.GetSheHe|U] will not join you"
+
+
+

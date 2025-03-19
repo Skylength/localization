@@ -1,0 +1,5 @@
+﻿l_simp_chinese:
+ game_concept_PSFT_Tigress1: "菟虎"
+ game_concept_PSFT_Tigress1_desc: "你尚不知晓这神秘力量究竟为何，又将引向何方。或许，与那位[PSFT_Tigress_Faithful|E]携手同行，方能揭开这层层迷雾？"
+ game_concept_PSFT_Tigress_Faithful: "菟虎虔徒"
+ game_concept_PSFT_Tigress_Faithful_desc: "还有许多扶她们像[GetTrait('futa_genetic').GetName( GetNullCharacter )]一样敬奉着#E 「菟虎之灵」#!。\n\n与其他同族不同，她们视鱼水之欢为通达天道的秘法，而非单纯的纵欲之道。在她们眼中，交合之妙宛如天赐，须得细细品味，用心雕琢，方能臻至化境。\n\n而唯有两情相悦、心神合一，方能开启这通往极乐的众妙之门。"

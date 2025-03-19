@@ -1,0 +1,32 @@
+﻿l_english:
+ 
+ ## Festival Grounds (Duchy Building)
+ building_type_PSFT_FestivalGrounds_01: "Futa Festival Grounds"
+ building_type_PSFT_FestivalGrounds_01_desc: "To properly promote futanari coexistence, a dedicated area and facilities are required to avoid unwanted temptations."
+ building_PSFT_FestivalGrounds_01: "Mounds of the Tigress"
+ building_PSFT_FestivalGrounds_01_desc: "A relatively simple clearing with raised earthen structures of voluptuous shapes. Carefully arranged vegetation envelopes the land to help calm the mind and body inbetween the raucious gatherings."
+ building_PSFT_FestivalGrounds_02: "Shrine of the Tigress"
+ building_PSFT_FestivalGrounds_02_desc: "A grand dais dedicated to the Tigress now sits proudly in the center of the festival grounds.\n\nAdditionally, the perimeter has been dotted with fortified buildings of well-kept stone that provide housing to the most faithful and sworn protectors of this revered place."
+ building_PSFT_FestivalGrounds_03: "Gardens of the Tigress"
+ building_PSFT_FestivalGrounds_03_desc: "An elaborate structure dedicated to the splendor of the Tigress now dwarves the sprawling festival grounds below. Here, the most devout eagerly refine and share the fruits of their exhaustive studies.\n\nWithin the surrounding verdant gardens, a paradise of maintained waterways dance between the dream-like walkways that carve connections between the realms of the Tigress and mundane."
+ building_PSFT_FestivalGrounds_04: "Palace of the Tigress"
+ building_PSFT_FestivalGrounds_04_desc: "A monolithic complex housing multiple floors of gardens and living quarters now looms over the once plain festival grounds. Endless halls of affectionate passion and worship sing with the bliss of shameless gratitude. It is here that the living manifestation of the Tigress now calls her home.\n\nAt the boundry of her keeping, towering pearlescent claws and immaculate shimmering walls rise from the otherworldly overgrowth to safeguard any who would seek refuge within her loving embrace."
+ 
+ PSFT_FestivalGrounds_01_effect_desc: "$unlocks_building_desc$Access to \'Futa Festival\' [activity|E]."
+ PSFT_FestivalGrounds_02_effect_desc: "$unlocks_building_desc$Access to \'Futa Festival\' [activity|E].\nAccess to \'Tigress Impalers\' [men_at_arms|E]."
+ PSFT_FestivalGrounds_04_effect_desc: "$unlocks_building_desc$Access to \'Futa Festival\' [activity|E].\nAccess to \'Tigress Impalers\' [men_at_arms|E].\nAccess to \'Tigress Seducers\' [men_at_arms|E]."
+ 
+ ## Error Catching
+ PSFT_Core.000.t: "#X ERROR WARNING #!"
+ PSFT_Core.000.desc: "@warning_icon! #T Oh No! #! @warning_icon! \n\nSomething went wrong somewhere!\n\n@skill_learning_icon!Please report how you got here!@skill_learning_icon!"
+ PSFT_Core.000.a: "#italic Alas.. #!"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

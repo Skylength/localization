@@ -1,0 +1,136 @@
+﻿l_english:
+ ## Placeholders
+
+
+ ### Artifacts
+
+ ## Trinkets
+
+ artifact_futa_misc: "$trait_futa$ Trinkets"
+ artifact_futa_ancient_trinket: "Ancient Trinket"
+ 
+
+ futa_fertility_medallion_name: "Fertility Medallion"
+ futa_fertility_medallion_desc: "A fertility medallion."
+
+ futa_maliah_branch_name: "Maliah Branch"
+ futa_maliah_branch_desc: "A curious branch from a tree called a Maliah Tree. It is said to have mind altering properties and be used in witchcraft. It has a sweet aroma that causes you to get distracted when you smell it...\n\n#highlight Possession of this item allows the owner to do the [futa_convert_sexuality|E] $game_concept_scheme$ if they are also a [GetTrait('futa_genetic').GetName( GetNullCharacter )]#!"
+
+ futa_ring_of_rut_name: "“Ring” of Rut"
+ futa_ring_of_rut_desc: "A curious trinket in the shape of a ring. It seems to have a mechanism that makes the ring tighter or looser, up to a certain point. Even merely holding the ring makes you start heating up and sweating.\n\nThis “ring” is too big to put on your fingers, one would not be at fault to think that this item is actually a bracelet. You are not sure how to wear this..."
+
+ futa_ring_of_serenity_name: "“Ring” of Serenity"
+ futa_ring_of_serenity_desc: "A curious trinket in the shape of a ring. It seems to have a mechanism that makes the ring tighter or looser, up to a certain point. Merely holding the ring makes you calmer, your thoughts become focused.\n\nThis “ring” is too big to put on your fingers, one would not be at fault to think that this item is actually a bracelet. You are not sure how to wear this..."
+
+ futa_exploration_gear_name: "Exploration Gear"
+ futa_exploration_gear_desc: "An assortment of various equipment, meant to help with long journeys and exploration of the wilderness.\n\n#highlight When equipped, this artifact will reduce the $activity_futa_ruins_investigation$ [activity|E] [gold_i|E] cost by #P -25.0%#!!#!"
+
+ futa_segais_hazelnuts_name: "Segais Hazelnuts"
+ futa_segais_hazelnuts_desc: "Segais Hazelnuts"
+
+ futa_bracers_of_eolas_name: "Bracers of Eolas"
+ futa_bracers_of_eolas_desc: "Bracers of Eolas \n\n#highlight If you are a [GetTrait('futa_milandrite').GetName( GetNullCharacter )], you will also gain [provisions_i|E] [provisions|E] while traveling when this trinket is equipped#!"
+
+ ## Outfits
+
+ artifact_futa_armor: "$trait_futa$ Outfits"
+ artifact_futa_ancient_armor: "Ancient Outfit"
+
+ futa_breeder_suit_name: "Breeder Suit"
+ futa_breeder_suit_desc: "Skimpy outfit.\n\n#highlight When worn, this outfit will provide the wearer with extra passive yearly [futa_goodwill|E]#!"
+
+ futa_armor_of_urges_name: "Armor of #R Urges#!"
+ futa_armor_of_urges_desc: "A midnight-black outfit that is quite revealing. You have been informed that it is actually “armor”. You are not sure if you can believe such a claim...\n\nLegends say that this armor was worn by many people throughout the years. It provides the wearer with almost unending vigor and strength, at the cost of mental stability and self preservation. Those who don this armor usually live what remains of their life on the edge.\n\n#highlight When worn, this armor will occasionally have random effects, #P good#! or #R bad#!#!"
+
+ ## Weapons
+
+ artifact_futa_fknight_sword: "$futa_knight$' Sword"
+ artifact_futa_ancient_weapon: "Ancient Weapon"
+
+ futa_fknight_sword_name: "$futa_knight$' Sword"
+ futa_fknight_sword_desc: "$futa_knight$' Sword."
+
+ futa_lance_of_the_impaler_name: "Lance of the #R Impaler#!"
+ futa_lance_of_the_impaler_desc: "A Lance belonging to an ancient legendary warrior. It is said that she personally impaled hundreds, if not thousands of adversaries. She also used this lance to run her enemies down and execute them with impunity.\n\n#highlight When equipped, this weapon will allow recruiting [GetMaA('futa_heavy_lancers').GetName] and [GetMaA('futa_light_lancers').GetName] as [men_at_arms|E]#!"
+
+ futa_axe_of_the_marauder_name: "Axe of the #Y Marauder#!"
+ futa_axe_of_the_marauder_desc: "The axe of an infamous figure of her times, this weapon has seen countless plunder and blood at the hands of its owner.\n\n#highlight When equipped, this weapon will earn [dynasty_prestige|E][dynasty_prestige_i] and extra [gold|E][gold_i] from [raids|E] if the user personally leads them and brings back the [raid_loot|E]! #!"
+
+ futa_dagger_of_the_deceiver_name: "Dagger of the #debug Deceiver#!"
+ futa_dagger_of_the_deceiver_desc: "The weapon of choice of a controversial figure, her dagger has plunged the backs of countless friends and foes, both figuratively and literally."
+
+ futa_sword_of_the_valiant_name: "Sword of the #explanation_link Valiant#!"
+ futa_sword_of_the_valiant_desc: "The sword belonging to a long forgotten legend, who is said to be one of the most heroic figures to ever exist. According to legends, this sword was present during a grand defense, earning it and its user the title of “Valiant”."
+
+ carldenite_blade_name: "Carldenite Blade"
+ carldenite_blade_desc: "A weapon forged by vigilant Carldenites made to serve the will of God."
+
+ ## Crowns
+ artifact_futa_ancient_crown: "Ancient Crown"
+
+ futa_hermillia_crown_name: "#highlight Hermillia's Crown#! (WIP)" #WIP
+ futa_hermillia_crown_desc: "Futa Crown. (WIP)" # WIP
+
+ ### Custom Tooltips
+
+ futa_is_fknight_tooltip: "#N Is $futa_knight$#!"
+ futa_hermillia_crown_benefit_tooltip: "You have been coroneted"
+ futa_already_wearing_another_ring_tt: "You are already wearing a Ring"
+ futa_not_already_wearing_another_ring_tt: "You are not already wearing another Ring"
+
+
+ ## Events
+
+ futa_artifacts.browse.outfits: "I would like to browse the other outfits."
+ futa_artifacts.browse.misc_items: "I would like to browse the other trinkets."
+ futa_artifacts.browse.artifact_choices: "I would like to browse other items."
+ futa_artifacts.browse.cancel: "Never-mind."
+ futa_artifacts.purchase.buy: "I will take it."
+ futa_artifacts.purchase.cancel: "No thanks."
+
+ #
+
+ futa_artifacts.0001.title: "The $game_concept_futa_merchant$ - Browse Wares" # Artifacts
+ futa_artifacts.0001.desc: "Upon hearing my request, the $game_concept_futa_merchant_short$ quickly starts shuffling some boxes around.\n\nSoon after, various boxes and trinkets are displayed in front me. The $game_concept_futa_merchant_short$ asks what kind of item I am looking for."
+ futa_artifacts.0001.a: "I would like to look at the various miscellaneous trinkets."
+ futa_artifacts.0001.b: "I am interested in these outfits."
+
+ #
+
+ futa_artifacts.1000.title: "The $game_concept_futa_merchant$ - Browse Wares" # Misc Trinkets
+ futa_artifacts.1000.desc: "The $game_concept_futa_merchant_short$ immediately opens up multiple chests and displays a variety of jewelry-like items."
+ futa_artifacts.1000.a: "What is this medallion?"
+ futa_artifacts.1000.b: "A tree branch?"
+
+ #
+
+ futa_artifacts.1100.title: "The $game_concept_futa_merchant$ - $futa_fertility_medallion_name$" # Fertility Medallion
+ futa_artifacts.1100.desc: "#italic “Ah, that is what we call a “$futa_fertility_medallion_name$”, my liege.”#!\n\n$futa_fertility_medallion_name$?\n\n#italic “Yes. Usually the $trait_futa$ who would like to start a big family gifts this to their non-$trait_futa$ female lovers. It is said to help with fertility and bringing healthy children into the world.”#!\n\nCurious. A medallion that enhances fertility? Could that even be true?"
+
+ #
+
+ futa_artifacts.1101.title: "The $game_concept_futa_merchant$ - $futa_maliah_branch_name$" # Maliah Branch
+ futa_artifacts.1101.desc: "#italic “Oh, uh... that...#! The $game_concept_futa_merchant$ pauses for a moment, as if she is trying to pick her words carefully.\n\n#italic That is what we call a “$futa_maliah_branch_name$”, my liege.”#!\n\n$futa_maliah_branch_name$?\n\n#italic “Yes. It is a branch collected from a very special, almost borderline sacred tree to us in the $game_concept_futa_enclave_short$. It has several alchemical uses. One of its most important aspects is that it helps, let's just say, ”convince” and change feelings of people. It would be very useful if you were to want to have, oh I don't know, a particular woman as your lover, but she does not feel attracted to other women? This will help you... “fix” this little conundrum.”#!\n\nWhat? A plant that can alter a woman's feelings and mind? This sounds like borderline witchcraft!"
+
+ #
+
+ futa_artifacts.2000.title: "The $game_concept_futa_merchant$ - Browse Wares" # “Armors”
+ futa_artifacts.2000.desc: "The $game_concept_futa_merchant_short$ opens a wardrobe filled to the brim with outfits."
+ futa_artifacts.2000.a: "What is this #EMP very#! revealing outfit?"
+
+ #
+
+ futa_artifacts.2100.title: "The $game_concept_futa_merchant$ - $futa_breeder_suit_name$" # Breeder Suit
+ futa_artifacts.2100.desc: "#italic “Ah, this is a “$futa_breeder_suit_name$”, my liege.”#!\n\n$futa_breeder_suit_name$?\n\n#italic “Yes. These outfits are worn by non-$trait_futa$ women to provide eye candy to $trait_futa$ and please such onlookers. It also marks your body as available for $trait_futa$, signaling to them that you are always free to use for lust relief.”#!\n\n"
+ futa_artifacts.2100.non_lustful.desc: "Basically, a public whore outfit? Why would I even want something like that?"
+ futa_artifacts.2100.lustful.desc: "Basically, a public whore outfit? That sounds #EMP very#! enticing..."
+
+
+
+ ## Modifiers
+
+
+
+ ## Traits
+
+

@@ -1,0 +1,114 @@
+﻿l_english:
+ ## General
+
+
+ futa_base_contract_schemes.0000.f.contract_concluded: "The open road awaits..."
+ futa_base_contract_schemes.0000.d.no_starting_bonus: "You undertake the task without particular effort"
+
+ futa_base_contract_schemes.0000.generic_option.success_chance: "Remember: we're here to earn."
+ futa_base_contract_schemes.0000.generic_option.speed: "Sooner we're done, sooner we're back on the road!"
+ futa_base_contract_schemes.0000.generic_option.progress: "This ought to be easy..."
+ futa_base_contract_schemes.0000.generic_option.secrecy: "No slip-ups, #EMP any#! of you."
+ futa_base_contract_schemes.0000.generic_option.nothing: "Let's just get on with our task."
+
+ futa_base_contract_schemes.0000.generic_option.proceed.neutral: "We've a long path ahead of us."
+ futa_base_contract_schemes.0000.generic_option.proceed.negative.light: "Back to the wilds..."
+
+ futa_contract_scheme_desc_general_boilerplate: "\n\n#WEAK [contract_schemes|E] involve performing various duties for the landed [rulers|E] of the world in exchange for payment. Completing a $game_concept_task_contract$ for a $game_concept_ruler$ automatically adds them to your [contact_list|E].#!"
+ futa_contract_scheme_desc_success_boilerplate: "Successfully completing this [contract_scheme|E] will result in your payment — #EMP if#! the [contractor|E] is satisfied."
+
+ ## Events
+
+
+
+  ###### Provide Protection for a Futanari x Female couple ######
+
+ futa_base_0001_contract_scheme: "Protect Futanari Couple!"
+ futa_base_0001_contract_scheme_action: "Aid the Futanari in"
+ futa_base_0001_contract_scheme_desc: "[contractors|E] are hunting down $trait_futa$ causing them to seek aid.$futa_contract_scheme_desc_general_boilerplate$"
+ futa_base_0001_contract_scheme_desc_general: "$futa_base_0001_contract_scheme_desc$"
+ futa_base_0001_contract_scheme_desc_success: "$futa_contract_scheme_desc_success_boilerplate$"
+ futa_base_0001_desc_title: "Citizens of [TaskContract.GetEmployer.GetCapitalLocation.GetTitle.GetBaseNameNoTier],"
+ futa_base_0001_desc: "Remain alert. One of the #EMP filthy demons#! of $trait_futa$ is prowling our fine settlments. Hide your children, your loved ones, even your livestock. Trust in [TaskContract.GetEmployer.GetTitleAsName] and you will be safe. If found, ignore their pleas. It's all a lie."
+
+ futa_base_0001_contract: "$futa_base_0001_contract_scheme$"
+ futa_base_0001_request: "$laamp_request_boilerplate_prowess_scheme$, without being discovered. You will aid a woman and her Futanari partner from being persecuted. \n$laamp_request_boilerplate_criminal$"
+
+ futa_contract_0001_relation: "[CHARACTER.GetShortUIName|U] helped [THIS.GetCharacter.GetShortUIName|U] and [THIS.GetCharacter.GetHerHis] lover when they were being discriminated against." # You can change this.
+
+
+ #
+
+ futa_base_contract_schemes.0001.t: "Helping Demons"
+ futa_base_contract_schemes.0001.desc: "The notices that [employer.GetTitledFirstName] had posted caught my attention. My arrival is kept as discreet as possible. Stay off the main roads, keep clear of any guards and stay out of trouble. Soon enough we meet with our fugitive clients [futa.GetFirstName] and [wife.GetFirstName]. \n\n”Thank heavens you made it to us. The ruler of these lands despises all Futanari simply for being who we are. All I want is to live with my darling in peace. We plan to move to her aunties home, but until they are ready we must remain here. Please, pose as foreign debt collectors and guard us from any unwanted intrusions.”"
+ futa_base_contract_schemes.0001.a: "$futa_base_contract_schemes.0000.generic_option.success_chance$" # These should stay the same
+ futa_base_contract_schemes.0001.b: "$futa_base_contract_schemes.0000.generic_option.speed$" # These should stay the same
+ futa_base_contract_schemes.0001.c: "$futa_base_contract_schemes.0000.generic_option.secrecy$" # These should stay the same
+ futa_base_contract_schemes.0001.d: "$futa_base_contract_schemes.0000.generic_option.nothing$" # These should stay the same
+
+ #
+
+ futa_base_contract_schemes.0002.t: "$futa_base_contract_schemes.0001.t$: Success!"
+ futa_base_contract_schemes.0002.desc: "There were a few close calls, but ultimately my followers and I managed to evade suspicion. Now our clients are ready to move along with their lives and hopefully avoid persecution. They take one last look at their home before facing the long road towards their future together. \n\n”Thank you, all of you, for helping us. We will never forget your kindness”."
+ futa_base_contract_schemes.0002.a: "I hope they have a bright future." # Thıs can be Something else. Every base game contracts follows this formula, but you can of course change the option say something else. 
+
+ #
+
+ futa_base_contract_schemes.0003.t: "$futa_base_contract_schemes.0001.t$: Failure!"
+ futa_base_contract_schemes.0003.desc: "Damn it all! Although we had thought to have kept a low profile, it seems there were more eyes trailing us than we thought. It was a shaky guise at best, pretending that a wanted Futanari would just so happen to #EMP also#! be wanted by other authorities. \n\nWhatever grudge the landlord [employer.GetTitledFirstName] had with [futa.GetFirstName] must have run deep. Now she has been imprisoned, and any dreams of a brighter future have been locked away with her…"
+ futa_base_contract_schemes.0003.a: "We must flee, before I am next!." # Thıs can be Something else. Every base game contracts follows this formula, but you can of course change the option say something else. 
+
+
+ # ------------------------------- New Contract ------------------------------- #
+
+ #Events
+ 
+ futa_base_contract_schemes.0005.t: "Hunting Devils"
+ futa_base_contract_schemes.0005.desc: "[employer.GetTitledFirstName]'s plea for aid had not slipped my attention. My arrival is done under the shade of night, where in I am briefed on the situation. It is troublesome but by no means impossible to correct. \n\nI know how these sinners function, they may think to blend in with the common folk but their #EMP dark urges#! will always reveal them in the end. \n\nI must remain vigilent."
+
+ futa_base_contract_schemes.0005.a: "$futa_base_contract_schemes.0000.generic_option.success_chance$" # These should stay the same
+ futa_base_contract_schemes.0005.b: "$futa_base_contract_schemes.0000.generic_option.speed$" # These should stay the same
+ futa_base_contract_schemes.0005.c: "$futa_base_contract_schemes.0000.generic_option.secrecy$" # These should stay the same
+ futa_base_contract_schemes.0005.d: "$futa_base_contract_schemes.0000.generic_option.nothing$" # These should stay the same
+ 
+ futa_base_contract_schemes.0010.t: "Death or Absolution"
+ futa_base_contract_schemes.0010.desc: "During my purge of [TaskContract.GetEmployer.GetCapitalLocation.GetTitle.GetBaseNameNoTier], it's humble people pointed me in the direction of #EMP another#! lustful degenerate. Apperently she had an "accident" in the bath house and has since isolated herself around the sewage. Filth attracts filth as they say. \n\n[futa_contract_0002_random_futa.GetFirstName] was more than suprised when I broke down the shanty walls she was sequestered within. \n\n"P-please, leave me alone! I couldn't help but orgasm when tha woman fondled my #EMP testicles!#! She was expecting a vagina, but her intent was still foul! I will even leave forever, please don't hurt me!" \n\nWords from a cornered Futanari are like promises from a serpent, they canno't be trusted. I size up the girl as I ready my blade. \n\n#EMP Can she find the light, or has her heart already given in to darkness?#!"
+
+ futa_base_contract_schemes.0010.a: "You will die for your sin!"
+ futa_base_contract_schemes.0010.b: "Repent and seek mercy from the Lord."
+ 
+ futa_base_contract_schemes.0011.t: "Sin and Envy"
+ futa_base_contract_schemes.0011.desc: "Whilst on the hunt for the Futanari deviant I ended up discovering another. Low moans from the supply shelter at the early hours of the day. With my sword drawn - an a prayer to God - I steeled my mind and broke in. What I saw was #EMP horrific.#! A promising young maiden sprayed out against the floor, belly bloated like a sack of grain and coated in layers of #EMP sinful slime#!. \n\nThe perpetrator was so darnaged that she had tried to insiminate via the #EMP anus#!. \n\n#EMP Poor girl is rolling around light headed, with what must be a false smile spread across her face to protect her from that Futanari Devil's wrath...#! \n\n"Sorry butt slut, but I have nothing left in the barrels. Your ass was just as good as always. Next time I say fuck your betrothal, let's try and get a baby in y- #EMP Who the #BOLD fuck#! are you?#!" \n\nOnly now does this sinner notice my presence, her lack of awarness ensuring I have the advantege of the situation. \n\n#EMP She should be sent to hell for this... But can I call myself God's servant if I do not show her his mercy?"
+
+ futa_base_contract_schemes.0011.a: "You will die for your sin!"
+ futa_base_contract_schemes.0011.b: "Repent and seek mercy from the Lord."
+ 
+ futa_base_contract_schemes.0007.t: "Hunting Devils"
+ futa_base_contract_schemes.0007.desc: "Others might have doubted the odds of finding a Futanari so well hidden, but I was certain that God would not lead me astray. My faith has been rewarded once more, as I gathered enough inteligence to confidently accuse the suspect as the Futanari we have been searching for. \n\n[employer.GetTitledFirstName] granted me permission to storm the her home. \n\n"#EMP AH!#! God heavens, what are you doing?!" The woman looked like she had just seen a ghost, but it is God's justice she must deal with this day! My blade is thrust towards her head. The Futa scoundrel retreats to the other side of a crooked table. I can see her sinful eyes scanning around, looking for answers. \n\n"What do you want? Gold? I don't know how guards let bandits roam around but for goodness sake don't kill me!" She sounds so afraid. So innocent. #EMP Ha.#! How laughable. Is she truly acting oblivious? I recall the acusations of a Futanari hiding amonst the common folk. \n\n"And you think that it is me? I have been living here for years! I bet at least half the population of these parts are walking around in the shoes #EMP I crafted#! for them." Although it will not save her, it is true that she has indeed been providing a service for some time. However, that was before people realised what she #EMP really is.#! I tell her to strip down if she is so certain. Ironically, the idea of showing me her body was more difficult than lying about it, so she confessed. #EMP Odd for a Futa to be concerned about modesty. She must be trying to trick me!#! \n\n"Fine! Fine... I admit it. I am one of the cursed... B-but I have never harmed anyone! It has taken great amounts of control but I have lived my life as honestly as I can. Even though it has meant I also have had to live a lonely exitstance... I made piece with it, just like Mama wanted." \n\nA sob story? Does she really think I would believe such a blatent lie. Only those under the watchful eye of God's church could ever claim to have been "honest". My blood starts to boil over. \n\n#EMP Enough of this! Justice wll wait no longer!#!"
+
+ futa_base_contract_schemes.0007.a: "Tell it to Hermillia!"
+ futa_base_contract_schemes.0007.b: "Law and Justice shall decide your face."
+ futa_base_contract_schemes.0007.c: "You owe your life to God."
+ 
+ futa_base_contract_schemes.0008.t: "Hunting Devils"
+ futa_base_contract_schemes.0008.desc: "Lord, hear my voice. I have failed you. My duty was left uncomplete. In my zeal I had acted thoughtlessly and as a result, the #EMP Futanari Devil#! caught wind of her impending scentence and... Fled. \n\nI can only hope my weakness does not doom the common folk."
+
+ futa_base_contract_schemes.0008.a: "I must pray for forgiveness"
+
+ ## Schemes
+ 
+ futa_base_0002_contract_scheme: "Apprehend Futa Devils"
+ futa_base_0002_contract_scheme_action: "Find the Futanari in"
+ futa_base_0002_contract_scheme_desc: "[contractors|E] are cracking down on $trait_futa$ causing them to go into hiding.$futa_contract_scheme_desc_general_boilerplate$"
+ futa_base_0002_contract_scheme_desc_general: "$futa_base_0002_contract_scheme_desc$"
+ futa_base_0002_contract_scheme_desc_success: "$futa_contract_scheme_desc_success_boilerplate$"
+ futa_base_0002_desc_title: "Pious people of [TaskContract.GetEmployer.GetCapitalLocation.GetTitle.GetBaseNameNoTier],"
+ futa_base_0002_desc: "Noble and devout bringers of justice are desperatly needed to curb the growing influence of the devil taking root."
+
+ futa_base_0002_contract: "$futa_base_0002_contract_scheme$"
+ futa_base_0002_request: "$laamp_request_boilerplate_martial_scheme$, without being discovered. You will root out the rumored Futanari hiding amongst the peasents.
+
+
+ ### Custom Tooltips
+
+

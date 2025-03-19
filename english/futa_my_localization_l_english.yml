@@ -1,0 +1,307 @@
+﻿l_english:
+ # Finisher: I use this file to handle the localization during my development period. No harm if the strings are left in here, but they probably should be merged into other files, or be put in their own files whenever necessary. I usually create the new localization files where appropriate.
+
+ ## Placeholders
+
+ trait_futa: "Futanari"
+ trait_futa_desc: "This character has the sexual organs of both a woman and a man.\n\nDue to using the $trait_futa$ Mod, this character can be mimicked to “father” children through events and being in a relationship."
+ trait_futa_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] has the sexual organs of both a woman and a man.\n\nDue to using the $trait_futa$ Mod, this character can be mimicked to “father” children through events and being in a relationship."
+
+ trait_futa_siblings: "Futa Siblings"
+ trait_futa_siblings_twins: "Twins"
+ trait_futa_siblings_triplets: "Triplets"
+ trait_futa_siblings_quadruplets: "Quadruplets"
+ futa_siblings_desc: "This character had other siblings from the same birth."
+ futa_siblings_twins_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is the twin of [ROOT.Var('futa_twin').Char.GetTitledFirstName]."
+ futa_siblings_triplets_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a triplet of [ROOT.Var('futa_triplet_1').Char.GetTitledFirstName] and [ROOT.Var('futa_triplet_2').Char.GetTitledFirstName]."
+ futa_siblings_quadruplets_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] is a quadruplet of [ROOT.Var('futa_quadruplet_1').Char.GetTitledFirstName], [ROOT.Var('futa_quadruplet_2').Char.GetTitledFirstName] and [ROOT.Var('futa_quadruplet_3').Char.GetTitledFirstName]."
+
+
+
+
+
+
+
+ ## Effect Localization
+ 
+
+ ## Script Localization
+
+
+ ## Geographical Regions
+
+ futa_ireland_region: "$custom_ireland$"
+ futa_ireland_meath_region: "$d_meath$"
+ futa_england_region: "$custom_england$"
+ futa_britain_region: "$world_europe_west_britannia$"
+
+ ## Points of Interest
+
+ TRAVEL_POINT_OF_INTEREST_TT_futa_poi_river_boyne: "The River Boyne\n\nThe river Boyne plays a vital role in the reverence towards the Irish Goddess Bóinn, who certain devoted individuals believe has cheated death and watches over them still.\n\n"
+ futa_poi_river_boyne.visit: "Visited the River Boyne"
+
+ ## Nicknames
+
+ 
+ ## Decisions
+
+
+ ## Decision Groups
+ decision_group_type_futa_decisions_group: "Futanari Decisions"
+ decision_group_type_futa_warlord_decisions_group: "$trait_futa$ Warlord Decisions and Requirements"
+ decision_group_type_futa_sky_faith_decisions_group: "Skyspawn Faith Decisions"
+
+ ## Message Settings
+
+ message_filter_futa_event_message_good: "@futa_icon! Futanari Good Effect Messages"
+ message_filter_futa_event_message_good_desc: "A positive effect from a Futanari event"
+ message_filter_futa_event_message_bad: "@futa_icon! Futanari Bad Effect Messages"
+ message_filter_futa_event_message_bad_desc: "A negative effect from a Futanari event"
+ message_filter_futa_event_message_neutral: "@futa_icon! Futanari Neutral Effect Messages"
+ message_filter_futa_event_message_neutral_desc: "A neutral effect from a Futanari event"
+
+ ## Messages
+
+ futa_pregnancy_not_first_child_message_title: "Partner Falls Pregnant"
+ futa_pregnancy_not_first_child_message: "Your partner, [futa_receiving_partner.GetTitledFirstName], is bearing your child"
+
+ futa_is_becoming_restless_title: "You are becoming Restless"
+ futa_is_becoming_restless_desc: "Suppressing your urges and not acting out on your lust is taking its toll on you..."
+
+
+ futa_captive_raid_cb_ended_invalid_desc: "The [war.GetName] has ended: the attacker no longer believes in capturing people."
+ futa_captive_raid_cb_victory_desc: "Characters from [defender.GetShortUINamePossessive] court will be taken by [attacker.GetShortUIName]."
+ futa_captive_raid_cb_white_peace_desc: "No captives were taken."
+ futa_captive_raid_cb_defeat_desc: "No captives were taken."
+
+ futa_induct_into_dark_coven_interaction_title: "A New Sister Joins the Coven"
+
+ ## Wars
+
+ # Captive Raids
+ futa_captive_raid_cb: "War for Captives"
+ FUTA_CAPTIVE_RAID_CB_NAME: "[futa_captive_raid|E] against [DEFENDER.GetPrimaryTitle.GetNameNoTier]"
+ FUTA_CAPTIVE_RAID_CB_SPECIFIC_NAME: "War for Captives against the [DEFENDER.GetPrimaryTitle.GetBaseNameNoTier]"
+ FUTA_CAPTIVE_RAID_WAR_NAME: "$ORDER$ [ATTACKER.GetPrimaryTitle.GetAdjective] War for Captives against [DEFENDER.GetPrimaryTitle.GetNameNoTier]"
+ FUTA_CAPTIVE_RAID_WAR_NAME_BASE: "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]"
+ futa_captive_raid_tt_attacker: "Between three and five of [defender.GetShortUINamePossessive] [courtiers|E] will be taken prisoner, depending on [defender.GetHerHis] tier."
+ futa_captive_raid_tt_defender: "Between three and five of [attacker.GetShortUINamePossessive] [courtiers|E] will be taken prisoner, depending on [attacker.GetHerHis] tier."
+ 
+
+ game_concept_futa_captive_raid: "War for Captives"
+ game_concept_futa_captive_raids: "Wars for Captives"
+ game_concept_futa_captive_raiding: "Warring for Captives"
+ game_concept_futa_captive_raid_desc: "This is a special type of [war|E], started by a [ruler|E] whose [faith|E] or [culture|E] believes in taking captives to use them for their means. The primary goal of $game_concept_futa_captive_raiding$ is to do battle and capture [prisoners|E], with either side able to get enough [war_score|E] through combat to win without ever having to [siege|E].\n\nAt the end of the $game_concept_war$, the victor (including the defender, if they share the same values) will take several $game_concept_prisoners$ from the [court|E] of the loser."
+
+ # Border Raids
+
+ futa_minor_border_raid_cb: "[futa_border_raid|E]"
+ FUTA_MINOR_BORDER_RAID_CB_NAME: "[futa_border_raid|E] against [DEFENDER.GetPrimaryTitle.GetNameNoTier]"
+ FUTA_MINOR_BORDER_RAID_CB_SPECIFIC_NAME: "[futa_border_raid|E] of [TITLE.GetBaseNameNoTier]"
+ FUTA_MINOR_BORDER_RAID_WAR_NAME: "$ORDER$ [ATTACKER.GetPrimaryTitle.GetAdjective] [border_raid|E] of [TITLE.GetBaseNameNoTier]"
+ FUTA_MINOR_BORDER_RAID_WAR_NAME_BASE: "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]"
+
+ futa_grand_border_raid_cb: "[futa_grand_border_raid|E]"
+ FUTA_GRAND_BORDER_RAID_CB_NAME: "[futa_grand_border_raid|E] against [DEFENDER.GetPrimaryTitle.GetNameNoTier]"
+ FUTA_GRAND_BORDER_RAID_CB_SPECIFIC_NAME: "[futa_grand_border_raid|E] of every border title"
+ FUTA_GRAND_BORDER_RAID_WAR_NAME: "$ORDER$ [ATTACKER.GetPrimaryTitle.GetAdjective] [futa_grand_border_raid|E] of [TITLE.GetBaseNameNoTier]"
+ FUTA_GRAND_BORDER_RAID_WAR_NAME_BASE: "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]"
+
+ futa_grand_raid_cb: "[futa_grand_raid|E]"
+ FUTA_GRAND_RAID_CB_NAME: "[futa_grand_raid|E] against [DEFENDER.GetPrimaryTitle.GetNameNoTier]"
+ FUTA_GRAND_RAID_CB_SPECIFIC_NAME: "[futa_grand_raid|E] of every border title"
+ FUTA_GRAND_RAID_WAR_NAME: "$ORDER$ [ATTACKER.GetPrimaryTitle.GetAdjective] [futa_grand_raid|E] of [TITLE.GetBaseNameNoTier]"
+ FUTA_GRAND_RAID_WAR_NAME_BASE: "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]"
+
+
+ game_concept_futa_border_raid: "Border Raid"
+ game_concept_futa_border_raids: "Border Raids"
+ game_concept_futa_border_raiding: "Border Raiding"
+
+ game_concept_futa_border_raid_desc: "This is a special type of [war|E] available for [rulers|E] with the appropriate [culture_tradition|E], where the attacker aims to [siege|E] a specific enemy [county|E] bordering their [realm|E].\n\nThe [war_leader|E] gains [gold|E] for capturing the [war_target|E], which will lose [development|E] and [control|E]. [buildings|E] may also be destroyed, yielding more [gold|E], the chance increasing with [development|E] and [siege|E] [army|E] size.\n\n[war_score|E] will be gained rapidly by the attacker upon [occupying|E] the [war_target|E]."
+
+
+ game_concept_futa_grand_border_raid: "Grand Border Raid"
+ game_concept_futa_grand_border_raids: "Grand Border Raids"
+ game_concept_futa_grand_border_raiding: "Grand Border Raiding"
+
+
+ game_concept_futa_grand_border_raid_desc: "This is a special type of [war|E] available for [rulers|E] with the appropriate [culture_tradition|E], where the attacker aims to [siege|E] the enemy [counties|E] bordering their [realm|E].\n\nThe [war_leader|E] gains [gold|E] for capturing the [war_target|E], which will lose [development|E] and [control|E]. [buildings|E] may also be destroyed, yielding more [gold|E], the chance increasing with [development|E] and [siege|E] [army|E] size."
+
+ game_concept_futa_grand_raid: "Grand Raid"
+ game_concept_futa_grand_raids: "Grand Raids"
+ game_concept_futa_grand_raiding: "Grand Raiding"
+
+ game_concept_futa_grand_raid_desc: "This is a special type of [war|E] available for [rulers|E] with the appropriate [culture_tradition|E], where the attacker aims to [siege|E] the targeted enemy [counties|E] in order to loot the wealth contained within.\n\nThe [war_leader|E] gains [gold|E] for capturing the [war_target|E], which will lose [development|E] and [control|E]. [buildings|E] may also be destroyed, yielding more [gold|E], the chance increasing with [development|E] and [siege|E] [army|E] size."
+
+ futa_every_raid_target_tt: "#V Every Raid Target Province#!"
+ futa_grand_raid_destroy_random_building_tt: "A random [building|E] is destroyed, earning extra [gold_i]"
+ futa_grand_border_raid_fame_tt: "Gain #P [SCOPE.ScriptValue('miniscule_prestige_value')|0]#! [prestige_experience|E] for each targeted [county|E]"
+
+ futa_grand_border_raid_cooldown_desc: "\n\n#X You may only attempt one [futa_grand_border_raid|E] every #V [SCOPE.ScriptValue('futa_grand_border_raid_cooldown_value')|0]#! years#!"
+ futa_grand_border_raid_cooldown_tt: "You have recently attempted a $game_concept_futa_grand_border_raid$. Next one will be available on [GetCurrentDateWithDiff( GetVarTimeRemaining( THIS.Char.MakeScope, 'futa_character_attempted_grand_border_raid') )]"
+
+ futa_grand_raid_cooldown_desc: "\n\n#X You may only attempt one [futa_grand_raid|E] every #V [SCOPE.ScriptValue('futa_grand_raid_cooldown_value')|0]#! years#!"
+ futa_grand_raid_cooldown_tt: "You have recently attempted a $game_concept_futa_grand_raid$. Next one will be available on [GetCurrentDateWithDiff( GetVarTimeRemaining( THIS.Char.MakeScope, 'futa_character_attempted_grand_raid') )]"
+
+ FUTA_RAID_CB_COST_TARGET_TITLES: "Amount of Target Titles"
+ FUTA_RAID_CB_COST_AXE_DISCOUNT: "$futa_axe_of_the_marauder_name$"
+
+
+
+ ## Memories
+
+
+ ## Error log cleanup
+
+
+
+ ## MAA
+
+
+ ## Culture
+
+
+ ## Domicile Buildings
+
+
+  ## Futa Camp Fire Enclave Rumors
+ futa_camp_fire_enclave_rumors_1_domicile_building: "$game_concept_futa_enclave_short$ Rumors"
+ futa_camp_fire_enclave_rumors_1_domicile_building_desc: "#weak (Requires [GetDomicileBuilding('camp_fire_01').GetName])#!\nThe $trait_futa$ seem to have an interconnected network of intelligence which manages to find a lot of #EMP material#! to work with."
+ futa_camp_fire_enclave_rumors_2_domicile_building: "$futa_camp_fire_enclave_rumors_1_domicile_building$"
+ futa_camp_fire_enclave_rumors_2_domicile_building_desc: "$futa_camp_fire_enclave_rumors_1_domicile_building_desc$"
+ futa_camp_fire_enclave_rumors_3_domicile_building: "$game_concept_futa_enclave_short$ Intelligences"
+ futa_camp_fire_enclave_rumors_3_domicile_building_desc: "With their slowly growing influence, the $game_concept_futa_enclave_short$ is able to reach into more and more quicy gossips."
+ futa_camp_fire_enclave_rumors_4_domicile_building: "$futa_camp_fire_enclave_rumors_3_domicile_building$"
+ futa_camp_fire_enclave_rumors_4_domicile_building_desc: "$futa_camp_fire_enclave_rumors_3_domicile_building_desc$"
+ futa_camp_fire_enclave_rumors_5_domicile_building: "$game_concept_futa_enclave_short$ Networks"
+ futa_camp_fire_enclave_rumors_5_domicile_building_desc: "Established, connected and competent, the underground network of the $game_concept_futa_enclave$ have only few they can't manage to uncover."
+ futa_camp_fire_enclave_rumors_5_saboteurs_domicile_building: "Sabotage Training"
+ futa_camp_fire_enclave_rumors_5_saboteurs_domicile_building_desc: "We have been relying on bare minimum training for our subterfuge units. No more. These facilities will enable us to recruit and maintain a more disciplined and goal focused units who will be able to excel at sabotage and siege."
+ futa_camp_fire_enclave_rumors_5_assassins_domicile_building: "Elite Infiltrator Training"
+ futa_camp_fire_enclave_rumors_5_assassins_domicile_building_desc: "Sometimes, what you need is a glint of a blade in the dark, unnoticed and deadly, solving a problems through #EMP “dishonorable”#! means. No matter the preception, capable infiltrators are highly valuable in our line of work."
+
+
+ domicile_building_parameter_futa_camp_improved_futa_contract_rewards_01: "[futa_task_contract|E] Rewards: #P +25%#!"
+ domicile_building_parameter_futa_camp_improved_futa_contract_rewards_02: "[futa_task_contract|E] Rewards: #P +50%#!"
+ domicile_building_parameter_futa_camp_improved_futa_contract_rewards_03: "[futa_task_contract|E] Rewards: #P +100%#!"
+
+ domicile_building_parameter_futa_camp_unlocks_cult_baits: "Can recruit [GetMaA('futa_cult_bait').GetName] as [men_at_arms|E]"
+ domicile_building_parameter_futa_camp_unlocks_cult_saboteurs: "Can recruit [GetMaA('futa_cult_saboteurs').GetName] as [men_at_arms|E]"
+ domicile_building_parameter_futa_camp_unlocks_futa_assassins: "Can recruit [GetMaA('futa_assassins').GetName] as [men_at_arms|E]"
+
+  ## Futa Proving Grounds Rogue Instructors
+ futa_proving_grounds_rogue_instructors_1_domicile_building: "$trait_futa$ Rogue Instructors"
+ futa_proving_grounds_rogue_instructors_1_domicile_building_desc: "#weak (Requires [GetDomicileBuilding('proving_grounds_01').GetName])#!\nThe $trait_futa$ are not welcome in society, and they have to survive somehow. A place to train new #EMP opportunists#! will provide fruitful in the long run."
+ futa_proving_grounds_rogue_instructors_2_domicile_building: "$futa_proving_grounds_rogue_instructors_1_domicile_building$"
+ futa_proving_grounds_rogue_instructors_2_domicile_building_desc: "$futa_proving_grounds_rogue_instructors_1_domicile_building_desc$"
+ futa_proving_grounds_rogue_instructors_3_domicile_building: "$futa_proving_grounds_rogue_instructors_1_domicile_building$"
+ futa_proving_grounds_rogue_instructors_3_domicile_building_desc: "$futa_proving_grounds_rogue_instructors_1_domicile_building_desc$"
+
+ domicile_building_parameter_futa_camp_unlocks_futa_brigand_renegades: "Can recruit [GetMaA('futa_brigand_renegades').GetName] as [men_at_arms|E]"
+ domicile_building_parameter_futa_camp_unlocks_futa_brigand_trappers: "Can recruit [GetMaA('futa_brigand_trappers').GetName] as [men_at_arms|E]"
+ domicile_building_parameter_futa_camp_unlocks_futa_brigand_ambushers: "Can recruit [GetMaA('futa_brigand_ambushers').GetName] as [men_at_arms|E]"
+
+
+  ## Futa Marriage Shrine
+ futa_shrine_marriage_shrine_domicile_building: "Marriage Shrine"
+ futa_shrine_marriage_shrine_domicile_building_desc: "Decorated according to ancient $trait_futa$ customs, this shrine provides [marriage|E] oppurtunities to those who are otherwise shunned by society."
+ domicile_building_parameter_futa_camp_unlock_futa_marriages: "$culture_parameter_futa_unlock_futa_marriages$"
+
+
+ ## Events
+
+
+ ## Modifiers
+
+  # Custom localization for the new backed up xp gain effect. Sadly these don't work perfectly. The values show the initial value, not the total value at the end.
+ I_futa_backed_up_gain: "Your orbs produce $VALUE|-0$ more swimmers"
+ I_futa_backed_up_loss: "Your orbs discharge $VALUE|+0$ swimmers"
+ I_futa_backed_up_gain_past: "Your orbs have produced $VALUE|-0$ more swimmers"
+ I_futa_backed_up_loss_past: "Your orbs have discharged $VALUE|+0$ swimmers"
+
+ I_futa_backed_up_gain_max: "Your orbs fill to the brim!"
+ I_futa_backed_up_loss_max: "Your orbs discharge all the batter!"
+ I_futa_backed_up_gain_past_max: "Your orbs have filled to the brim!"
+ I_futa_backed_up_loss_past_max: "Your orbs have discharged all the batter!"
+
+ futa_ruins_bathhouse_waters_modifier: "Futa Girl Bathwater"
+ futa_ruins_bathhouse_waters_modifier_desc: "Mmmm... Bathwater"
+ ## Traits
+
+
+ ## Hired Troops
+
+
+ ## Game Concepts
+
+ game_concept_futa_task_contract: "$trait_futa$ Contract"
+ game_concept_futa_task_contracts: "$trait_futa$ Contracts"
+ game_concept_futa_task_contract_possessive: "$trait_futa$ Contract's"
+ game_concept_futa_task_contracts_possessive: "$trait_futa$ Contracts'"
+ game_concept_futa_task_contract_desc: "$game_concept_futa_task_contracts$ are various [task_contracts|E] involving $trait_futa$. Usually they are given by $trait_futa$ to provide them with some kind of help, which is difficult for them to come by. Not every contract is [criminal_task_contract|E] by nature, and those which are, are not necessarily because they involve doing anything morally bankrupt. Rather, because the $trait_futa$ are shunned in society, trying to help them will usually cause the helper to be painted in a criminal's light. The contract rewards will depend on how well-off the $trait_futa$ [contractor|E] is."
+
+ ## Character Interactions
+
+ futa_arrange_marriage_interaction: "Arrange $trait_futa$ Marriage"
+ actor_secondary_futa_arrange_marriage_interaction: "[spouse|E]"
+
+ futa_suggest_a_marriage_involving_futa: "Suggest a [marriage|E] between a #high [GetTrait('futa_genetic').GetName( GetNullCharacter )]#! and either a #high $SEX_FEMALE$#! or another #high $trait_futa$#! [character|E]"
+ futa_arrange_marriage_interaction_desc_ruler_at_own_court: "Arrange a [marriage|E] between a #high [GetTrait('futa_genetic').GetName( GetNullCharacter )]#! and either a #high $SEX_FEMALE$#! or another #high $trait_futa$#! [character|E] at your own [actor.Custom('GetCourtConcept')]"
+
+ futa_marry_off_interaction: "Seek Fitting Spouse"
+ futa_marry_off_interaction_desc: "Find either a #high [GetTrait('futa_genetic').GetName( GetNullCharacter )]#! or #high $SEX_FEMALE$#! [spouse|E] for [secondary_actor.GetShortUINameNoTooltip]"
+ actor_secondary_futa_marry_off_interaction: "[spouse|E]"
+
+
+ futa_find_concubine: "Seek Concubine"
+ actor_secondary_futa_find_concubine: "Sender"
+ 
+ futa_offer_concubine: "Offer Concubine"
+
+ futa_make_concubine_interaction: "Make Concubine"
+ actor_secondary_futa_make_concubine_interaction: "Sender"
+
+ futa_elope_interaction: "Elope"
+
+ ## Schemes
+
+
+ ### Custom Tooltips
+
+ futa_merchant_invasion_cooldown_tt: "You have recently attempted a $game_concept_futa_merchant_invasion$. Next one will be available on [GetCurrentDateWithDiff( GetVarTimeRemaining( ROOT.Char.MakeScope, 'futa_merchant_recently_sponsored_invasion_character') )]"
+
+ futa_fucksleeve_fecund: "She is #S extremely#! fertile"
+ futa_fucksleeve_slave: "She is a [slave|E]"
+ futa_fucksleeve_lustful: "She is always ready to please"
+ futa_beauty_good_1: "She is easy on the eyes"
+ futa_beauty_good_2: "She is quite the looker"
+ futa_beauty_good_3: "She is #EMP breathtaking#!"
+ 
+ HIDE_CHAR_BUTTON_TEXT_HIDE: "#tooltip_heading Hide Characters#!"
+ HIDE_CHAR_BUTTON_TEXT_SHOW: "#tooltip_heading Show Characters#!"
+ PANIC_BUTTON_TEXT_HIDE: "#tooltip_heading PANIC BUTTON#!"
+ PANIC_BUTTON_TEXT_SHOW: "#tooltip_heading ALL CLEAR#!"
+
+ futa_camp_fire_enclave_rumors_unlock_tt: "Your [dynasty|E] must have employed the [futa_enclave|E]"
+ futa_shrine_marriage_shrine_unlock_tt: "Your culture needs to accept $trait_futa$ marriages or you need to find the ancient customs inside a Temple Ruin"
+ futa_need_to_be_culture_head_tt: "You must be the [culture_head|E]"
+ futa_tradition_missing_flag_tt: "You do not yet know of these customs"
+ futa_establish_contact_with_enclave_tt: "You will establish contact with the [futa_enclave|E] and use the [futa_merchant_possesive|E] services."
+
+ FUTA_IS_PLAYER: "You are the player (FOR TESTING): $VALUE|=+0$"
+ FUTA_MARRIAGE_CULTURE_REASON: "[recipient.GetShortUINamePossessive] neither [culture|E] nor [faith|E] accepts $trait_futa$ Marriages: $VALUE|=+0$"
+ FUTA_HERMILLA_DOES_NOT_ACCEPT_MEN: "#EMP “I do not share my bed with men”#!: $VALUE|=+0$"
+ NON_FUTA_SAME_SEX_MARRIAGE_FAITH_REASON: "[secondary_recipient.GetShortUINamePossessive] [faith|E] does not accept non-$trait_futa$ $doctrine_homosexuality_name$: $VALUE|=+0$"
+
+ futa_impregnation_chance_tt: "#highlight The impregnation chance was [futa_receiving_partner.MakeScope.Var('futa_impregnation_chance_variable').GetValue|0]%"
+ futa_twins_chance_tt: "#highlight The twin chance was [futa_receiving_partner.MakeScope.Var('futa_pregnancy_twin_chance_variable').GetValue]%"
+ futa_triplets_chance_tt: "#highlight The triplet chance was [futa_receiving_partner.MakeScope.Var('futa_pregnancy_triplet_chance_variable').GetValue]%"
+ futa_quadruplets_chance_tt: "#highlight The quadruplet chance was [futa_receiving_partner.MakeScope.Var('futa_pregnancy_quadruplet_chance_variable').GetValue]%"
+ futa_impregnation_chance_tt2: "#highlight The impregnation chance was [futa_giving_partner.MakeScope.Var('futa_impregnation_chance_variable').GetValue|0]%"
+ futa_twins_chance_tt2: "#highlight The twin chance was [futa_giving_partner.MakeScope.Var('futa_pregnancy_twin_chance_variable').GetValue]%"
+ futa_triplets_chance_tt2: "#highlight The triplet chance was [futa_giving_partner.MakeScope.Var('futa_pregnancy_triplet_chance_variable').GetValue]%"
+ futa_quadruplets_chance_tt2: "#highlight The quadruplet chance was [futa_giving_partner.MakeScope.Var('futa_pregnancy_quadruplet_chance_variable').GetValue]%"
+
+ futa_fucksleeve_aptitude_tooltip: "[candidate.GetHerHisMy|U] [aptitude|E] is [candidate.GetCourtPositionAptitude( GetCourtPositionType( 'futa_fucksleeve_court_position' ) )]"
+ enclave_rep_aptitude_tooltip: "[candidate.GetHerHisMy|U] [aptitude|E] is [candidate.GetCourtPositionAptitude( GetCourtPositionType( 'enclave_rep_court_position' ) )]"

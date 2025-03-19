@@ -1,0 +1,579 @@
+﻿l_english:
+
+
+ ## Doctrines
+
+ futa_doctrine_futanari_equality_name: "$trait_futa$ Equality"
+
+ futa_doctrine_futanari_equality_vilified_name: "Vilified"
+ futa_doctrine_futanari_equality_vilified_desc: "[GetTrait('futa_genetic').GetName( GetNullCharacter )] are the symbol of evil itself. They have clawed their way out of [ROOT.Faith.NegativeAfterLife] to taint our world with their vile nature, and must be cleansed before they are successful."
+
+ futa_doctrine_futanari_equality_crime_name: "Criminal"
+ futa_doctrine_futanari_equality_crime_desc: "[GetTrait('futa_genetic').GetName( GetNullCharacter )] will always be a problem with their uncontrolable urges and their ability to quickly multiply. They need to be kept under control and punished accordingly."
+
+ futa_doctrine_futanari_equality_shunned_name: "Shunned"
+ futa_doctrine_futanari_equality_shunned_desc: "To be a [GetTrait('futa_genetic').GetName( GetNullCharacter )] is to inherintly carry a sin. However, we shall leave the true the judgement of these poor beings to our [ROOT.Faith.PantheonTerm]."
+
+ futa_doctrine_futanari_equality_accepted_name: "Accepted"
+ futa_doctrine_futanari_equality_accepted_desc: "[GetTrait('futa_genetic').GetName( GetNullCharacter )] are living beings like any other. It is ridiculous to think they deserve segregation for their nature."
+
+ futa_doctrine_futanari_equality_virtuous_name: "Virtuous"
+ futa_doctrine_futanari_equality_virtuous_desc: "[GetTrait('futa_genetic').GetName( GetNullCharacter )] have been touched by our [ROOT.Faith.PantheonTerm] and carry a piece of this blessing along with them. They need to be shown the proper respect they are rightfully worthy of."
+
+ futa_doctrine_futanari_equality_venerated_name: "Venerated"
+ futa_doctrine_futanari_equality_venerated_desc: "[GetTrait('futa_genetic').GetName( GetNullCharacter )] are nothing but the divinity manifest. These beings deserve nothing but our utmost devotion to their existence, so we may have a chance to earn their favour in return."
+
+
+ doctrine_parameter_futa_vilified: "Characters with the [GetTrait('futa_genetic').GetName( GetNullCharacter )] [trait|E] are seen as the evil incarnate"
+ doctrine_parameter_futa_illegal: "Characters with the [GetTrait('futa_genetic').GetName( GetNullCharacter )] [trait|E] are [criminals|E]"
+ doctrine_parameter_futa_shunned: "Characters with the [GetTrait('futa_genetic').GetName( GetNullCharacter )] [trait|E] are [shunned|E]"
+ doctrine_parameter_futa_accepted: "Characters with the [GetTrait('futa_genetic').GetName( GetNullCharacter )] [trait|E] are fully accepted"
+ doctrine_parameter_futa_virtuous: "Characters with the [GetTrait('futa_genetic').GetName( GetNullCharacter )] [trait|E] are [virtuous|E]"
+ doctrine_parameter_futa_venerated: "Characters with the [GetTrait('futa_genetic').GetName( GetNullCharacter )] [trait|E] are worshipped"
+ doctrine_parameter_futa_doctrine_enables_marriages: "Enables Same-Sex [marriages|E] with characters with the [GetTrait('futa_genetic').GetName( GetNullCharacter )] [trait|E] if $doctrine_homosexuality_name$ [doctrine|E] is also $doctrine_homosexuality_accepted_name$"
+ doctrine_parameter_futa_children_get_no_penalties: "[GetTrait('child_of_futa').GetName( GetNullCharacter )] [trait|E] will no longer have penalties"
+
+ #
+
+ doctrine_clerical_gender_futa_only_name: "Only $trait_futa$"
+ doctrine_clerical_gender_futa_only_desc: "Only $trait_futa$ are wise enough interpret [ROOT.Faith.HighGodNamePossessive] will and serve as [ROOT.Faith.PriestFemalePlural] of our faith."
+ doctrine_parameter_clergy_must_be_futa: "These women must have the [GetTrait('futa_genetic').GetName( GetNullCharacter )] [trait|E]"
+
+ #
+
+ futa_special_doctrine_christian_righteousness_name: "Christian Rightousness"
+ futa_special_doctrine_christian_faith_is_righteous_name: "Christian Rightousness"
+ futa_special_doctrine_christian_faith_is_righteous_desc: "The Christian world is right. The [GetTrait('futa_genetic').GetName( GetNullCharacter )] are cursed to be burdened with unimaginable lust. For us to find salvation and cleanse ourselves from this sin, we must turn ourselves to God and Christ's teachings, and follow His Holiness the Pope's guidance so we may find our peace, in the end."
+
+ doctrine_parameter_futa_christian_faith_is_righteous_loc_override: "Considers other Christian [faiths|E] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_futa_christian_faiths_hostility_loc_override: "Considered [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V] by other Christian [faiths|E]"
+
+ doctrine_parameter_futa_urges_are_suppressed: "[GetTrait('futa_genetic').GetName( GetNullCharacter )] are forced to suppress their urges and expected to overcome them"
+ doctrine_parameter_futa_are_extra_stressed: "[GetTrait('futa_genetic').GetName( GetNullCharacter )] will suffer extra [stress|E]"
+ doctrine_parameter_futa_christians_have_bonus_opinion: "Christian [faiths|E] will have [EmptyScope.ScriptValue('futa_christian_bonus_opinion_of_futas_value')|=+0] [opinion|E] bonus towards [GetTrait('futa_genetic').GetName( GetNullCharacter )]"
+
+ futa_hidden_doctrine_christianity_opinion_bonus_opinion_name: "$futa_special_doctrine_christian_faith_is_righteous_name$"
+ doctrine_parameter_opinion_of_futa_hidden_doctrine_christianity_opinion_bonus: "[EmptyScope.ScriptValue('futa_christian_opinion_bonus_value')|=+0] [opinion|E] bonus towards Christian [faiths|E]"
+
+ #
+
+
+ futa_hidden_doctrine_christianity_religion_name: ""
+ futa_hidden_doctrine_christianity_name: ""
+ futa_hidden_doctrine_christianity_desc: ""
+
+ #
+
+ futa_special_doctrine_captive_raids_name: "Captive Raids"
+ futa_special_doctrine_can_raid_for_captives_name: "Captive Raids"
+ futa_special_doctrine_can_raid_for_captives_desc: "We are always in need of bodies. What is a better way to acquire them than true and tested show of might?"
+
+ futa_hidden_doctrine_faithful_seeds_faith_name: ""
+ futa_hidden_doctrine_faithful_seeds_name: ""
+ futa_hidden_doctrine_faithful_seeds_desc: ""
+
+ doctrine_parameter_futa_enable_captive_raid_cb: "Enables the [futa_captive_raid|E] [casus_belli|E]"
+
+ #
+
+ futa_special_doctrine_heralds_name: "Heralds of the $futa_sky_high_god_name_alternate$"
+ futa_special_doctrine_heralds_of_the_skygod_name: "$futa_special_doctrine_heralds_name$"
+ futa_special_doctrine_heralds_of_the_skygod_desc: "We are those who will usher in an era of peace and prosperity for the oppressed and liberate the [ROOT.Faith.HighGodNameAlternate] from [ROOT.Faith.HighGodHerHis|U] shackles. Our mission shan't end until we stand above those who seek to chain us and we shan't rest until the [ROOT.Faith.DevilName] [ROOT.Faith.DevilHerselfHimself|U] is shown the error of [ROOT.Faith.DevilHerHis|U] ways."
+
+ doctrine_parameter_futa_doctrine_enables_futa_tributary: "Unlocks the [GetVassalContractType( 'futa_tributary' ).GetObligationName( 'futa_tributary_active' )] [vassal_contract|E]"
+
+ doctrine_parameter_hostility_override_futa_doctrine_futanari_equality_vilified: ""
+ doctrine_parameter_hostility_override_futa_doctrine_futanari_equality_crime: ""
+ doctrine_parameter_hostility_override_futa_doctrine_futanari_equality_shunned: ""
+ doctrine_parameter_hostility_override_futa_doctrine_futanari_equality_accepted: ""
+ doctrine_parameter_hostility_override_futa_doctrine_futanari_equality_virtuous: ""
+ doctrine_parameter_hostility_override_futa_doctrine_futanari_equality_venerated: ""
+ doctrine_parameter_hostility_override_futa_special_doctrine_vilecore_hatred: ""
+
+ doctrine_parameter_futa_sky_faith_non_accepted_futa_faiths_are_evil_loc: "Considers other [faiths|E] that do not accept [GetTrait('futa_genetic').GetName( GetNullCharacter )] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_futa_sky_faith_accepted_futa_faiths_are_astray_loc: "Considers other [faiths|E] that accept [GetTrait('futa_genetic').GetName( GetNullCharacter )] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_futa_sky_faith_worshipped_futa_faiths_are_rightous_loc: "Considers other [faiths|E] that find [GetTrait('futa_genetic').GetName( GetNullCharacter )] [virtuous|E] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+
+ #
+
+ futa_special_doctrine_vilecore: "Vilecore's Hatred"
+ futa_special_doctrine_vilecore_name: "Vilecore's Hatred"
+ futa_special_doctrine_vilecore_hatred_name: "Vilecore's Hatred"
+ futa_special_doctrine_vilecore_hatred_desc: "Hermillia's spawn are as tainted as their progenator, yet not even their creed is so easily organised. Milandra although originally born of a rightful union had nonetheless been sired by the great deciever and yet, was mothered by Vilecore back when she had another name. Although not directly ruinenous like thier more fruitful kin, Milandra walked a path too close to her cursed parentage. Therefore, Vilecor holds Milandrites with no particular favour or contempt."
+
+ doctrine_parameter_hostility_override_futa_hidden_doctrine_faithful_seeds: ""
+ doctrine_parameter_hostility_override_futa_special_doctrine_heralds_of_the_skygod: ""
+
+ doctrine_parameter_futa_vilecore_faith_accepted_futa_faiths_are_evil_loc: "Considers most other Hermic [faiths|E], and Faiths that accept [GetTrait('futa_genetic').GetName( GetNullCharacter )] to be [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_futa_vilecore_milandrites_are_accepted: "[GetTrait('futa_genetic').GetName( GetNullCharacter )] with the [GetTrait('futa_milandrite').GetName( GetNullCharacter )] [trait|E] are generally more accepted"
+
+ ## Tooltips
+ futa_must_be_accepted: "Requires one of the following $futa_doctrine_futanari_equality_name$ [doctrines|E]:\n$BULLET$[GetFaithDoctrine('futa_doctrine_futanari_equality_accepted').GetBaseName]\n$BULLET$[GetFaithDoctrine('futa_doctrine_futanari_equality_virtuous').GetBaseName]\n$BULLET$[GetFaithDoctrine('futa_doctrine_futanari_equality_venerated').GetBaseName]"
+
+ futa_skyspawn_holy_site_title_holder_vassal_tt: "[holder|E] must be a [vassal|E] in your [realm|E] and is of [GetFaithByKey('futa_skyspawn').GetName] [faith|E]"
+ futa_skyspawn_faith_enable_reformation_tt: "[GetFaithByKey('futa_skyspawn').GetName] will be able to be #P Reformed#! into an [organized|E] [faith|E]\n"
+ futa_skyspawn_hold_every_starting_site_tt: "If you fulfill all #V 8#! [holy_site|E] requirements:"
+
+ futa_skyspawn_hidden_holy_sites_trigger_tt: "Find and activate all hidden [holy_sites|E] of the [GetFaithByKey('futa_skyspawn').GetName] [faith|E] #weak (Current: #V [SCOPE.ScriptValue('futa_amount_of_enabled_hidden_holy_sites_value')|0]/[SCOPE.ScriptValue('futa_amount_of_hidden_disabled_holy_sites_value')|0]#!)#!"
+
+
+ ## Modifiers
+ futa_crime: "[GetTrait('futa_genetic').GetName( GetNullCharacter )] Abomination"
+ futa_intolerant: "Intolerable [GetTrait('futa_genetic').GetName( GetNullCharacter )]"
+ futa_virtuous: "Holy [GetTrait('futa_genetic').GetName( GetNullCharacter )]"
+ futa_venerated: "Venerable [GetTrait('futa_genetic').GetName( GetNullCharacter )]"
+
+
+ ## Decisions
+
+ futa_seed_the_doctrine_decision: "Seed the Acceptance Doctrine"
+ futa_seed_the_doctrine_decision_desc: "No flavour text for this one. If you are seeing this, you are on an ongoing save without the new $trait_futa$ Equality Doctrines present on your religions. Use this to seed the Doctrines."
+ futa_seed_the_doctrine_decision_tooltip: "Dew it."
+ futa_seed_the_doctrine_decision_confirm: "Dew it."
+
+ futa_control_enough_main_holysites_decision: "Secure the Holy Sites"
+ futa_control_enough_main_holysites_decision_desc: "In order to present our faith as legitimate, we need to establish a strong presence on the Earth. Taking control of the locations that is considered sacred to our faith should be the first step towards this goal."
+ futa_control_enough_main_holysites_decision_tooltip: "Prepare the Scribes"
+ futa_control_enough_main_holysites_decision_confirm: "The faith is ready."
+
+ futa_find_all_hidden_holy_sites_decision: "Find All Hidden Sites"
+ futa_find_all_hidden_holy_sites_decision_desc: "There are many more locations in this Earth that is worth establishing a presence in. Finding all the appropriate locations to base our faith in will allow us to be a permanent mark upon history!"
+ futa_find_all_hidden_holy_sites_decision_tooltip: "There is much to learn"
+ futa_find_all_hidden_holy_sites_decision_confirm: "The Earth is Ours"
+
+ ## Holy Sites
+
+ holy_site_futa_olympus_name: "Mount Olympus"
+ holy_site_futa_garden_of_eden_name: "Garden of Eden"
+ holy_site_futa_nile_name: "The Nile"
+ holy_site_futa_boyne_name:0 "River Boyne"
+ holy_site_futa_boyne_desc:0 "The River Boyne is believed to have strong connections to an Irish Goddess that had birthed a child with Milandria, one of Hermillia's divine children."
+
+
+ holy_site_futa_urals_sky_name: "The Wall Between East and West"
+ holy_site_futa_olympus_sky_name: "The Throne of the Sky-Lord"
+ holy_site_futa_garden_of_eden_sky_name: "The Bosom of the Earth-Mother"
+ holy_site_futa_nile_sky_name: "The Womb of the Earth-Mother"
+ holy_site_futa_constantinople_sky_name: "The City of World's Desire"
+ holy_site_futa_roma_sky_name: "The Seat of the Oppressors"
+ holy_site_futa_castille_sky_name: "The Land of Faith's Strife"
+ holy_site_futa_cordoba_sky_name: "The Land of Faith's Strife"
+ holy_site_futa_paris_sky_name: "The City of Culture"
+ holy_site_futa_london_sky_name: "The Realm of the Longbow"
+ holy_site_futa_meath_sky_name: "The Land of the Unwombed Ones"
+ holy_site_futa_berlin_sky_name: "The Seat of Bureaucracy"
+ holy_site_futa_bern_sky_name: "The Master Soldiers of Fortune"
+ holy_site_futa_wien_sky_name: "The Masters of Marriage"
+ holy_site_futa_iceland_sky_name: "The Island of Earth's End"
+ holy_site_futa_stockholm_sky_name: "The Realm of the Plunderers"
+ holy_site_futa_moskva_sky_name: "The Realm of the Bitter Cold"
+ holy_site_futa_kyiv_sky_name: "The Edge of the Steppes"
+ holy_site_futa_sus_sky_name: "The Masters of Espionage"
+ holy_site_futa_mali_sky_name: "The Land of Gold"
+ holy_site_futa_daura_sky_name: "The Home of Matriarchy"
+ holy_site_futa_carthage_sky_name: "The Rulers of the Sea"
+ holy_site_futa_lasta_sky_name: "The Land of the Isolated"
+ holy_site_futa_yemen_sky_name: "The Realm of Red Mountains"
+ holy_site_futa_oman_sky_name: "The Mountain Before the Sea"
+ holy_site_futa_herat_sky_name: "The Legacy of the Destroyer"
+ holy_site_futa_delhi_sky_name: "The Seat of Empires"
+ holy_site_futa_lhasa_sky_name: "The Land That Kisses the Sky"
+ holy_site_futa_vatsagulma_sky_name: "The Land of the Tolerant"
+ holy_site_futa_lanka_sky_name: "The Domain of Wealth"
+ holy_site_futa_thaton_sky_name: "The Edge of the Earth"
+
+ 
+ ## FAITHS
+ 
+ # Finisher: Fixed up the grammar mistakes and typos I saw. Also simplified and hooked all the text into certain strings. No need to write Hermillia 30 different times
+ # Less mistakes that way, as I have found some typos in her name on some of them.
+
+ futa_rf_herm:0 "Hermaphrodite"
+ futa_hermic_religion:0 "Hermic"
+ futa_hermic_religion_desc:0 "In this world exist the [GetTrait('futa_genetic').GetName( GetNullCharacter )], formed by a Goddess known as Hermillia. This divine being irked many rival gods and has been scrubbed from history. Followers of Hermaphrodite faiths tend to belong to marginalized groups, outcasts, or $trait_futa$ and their supporters. A common thread between all branches is survival, but they each interpret that differently."
+ futa_hermic_religion_adj:0 "Hermic"
+ futa_hermic_religion_adherent: "Hermata"
+ futa_hermic_religion_adherent_plural: "Hermata"
+
+ futa_hermillian:0 "Hermillian"
+ futa_hermillian_adj:0 "Hermillian"
+ futa_hermillian_adherent:0 "Hermillian"
+ futa_hermillian_adherent_plural:0 "Hermillians"
+ futa_hermillian_old:0 "Old Hermillian"
+ futa_hermillian_old_adj:0 "Old Hermillian"
+ futa_hermillian_old_adherent:0 "Old Hermillian"
+ futa_hermillian_old_adherent_plural:0 "Old Hermillians"
+ futa_hermillian_desc:0 "Those who follow this faith revere the Goddess Hermillia as their one true power in the sky. It was once practiced by the majority of [GetTrait('futa_genetic').GetName( GetNullCharacter )], but fell dormant after Hermillia's persecution and the demonisation of $trait_futa$ culture. Hermillians seek to spread pleasure and $trait_futa$ far and wide."
+ 
+ futa_faithful_seeds:0 "Faithful Seeds"
+ futa_faithful_seeds_adj:0 "Faithful Seed"
+ futa_faithful_seeds_adherent:0 "Faithful Seed"
+ futa_faithful_seeds_adherent_plural:0 "Faithful Seeds"
+ futa_faithful_seeds_old:0 "Old Faithful Seeds"
+ futa_faithful_seeds_old_adj:0 "Old Faithful Seed"
+ futa_faithful_seeds_old_adherent:0 "Old Faithful Seed"
+ futa_faithful_seeds_old_adherent_plural:0 "Old Faithful Seeds"
+ futa_faithful_seeds_desc:0 "There are those who would tell you that Hermillia was defeated. Killed. Such poeple are #EMP wrong#!. The Goddess is powerful and has been plotting her revenge. She is not a mere concept to pray to, but a deity who walks among us! Woe to those who fail to submit. Prostate yourself before her rightful fury and beg to bare her brood, lest you watch as she drowns the world in darkness!"
+
+ futa_carldenism:0 "Carldenism"
+ futa_carldenism_adj:0 "Carldenite"
+ futa_carldenism_adherent:0 "Carldenite"
+ futa_carldenism_adherent_plural:0 "Carldenites"
+ futa_carldenism_desc:0 "[GetTrait('futa_genetic').GetName( GetNullCharacter )] were born from sin. They represent the flaws of Eve and they are believed to be those of us most easily swayed by the devil. Their curse is a punishment, for which they must repent through chastity. Only a $trait_futa$ who seals her heart from lusts and remains faithful to a single male husband can hope to find salvation and enter heaven."
+
+ futa_skyspawn: "Skyspawn"
+ futa_skyspawn_adj: "Skyspawn"
+ futa_skyspawn_adherent: "Skyspawn"
+ futa_skyspawn_adherent_plural: "Skyspawn"
+ futa_skyspawn_old: "Old Skyspawn"
+ futa_skyspawn_old_adj: "Old Skyspawn"
+ futa_skyspawn_old_adherent: "Old Skyspawn"
+ futa_skyspawn_old_adherent_plural: "Old Skyspawn"
+ futa_skyspawn_desc: "A $futa_hermic_religion$ faith which was born out of a desire to make the world an accepting place for the [GetTrait('futa_genetic').GetName( GetNullCharacter )] to live in, the $futa_skyspawn$ are an off-branch of Tengriism. They believe the Sky-God is actually a $trait_futa$ and life is born when She continuosly fertilises the Earth-Mother with Her essence, bringing humans, plants and other creatures to life in unity. However, due to the persecution of $trait_futa$, they believe that the Earth-Mother has turned Her back on the Sky-God and betrayed them, while still selfishly enjoying the blessings of the Sky-God. As it is in their belief that life cannot exist without eachother, $futa_skyspawn$ seek to restore the balance by making earth a better place to live for $trait_futa$ through any means necessary and showing the Earth-Mother the error of Her ways."
+
+ futa_pact_of_vilecore:0 "Pact of Vilecore"
+ futa_pact_of_vilecore_adj:0 "Vileist"
+ futa_pact_of_vilecore_adherent:0 "Vileist"
+ futa_pact_of_vilecore_adherent_plural:0 "Vileists"
+ futa_pact_of_vilecore_old:0 "Old Pact of Vilecore"
+ futa_pact_of_vilecore_old_adj:0 "Old Vileist"
+ futa_pact_of_vilecore_old_adherent:0 "Old Vileist"
+ futa_pact_of_vilecore_old_adherent_plural:0 "Old Vileists"
+ futa_pact_of_vilecore_desc:0 "When the foolish Hermillia eloped between gods and ruined a deity of marriage, she had marked her precious [GetTrait('futa_genetic').GetName( GetNullCharacter )] for etnernal retribution. Vilecore is a dark name to the Hermic. She was stripped of her old domains and robbed of her voice. But hate and vengeance manifested in her a new power. Those who have awoken their minds to the $trait_futa$ scourge may find union with this sunderd Goddess, removing Hermillia's filth whilst empowering Vilecore so she might escape her imprisonment!"
+ 
+ hermic_high_god_name:0 "Hermillia"
+ hermic_high_god_name_2:0 "$hermic_high_god_name$"
+ hermic_high_god_name_3:0 "$hermic_high_god_name$"
+ hermic_high_god_name_possessive:0 "Hermillia's"
+ hermic_high_god_name_alternate:0 "$hermic_high_god_name$"
+ hermic_high_god_name_alternate_possessive:0 "$hermic_high_god_name_possessive$"
+
+ hermic_creator_god_name:0 "$hermic_high_god_name$"
+ hermic_creator_god_name_possessive:0 "$hermic_high_god_name_possessive$"
+
+ hermic_health_god_name:0 "$hermic_high_god_name$"
+ hermic_health_god_name_possessive:0 "$hermic_high_god_name_possessive$"
+
+ hermic_fertility_god_name:0 "$hermic_high_god_name$"
+ hermic_fertility_god_name_possessive:0 "$hermic_high_god_name_possessive$"
+
+ hermic_wealth_god_name:0 "$hermic_high_god_name$"
+ hermic_wealth_god_name_possessive:0 "$hermic_high_god_name_possessive$"
+
+ hermic_household_god_name:0 "$hermic_high_god_name$"
+ hermic_household_god_name_possessive:0 "$hermic_high_god_name_possessive$"
+
+ hermic_fate_god_name:0 "$hermic_high_god_name$"
+ hermic_fate_god_name_possessive:0 "$hermic_high_god_name_possessive$"
+
+ hermic_knowledge_god_name:0 "$hermic_high_god_name$"
+ hermic_knowledge_god_name_possessive:0 "$hermic_high_god_name_possessive$"
+
+ hermic_war_god_name:0 "$hermic_high_god_name$"
+ hermic_war_god_name_possessive:0 "$hermic_high_god_name_possessive$"
+
+ hermic_trickster_god_name:0 "$hermic_high_god_name$"
+ hermic_trickster_god_name_possessive:0 "$hermic_high_god_name_possessive$"
+
+ hermic_night_god_name:0 "$hermic_high_god_name$"
+ hermic_night_god_name_possessive:0 "$hermic_high_god_name_possessive$"
+
+ hermic_water_god_name:0 "$hermic_high_god_name$"
+ hermic_water_god_name_possessive:0 "$hermic_high_god_name_possessive$"
+
+ hermic_devil_name:0 "Vilecor"
+ hermic_devil_name_possessive:0 "Vilecor's"
+
+ hermic_house_of_worship:0 "church"
+ hermic_house_of_worship_2:0 "$hermic_house_of_worship$"
+ hermic_house_of_worship_3:0 "$hermic_house_of_worship$"
+ hermic_house_of_worship_plural:0 "churches"
+
+ hermic_religious_symbol:0 "seed"
+ hermic_religious_symbol_2:0 "$hermic_religious_symbol$"
+ hermic_religious_symbol_3:0 "$hermic_religious_symbol$"
+
+ hermic_religious_text:0 "chronicle"
+ hermic_religious_text_2:0 "stone Slab"
+ hermic_religious_text_3:0 "manuscript"
+
+ hermic_religious_head_title:0 "All-Mother"
+ hermic_religious_head_title_name:0 "All-Mother"
+
+ hermic_devotee_male:0 "worshipper"
+ hermic_devotee_male_plural:0 "worshippers"
+ hermic_devotee_female:0 "$hermic_devotee_male$"
+ hermic_devotee_female_plural:0 "$hermic_devotee_male_plural$"
+ hermic_devotee_neuter:0 "$hermic_devotee_male$"
+ hermic_devotee_neuter_plural:0 "$hermic_devotee_male_plural$"
+
+ hermic_priest_male:0 "priest"
+ hermic_priest_male_plural:0 "priests"
+ hermic_priest_female:0 "priestess"
+ hermic_priest_female_plural:0 "priestesses"
+ hermic_priest_alternate_plural:0 "clergy"
+ hermic_bishop:0 "bishop"
+ hermic_bishop_plural:0 "bishops"
+ hermic_bishop_female:0 "high priestess"
+ hermic_bishop_female_plural:0 "high priestesses"
+
+ hermic_positive_afterlife:0 "Heaven"
+ hermic_positive_afterlife_2:0 "$hermic_positive_afterlife$"
+ hermic_positive_afterlife_3:0 "$hermic_positive_afterlife$"
+
+ hermic_negative_afterlife:0 "Hell"
+ hermic_negative_afterlife_2:0 "$hermic_negative_afterlife$"
+ hermic_negative_afterlife_3:0 "$hermic_negative_afterlife$"
+
+ hermic_death_deity_name:0 "$hermic_high_god_name$"
+ hermic_death_deity_name_possessive:0 "$hermic_high_god_name_possessive$"
+
+ hermic_witchgodname_the_horned_god:0 "$hermic_devil_name$"
+ hermic_witchgodname_the_horned_god_possessive:0 "$hermic_devil_name_possessive$"
+
+ # Sky Faith
+
+ futa_sky_high_god_name: "Sky-God"
+ futa_sky_high_god_name_2: "Sky-Father"
+ futa_sky_high_god_name_possessive: "Sky-God's"
+ futa_sky_high_god_name_alternate: "Sky-Lord"
+ futa_sky_high_god_name_alternate_possessive: "Sky-Lord's"
+		
+    #Creator
+ futa_sky_creator_god_name: "$futa_sky_high_god_name$"
+ futa_sky_high_creator_god_name_possessive: "$futa_sky_high_god_name_possessive$"
+
+    #HealthGod
+ futa_sky_health_god_name: "$futa_sky_high_god_name$"
+ futa_sky_health_god_name_possessive: "$futa_sky_high_god_name_possessive$"
+			
+    #FertilityGod
+ futa_sky_fertility_god_name: "$futa_sky_devil_name$"
+ futa_sky_fertility_god_name_possessive: "$futa_sky_devil_name_possessive$"
+
+	#WealthGod
+ futa_sky_wealth_god_name: "$futa_sky_high_god_name$"
+ futa_sky_wealth_god_name_possessive: "$futa_sky_high_god_name_possessive$"
+
+	#HouseholdGod
+ futa_sky_household_god_name: "$futa_sky_devil_name$"
+ futa_sky_household_god_name_possessive: "$futa_sky_devil_name_possessive$"
+
+	#FateGod
+ futa_sky_fate_god_name: "$futa_sky_high_god_name$"
+ futa_sky_fate_god_name_possessive: "$futa_sky_high_god_name_possessive$"
+
+	#KnowledgeGod
+ futa_sky_knowledge_god_name: "$futa_sky_devil_name$"
+ futa_sky_knowledge_god_name_possessive: "$futa_sky_devil_name_possessive$"
+
+	#WarGod
+ futa_sky_war_god_name: "$futa_sky_high_god_name$"
+ futa_sky_war_god_name_possessive: "$futa_sky_high_god_name_possessive$"
+
+	#TricksterGod
+ futa_sky_trickster_god_name: "$futa_sky_devil_name$"
+ futa_sky_trickster_god_name_possessive: "$futa_sky_devil_name_possessive$"	
+
+	#NightGod
+ futa_sky_night_god_name: "$futa_sky_high_god_name$"
+ futa_sky_night_god_name_possessive: "$futa_sky_high_god_name_possessive$"
+
+	#WaterGod
+ futa_sky_water_god_name: "$futa_sky_high_god_name$"
+ futa_sky_water_god_name_possessive: "$futa_sky_high_god_name_possessive$"
+
+ futa_sky_pantheon_term: "gods"
+ futa_sky_pantheon_term_2: "$futa_sky_pantheon_term$"
+ futa_sky_pantheon_term_3: "$futa_sky_pantheon_term$"
+
+ futa_sky_devil_name: "Earth-Mother"
+ futa_sky_devil_name_possessive: "Earth-Mother's"
+
+ futa_sky_house_of_worship: "Sky-Temple"
+ futa_sky_house_of_worship_2: "$futa_sky_house_of_worship$"
+ futa_sky_house_of_worship_3: "$futa_sky_house_of_worship$"
+ futa_sky_house_of_worship_plural: "Sky-Temples"
+
+ futa_sky_religious_symbol: "Sky-Lord's crescent"
+ futa_sky_religious_symbol_2: "$futa_sky_religious_symbol$"
+ futa_sky_religious_symbol_3: "$futa_sky_religious_symbol$"
+
+ futa_sky_religious_text: "the great legends"
+ futa_sky_religious_text_2: "$futa_sky_religious_text$"
+ futa_sky_religious_text_3: "$futa_sky_religious_text$"
+
+ futa_sky_religious_head_title: "Sky-Speaker"
+ futa_sky_religious_head_title_name: "Sky-Council"
+
+ futa_sky_devotee: "devotee"
+ futa_sky_devoteeplural: "devotees"
+
+ futa_sky_priest: "shaman"
+ futa_sky_priest_plural: "shamans"
+ futa_sky_priest_alternate_plural: "shamans"
+
+ futa_sky_bishop: "Sky-Watcher"
+ futa_sky_bishop_plural: "Sky-Watchers"
+
+ futa_sky_divine_realm: "Eternal Blue Sky"
+ futa_sky_divine_realm_2: "$futa_sky_divine_realm$"
+ futa_sky_divine_realm_3: "$futa_sky_divine_realm$"
+
+ futa_sky_afterlife_negative: "Tamag"
+ futa_sky_afterlife_negative_2: "$futa_sky_afterlife_negative$"
+ futa_sky_afterlife_negative_3: "$futa_sky_afterlife_negative$"	
+
+ futa_sky_great_holy_war: "$futa_sky_high_god_name_alternate_possessive$ Liberation"
+ futa_sky_great_holy_wars: "$futa_sky_great_holy_war$s"
+
+
+ # Holy Orders
+
+ holy_order_hermillia's_penetrators: "Hermillia's Penetrators"
+ holy_order_seeds_of_sorrow: "Seeds of Sorrow"
+
+
+
+ ## Events
+
+ #VILECORE PACT DECISION EVENT
+ futa_religion_events.0003.title:0 "The Pacts of Vilecore"
+ futa_religion_events.0003.desc:0 "Every day the degeneracy of Hermillia multiplies and corrupts. Until such a time where $trait_futa$ no longer exist it is my duty to ensure their torment on Vilecore's behalf. She is a Goddess of many traits, but as a mere desciple I may only channel one."
+ futa_religion_events.0003.a:0 "The Word."
+ futa_religion_events.0003.b:0 "The Bond."
+ futa_religion_events.0003.c:0 "The Fury."
+ futa_religion_events.0003.d:0 "The Child."
+ futa_religion_events.0003.e:0 "The Sin."
+ 
+ #
+
+ #VILECORE BIRTH INTERACTION EVENT
+ futa_religion_events.0005.title:0 "The Pacts of Vilecore"
+ futa_religion_events.0005.desc:0 "#EMP Get it out, get it out of me! Oh Vilecore, purge this Hermillian filth and make it into your servant!#! Your chants echo into the deep of night. You have prepared the ritual as closely to the visions as possible. You got the fire, the location, the time of night, you even crushed one hundred nuts forged from the local area for good measure. \n\nLooking down at your bloated frame fills you with disgust. The Futanari are shameless, but you have no plans on becoming a #EMP broodmother#! For them. \n\n#BOLD *Churn*#! \n\n#EMP Argh!!! What is this… PAIN? ARGGGGGG!#! \n\nYou lurch back against the ground as your body starts to compulse rapidly. It feels as if something is trying to #EMP claw#! It’s way out of you. Chancing a look, you see the surface of your taunt belly bulging and sinking in numerous spots, shifting constantly. \n\nTears cloud your vision from all the pain and discomfort. You feel #EMP wrong#!. Another shrill scream escapes your lips. Breathless, hurt and a little afraid, you brace for what comes next. \n\n#EMP ARGHHHHHHHHH!!!#! \n\nSick wet sounds join your screams as your birthing canal is spread wide. You wriggle and cry, unable to slow down but not wishing to speed up. The large mass inside you begins to decline… \n\n#EMP What is-?!#! \n\nYou might be going delirious, but escaping from your womb is a vast quantity of #EMP inky black#! vapour. Each contraction forces more and more out of you. The feeling is indescribable, but you would not call it pleasant. \n\nYou hear a groan - not from you - near your legs. It is drowned out by yet another scream as the last of your package is expelled. The dark mist swirls around a central figure, coalescing into #EMP something#! more corporeal. \n\nFrom the darkness, a flash of white. Sharp, deadly #EMP teeth!#! \n\n”#EMP Kehkehkehkehkeh!#!” \n\nThe figure wobbles, emitting an unnerving cackle. You try to move away, but you can’t. Your body must recover. You have no choice but to lie and wait, vulnerable and alone. \n\n”He- Hel-  #EMP Hello Mommy#!.” The creature speaks to you. Its voice shrill, like nails with an attitude. At one three large beaming eyes open to behold their new surroundings. Eventually they lock with the two inside your head, and when they do you see a vision of #EMP Vilecore.#! \n\nShe is smiling. You can tell this was the intended result all along. This #EMP creature#! is as much her child as it is your own. A mockery of Hermillia’s creations. It will serve you so long as you keep your pact with Vilecore."
+ futa_religion_events.0005.a:0 "#EMP It’s… Mine?#!"
+
+ #
+
+ # FORM THE DARK PACT DECISION EVENT
+ futa_religion_events.0006.title: "The Dark Pact"
+ futa_religion_events.0006.desc: "The Dark Pact"
+
+ futa_religion_events.0006.a: "The Dark Pact"
+ 
+ #FORGE CARLDENITE BLADE DECISION EVENT
+ futa_religion_events.0007.title:0 "The Blade Of Faith"
+ futa_religion_events.0007.desc:0 "The war for one's eternal soul is never truly over until you are at rest in the serenity of Heaven. Whilst I still walk this mortal plane it is my #EMP duty#! to God to exert his will. For this exact purpose I have prayed and sponsored a pious smith to forge a weapon worthy of baring the burden I am charged with upholding. \n\nThe blade has been completeted and now all that is left to do is claim it. The weight is well balnced in my hands. It's edge is sharp, and I see no faults in the craftsmanship. May the Father guide my steel towards his enemies and in the defence of his people!"
+ futa_religion_events.0007.a:0 "Ready at last."
+ 
+ #VILECORE TRAVEL TAVERN EVENT
+ futa_religion_events.0008.title:0 "Prey in the Dark"
+ futa_religion_events.0008.desc:0 "A tavern is usually a place for rest and recuperation, a place to let one's mind experience a moment of peace, but today I would find anything but. A #EMP Futanari#! pig was harassing a married couple. Most likely did not notice, but my eye caught the drunken bulge spilling from her skirt. \n\nOne of Hermillia’s spawn, alone and foolish. This is an opportunity I cannot afford to pass up on. Vilecore will be thankful for an unexpected offering."
+ futa_religion_events.0008.a:0 "Have them disappear."
+ futa_religion_events.0008.b:0 "Murder them out back."
+ futa_religion_events.0008.c:0 "Use her."
+ 
+ #CARLDENITE CONFESSION DECISION - Stimulating Confession
+ futa_religion_events.0009.title:0 "Stimulating Confession"
+ futa_religion_events.0009.desc:0 "I made sure to block out the light with thick cloth covered in holy iconography to ensure any wandering eyes are only brought to pious thoughts. After checking there is no way for the “guest” side to see through to the otherside, I take my seat inside the booth and signal for one of my Futanari Nuns to step inside. She thumbles around for a bit before taking a deep breath and sitting down. “Hello. I have come to make a confession.” \n\nAnominity is an important aspect towards letting an individual open up. The only judgment within this box is God’s. I must do my best not to pry, nor attempt to discover the identity… Even if it is often obvious. \n\n”My mind has been plagued with… Lustful thoughts. They come even when I try to occupy myself with Godly duties.” She sounds slightly frustrated. #EMP Maybe not frustrated enough?#! She should not despair for having these urges, it is unfortunately expected of her nature. You inform the Nun that what truly matters is how she does not act upon those urges and acknowledges them as bad. In time, she will overcome these… Relapses. \n\n”Thank you for saying so. Your words inspire me with confidence that I can live up to be worthy of God’s Kingdom.”"
+ futa_religion_events.0009.a:0 "“Amen”"
+ futa_religion_events.0009.b:0 "“Amen”"
+ futa_religion_events.0009.c:0 "“Amen”"
+ 
+ #CARLDENITE CONFESSION DECISION - Stimulating Confession - Use Penis
+ futa_religion_events.0010.title:0 "Stimulating Confession"
+ futa_religion_events.0010.desc:0 "The Nun waits a moment before continuing. “It’s my penis. I cannot stop touching it, can’t stop thinking about it. It makes me feel so good, and I know it would feel better if there was someplace I could stick it inside… Even though that is a sin…” \n\nSuch a dirty mind only has one cure. You remove a seal from the wall that separates the two of you, revealing a hole. Your cock - nice and hard - pushes through. You hear a gasp. \n\n”What are you…?” You tell the Nun that her disgraceful lust has angered God. If she wishes to repent, she shall do so by transferring those wishes for her cock onto your own devout rod. She must pleasure you to an orgasm in lieu of her own, only then can she be deemed whole of mind. \n\n”If that is what it takes… I want to be good.” \n\nYour cock twitches between the Nun’s fingers. She grasps your shaft firmly, trying to imagine it is her own as she starts stroking. A lewd silence takes hold, with only the sounds of her pious handjob filling the booth. \n\nThis is going to take too long unless she picks up the pace. You inform the devotee that to show she truly means to absolve her sins, she should clean your pole. By doing so, she is cleaning up her own shame. \n\n”If that is God’s command… *Spit*” Saliva dampens your glans. The Nun palms her spit against you, slicking your rod with a mixture of precum and drool. That cocktail becomes a lot more concentrated once the Nun opens her mouth and starts sucking on your length. \n\n#EMP Much better…#! You rest your weight on the wall, relaxing your shoulders and taking in the experience. Although you cannot see her, the slurping of your penis on the other side paints a vivid picture in your mind. \n\n#EMP Mmm! Make sure not to waste a drop!#! Your balls tense up and your seed spills, bouncing against the roof of the nun’s mouth on their way down her gullet. \n\n*Cough* *Cough* #EMP Gah!#! You didn’t warn me first?!” \n\nThe nerve to complain after such a mediocre performance. She should be grateful God has given her this chance to apologise for her sins."
+ futa_religion_events.0010.a:0 "Don’t slip up again."
+ futa_religion_events.0010.b:0 "“#BOLD CHOKE ON IT#!”"
+ 
+ #CARLDENITE CONFESSION DECISION - Stimulating Confession - Choke
+ futa_religion_events.0011.title:0 "Stimulating Confession"
+ futa_religion_events.0011.desc:0 "“What?!” The Nun has no time to react, your penis is still halfway down her throat when your churning batter explodes out a second time. Unlike before, the semen stream is gloopier. A greasy congealed mass long past its best. Your Nun croaks. Her pipe clogged up with your expired seed. \n\nStill hard, you stomp into her side of the booth. You find [nun.GetFirstName] clutching at her neck, unsure whether to spit or swallow the blockage. Her eyes shrink from embarrassment when she notices you, but you are not bothered. \n\nYou  grab her head and force her over your penis again, humping away until yet another load of old semen is released, filling her up right to the lips. She has no choice now but to force it down. Her face bright red and eyes watering. \n\nSeeing as it is your duty to guide the Nun’s, you quickie wipe some leftover cum onto [nun.GetFirstName]’s lips before reaching down and finger banging her anus. The stimulation “encourages” the Nun, mumbling away as she swallows the last dregs of stale seed. \n\n”#EMP URRRRRGHH!#! Simultaneously, [nun.GetFirstName] draws her breath and orgasms from your prostate massage. She is utterly haggard, keeled over and gasping for air."
+ futa_religion_events.0011.a:0 "*Quickly leave*"
+ 
+ #CARLDENITE CONFESSION DECISION - Stimulating Confession - Use Ass
+ futa_religion_events.0012.title:0 "Stimulating Confession"
+ futa_religion_events.0012.desc:0 "“My desires… They always involve impregnating someone. Spreading my seed, having offspring like me who will grow up to do the same. Those thoughts make me… Happy.” Her degeneracy goes deeper than you feared. #EMP Willingly#! Spreading a curse? God have mercy on her soul. For desperate times like these you installed a secret hatch. Removing it reveals a somewhat large opening. You inform the Nun she must strip and stick her rear through the hole for righteous inspection. \n\n”O-okay?” You listen for the sound of cloth hitting the floor. Soon enough, a round object worm’s its way into your quarters. You take a good look at the rump. A winking hole twitches under your silent gaze. But most importantly, her mark of shame. Her throbbing cock and balls, dangling before you. \n\nYou will purge thoughts of spreading sin by stimulating her sexually… Up the ass. \n\n”#EMP My Ass?!#!” That is correct. No children can come from seeding the anus. God labels such acts as Sin, but when it comes to a Futanari it is righteous. Their procreation is forbidden! Your penis is eager to do it’s duty. You thumb the Nun’s back door to test the resilience before inserting the tip of your rod. \n\n”_Ngh!” You hear a grunt as you spread her open. A smile flickers across your face. This Futanari is offering herself in such a vulnerable position, yet she cannot even see you. Your hips start beating away with that encouraging thought, clapping her cheeks like a drum. \n\n#EMP “Mmm! MM! Ahh, I’m close!”#! Sounds as if your Nun is enjoying her atonement too much. Your eye shifts to her pulsating orbs, ready to spill at any moment. You clutch one in you hand. It is weighty, you can #EMP feel#! The seed surging inside. In tune with your next thrust, you squeeze down on her nut. \n\n”AHHHHHHGHH!” The Nun cries out. #EMP A reminder she is here to repent!#! Your role in that repentance comes to an end, you fill her backdoor with a collection of little worshipers. After withdrawing you notice the Futa had also experienced an orgasm from the sheer amount of #EMP sticky white paint#! now stinking up your booth."
+ futa_religion_events.0012.desc_female:0 "“My desires… They always involve impregnating someone. Spreading my seed, having offspring like me who will grow up to do the same. Those thoughts make me… Happy.” Her degeneracy goes deeper than you feared. #EMP Willingly#! Spreading a curse? God have mercy on her soul. For desperate times like these you installed a secret hatch. Removing it reveals a somewhat large opening. You inform the Nun she must strip and stick her rear through the hole for righteous inspection. \n\n”O-okay?” You listen for the sound of cloth hitting the floor. Soon enough, a round object worm’s its way into your quarters. You take a good look at the rump. A winking hole twitches under your silent gaze. But most importantly, her mark of shame. Her throbbing cock and balls, dangling before you. \n\nYou will purge thoughts of spreading sin by stimulating her sexually… Up the ass. \n\n”#EMP My Ass?!#!” That is correct. No children can come from seeding the anus. God labels such acts as Sin, but when it comes to a Futanari it is righteous. Their procreation is forbidden! Seeing such an erotic sight makes it hard #EMP not#! To shove your face in there. Confessions are confidential anyway, no one will know. You kneel down and observe her prestigious orbs for a moment. #EMP So full and virile. These balls would spread their curse to any womb for sure.#! But not your womb, not today. Instead you grasp hold of the Futanari’s shaft abd start milking it with one hand, and with the other you fondle her sack. Pushing one testicle against the other, lifting it up and down. Giving it a gentle #EMP squeeze.#! \n\n”#EMP Urgh!#!” Your Nun moans softly. Precum coats your fingers, dripping across the booth’s floor. Knowing that each Futanari soldier spilled is a cursed birth averted, you take a deep breath and shove your mouth against her anus. Being so #EMP submerged#! in this degenerate’s essence starts to fog your mind. Your tongue plays with every ridge it can find, sending tremors of pleasure across the Futanari’s thighs. \n\n”I’M CUMMING!!!” Is all the warning you get before a torrent of cursed seed blasts out of her stimulated meat, ruining the floor, and your clothes along with it! By the time she is finished it looks like you were wearing snow leggings!"
+ futa_religion_events.0012.a:0 "“I’m not cleaning that.”"
+ futa_religion_events.0012.b:0 "“Typical.”"
+ futa_religion_events.0012.c:0 "“GET PREGNANT”"
+ 
+ #CARLDENITE CONFESSION DECISION - Stimulating Confession - Impreg
+ futa_religion_events.0013.title:0 "Stimulating Confession"
+ futa_religion_events.0013.desc:0 "#BOLD *Plap* *Plap* *Plap* *Plap*#! \n\n#EMP Fuck this degenerate slutty hole! What a whore!!! Coming to confess with nothing but sex!!!! FUCK! Argh, take it in the pussy you little #BOLD bitch!#! Maybe you will stop giving us such a bad rep once I make you a #BOLD stay at home mother!#!#! \n\n #BOLD *Plap* *Plap* *Plap* *Plap*#! \n\n”Ahhhh! OooooooooH F-FuuccccckkkkKKKK!!!!!!” \n\n#BOLD *Plap* *Plap* *Plap* *Plap*#! \n\n#EMP Hold my seed in your #BOLD cursed womb#! you utter DISGRACE!#! \n\n#EMP “ARGGGHHHHHHHHHHHHHH”#!"
+ futa_religion_events.0013.a:0 "*Slap her ass*"
+ 
+ #CARLDENITE CONFESSION DECISION - Admission of Sin
+ futa_religion_events.0014.title:0 "Admission of Sin"
+ futa_religion_events.0014.desc:0 "It took some working up to do this, but at last I have committed to attending a confession. I owe it to God. My mind has laboured under forbidden thoughts for too long, a conversation with the faithful will help purify my mind. The church were welcoming at first, then scrutinous - as they should be - upon learning of my horrific nature. I wasn’t able to speak up before a Nun threw holy water over my face, but afterwards I explained I had arrived for my confession. \n\nA priest directed me into the booth and an anonymous servant of God entered the other side. \n\n”Speak. Tell me of your sins so God might weed them out.” \n\nSpeak I do. Of the impulses. The urges. The desires. Sex. Loved ones. Family. All are a gateway to sin for Futanari. \n\n”You have been quite honest. I am perturbed by the wright of your sins, but God is the judge of mortal souls.” It was not easy to confess my failures, but it was needed if I am to repent for them."
+ futa_religion_events.0014.a:0 "I think I feel better."
+ 
+ #CARLDENITE CONFESSION DECISION - Admission of Sin - Blowjob
+ futa_religion_events.0015.title:0 "Admission of Sin"
+ futa_religion_events.0015.desc:0 "The priest is silent, unsettlingly so. Despite being in a private space I still find myself looking over my shoulder. When I turn back however… #EMP What is THAT?!#! \n\nSticking out of the wall is an unmistakable object. #EMP A penis!#! It stands erect and proud. “*Ahem* Futanari like you need to dissociate from their cursed desires by transfixing them onto one approved by God.” \n\nI remain still, unsure of what to do. “#EMP *Sigh*#! You must bring me pleasure in place of your own. With your mouth preferably, to prevent any sins slipping out.” His cock bobs in agreement. #EMP If God needs this from me… then I must#!. \n\nI lower myself before this sanctified phallus. It is clean and plain, as one would expect from a man of the cloth. I wrap my hands around it, “#EMP UuuHHhu!#!” The priest moans as soon as I make contact. #EMP I should probably skip the foreplay with him.#! \n\nMy lips part over his penis. I roll my tongue around his surface, trying to avoid grazing him with my teeth, \n\n”#EMP OooHo Lord, Praise be for creating such women- Oh!” The priest is really enjoying himself. His moaning is getting you excited too. You feel your rod bulging, wishing to break free. But you know that would be a sin. Especially in a place like this. \n\nWith some additional twisting action, your mouth is soon gifted with pious seed sloshing around. “Now swallow it and be forgiven”. #EMP Urgh, so bitter..#! You obey, consuming the load in full."
+ futa_religion_events.0015.a:0 "At least it was less than a Futa’s."
+ 
+ #CARLDENITE CONFESSION DECISION - Admission of Sin - Ass
+ futa_religion_events.0016.title:0 "Admission of Sin"
+ futa_religion_events.0016.desc:0 "“You must train yourself to find pleasure not by seeking pleasure from others, but receiving it when approved by God.” The priest recites whilst revealing a large slot in the wall separating you. “Remove your clothing, and place your rear through her for inspection and absolution.” \n\n#EMP What an odd request for a priest?#! Nonetheless you do as he commands. It is an unnerving feeling, having your vulnerables hanging free and exposed whilst in a compromised position. You cannot even see what is going on. For a while the priest remains silent. Your hips start squirming. #EMP Did he leave? Is he disgusted?? Did I do something wrong???#! \n\nSuddenly you feel something hard and wet kiss against your backdoor. The priest’s hand grips your ass as he slowly pushes inside. “In light of your sin, I proceed inside. With God's blessing, I banish your devils.” \n\nThe priest increases his pace, but keeps the thrusts shallow, grinding against your tight ring. “Accept the Father’s judgment, embrace his teachings, forget your tainted desires.” #EMP AH!#! Now he explores your depths, bottoming out in your ass. His testicles wavering above your large orbs. \n\nYour body rocks, forcing you to support yourself lest falling out of the wall. Your penis slowly begins to stiffen, but you wince as your cock gets flicked on the tip. “Master your demons or be sent to hell!” \n\nThe priest gives out a very impious roar, clenching down on your ass and unloading his most faithful inside your bowels. #EMP That was it? I wasn’t even close…#! \n\n#BOLD *THWAK*#! \n\n”You are dismissed. Make sure not to have your mind wander to sin again.”"
+ futa_religion_events.0016.a:0 "I hope God was pleased at least…"
+
+
+
+
+
+# ---------------------------------------------------------------------------- #
+#                                Skyspawn Faith                                #
+# ---------------------------------------------------------------------------- #
+
+ # Hidden Holy Site Activation
+ futa_religion_events.1000.title: "Site of the Faithful"
+ futa_religion_events.1000.desc: "Recently we've secured a certain location. After spending some time looking over the area, we've come to the conclusion that it could be a nice new site for our faith to entrench itself in."
+
+ futa_religion_events.1000.a: "Our faith grows."
+
+ # 
+
+ futa_religion_events.1001.title: "True Equality" # Skyspawn Mini Reformation 1
+ futa_religion_events.1001.desc: "Finally, we've managed to secure a site of our faith. With this added legitimacy to our faith's resolve and power, we can now change the absurd notion of $trait_futa$ deserve to be treated as criminals inside our realm."
+
+ futa_religion_events.1001.a: "As it should be."
+
+ #
+
+ futa_religion_events.1002.title: "True Equality" # Skyspawn Mini Reformation 2
+ futa_religion_events.1002.desc: "We've managed to secure another site of our faith. With this added legitimacy to our faith's resolve and power, we can now change the notion that women and $trait_futa$ are lesser to men, who think they deserve more rights and should be treated as special."
+
+ futa_religion_events.1002.a: "We are all equals."
+ futa_religion_events.1002.b: "Men are inferior, and shall be treated as such. Women have #EMP $trait_futa$#!, after all."
+
+ #
+
+ futa_religion_events.1003.title: "Relation Acceptance" # Skyspawn Mini Reformation 3
+ futa_religion_events.1003.desc: "Finally, we've managed to secure another site of our faith. With this added legitimacy to our faith's resolve and power, we can now change the view on same-sex relations to be accepted. We shall not stop $trait_futa$ having relations."
+
+ futa_religion_events.1003.a: "As it should be."
+
+ #
+
+ futa_religion_events.1004.title: "The Righteousness" # Skyspawn Mini Reformation 4
+ futa_religion_events.1004.desc: "Finally, we've managed to secure a site of our faith. With this added legitimacy to our faith's resolve and power, we can now choose how our view towards other faiths should be."
+
+ futa_religion_events.1004.a: "Our faith is the only true and correct faith."
+ futa_religion_events.1004.b: "Our views are righteous."
+ futa_religion_events.1004.c: "There is still value in other faiths."
+
+ #
+
+ futa_religion_events.1005.title: "The Sky's Victory"
+ futa_religion_events.1005.desc: "It is done. We've managed to find all worthwhile locations in the Earth to entrench our faith in. We have undoubtly become the undisputed faith."
+
+ futa_religion_events.1005.a: "We now rule the Earth."
+
+ #
+
+ futa_religion_events.1006.title: "The Skyspawn"
+ futa_religion_events.1006.desc: "We have gotten enough of our holy sites under our control to finally say that we've succeeded in establishing a legitimate faith as any other. We are ready to take the next step and formally organise the texts and beliefs of our followers!"
+
+ futa_religion_events.1006.a: "They cannot deny us."
