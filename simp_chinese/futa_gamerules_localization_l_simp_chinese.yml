@@ -1,67 +1,244 @@
 ﻿l_simp_chinese:
+
  game_rule_category_futanari_mod: "@futa_icon! 扶她模组"
+
+ futa_event_freq_frequent: "非常频繁"
+ futa_event_freq_often: "#频繁#!"
+ futa_event_freq_some_rare: "#high 不常见#!"
+ futa_event_freq_rare: "#high 稀少#!"
+ futa_event_freq_very_rare: "#high 非常稀少#!"
+ futa_event_freq_none: "#high 没有#!"
+
+ futa_event_freq_frequent_desc: "事件将#bold 非常频繁地#!出现。"
+ futa_event_freq_often_desc: "事件将#bold 经常#!出现。"
+ futa_event_freq_some_rare_desc: "事件将#bold 罕见地#!出现。"
+ futa_event_freq_rare_desc: "事件将#bold 罕见地#!出现。"
+ futa_event_freq_very_rare_desc: "事件将#bold 非常罕见地#!出现。"
+ futa_event_freq_none_desc: "事件将#bold 永不#! 发生。"
+
+ ############## Futa POV (Being a Futa) Events
  rule_futa_futa_events_freq: "@futa_icon! 扶她事件频率"
+
  setting_futa_events_freq_very_frequent: "非常频繁"
  setting_futa_events_freq_very_frequent_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关事件触发频率，目前设置是#bold 非常频繁#!。"
+
  setting_futa_events_freq_often: "频繁"
  setting_futa_events_freq_often_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关事件触发频率，目前设置是#bold 频繁#!。"
+
  setting_futa_events_freq_somewhat_rare: "较少"
  setting_futa_events_freq_somewhat_rare_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关事件触发频率，目前设置是#bold 较少#!。"
+
  setting_futa_events_freq_rare: "稀少"
  setting_futa_events_freq_rare_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关事件触发频率，目前设置是#bold 稀少#!。"
+
  setting_futa_events_freq_very_rare: "非常稀少"
  setting_futa_events_freq_very_rare_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关事件触发频率，目前设置是#bold 非常稀少#!。"
- rule_futa_relation_events_freq: "@futa_icon! 扶她情感事件频率"
- setting_futa_relation_events_freq_very_frequent: "非常频繁"
- setting_futa_relation_events_freq_very_frequent_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关情感事件触发频率，目前设置是#bold 非常频繁#!。"
- setting_futa_relation_events_freq_often: "频繁"
- setting_futa_relation_events_freq_often_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关情感事件触发频率，目前设置是#bold 频繁#!。"
- setting_futa_relation_events_freq_somewhat_rare: "较少"
- setting_futa_relation_events_freq_somewhat_rare_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关情感事件触发频率，目前设置是#bold 较少#!。"
- setting_futa_relation_events_freq_rare: "稀少"
- setting_futa_relation_events_freq_rare_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关情感事件触发频率，目前设置是#bold 稀少#!。"
- setting_futa_relation_events_freq_very_rare: "非常稀少"
- setting_futa_relation_events_freq_very_rare_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关情感事件触发频率，目前设置是#bold 非常稀少#!。"
- rule_futa_enclave_events_freq: "@futa_icon! 扶她结社事件频率"
- setting_futa_enclave_events_freq_very_frequent: "非常频繁"
- setting_futa_enclave_events_freq_very_frequent_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关结社事件触发频率，目前设置是#bold 非常频繁#!。"
- setting_futa_enclave_events_freq_often: "频繁"
- setting_futa_enclave_events_freq_often_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关结社事件触发频率，目前设置是#bold 频繁#!。"
- setting_futa_enclave_events_freq_somewhat_rare: "较少"
- setting_futa_enclave_events_freq_somewhat_rare_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关结社事件触发频率，目前设置是#bold 较少#!。"
- setting_futa_enclave_events_freq_rare: "稀少"
- setting_futa_enclave_events_freq_rare_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关结社事件触发频率，目前设置是#bold 稀少#!。"
- setting_futa_enclave_events_freq_very_rare: "非常稀少"
- setting_futa_enclave_events_freq_very_rare_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关结社事件触发频率，目前设置是#bold 非常稀少#!。"
- rule_futa_knight_events_freq: "@futa_icon! 扶她骑士事件频率"
- setting_futa_knight_events_freq_very_frequent: "非常频繁"
- setting_futa_knight_events_freq_very_frequent_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关骑士事件触发频率，目前设置是#bold 非常频繁#!。"
- setting_futa_knight_events_freq_often: "频繁"
- setting_futa_knight_events_freq_often_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关骑士事件触发频率，目前设置是#bold 频繁#!。"
- setting_futa_knight_events_freq_somewhat_rare: "较少"
- setting_futa_knight_events_freq_somewhat_rare_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关骑士事件触发频率，目前设置是#bold 较少#!。"
- setting_futa_knight_events_freq_rare: "稀少"
- setting_futa_knight_events_freq_rare_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关骑士事件触发频率，目前设置是#bold 稀少#!。"
- setting_futa_knight_events_freq_very_rare: "非常稀少"
- setting_futa_knight_events_freq_very_rare_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关骑士事件触发频率，目前设置是#bold 非常稀少#!。"
+
  setting_futa_events_freq_none: "没有"
  setting_futa_events_freq_none_desc: "控制与[GetTrait('futa_genetic').GetName( GetNullCharacter )]POV相关事件的发生频率。这些事件将#bold 永不#!发生。"
+
+ ############### Relationship (Lovers)
+ rule_futa_relation_events_freq: "@futa_icon! 扶她情感事件频率"
+
+ setting_futa_relation_events_freq_very_frequent: "非常频繁"
+ setting_futa_relation_events_freq_very_frequent_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关情感事件触发频率，目前设置是#bold 非常频繁#!。"
+
+ setting_futa_relation_events_freq_often: "频繁"
+ setting_futa_relation_events_freq_often_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关情感事件触发频率，目前设置是#bold 频繁#!。"
+
+ setting_futa_relation_events_freq_somewhat_rare: "较少"
+ setting_futa_relation_events_freq_somewhat_rare_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关情感事件触发频率，目前设置是#bold 较少#!。"
+
+ setting_futa_relation_events_freq_rare: "稀少"
+ setting_futa_relation_events_freq_rare_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关情感事件触发频率，目前设置是#bold 稀少#!。"
+
+ setting_futa_relation_events_freq_very_rare: "非常稀少"
+ setting_futa_relation_events_freq_very_rare_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关情感事件触发频率，目前设置是#bold 非常稀少#!。"
+
  setting_futa_relation_events_freq_none: "没有"
  setting_futa_relation_events_freq_none_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关情感事件触发频率，目前设置是#bold 永不发生#!。"
+
+ ############### Futanari Enclave Events
+ rule_futa_enclave_events_freq: "@futa_icon! 扶她结社事件频率"
+
+ setting_futa_enclave_events_freq_very_frequent: "非常频繁"
+ setting_futa_enclave_events_freq_very_frequent_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关结社事件触发频率，目前设置是#bold 非常频繁#!。"
+
+ setting_futa_enclave_events_freq_often: "频繁"
+ setting_futa_enclave_events_freq_often_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关结社事件触发频率，目前设置是#bold 频繁#!。"
+
+ setting_futa_enclave_events_freq_somewhat_rare: "较少"
+ setting_futa_enclave_events_freq_somewhat_rare_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关结社事件触发频率，目前设置是#bold 较少#!。"
+
+ setting_futa_enclave_events_freq_rare: "稀少"
+ setting_futa_enclave_events_freq_rare_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关结社事件触发频率，目前设置是#bold 稀少#!。"
+
+ setting_futa_enclave_events_freq_very_rare: "非常稀少"
+ setting_futa_enclave_events_freq_very_rare_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关结社事件触发频率，目前设置是#bold 非常稀少#!。"
+
  setting_futa_enclave_events_freq_none: "没有"
  setting_futa_enclave_events_freq_none_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关结社事件触发频率，目前设置是#bold 永不发生#!。"
+
+ ############### Futa Knight Events
+ rule_futa_knight_events_freq: "@futa_icon! 扶她骑士事件频率"
+
+ setting_futa_knight_events_freq_very_frequent: "非常频繁"
+ setting_futa_knight_events_freq_very_frequent_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关骑士事件触发频率，目前设置是#bold 非常频繁#!。"
+
+ setting_futa_knight_events_freq_often: "频繁"
+ setting_futa_knight_events_freq_often_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关骑士事件触发频率，目前设置是#bold 频繁#!。"
+
+ setting_futa_knight_events_freq_somewhat_rare: "较少"
+ setting_futa_knight_events_freq_somewhat_rare_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关骑士事件触发频率，目前设置是#bold 较少#!。"
+
+ setting_futa_knight_events_freq_rare: "稀少"
+ setting_futa_knight_events_freq_rare_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关骑士事件触发频率，目前设置是#bold 稀少#!。"
+
+ setting_futa_knight_events_freq_very_rare: "非常稀少"
+ setting_futa_knight_events_freq_very_rare_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关骑士事件触发频率，目前设置是#bold 非常稀少#!。"
+
  setting_futa_knight_events_freq_none: "没有"
  setting_futa_knight_events_freq_none_desc: "控制[GetTrait('futa_genetic').GetName( GetNullCharacter )]相关骑士事件触发频率，目前设置是#bold 永不发生#!。"
+
+ ############### Femboi Events
  rule_futa_femboi_events_freq: "@futa_icon! 男娘事件频率"
+
  setting_futa_femboi_events_freq_very_frequent: "非常频繁"
  setting_futa_femboi_events_freq_very_frequent_desc: "控制[GetTrait('femboi').GetName( GetNullCharacter )]相关事件触发频率，目前设置是#bold 非常频繁#!。"
+
  setting_futa_femboi_events_freq_often: "频繁"
  setting_futa_femboi_events_freq_often_desc: "控制[GetTrait('femboi').GetName( GetNullCharacter )]相关事件触发频率，目前设置是#bold 频繁#!。"
+
  setting_futa_femboi_events_freq_somewhat_rare: "较少"
  setting_futa_femboi_events_freq_somewhat_rare_desc: "控制[GetTrait('femboi').GetName( GetNullCharacter )]相关事件触发频率，目前设置是#bold 较少#!。"
+
  setting_futa_femboi_events_freq_rare: "稀少"
  setting_futa_femboi_events_freq_rare_desc: "控制[GetTrait('femboi').GetName( GetNullCharacter )]相关事件触发频率，目前设置是#bold 稀少#!。"
+
  setting_futa_femboi_events_freq_very_rare: "非常稀少"
  setting_futa_femboi_events_freq_very_rare_desc: "控制[GetTrait('femboi').GetName( GetNullCharacter )]相关事件触发频率，目前设置是#bold 非常稀少#!。"
+
  setting_futa_femboi_events_freq_none: "没有"
  setting_futa_femboi_events_freq_none_desc: "控制[GetTrait('femboi').GetName( GetNullCharacter )]相关事件触发频率，目前设置是#bold 永不发生#!。"
+
+   ############### Futanari Consort (Spouse, Concubine) Events
+
+ rule_futa_consort_events_freq: "@futa_icon! 配偶事件频率"
+
+ setting_futa_consort_events_freq_very_frequent: "$futa_event_freq_frequent$"
+ setting_futa_consort_events_freq_very_frequent_desc: "控制作为拥有 [GetTrait('futa_genetic').GetName( GetNullCharacter )] 特质的角色的[spouse|E]或[concubine|E]时，相关事件发生的频率。$futa_event_freq_frequent_desc$"
+
+ setting_futa_consort_events_freq_often: "$futa_event_freq_often$"
+ setting_futa_consort_events_freq_often_desc: "控制作为拥有 [GetTrait('futa_genetic').GetName( GetNullCharacter )] 特质的角色的[spouse|E]或[concubine|E]时，相关事件发生的频率。$futa_event_freq_often_desc$"
+
+ setting_futa_consort_events_freq_somewhat_rare: "$futa_event_freq_some_rare$"
+ setting_futa_consort_events_freq_somewhat_rare_desc: "控制作为拥有 [GetTrait('futa_genetic').GetName( GetNullCharacter )] 特质的角色的[spouse|E]或[concubine|E]时，相关事件发生的频率。$futa_event_freq_some_rare_desc$"
+
+ setting_futa_consort_events_freq_rare: "$futa_event_freq_rare$"
+ setting_futa_consort_events_freq_rare_desc: "控制作为拥有 [GetTrait('futa_genetic').GetName( GetNullCharacter )] 特质的角色的[spouse|E]或[concubine|E]时，相关事件发生的频率。$futa_event_freq_rare_desc$"
+
+ setting_futa_consort_events_freq_very_rare: "$futa_event_freq_very_rare$"
+ setting_futa_consort_events_freq_very_rare_desc: "控制作为拥有 [GetTrait('futa_genetic').GetName( GetNullCharacter )] 特质的角色的[spouse|E]或[concubine|E]时，相关事件发生的频率。$futa_event_freq_very_rare_desc$"
+
+ setting_futa_consort_events_freq_none: "#high 无#!"
+ setting_futa_consort_events_freq_none_desc: "控制作为拥有 [GetTrait('futa_genetic').GetName( GetNullCharacter )] 特质的角色的[spouse|E]或[concubine|E]时，相关事件发生的频率。事件将#bold 永不#! 发生。"
+
+
+
+ # ---------------------------------------------------------------------------- #
+ #                               Other Game Rules                               #
+ # ---------------------------------------------------------------------------- #
+
+ # 废墟内容
+
+ rule_futa_enable_ruins_content: "@futa_icon! 废墟生成"
+
+ setting_futa_ruins_content_enabled: "启用"
+ setting_futa_ruins_content_enabled_desc: "废墟将在地图周围动态生成。"
+
+ setting_futa_ruins_content_disabled: "#high 禁用#!"
+ setting_futa_ruins_content_disabled_desc: "废墟将不会生成。#warning 这将使您无法体验部分内容。#!"
+
+ # 扶她关系怀孕
+
+ rule_futa_relations_background_impregnations: "@futa_icon! 周期$trait_futa$关系怀孕"
+
+ setting_futa_relations_background_impregnations_enabled: "启用"
+ setting_futa_relations_background_impregnations_enabled_desc: "$trait_futa$怀孕在伴侣之间发生的几率，独立于事件之外。$futa_random_relation_pregnancies_info$"
+
+ setting_futa_relations_background_impregnations_disabled: "#high 禁用#!"
+ setting_futa_relations_background_impregnations_disabled_desc: "禁用周期$trait_futa$怀孕的几率。$futa_random_relation_pregnancies_info$"
+
+ futa_random_relation_pregnancies_info: "#highlight 这是一个额外的选项，用于模仿基础游戏的怀孕风格。来自事件的怀孕几率不受影响。#!"
+
+ # 扶她怀孕子女性别
+
+ rule_futa_pregnancy_child_gender: "@futa_icon! 扶她怀孕子女性别"
+
+ setting_futa_pregnancy_child_gender_mostly_female: "多数为女性"
+ setting_futa_pregnancy_child_gender_mostly_female_desc: "扶她出生的孩子更有可能是女性。"
+
+ setting_futa_pregnancy_child_gender_only_female: "#high 仅限女性#!"
+ setting_futa_pregnancy_child_gender_only_female_desc: "扶她出生的孩子将只为女性。"
+
+ setting_futa_pregnancy_child_gender_mostly_male: "#high 多数为男性#!"
+ setting_futa_pregnancy_child_gender_mostly_male_desc: "扶她出生的孩子更有可能是男性。"
+
+ setting_futa_pregnancy_child_gender_only_male: "#high 仅限男性#!"
+ setting_futa_pregnancy_child_gender_only_male_desc: "扶她出生的孩子将只为男性。"
+
+ # 扶她子嗣限制
+
+ rule_futa_child_limit: "@futa_icon! 扶她子嗣限制"
+
+ setting_futa_child_limit_no_limit: "无限制"
+ setting_futa_child_limit_no_limit_desc: "拥有 $trait_futa$ 特质的夫妇所能拥有的存活的扶她怀孕子女数量将没有限制。"
+
+ setting_futa_child_limit_limited: "#high 限制#!"
+ setting_futa_child_limit_limited_desc: "每当存活的 [GetTrait('child_of_futa').GetName( GetNullCharacter )] 子女数量超过 #high 5#! 时，进一步扶她怀孕的几率将开始降低，从而将每个角色生育或抚养的扶她怀孕子女数量限制为 #high 10#!。"
+
+ setting_futa_child_limit_only_ai: "#high 仅限AI#!"
+ setting_futa_child_limit_only_ai_desc: "此限制将仅适用于与玩家没有关系的AI角色。"
+
+ setting_futa_child_limit_only_player: "#high 仅限玩家#!"
+ setting_futa_child_limit_only_player_desc: "此限制将仅适用于玩家。"
+
+ # 扶她平等传播
+
+ rule_futa_faith_equality_doctrine_seeding: "@futa_icon! 扶她平等"
+
+ setting_futa_faith_equality_doctrine_seeding_dynamic: "动态"
+ setting_futa_faith_equality_doctrine_seeding_dynamic_desc: "每个[religion|E]和[faith|E]对[GetTrait('futa_genetic').GetName( GetNullCharacter )]的看法将是动态的。#highlight 这是默认设置，也是推荐的游戏方式，因为内容是围绕这个前提设计的。#!"
+
+ setting_futa_faith_equality_doctrine_seeding_shunned: "#high 避讳#!"
+ setting_futa_faith_equality_doctrine_seeding_shunned_desc: "每个[religion|E]都会将[GetTrait('futa_genetic').GetName( GetNullCharacter )]视为[shunned|E]。$futa_equality_setting_non_dynamic_warning$"
+
+ setting_futa_faith_equality_doctrine_seeding_criminal: "[game_rule_extreme_i|e] #high 罪犯#!"
+ setting_futa_faith_equality_doctrine_seeding_criminal_desc: "每个[religion|E]都会将[GetTrait('futa_genetic').GetName( GetNullCharacter )]视为[criminal|E]。$futa_equality_setting_non_dynamic_warning$"
+
+ setting_futa_faith_equality_doctrine_seeding_vilified: "[game_rule_extreme_i|e] #high 污蔑#!"
+ setting_futa_faith_equality_doctrine_seeding_vilified_desc: "每个[religion|E]都会将[GetTrait('futa_genetic').GetName( GetNullCharacter )]视为邪恶的化身。$futa_equality_setting_non_dynamic_warning$"
+
+ setting_futa_faith_equality_doctrine_seeding_accepted: "#high 接受#!"
+ setting_futa_faith_equality_doctrine_seeding_accepted_desc: "每个[religion|E]都会将[GetTrait('futa_genetic').GetName( GetNullCharacter )]视为被接受的。$futa_equality_setting_non_dynamic_warning$"
+
+ setting_futa_faith_equality_doctrine_seeding_virtuous: "[game_rule_unique_i|e] #high 贤德#!"
+ setting_futa_faith_equality_doctrine_seeding_virtuous_desc: "每个[religion|E]都会将[GetTrait('futa_genetic').GetName( GetNullCharacter )]视为[virtuous|E]。$futa_equality_setting_non_dynamic_warning$"
+
+ setting_futa_faith_equality_doctrine_seeding_venerated: "[game_rule_unique_i|e] #high 尊崇#!"
+ setting_futa_faith_equality_doctrine_seeding_venerated_desc: "每个[religion|E]都会将[GetTrait('futa_genetic').GetName( GetNullCharacter )]视为崇拜的对象。$futa_equality_setting_non_dynamic_warning$"
+
+
+ futa_equality_setting_non_dynamic_warning: "#warning 这不是预期的设置。您将错过部分内容，某些事情可能没有意义，并且某些功能可能会损坏。请勿用于认真的游戏。#!"
+
+ # 沼泽爆破者削弱
+
+ rule_futa_nerf_bogblaster_content: "@futa_icon! 削弱沼泽爆破者"
+
+ setting_futa_nerf_bogblaster_content_enabled: "#high 启用#!"
+ setting_futa_nerf_bogblaster_content_enabled_desc: "沼泽爆破者不会反叛，AI也不会使用“为我出肉”战争。#BOLD 不推荐！#!"
+
+ setting_futa_nerf_bogblaster_content_disabled: "禁用"
+ setting_futa_nerf_bogblaster_content_disabled_desc: "保持爱尔兰动态的预期体验。"
+
+
