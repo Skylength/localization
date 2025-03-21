@@ -1,11 +1,171 @@
 ﻿l_simp_chinese:
+ # Finisher: I use this file to handle the localization during my development period. No harm if the strings are left in here, but they probably should be merged into other files, or be put in their own files whenever necessary. I usually create the new localization files where appropriate.
+
+ ## Placeholders
+
+ trait_futa: "扶她"
+ trait_futa_desc: "该角色同时拥有女性和男性的性器官。\n\n由于使用了 $trait_futa$ 模组，该角色可以通过事件和关系模拟“生育”孩子。"
+ trait_futa_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] 同时拥有女性和男性的性器官。\n\n由于使用了 $trait_futa$ 模组，该角色可以通过事件和关系模拟“生育”孩子。"
+
+ trait_futa_siblings: "扶她兄弟姐妹"
+ trait_futa_siblings_twins: "双胞胎"
+ trait_futa_siblings_triplets: "三胞胎"
+ trait_futa_siblings_quadruplets: "四胞胎"
+ futa_siblings_desc: "该角色有同一次出生的其他兄弟姐妹。"
+ futa_siblings_twins_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] 是 [ROOT.Var('futa_twin').Char.GetTitledFirstName] 的双胞胎。"
+ futa_siblings_triplets_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] 是 [ROOT.Var('futa_triplet_1').Char.GetTitledFirstName] 和 [ROOT.Var('futa_triplet_2').Char.GetTitledFirstName] 的三胞胎之一。"
+ futa_siblings_quadruplets_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip] 是 [ROOT.Var('futa_quadruplet_1').Char.GetTitledFirstName]、[ROOT.Var('futa_quadruplet_2').Char.GetTitledFirstName] 和 [ROOT.Var('futa_quadruplet_3').Char.GetTitledFirstName] 的四胞胎之一。"
+
+
+
+
+
+
+
+ ## Effect Localization
+ 
+
+ ## Script Localization
+
+
+ ## Geographical Regions
+
+ futa_ireland_region: "$custom_ireland$"
+ futa_ireland_meath_region: "$d_meath$"
+ futa_england_region: "$custom_england$"
+ futa_britain_region: "$world_europe_west_britannia$"
+
+ ## Points of Interest
+
+ TRAVEL_POINT_OF_INTEREST_TT_futa_poi_river_boyne: "博因河\n\n博因河在对爱尔兰女神博因的崇敬中扮演着至关重要的角色，某些虔诚的信徒认为她已经战胜了死亡，至今仍在守护着他们。\n\n"
+ futa_poi_river_boyne.visit: "拜访了博因河"
+
+ ## Nicknames
+
+ 
+ ## Decisions
+
+
+ ## Decision Groups
  decision_group_type_futa_decisions_group: "扶她决议"
+ decision_group_type_futa_warlord_decisions_group: "$trait_futa$ 军阀决策与需求"
+ decision_group_type_futa_sky_faith_decisions_group: "天裔信仰决策"
+
+  ## Message Settings
+
  message_filter_futa_event_message_good: "@futa_icon! 扶她增益"
  message_filter_futa_event_message_good_desc: "来自扶她事件的效果更加正面"
  message_filter_futa_event_message_bad: "@futa_icon! 扶她削抑"
  message_filter_futa_event_message_bad_desc: "来自扶她事件的效果更加负面"
  message_filter_futa_event_message_neutral: "@futa_icon! 扶她均衡"
  message_filter_futa_event_message_neutral_desc: "来自扶她事件的效果更加均衡"
+
+ ## Messages
+
+ futa_pregnancy_not_first_child_message_title: "伴侣怀孕了"
+ futa_pregnancy_not_first_child_message: "你的伴侣，[futa_receiving_partner.GetTitledFirstName]，怀了你的孩子"
+
+ futa_is_becoming_restless_title: "你变得躁动不安"
+ futa_is_becoming_restless_desc: "压抑冲动，节制欲望正在对你造成伤害……"
+
+
+ futa_captive_raid_cb_ended_invalid_desc: "The [war.GetName] has ended: the attacker no longer believes in capturing people."
+ futa_captive_raid_cb_victory_desc: "来自 [defender.GetShortUINamePossessive] 宫廷的角色将被 [attacker.GetShortUIName] 俘虏。"
+ futa_captive_raid_cb_white_peace_desc: "没有俘虏被抓获。"
+ futa_captive_raid_cb_defeat_desc: "没有俘虏被抓获。"
+
+ futa_induct_into_dark_coven_interaction_title: "一位新姐妹加入了女巫团"
+
+ ## Wars
+
+ # Captive Raids
+ futa_captive_raid_cb: "为俘虏而战"
+ FUTA_CAPTIVE_RAID_CB_NAME: "[futa_captive_raid|E] against [DEFENDER.GetPrimaryTitle.GetNameNoTier]"
+ FUTA_CAPTIVE_RAID_CB_SPECIFIC_NAME: "针对 [DEFENDER.GetPrimaryTitle.GetBaseNameNoTier] 的为俘虏而战"
+ FUTA_CAPTIVE_RAID_WAR_NAME: "$ORDER$ [ATTACKER.GetPrimaryTitle.GetAdjective] 针对 [DEFENDER.GetPrimaryTitle.GetNameNoTier] 的为俘虏而战"
+ FUTA_CAPTIVE_RAID_WAR_NAME_BASE: "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]"
+ futa_captive_raid_tt_attacker: "取决于 [defender.GetHerHis] 的等级，[defender.GetShortUINamePossessive] 的三到五名 [courtiers|E] 将被俘虏。"
+ futa_captive_raid_tt_defender: "取决于 [attacker.GetHerHis] 的等级，[attacker.GetShortUINamePossessive] 的三到五名 [courtiers|E] 将被俘虏。"
+
+
+ game_concept_futa_captive_raid: "为俘虏而战"
+ game_concept_futa_captive_raids: "为俘虏而进行的战争"
+ game_concept_futa_captive_raiding: "为俘虏而战斗"
+ game_concept_futa_captive_raid_desc: "这是一种特殊的 [war|E]，由信仰或文化认为应该俘虏他人以供其利用的 [ruler|E] 发起。$game_concept_futa_captive_raiding$ 的主要目标是战斗并俘虏 [prisoners|E]，任何一方都可以通过战斗获得足够的 [war_score|E] 来赢得胜利，而无需进行 [siege|E]。\n\n在 $game_concept_war$ 结束时，胜利者（包括如果拥有相同价值观的防御者）将从失败者的 [court|E] 中俘虏几名 $game_concept_prisoners$。"
+
+ # Border Raids
+
+ futa_minor_border_raid_cb: "[futa_border_raid|E]"
+ FUTA_MINOR_BORDER_RAID_CB_NAME: "针对 [DEFENDER.GetPrimaryTitle.GetNameNoTier] 的 [futa_border_raid|E]"
+ FUTA_MINOR_BORDER_RAID_CB_SPECIFIC_NAME: "[TITLE.GetBaseNameNoTier] 的 [futa_border_raid|E]"
+ FUTA_MINOR_BORDER_RAID_WAR_NAME: "$ORDER$ [ATTACKER.GetPrimaryTitle.GetAdjective] 对 [TITLE.GetBaseNameNoTier] 的 [border_raid|E] 边境袭击"
+ FUTA_MINOR_BORDER_RAID_WAR_NAME_BASE: "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]"
+
+ futa_grand_border_raid_cb: "[futa_grand_border_raid|E]"
+ FUTA_GRAND_BORDER_RAID_CB_NAME: "针对 [DEFENDER.GetPrimaryTitle.GetNameNoTier] 的 [futa_grand_border_raid|E]"
+ FUTA_GRAND_BORDER_RAID_CB_SPECIFIC_NAME: "每个边境头衔的 [futa_grand_border_raid|E]"
+ FUTA_GRAND_BORDER_RAID_WAR_NAME: "$ORDER$ [ATTACKER.GetPrimaryTitle.GetAdjective] 对 [TITLE.GetBaseNameNoTier] 的 [futa_grand_border_raid|E] 大规模边境袭击"
+ FUTA_GRAND_BORDER_RAID_WAR_NAME_BASE: "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]"
+
+ futa_grand_raid_cb: "[futa_grand_raid|E]"
+ FUTA_GRAND_RAID_CB_NAME: "针对 [DEFENDER.GetPrimaryTitle.GetNameNoTier] 的 [futa_grand_raid|E]"
+ FUTA_GRAND_RAID_CB_SPECIFIC_NAME: "每个边境头衔的 [futa_grand_raid|E]"
+ FUTA_GRAND_RAID_WAR_NAME: "$ORDER$ [ATTACKER.GetPrimaryTitle.GetAdjective] 对 [TITLE.GetBaseNameNoTier] 的 [futa_grand_raid|E] 大规模袭击"
+ FUTA_GRAND_RAID_WAR_NAME_BASE: "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]"
+
+
+ game_concept_futa_border_raid: "边境袭击"
+ game_concept_futa_border_raids: "边境袭击"
+ game_concept_futa_border_raiding: "边境劫掠"
+
+ game_concept_futa_border_raid_desc: "这是一种特殊的 [war|E]，适用于拥有相应 [culture_tradition|E] 的 [rulers|E]，攻击者旨在围攻与其 [realm|E] 接壤的特定敌方 [county|E]。\n\n[war_leader|E] 通过占领 [war_target|E] 获得 [gold|E]，[war_target|E] 将损失 [development|E] 和 [control|E]。[buildings|E] 也可能被摧毁，从而获得更多 [gold|E]，摧毁的几率随着 [development|E] 和 [siege|E] [army|E] 的规模增加。\n\n攻击者在 [occupying|E] [war_target|E] 后将迅速获得 [war_score|E]。"
+
+
+ game_concept_futa_grand_border_raid: "大规模边境袭击"
+ game_concept_futa_grand_border_raids: "大规模边境袭击"
+ game_concept_futa_grand_border_raiding: "大规模边境劫掠"
+
+
+ game_concept_futa_grand_border_raid_desc: "这是一种特殊的 [war|E]，适用于拥有相应 [culture_tradition|E] 的 [rulers|E]，攻击者旨在围攻与其 [realm|E] 接壤的敌方 [counties|E]。\n\n[war_leader|E] 通过占领 [war_target|E] 获得 [gold|E]，[war_target|E] 将损失 [development|E] 和 [control|E]。[buildings|E] 也可能被摧毁，从而获得更多 [gold|E]，摧毁的几率随着 [development|E] 和 [siege|E] [army|E] 的规模增加。"
+
+ game_concept_futa_grand_raid: "大规模袭击"
+ game_concept_futa_grand_raids: "大规模袭击"
+ game_concept_futa_grand_raiding: "大规模劫掠"
+
+ game_concept_futa_grand_raid_desc: "这是一种特殊的 [war|E]，适用于拥有相应 [culture_tradition|E] 的 [rulers|E]，攻击者旨在围攻目标敌方 [counties|E] 以掠夺其中蕴含的财富。\n\n[war_leader|E] 通过占领 [war_target|E] 获得 [gold|E]，[war_target|E] 将损失 [development|E] 和 [control|E]。[buildings|E] 也可能被摧毁，从而获得更多 [gold|E]，摧毁的几率随着 [development|E] 和 [siege|E] [army|E] 的规模增加。"
+
+ futa_every_raid_target_tt: "#V 每个袭击目标省份#!"
+ futa_grand_raid_destroy_random_building_tt: "一座随机 [building|E] 被摧毁，获得额外的 [gold_i]"
+ futa_grand_border_raid_fame_tt: "每个目标 [county|E] 获得 #P [SCOPE.ScriptValue('miniscule_prestige_value')|0]#! [prestige_experience|E]"
+
+ futa_grand_border_raid_cooldown_desc: "\n\n#X 你每 #V [SCOPE.ScriptValue('futa_grand_border_raid_cooldown_value')|0]#! 年只能尝试一次 [futa_grand_border_raid|E]！#!"
+ futa_grand_border_raid_cooldown_tt: "你最近尝试过一次 $game_concept_futa_grand_border_raid$。下一次将在 [GetCurrentDateWithDiff( GetVarTimeRemaining( THIS.Char.MakeScope, 'futa_character_attempted_grand_border_raid') )] 可用"
+
+ futa_grand_raid_cooldown_desc: "\n\n#X 你每 #V [SCOPE.ScriptValue('futa_grand_raid_cooldown_value')|0]#! 年只能尝试一次 [futa_grand_raid|E]！#!"
+ futa_grand_raid_cooldown_tt: "你最近尝试过一次 $game_concept_futa_grand_raid$。下一次将在 [GetCurrentDateWithDiff( GetVarTimeRemaining( THIS.Char.MakeScope, 'futa_character_attempted_grand_raid') )] 可用"
+
+ FUTA_RAID_CB_COST_TARGET_TITLES: "目标头衔数量"
+ FUTA_RAID_CB_COST_AXE_DISCOUNT: "$futa_axe_of_the_marauder_name$"
+
+
+
+ ## Memories
+
+
+ ## Error log cleanup
+
+
+
+ ## MAA
+
+
+ ## Culture
+
+
+ ## Domicile Buildings
+
+
+  ## Futa Camp Fire Enclave Rumors
  futa_camp_fire_enclave_rumors_1_domicile_building: "$game_concept_futa_enclave_short$流言"
  futa_camp_fire_enclave_rumors_1_domicile_building_desc: "#weak (需要[GetDomicileBuilding('camp_fire_01').GetName])#!\n这些$trait_futa$似乎拥有一个错综复杂的情报网，她们总能设法搜集到各种紧要#EMP 讯息#!。"
  futa_camp_fire_enclave_rumors_2_domicile_building: "$futa_camp_fire_enclave_rumors_1_domicile_building$"
@@ -20,32 +180,145 @@
  futa_camp_fire_enclave_rumors_5_saboteurs_domicile_building_desc: "我们之前一直仅仅维持着对攻坚部队的最低限度训练。但现在不同了，这些设施将使我们能够招募和维持一支更有纪律、更加强韧的部队，她们将在战斗和围城方面表现更加优异。"
  futa_camp_fire_enclave_rumors_5_assassins_domicile_building: "密潜特训"
  futa_camp_fire_enclave_rumors_5_assassins_domicile_building_desc: "有时，你更需要的是黑暗中闪现的刀锋，来去无影，致命利落。通过这种看似#EMP 「不光彩」#! 的方式往往能更加高效地解决问题。但不管其他人怎么想，精锐的渗透者对我们来说永不嫌多。"
+
+
  domicile_building_parameter_futa_camp_improved_futa_contract_rewards_01: "[futa_task_contract|E]报酬：#P +25%#!"
  domicile_building_parameter_futa_camp_improved_futa_contract_rewards_02: "[futa_task_contract|E]报酬：#P +50%#!"
  domicile_building_parameter_futa_camp_improved_futa_contract_rewards_03: "[futa_task_contract|E]报酬：#P +100%#!"
+
  domicile_building_parameter_futa_camp_unlocks_cult_baits: "可以招募[GetMaA('futa_cult_bait').GetName][men_at_arms|E]"
  domicile_building_parameter_futa_camp_unlocks_cult_saboteurs: "可以招募[GetMaA('futa_cult_saboteurs').GetName][men_at_arms|E]"
  domicile_building_parameter_futa_camp_unlocks_futa_assassins: "可以招募[GetMaA('futa_assassins').GetName][men_at_arms|E]"
+
+  ## Futa Proving Grounds Rogue Instructors
  futa_proving_grounds_rogue_instructors_1_domicile_building: "$trait_futa$渗刺秘训"
  futa_proving_grounds_rogue_instructors_1_domicile_building_desc: "#weak (需要[GetDomicileBuilding('proving_grounds_01').GetName])#!\n$trait_futa$们在世人眼中乃是异类，但她们必须以某种方式生存下去。因此建立一个#EMP 敏士锐卒#!的密训之所，必能为她们带来长期而丰硕的成果。"
  futa_proving_grounds_rogue_instructors_2_domicile_building: "$futa_proving_grounds_rogue_instructors_1_domicile_building$"
  futa_proving_grounds_rogue_instructors_2_domicile_building_desc: "$futa_proving_grounds_rogue_instructors_1_domicile_building_desc$"
  futa_proving_grounds_rogue_instructors_3_domicile_building: "$futa_proving_grounds_rogue_instructors_1_domicile_building$"
  futa_proving_grounds_rogue_instructors_3_domicile_building_desc: "$futa_proving_grounds_rogue_instructors_1_domicile_building_desc$"
+
  domicile_building_parameter_futa_camp_unlocks_futa_brigand_renegades: "可以招募[GetMaA('futa_brigand_renegades').GetName][men_at_arms|E]"
  domicile_building_parameter_futa_camp_unlocks_futa_brigand_trappers: "可以招募[GetMaA('futa_brigand_trappers').GetName][men_at_arms|E]"
  domicile_building_parameter_futa_camp_unlocks_futa_brigand_ambushers: "可以招募[GetMaA('futa_brigand_ambushers').GetName][men_at_arms|E]"
+
+
+  ## Futa Marriage Shrine
+ futa_shrine_marriage_shrine_domicile_building: "婚姻圣所"
+ futa_shrine_marriage_shrine_domicile_building_desc: "这座圣所根据古老的 $trait_futa$ 习俗装饰，为那些被社会排斥的人提供了 [marriage|E] 的机会。"
+ domicile_building_parameter_futa_camp_unlock_futa_marriages: "$culture_parameter_futa_unlock_futa_marriages$"
+
+
+ ## Events
+
+
+ ## Modifiers
+
+  # 新增的备份经验值增益效果的自定义本地化。遗憾的是，这些效果并非完美运行。显示的数值是初始值，而不是最终的总值。
+ I_futa_backed_up_gain: "你的蛋蛋产生了 $VALUE|-0$ 更多的小蝌蚪"
+ I_futa_backed_up_loss: "你的蛋蛋释放了 $VALUE|+0$ 小蝌蚪"
+ I_futa_backed_up_gain_past: "你的蛋蛋已经产生了 $VALUE|-0$ 更多的小蝌蚪"
+ I_futa_backed_up_loss_past: "你的蛋蛋已经释放了 $VALUE|+0$ 小蝌蚪"
+
+ I_futa_backed_up_gain_max: "你的蛋蛋充满了！"
+ I_futa_backed_up_loss_max: "你的蛋蛋释放了所有的精液！"
+ I_futa_backed_up_gain_past_max: "你的蛋蛋已经充满了！"
+ I_futa_backed_up_loss_past_max: "你的蛋蛋已经释放了所有的精液！"
+
+ futa_ruins_bathhouse_waters_modifier: "扶她女孩的洗澡水"
+ futa_ruins_bathhouse_waters_modifier_desc: "嗯……洗澡水"
+ ## Traits
+
+
+ ## Hired Troops
+
+
+ ## Game Concepts
+
  game_concept_futa_task_contract: "$trait_futa$合约"
  game_concept_futa_task_contracts: "$trait_futa$合约"
  game_concept_futa_task_contract_possessive: "$trait_futa$合约的"
  game_concept_futa_task_contracts_possessive: "$trait_futa$合约的"
  game_concept_futa_task_contract_desc: "$game_concept_futa_task_contracts$是各种涉及$trait_futa$的[task_contracts|E]。 通常是由$trait_futa$发布，为她们提供某种帮助，而她们很难获得。 并非所有合同都是[criminal_task_contract|E]，而那些是[criminal_task_contract|E]的，并不一定是因为它们涉及任何道德败坏的行为。 相反，因为$trait_futa$被社会排斥，试图帮助她们通常会导致帮助者被描绘成罪犯。 合同奖励将取决于$trait_futa$ [contractor|E]的经济状况。"
+
+ ## Character Interactions
+
+ futa_arrange_marriage_interaction: "安排扶她"
+ actor_secondary_futa_arrange_marriage_interaction: "[spouse|E]"
+
+ futa_suggest_a_marriage_involving_futa: "建议一个 #high [GetTrait('futa_genetic').GetName( GetNullCharacter )]#! 与 #high $SEX_FEMALE$#! 或另一个 #high $trait_futa$#! [character|E] 之间的 [marriage|E]"
+ futa_arrange_marriage_interaction_desc_ruler_at_own_court: "在你的 [actor.Custom('GetCourtConcept')] 中，安排一个 #high [GetTrait('futa_genetic').GetName( GetNullCharacter )]#! 与 #high $SEX_FEMALE$#! 或另一个 #high $trait_futa$#! [character|E] 之间的 [marriage|E]"
+
+ futa_marry_off_interaction: "寻找合适的配偶"
+ futa_marry_off_interaction_desc: "为 [secondary_actor.GetShortUINameNoTooltip] 寻找一个 #high [GetTrait('futa_genetic').GetName( GetNullCharacter )]#! 或 #high $SEX_FEMALE$#! [spouse|E]"
+ actor_secondary_futa_marry_off_interaction: "[spouse|E]"
+
+
+ futa_find_concubine: "寻找妾侍"
+ actor_secondary_futa_find_concubine: "发送者"
+
+ futa_offer_concubine: "提供妾侍"
+
+ futa_make_concubine_interaction: "纳为妾侍"
+ actor_secondary_futa_make_concubine_interaction: "发送者"
+
+ futa_elope_interaction: "私奔"
+
+ ## Schemes
+
+
+ ### Custom Tooltips
+ 
+ futa_merchant_invasion_cooldown_tt: "你最近尝试过一次 $game_concept_futa_merchant_invasion$。下一次将在 [GetCurrentDateWithDiff( GetVarTimeRemaining( ROOT.Char.MakeScope, 'futa_merchant_recently_sponsored_invasion_character') )] 可用"
+
  futa_fucksleeve_fecund: "她#S 极其#! 善育"
  futa_fucksleeve_slave: "她是一个[slave|E]"
  futa_fucksleeve_lustful: "她时刻准备着取悦你"
  futa_beauty_good_1: "她总算很讨人喜欢"
  futa_beauty_good_2: "她看起来美貌非凡"
  futa_beauty_good_3: "她#EMP 令人惊叹#!"
+
  HIDE_CHAR_BUTON_TEXT_HIDE: "#tooltip_heading 隐藏角色#!"
  HIDE_CHAR_BUTTON_TEXT_SHOW: "#tooltip_heading 显示角色#!"
+ PANIC_BUTTON_TEXT_HIDE: "#tooltip_heading 紧急按钮#!"
+ PANIC_BUTTON_TEXT_SHOW: "#tooltip_heading 清除所有#!"
+
+ futa_camp_fire_enclave_rumors_unlock_tt: "你的 [dynasty|E] 必须雇用过 [futa_enclave|E]"
+ futa_shrine_marriage_shrine_unlock_tt: "你的文化需要接受扶她婚姻，或者你需要在神庙遗迹中找到古代习俗"
+ futa_need_to_be_culture_head_tt: "你必须是 [culture_head|E]"
+ futa_tradition_missing_flag_tt: "你还不知道这些习俗"
+ futa_establish_contact_with_enclave_tt: "你将与 [futa_enclave|E] 建立联系并使用 [futa_merchant_possesive|E] 的服务。"
+
+ FUTA_IS_PLAYER: "你是玩家（用于测试）：$VALUE|=+0$"
+ FUTA_MARRIAGE_CULTURE_REASON: "[recipient.GetShortUINamePossessive] 的 [culture|E] 和 [faith|E] 都不接受扶她婚姻：$VALUE|=+0$"
+ FUTA_HERMILLA_DOES_NOT_ACCEPT_MEN: "#EMP “我不与男人同床”#!：$VALUE|=+0$"
+ NON_FUTA_SAME_SEX_MARRIAGE_FAITH_REASON: "[secondary_recipient.GetShortUINamePossessive] 的 [faith|E] 不接受非扶她 $doctrine_homosexuality_name$：$VALUE|=+0$"
+
+ futa_impregnation_chance_tt: "#highlight 受孕几率为 [futa_receiving_partner.MakeScope.Var('futa_impregnation_chance_variable').GetValue|0]%"
+ futa_twins_chance_tt: "#highlight 双胞胎几率为 [futa_receiving_partner.MakeScope.Var('futa_pregnancy_twin_chance_variable').GetValue]%"
+ futa_triplets_chance_tt: "#highlight 三胞胎几率为 [futa_receiving_partner.MakeScope.Var('futa_pregnancy_triplet_chance_variable').GetValue]%"
+ futa_quadruplets_chance_tt: "#highlight 四胞胎几率为 [futa_receiving_partner.MakeScope.Var('futa_pregnancy_quadruplet_chance_variable').GetValue]%"
+ futa_impregnation_chance_tt2: "#highlight 受孕几率为 [futa_giving_partner.MakeScope.Var('futa_impregnation_chance_variable').GetValue|0]%"
+ futa_twins_chance_tt2: "#highlight 双胞胎几率为 [futa_giving_partner.MakeScope.Var('futa_pregnancy_twin_chance_variable').GetValue]%"
+ futa_triplets_chance_tt2: "#highlight 三胞胎几率为 [futa_giving_partner.MakeScope.Var('futa_pregnancy_triplet_chance_variable').GetValue]%"
+ futa_quadruplets_chance_tt2: "#highlight 四胞胎几率为 [futa_giving_partner.MakeScope.Var('futa_pregnancy_quadruplet_chance_variable').GetValue]%"
+
+ futa_fucksleeve_aptitude_tooltip: "[candidate.GetHerHisMy|U] 的 [aptitude|E] 为 [candidate.GetCourtPositionAptitude( GetCourtPositionType( 'futa_fucksleeve_court_position' ) )]"
+ enclave_rep_aptitude_tooltip: "[candidate.GetHerHisMy|U] 的 [aptitude|E] 为 [candidate.GetCourtPositionAptitude( GetCourtPositionType( 'enclave_rep_court_position' ) )]"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  futa_camp_fire_enclave_rumors_unlock_tt: "你的[dynasty|E]必须被[futa_enclave|E]雇佣过"

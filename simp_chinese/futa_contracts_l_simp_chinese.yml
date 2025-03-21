@@ -1,15 +1,28 @@
 ﻿l_simp_chinese:
+ ## General
+
+
  futa_base_contract_schemes.0000.f.contract_concluded: "前方是条漫漫长路……"
  futa_base_contract_schemes.0000.d.no_starting_bonus: "你轻松地接下了任务"
+
  futa_base_contract_schemes.0000.generic_option.success_chance: "记住：我们是来赚钱的。"
  futa_base_contract_schemes.0000.generic_option.speed: "我们越快搞定，就越快回到路上！"
  futa_base_contract_schemes.0000.generic_option.progress: "这应该很容易……"
  futa_base_contract_schemes.0000.generic_option.secrecy: "你们#EMP 所有人#!，都不允许任何差错。"
  futa_base_contract_schemes.0000.generic_option.nothing: "让我们继续我们的任务吧。"
+ 
  futa_base_contract_schemes.0000.generic_option.proceed.neutral: "我们还有很长的路要走。"
  futa_base_contract_schemes.0000.generic_option.proceed.negative.light: "重返荒野——"
+ 
  futa_contract_scheme_desc_general_boilerplate: "\n\n#WEAK [contract_schemes|E] 涉及为世界上的有权势的[rulers|E] 执行各种任务，以换取报酬。 完成一项针对某个[game_concept_ruler]的$game_concept_task_contract$ 会自动将他们添加到你的[contact_list|E]中。#!"
  futa_contract_scheme_desc_success_boilerplate: "成功完成此项[contract_scheme|E]将会获得报酬——#EMP 如果#![contractor|E]满意的话。"
+ 
+ ## Events
+ 
+ 
+ 
+  ###### Provide Protection for a Futanari x Female couple ######
+ 
  futa_base_0001_contract_scheme: "保护扶她情侣!"
  futa_base_0001_contract_scheme_action: "帮助扶她"
  futa_base_0001_contract_scheme_desc: "[contractors|E] 正在追捕$trait_futa$，导致她们寻求帮助。$futa_contract_scheme_desc_general_boilerplate$"
@@ -17,18 +30,83 @@
  futa_base_0001_contract_scheme_desc_success: "$futa_contract_scheme_desc_success_boilerplate$"
  futa_base_0001_desc_title: "[TaskContract.GetEmployer.GetCapitalLocation.GetTitle.GetBaseNameNoTier]的居民们，"
  futa_base_0001_desc: "请时刻保持警惕。一个#EMP 肮脏的$trait_futa$恶魔#!正在我们美好的家园附近游荡。隐藏你的孩子，你的爱人，甚至你的牲畜。相信[TaskContract.GetEmployer.GetTitleAsName] ，你会安全的。 如果被发现，无视她们的恳求。这都是谎言。"
+ 
  futa_base_0001_contract: "$futa_base_0001_contract_scheme$"
  futa_base_0001_request: "$laamp_request_boilerplate_prowess_scheme$, 不被发现。你将帮助一位女性和她的扶她伴侣免受迫害。\n$laamp_request_boilerplate_criminal$"
+ 
  futa_contract_0001_relation: "[CHARACTER.GetShortUIName|U]帮助了[THIS.GetCharacter.GetShortUIName|U]和[THIS.GetCharacter.GetHerHis]爱人，当时她们正在遭受迫害。"
+ 
+
+ #
+
  futa_base_contract_schemes.0001.t: "助纣为虐"
  futa_base_contract_schemes.0001.desc: "[employer.GetTitledFirstName]发布的公告引起了我的注意。所以我尽可能地保持低调，远离主要道路，避开任何守卫，试图混入其中。最终我成功和逃亡中的[futa.GetFirstName]和[wife.GetFirstName]悄然相会。\n\n“谢天谢地，感谢您拯救了我们。 当地的领主蛮横无理，仅仅因为我们的存在就厌恶所有扶她。 哪怕是我只想和自己的爱人安宁地生活。 现在我们计划搬到她姨母家寻求庇护，但直到她们准备好之前，我们仍必须在此等候。 求求您，装作外乡的债主，假意寻债以保护我们免受这些无妄之灾。”"
  futa_base_contract_schemes.0001.a: "$futa_base_contract_schemes.0000.generic_option.success_chance$"
  futa_base_contract_schemes.0001.b: "$futa_base_contract_schemes.0000.generic_option.speed$"
  futa_base_contract_schemes.0001.c: "$futa_base_contract_schemes.0000.generic_option.secrecy$"
  futa_base_contract_schemes.0001.d: "$futa_base_contract_schemes.0000.generic_option.nothing$"
+ 
+ #
+
  futa_base_contract_schemes.0002.t: "$futa_base_contract_schemes.0001.t$: 成功!"
  futa_base_contract_schemes.0002.desc: "经历了几次险情，但最终我和我的追随者设法避开了怀疑。 现在我们的客户准备好继续他们的生活，并希望避免迫害。 她们最后一次看着她们的家，然后踏上通往她们未来共同生活的漫漫长路。\n\n”谢谢你，你们所有人，帮助我们。 我们永远不会忘记你们的仁慈。”"
  futa_base_contract_schemes.0002.a: "我希望她们有一个美好的未来。"
+ 
+ #
+ 
  futa_base_contract_schemes.0003.t: "$futa_base_contract_schemes.0001.t$: 失败!"
  futa_base_contract_schemes.0003.desc: "该死！ 虽然我们本以为已经保持了低调，但似乎比我们想象的更多的人在跟踪我们。 这是最糟糕的伪装，假装一个通缉的扶她正好#EMP 也#! 被其他当局通缉。\n\n无论地主 [employer.GetTitledFirstName] 对 [futa.GetFirstName] 怀有什么怨恨，一定很深。 现在她已经被囚禁，任何对更美好未来的梦想都和她一起被锁起来了…"
  futa_base_contract_schemes.0003.a: "我们必须逃走，在我成为下一个目标之前！"
+
+
+  # ------------------------------- New Contract ------------------------------- #
+
+ #Events
+ 
+ futa_base_contract_schemes.0005.t: "狩猎恶魔"
+ futa_base_contract_schemes.0005.desc: "[employer.GetTitledFirstName] 的求助并未被我忽视。我于夜幕降临之时抵达，并在那里听取了情况简报。这很棘手，但绝非不可能纠正。\n\n我知道这些罪人是如何生活的，他们可能认为自己能融入普通民众，但他们 #EMP 黑暗的欲望#! 最终总会暴露他们。\n\n我必须保持警惕。"
+ 
+ futa_base_contract_schemes.0005.a: "$futa_base_contract_schemes.0000.generic_option.success_chance$"
+ futa_base_contract_schemes.0005.b: "$futa_base_contract_schemes.0000.generic_option.speed$"
+ futa_base_contract_schemes.0005.c: "$futa_base_contract_schemes.0000.generic_option.secrecy$"
+ futa_base_contract_schemes.0005.d: "$futa_base_contract_schemes.0000.generic_option.nothing$"
+
+ futa_base_contract_schemes.0010.t: "死亡或赦免"
+ futa_base_contract_schemes.0010.desc: "在我清除 [TaskContract.GetEmployer.GetCapitalLocation.GetTitle.GetBaseNameNoTier] 期间，那里淳朴的人民将我指向了 #EMP 另一个#! 淫荡的堕落者。显然她在澡堂里出了“意外”，之后就一直把自己隔离在污水附近。正如他们所说，污秽吸引污秽。\n\n当我打破她藏身的小屋墙壁时，[futa_contract_0002_random_futa.GetFirstName] 感到非常惊讶。\n\n“求求你，放过我！”当那个女人抚摸我的 #EMP 蛋蛋#! 时，我忍不住高潮了！虽然她以为是阴道，但她的意图仍然邪恶！“我甚至可以永远离开，求求你不要伤害我！”\n\n走投无路的扶她的话就像蛇的承诺一样，是不可信的。我一边打量着那个女孩，一边准备拔出我的剑。\n\n#EMP 她能找到光明吗，还是她的心已经屈服于黑暗了？#!"
+ 
+ futa_base_contract_schemes.0010.a: "你将为你的罪而死！"
+ futa_base_contract_schemes.0010.b: "忏悔并寻求主的怜悯。"
+
+ futa_base_contract_schemes.0011.t: "罪与嫉妒"
+ futa_base_contract_schemes.0011.desc: "在追捕扶她的过程中，我最终发现了另一个扶她。清晨时分，从补给棚里传来低低的呻吟声。我拔出剑，向上帝祈祷，坚定了我的意志，闯了进去。我所看到的是 #EMP 可怕的#!。一个前途光明的年轻女子瘫倒在地，腹部肿胀如一袋谷物，身上覆盖着一层层 #EMP 罪恶的粘液#!。\n\n肇事者如此堕落，竟然试图通过 #EMP 肛门#! 进行受孕。\n\n#EMP 可怜的女孩头晕目眩地翻滚着，脸上带着看似虚假的笑容，想以此保护自己免受那个扶她恶魔的怒火……#! \n\n“对不起，屁股荡妇，但我的蛋蛋里什么都不剩了，你的屁股一如既往的好用。听说你定了婚约，咱们试试看能不能在你- #EMP 他妈的#! 你是谁？！#！”\n\n直到现在，这个罪人才注意到我的存在，她的毫无察觉确保了我占据了局势的优势。\n\n#EMP 她应该为此下地狱……但如果我不向她展示上帝的怜悯，我还能称自己为上帝的仆人吗？"
+ 
+ futa_base_contract_schemes.0011.a: "你将为你的罪而死！"
+ futa_base_contract_schemes.0011.b: "忏悔并寻求主的怜悯。"
+
+ futa_base_contract_schemes.0007.t: "狩猎恶魔"
+ futa_base_contract_schemes.0007.desc: "其他人可能怀疑找到如此隐蔽的扶她的几率，但我确信上帝不会误导我。我的信仰再次得到回报，因为我收集了足够的情报，可以自信地指控嫌疑人就是我们一直在寻找的扶她。\n\n[employer.GetTitledFirstName] 允许我闯入她的住所。\n\n“#EMP 啊！#! 天哪，你在做什么？！” 那女人看起来像见了鬼一样，但今天她必须面对的是上帝的审判！我的剑刺向她的头。那个扶她恶棍退到了歪斜桌子的另一边。我看到她罪恶的眼睛四处扫视，寻找答案。\n\n“你想要什么？金子？我不知道守卫怎么会让强盗四处游荡，但看在上帝的份上，别杀我！” 她听起来很害怕。多么天真。#EMP 哈。#! 多么可笑。她真的是在装傻吗？我记得有人指控一个扶她隐藏在普通民众之中。\n\n“你以为是我吗？我在这里住了很多年了！我敢打赌，至少这一带一半的人都穿着 #EMP 我为他们做的#! 鞋子。” 虽然这救不了她，但她的确为其他人提供服务有一段时间了。然而，那是在人们意识到她 #EMP 到底是什么#! 之前。我告诉她，如果她如此肯定，就脱掉衣服。具有讽刺意味的是，展示她的身体比撒谎更困难，所以她承认了。#EMP 一个扶她竟然关心贞洁，真奇怪。她一定是在试图欺骗我！#! \n\n“好吧！好吧……我承认。我是被诅咒的人之一……但-但我从未伤害过任何人！我付出了巨大的努力来控制自己，尽可能诚实地生活。即使这意味着我也不得不过着孤独的生活……我接受了，就像妈妈希望的那样。”\n\n一个悲伤的故事？她真的认为我会相信如此明显的谎言吗？只有在上帝教会的严密注视下的人才能声称自己是“诚实的”。我的怒火开始沸腾。\n\n#EMP 够了！正义不会再等待了！#!"
+ 
+ futa_base_contract_schemes.0007.a: "去告诉赫米莉亚吧！"
+ futa_base_contract_schemes.0007.b: "法律和正义将决定你的命运。"
+ futa_base_contract_schemes.0007.c: "你的生命是上帝所赐。"
+
+ futa_base_contract_schemes.0008.t: "狩猎恶魔"
+ futa_base_contract_schemes.0008.desc: "主啊，请听我的声音。我辜负了您。我的职责未完成。在我的热忱中，我行事鲁莽，结果，#EMP 扶她恶魔#! 察觉到她即将到来的判决……逃跑了。\n\n我只能希望我的软弱不会给平民百姓带来厄运。"
+ 
+ futa_base_contract_schemes.0008.a: "我必须祈求宽恕"
+
+ ## Schemes
+
+ futa_base_0002_contract_scheme: "逮捕扶她恶魔"
+ futa_base_0002_contract_scheme_action: "在……找到扶她"
+ futa_base_0002_contract_scheme_desc: "[contractors|E] 正在严厉打击 $trait_futa$，导致他们躲藏起来。$futa_contract_scheme_desc_general_boilerplate$"
+ futa_base_0002_contract_scheme_desc_general: "$futa_base_0002_contract_scheme_desc$"
+ futa_base_0002_contract_scheme_desc_success: "$futa_contract_scheme_desc_success_boilerplate$"
+ futa_base_0002_desc_title: "虔诚的人民 [TaskContract.GetEmployer.GetCapitalLocation.GetTitle.GetBaseNameNoTier]，"
+ futa_base_0002_desc: "迫切需要高贵而虔诚的正义使者来遏制正在扎根的恶魔日益增长的影响力。"
+
+ futa_base_0002_contract: "$futa_base_0002_contract_scheme$"
+ futa_base_0002_request: "$laamp_request_boilerplate_martial_scheme$，不被发现。你将找出隐藏在农民中的传闻中的扶她。"
+
+
+ ### Custom Tooltips

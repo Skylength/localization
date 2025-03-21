@@ -1,4 +1,6 @@
 ﻿l_simp_chinese:
+ ## Events
+
  futa_ruins_events.0002.title: "勘现废墟"
  futa_ruins_events.0002.desc: "我今天收到了一些有趣的消息。根据我们斥候的报告，最近在[futa_ruins_location.GetName]发现了一小片非常古老的建筑。显然，这些废墟位于一个非常偏僻的地方，并且已经存在了很久。\n\n我们的斥候决定简单地检查一下这些建筑，根据他们的报告，这些地方应该还有很多值钱的东西。"
  futa_ruins_events.0002.desc.settlement: "\n\n这些废墟似乎是某个古老的$trait_futa$定居点。"
@@ -7,15 +9,27 @@
  futa_ruins_events.0002.a: "我应该准备一次探险……"
  futa_ruins_events.0002.b: "出售废墟的位置"
  futa_ruins_events.0002.c: "允许[futa_enclave_short|E]自由探索废墟"
+ 
+ 
+ #
+ 
  futa_ruins_events.0003.title: "抵达废墟"
  futa_ruins_events.0003.desc: "我们终于到达了古代遗迹所在地 [activity_location.GetName]。现在也已经准备好了一个营地，用来休息和探索的前哨战。我们决定在旅途之后休息，并开始准备对这些建筑进行探险。"
  futa_ruins_events.0003.desc.has_futa_merchant_scholar: "\n\n#highlight 你拥有$trait_futa$学者的从旁协助！你找到奖励的几率会增加！#!"
  futa_ruins_events.0003.desc.not_has_futa_merchant_scholar: "\n\n#N 你没有$trait_futa$学者的从旁协助！你找到奖励的几率会降低！你可以从$game_concept_futa_merchant$雇佣学者，并把她带在身边。#!"
  futa_ruins_events.0003.desc.has_futa_guard: "\n\n#highlight 你拥有$futa_knight$或$game_concept_futa_enclave_short$守卫的从旁协助！你触发陷阱和危险的几率会降低，并且毫发无损地穿过触发的危险的几率会增加！#!"
+ 
  futa_ruins_events.0003.a: "我们将即刻出发"
+ 
+ 
+ #
+ 
  futa_ruins_events.0004.title: "小心陷阱！"
  futa_ruins_events.0004.desc: "当我们穿过[activity_location.GetName]的废墟时，我们的队伍遇到了一些仍然有效的陷阱！我们需要快速而优雅地处理这件事！"
  futa_ruins_events.0004.a: "不容丝毫懈怠……"
+ 
+ #
+ 
  futa_ruins_events.0005.title: "偶有所得"
  futa_ruins_events.0005.desc: "你的队伍偶然发现了一个小房间，里面有一些物品。\n\n仔细一看，"
  futa_ruins_events.0005.desc.gold: "这些似乎是一小袋#Y 金币#!！"
@@ -28,6 +42,9 @@
  futa_ruins_events.0005.a: "这些东西应该能让我受益良多"
  futa_ruins_events.0005.b: "多么奇怪的玩意"
  futa_ruins_events.0005.c: "把它交给$game_concept_futa_enclave_short$"
+ 
+ #
+
  futa_ruins_events.0006.title: "终见分晓"
  futa_ruins_events.0006.desc: "随着补给逐渐减少，你在这个地方的时间也慢慢接近尾声。在最后一次进入废墟的过程中，你的队伍偶然发现了一扇看起来很重要的带标记的门，这扇门通向一个巨大而宽敞的房间。你所遇到的一切让你大吃一惊！\n\n"
  futa_ruins_events.0006.desc.gold: "一个华丽的宝箱，里面装着#Y 成堆成堆的金币#!！尽管密室的其他部分早已破败不堪，但这项发现应该足以弥补调查的成本，并极大扩充你的金库！"
@@ -40,84 +57,385 @@
  futa_ruins_events.0006.b: "这看起来像是一件有价值的物品"
  futa_ruins_events.0006.c: "把所有东西都交给$game_concept_futa_enclave_short$"
  futa_ruins_events.0006.d: "真是见鬼！"
+ 
+ #
+ 
+ futa_ruins_events.0008.title: "主神庙密室"
+ futa_ruins_events.0008.desc: "随着补给逐渐耗尽，你们在这里的时间也慢慢走向终结。在最后一次探索遗迹时，你的队伍发现了一扇看起来很重要的标记过的门，门后是一个巨大而宽敞的房间。你们所发现的东西令你们惊讶！\n\n各种壁画、描绘和记录详细地记载了一些古代扶她习俗。所有这些信息都非常引人入胜，如果被采纳，可能会给你们的社会带来巨大的变化……"
+
+ futa_ruins_events.0008.a: "我们将拥抱这项传统！"
+ futa_ruins_events.0008.b: "让我们记住这些习俗。"
+
+ #
+
+ futa_ruins_events.0009.title: "聚落核心"
+ futa_ruins_events.0009.desc: "随着补给逐渐耗尽，你们在这里的时间也慢慢走向终结。在最后一次探索遗迹时，你的队伍发现了一扇看起来很重要的标记过的门，门后是一个巨大而宽敞的房间。你们所发现的东西令你们惊讶！\n\n各种壁画、描绘和记录详细地记载了一些古代扶她习俗。所有这些信息都非常引人入胜，如果被采纳，可能会给你们的社会带来巨大的变化……"
+
+ futa_ruins_events.0009.a: "我们将拥抱这项传统！"
+ futa_ruins_events.0009.b: "让我们记住这些习俗。"
+
+ #
+
+ futa_ruins_events.0010.title: "主浴池"
+ futa_ruins_events.0010.desc: "随着补给逐渐耗尽，你们在这里的时间也慢慢走向终结。在最后一次探索遗迹时，你的队伍发现了一扇看起来很重要的标记过的门，门后是一个巨大而宽敞的房间。你们所发现的东西令你们惊讶！\n\n"
+ futa_ruins_events.0010.tradition_desc: "各种壁画、描绘和记录详细地记载了一些古代扶她习俗。所有这些信息都非常引人入胜，如果被采纳，可能会给你们的社会带来巨大的变化……"
+ futa_ruins_events.0010.bathwater_desc: "一个大水池，盛满了清澈见底的水。你能感觉到从水中散发出的宁静，仅仅是靠近它似乎就能平静你的思绪。"
+
+ futa_ruins_events.0010.a: "我们将拥抱这项传统！"
+ futa_ruins_events.0010.b: "让我们记住这些习俗。"
+ futa_ruins_events.0010.c: "这看起来很有用。"
+ futa_ruins_events.0010.c_bathwater: "我要跳进水里。"
+ futa_ruins_events.0010.d: "我们该走了。"
+
+ #
+
  futa_ruins_events.9001.title: "挖掘暂止"
  futa_ruins_events.9001.desc: "随着补给的耗尽，我们在 [activity_location.GetName] 的时间已经结束。我们需要开始返回 [GetPlayer.GetCapitalLocation.GetName]。\n\n然而，你和你的队伍已经注意到，这个地方还有很多东西有待发现。你绝对还没有挖掘出这里所有的东西。\n\n你心中期待着另一次调查，并开始准备返程。"
  futa_ruins_events.9001.a: "下次再来"
+
+ #
+
  futa_ruins_events.9002.title: "挖掘完毕"
  futa_ruins_events.9002.desc: "随着补给的耗尽，我们在[activity_location.GetName] 的时间已经结束。我们需要开始返回[GetPlayer.GetCapitalLocation.GetName]。\n\n经过多次探险和挖掘，你和你的队伍几乎已经耗尽了这些建筑中所有有价值的物品。这里已经没有什么可找的了。\n\n你的冒险经历仍然历历在目，你想知道是否还有更多像这样的地方。带着充满希望的想法，你开始准备返程。"
  futa_ruins_events.9002.desc.capital_bonus: "\n\n经过一番评估，你推断出，只要再花一点力气，这里剩下的东西就可以搬迁到[GetPlayer.GetCapitalLocation.GetName]。"
  futa_ruins_events.9002.a: "剩下的建筑可以为新的定居点提供资源。"
  futa_ruins_events.9002.b: "这些资源应该会使[GetPlayer.GetCapitalLocation.GetName]受益。"
+ 
+ #
+
+ futa_ruins_events.9003.title: "遗迹尽头"
+ futa_ruins_events.9003.desc_settlement: "看起来是古代聚落遗址"
+ futa_ruins_events.9003.desc_temple: "看起来是古代神庙遗址"
+ futa_ruins_events.9003.desc_bathhouse: "看起来是古代浴池遗址"
+ futa_ruins_events.9003.desc: " 位于 [futa_ruins_activity_location.GetName] 的遗址已被 [futa_ruin_excavator.GetTitledFirstName] 完全搜刮一空。那个地方已经没有任何收获了。"
+
+ futa_ruins_events.9003.a: "也许我应该去看看其中一个……"
+
+ #
+
+ futa_ruins_events.9004.title: "发现遗迹"
+ futa_ruins_events.9004.desc: "我收到了一些有趣的消息。根据报告，[futa_ruins_finder.GetTitledFirstName] 最近在 [futa_ruins_location.GetName] 发现了一小片非常古老的建筑群。显然，这些遗迹位于非常偏远的地方，多年来一直未被发现。\n\n有人推测这些地方仍然遗留着许多珍贵物品。如果我们想挖掘出其中的宝藏，就应该迅速行动。"
+ futa_ruins_events.9004.desc_settlement: "\n\n这些遗迹似乎是古代扶她聚落。"
+ futa_ruins_events.9004.desc_temple: "\n\n这些遗迹似乎是古代扶她神庙。"
+ futa_ruins_events.9004.desc_bathhouse: "\n\n这些遗迹似乎是古代扶她浴池。"
+
+ futa_ruins_events.9004.a: "我应该准备一次探险……"
+
+
+ #### Dungeon Crawler
+
+ futa_ruins_events.1000.title: "遗迹探索者"
+ futa_ruins_events.1000.desc: "在我们的调查过程中，我们突然被一声巨响吓了一跳。以为可能是野生动物，我们小心翼翼地朝着声音的方向靠近，武器已准备就绪。\n\n我们到达了传来声音的小开口。我们在这里看到的不是动物，而是一个人，正稳稳地坐在地上！\n\n“哦，你们好！我刚才想从那边的架子上拿东西时不小心摔下来了。如果吓到你们了，对不起！我只是在这里探险！我猜你们也是来做同样的事情的吧？别担心，这里似乎有很多值钱的东西，我不介意分享！”\n\n你的队伍对这位充满活力、活泼开朗的女子有些吃惊。她很快就站了起来，揉着屁股。“很高兴认识你们！”\n\n她似乎已经收集了不少好东西。你们#EMP可以把她从她的战利品中战利品中解放出来#!，也可以放过这位同伴冒险者。她可能还藏着什么东西……"
+
+ futa_ruins_events.1000.a: "这里财富众多。放过 [futa_dungeon_crawler.GetHerHim] 吧。"
+ futa_ruins_events.1000.b: "[futa_dungeon_crawler.GetSheHe|U] 可能藏着什么东西……"
+ futa_ruins_events.1000.c: "我的手下想和你谈谈你的战利品！"
+ futa_ruins_events.1000.d: "你为什么不加入我们呢？"
+
+ #
+
+ futa_ruins_events.1001.title: "地下城探索者" # 我后悔一切
+ futa_ruins_events.1001.desc: "你不太确定是否能完全信任这个不知为何出现在这个废弃已久的地方的陌生人。毕竟，你在这附近#EMP没有#!看到任何最近的生命迹象。她到底是谁？\n\n"
+
+ futa_ruins_events.1001.investigate_failed_desc: "你开始试探她，寻找她的言语和举止中任何欺骗的迹象。\n\n“我理解你们的谨慎，朋友们！我向你们保证，我在这里进行的是完全合法和授权的活动！我得到了地方当局的许可，可以探索并寻找可能遗留在这个地方的任何贵重物品，当然，我会把一部分战利品交给他们！这是印章和证明信！”\n\n"
+ futa_ruins_events.1001.investigate_failed_desc_2: "尽管你尽力了，但你无法判断她是否在说真话，或者是否#EMP仍然#!藏着什么。令人沮丧。"
+ futa_ruins_events.1001.investigate_failed_desc_naughty_hint: "你不确定这些文件的真实性。这个地方如此偏远，几乎没有人知道它的存在。"
+ futa_ruins_events.1001.investigate_failed_desc_futa_hint: "你是否瞥见了#EMP鼓胀#!的迹象？#EMP真奇怪#!。"
+
+ futa_ruins_events.1001.investigate_success_she_clean_desc: "$futa_ruins_events.1001.investigate_failed_desc$ 你没有发现她的解释和证明中有任何谎言。她似乎也没有隐瞒任何其他事情。她非常清白。"
+
+ futa_ruins_events.1001.investigate_success_desc: "你开始试探她，寻找她的言语和举止中任何欺骗的迹象。只是她身上#EMP有些地方#!让你感觉不对劲。你决定相信你的直觉，并悄悄示意你的手下逮捕这个女人。你和她闲聊，试图分散她的注意力足够长的时间，让她没有意识到即将发生的事情。悄无声息的行动，她迅速被按倒在地并锁了起来，甚至来不及抗议！\n\n“嘿！你们以为自己在做什么？！我以为你们是光荣的冒险家和探险家！”\n\n只是凭直觉，你告诉她。她和整个情况#EMP有些地方#!让你感觉不对劲。你向她保证，在你#EMP完全#!确定她清白后，你会放她走。你转身对手下说，搜查她的物品并剥光她的衣服，彻底搜查一番。\n\n"
+
+ futa_ruins_events.1001.investigate_success_she_futa_desc: "$futa_ruins_events.1001.investigate_success_desc$听到你的命令后，她突然脸色苍白。“等等！朋友们！请……请不要这样！放过我吧！你们可以拿走我收集的所有东西！我也会离开，把剩下的都留给你们！#EMP求求你们了！#！”\n\n她之前的镇定完全消失了。她几乎开始呜咽。从她的反应来看，你可能发现了一个罪犯。你加入查看她的文件和其他物品的人群。一切似乎都井井有条。正当你以为自己犯了个错误，考虑放她走的时候，你听到好几声#EMP倒吸凉气#!的声音。你转过身去看发生了什么。她已经被完全剥光，赤身裸体地站在那里。他们以前没见过裸体女人吗？然后你的目光落到她的胯部：\n\n一个#EMP极其巨大#!的阴茎耸立在她不应该有的地方！一个#EMP扶她#!。她正交叉着双腿，试图隐藏夹在双腿之间的#EMP巨大#!的工具，但无济于事。你不明白为什么你一开始看她的时候，甚至在她裸体之前，都没有发现这一点！这#EMP根本不可能#!错过！\n\n你的目光与她的目光相遇。她脸上所有的血色都褪去了，嘴唇紧闭。那不是愤怒，也不是尴尬，而是纯粹的#EMP恐惧#！"
+
+ futa_ruins_events.1001.investigate_success_she_naughty_desc: "$futa_ruins_events.1001.investigate_success_desc$听到你的命令后，她脸涨得通红。“你们#EMP胆敢#!！竟敢如此侮辱一个纯洁少女的名誉！我真以为你们会更好！真丢人！”好吧，她很会制造场面，不是吗？没关系。你加入查看她的文件和其他物品的人群。\n\n啊哈！这些文件、纸张和印章显然是#EMP假的#!。她似乎还拥有一些可能被归类为违禁品的东西！\n\n当你转过身面对她时，她赤身裸体地站在那里。她看起来像一个普通的女人，也许比一般人身材更好，更健美一些。她的脸完全涨红了。你无法判断是愤怒还是尴尬。\n\n“我告诉你们，我不是罪犯！我只是一个冒险的女人！求求你们，这里越来越冷了！”在我向她明确表示我知道这些文件是假的以及她拥有的所有其他东西后，她安静了下来。“哦，呃。你看，我试着去申请许可证，但他们不听我的！我打算在收集到一些#EMP证据#!后再还给他们钱！真的！”\n\n没关系，她仍然是一个罪犯，携带这些假印章和违禁品。"
+
+ futa_ruins_events.1001.investigate_success_she_naughty_futa_desc: "$futa_ruins_events.1001.investigate_success_desc$听到你的命令后，她突然脸色苍白。“等等！朋友们！请……请不要这样！放过我吧！你们可以拿走我收集的所有东西！我也会离开，把剩下的都留给你们！#EMP求求你们了！#！”\n\n她之前的镇定完全消失了。她几乎开始呜咽。从她的反应来看，你可能发现了一个罪犯。你迅速加入查看她的文件和其他物品的人群。\n\n啊哈！这些文件、纸张和印章显然是#EMP假的#!。她似乎还拥有一些可能被归类为违禁品的东西！\n\n“哦，呃……你看，我试着去申请许可证，但是……他们不听我的！我打算在收集到一些东西向他们证明这不是浪费时间后再还给他们钱，我发誓！”\n\n没关系，她仍然是一个罪犯，携带这些假印章和违禁品。你下令剥光她的衣服，以防她还藏着更多东西。她脸上所有的血色都褪去了。你告诉她你只是想检查她身上有什么，仅此而已，但她仍然恳求我们停止并放她走。当她的下身衣物被脱掉后，你的眼睛睁得像铜铃一样大：\n\n一个#EMP极其巨大#!的阴茎耸立在她不应该有的地方！一个#EMP扶她#!。她正交叉着双腿，试图隐藏夹在双腿之间的#EMP巨大#!的工具，但无济于事。你不明白为什么你一开始看她的时候，甚至在她裸体之前，都没有发现这一点！这#EMP根本不可能#!错过！\n\n你的目光与她的目光相遇。她脸上所有的血色都褪去了，嘴唇紧闭。#EMP一个犯罪的扶她！哦，她遇到大麻烦了！#！"
+
+ futa_ruins_events.1001.a: "放过 [futa_dungeon_crawler.GetHerHim] 吧。"
+ futa_ruins_events.1001.b: "你是个罪犯，你得跟我们走。"
+ futa_ruins_events.1001.c: "我不信任你。你得跟我们走。"
+ futa_ruins_events.1001.d: "你为什么不加入我们呢？"
+ futa_ruins_events.1001.e: "你没有拒绝的余地。来，加入我们吧。"
+ futa_ruins_events.1001.g: "我的手下想和你谈谈你的战利品！"
+ futa_ruins_events.1001.h: "要钱还是要命！"
+ futa_ruins_events.1001.i: "#EMP 罪恶的怪物！#! 你不配活下去！"
+ futa_ruins_events.1001.j: "#EMP 嗯……#! 哦，我对你们这种人#EMP非常#!熟悉。"
+
+ #
+
+ futa_ruins_events.1002.title: "地下城探索者" # 显然我后悔得还不够
+ futa_ruins_events.1002.join_diplo_desc: "“你想让我和你一起工作？嗯……”她夸张地挠了挠下巴。“你知道吗？你说服我了！你们看起来都是值得信任的人！我想我可以暂时跟着你们，一个人探险太无聊了。”\n\n“好吧，老大。我#EMP相当#!肯定我已经清理完这个区域了，我们接下来去哪儿？”\n\n老大？什么？\n\n“#EMP是啊#!我不习惯用名字称呼人。你可以叫我的名字，但我只会叫你老大。别往心里去。”她拍了拍你的脸颊，凑近低语：\n\n#EMP“我#S真的#!很擅长寻找贵重物品。我可以保证，在我的帮助下，你们会从这些地方找到更多东西。不过，我会比其他那些笨蛋多拿一份。#！”然后她带着她的战利品走向门口。\n\n“顺便说一句，我叫 [futa_dungeon_crawler.GetFirstName]。#EMP哦！#!我还预定了所有我找到的闪亮的东西！嘿嘿。”\n\n什——什么？刚刚发生了什么？"
+
+ futa_ruins_events.1002.she_clean_imprison_desc: "“你不能这样对我！我#EMP完全#!有权待在这里！你#S胆敢#!！”她尖叫着被锁链拖出房间。你不确定她是否真心，但这并不重要。你不会把她留在这里，谁知道她会做什么？"
+
+ futa_ruins_events.1002.she_futa_imprison_desc: "“#EMP求求你们！求求你们！我求求你们！什么都行！我什么都愿意做！求求你们！放过我吧！#！”她呜咽着被锁链拖出房间。你现在不能让一个扶她独自自由地四处游荡，对吧？"
+
+ futa_ruins_events.1002.she_naughty_imprison_desc: "她被锁链拖出房间时一言不发，只是冷冷地、锐利地看了你一眼。没关系，她是个罪犯，她将受到罪犯的待遇。"
+
+ futa_ruins_events.1002.she_naughty_futa_imprison_desc: "“#EMP求求你们！求求你们！我求求你们！什么都行！我什么都愿意做！求求你们！放过我吧！#！”她呜咽着被锁链拖出房间。你现在不能让她独自自由地四处游荡，对吧？毕竟，她是个扶她。还是个罪犯。"
+
+ futa_ruins_events.1002.she_futa_blackmail_desc: "“呃……打扰一下？”\n\n她听到了。别让你重复。“你……你的意思是你们不会……？”\n\n“……”\n\n“你们为什么会想要……#EMP像我这样#!的人为你们工作？”\n\n你想要她的专业知识。即使是她自己，也已经收集了不少好东西。她肯定在这方面经验丰富。这些地方蕴藏着无限的潜力，你想要尽可能地获得每一个优势。你还提醒她，这可能是她能得到的最好的机会。没多少人会愿意雇用她这种人。\n\n“啊……好吧。你说服我了。我……我接受。我非常擅长寻找贵重物品。我……我可以保证，在我的帮助下，你们会找到更多……更多东西！”"
+
+ futa_ruins_events.1002.she_naughty_blackmail_desc: "“你想让我和你一起工作？我猜你是想用我的#EMP专业知识#!来换取我的自由？当然。我接受。”\n\n在她被释放并加入我们的队伍后，她走到我面前：\n\n“好吧，老大。我要你知道，我#EMP真的#!很擅长寻找贵重物品。我可以保证，在我的帮助下，你们会从这些地方找到更多东西。不过，我会比其他那些笨蛋多拿一份。”"
+
+ futa_ruins_events.1002.she_naughty_futa_blackmail_desc: "“呃……打扰一下？”\n\n她听到了。“你……你的意思是你们不会……？”\n\n“……”\n\n“你们为什么会想要……#EMP像我这样#!的人为你们工作？”\n\n你想要她的专业知识。即使是她自己，也已经收集了不少好东西。她肯定在这方面经验丰富。这些地方蕴藏着无限的潜力，你想要尽可能地获得每一个优势。你还提醒她，她是一个扶她逃犯。她基本上别无选择，这很可能就是她能得到的唯一机会。\n\n“啊……好吧。你说服我了。我……我接受。我非常擅长寻找贵重物品。我……我可以保证，在我的帮助下，你们会找到更多……更多东西！”"
+
+ futa_ruins_events.1002.she_dead_desc: "你收集了房间里和她身上所有的贵重物品，然后最后看了一眼她那已经失去生命的身体，继续你的调查。"
+
+ futa_ruins_events.1002.she_seduced_desc: "你告诉你的随从让你一个人待一会儿，你会在决定如何处置她之后很快加入他们。他们可以趁机寻找任何有价值的东西。过了一会儿，你独自一人和这个扶她待在一起。\n\n你慢慢地走向她，臀部微微摆动。她用恐惧、颤抖的眼神看着你，自从被发现后，她身体里的血色就一直没有恢复。\n\n你俯下身，用沙哑的声音在她耳边低语，同时你的手轻轻地握住了她巨大的阴茎。你温柔地挤压着她的阴茎和蛋蛋，告诉她你对她这种人有多么熟悉，每说一句话都在她的脖子和脸颊上印下一个吻。#S *吻*#! 她们的阴茎让你感觉多么美好。#S *亲吻*#! 与男人相比，她们的生育能力多么令人印象深刻。#S *吻*#！\n\n你用另一只空着的手解开了她的锁链，锁链#S *哐当*#!一声掉在了地上。你继续攻击她的感官，确保抚摸和挤压她的“母狗制造鸡”。\n\n她们的阴茎是如何猛烈地撞击你的下体。#S *吻*#! 每次看到她们衣服的隆起，你的嘴里都会分泌唾液。#S *亲吻*#! 在她们面前你的膝盖会发软。#S *吻*#! 她们的阴茎如何在你的体内安家。#S *吻*#! 你的子宫是如何被她们无尽的精液填满。#S *吻*#! 你是如何将她们的众多后代带到这个世界。#S *亲吻*#! 你是如何成为她们的精液倾倒场和#EMP母狗#!。#S *吻*#! 你打算继续尽可能多地生育她们的后代。#S *亲吻*#！\n\n在她的嘴唇边上落下最后一个湿吻后，你从你的“熟人”身边退后一步，欣赏你的杰作。她的脸涨得通红，眼神迷离而茫然，嘴巴微微张开，轻轻地喘着气。她的阴茎半勃起着，随着每一次心跳而跳动，持续不断地从顶端渗出前列腺液。看来你已经成功地让她恢复了一些血色，她恐惧的样子已经消失得无影无踪。\n\n利用她脆弱的状态，你告诉她你可以帮助她解决#EMP所有#!的烦恼，你会让她#EMP非常#!快乐。作为回报，你希望雇用她的专业知识。如果她同意，她应该收拾好东西，和你的团队会合。当你离开房间时，你确保用你那能生育的臀部进一步诱惑她。\n\n过了一会儿，你看到她向你的团队走来。她的步伐有些摇晃。当你们的目光相遇时，你给了她一个飞吻。她的脸变得更红了，她迅速移开了视线。她停在你面前，呜咽着说：“#EMP我同意了！#！”"
+
+ futa_ruins_events.1002.a: "真是个奇怪的家伙……"
+ futa_ruins_events.1002.b: "……"
+ futa_ruins_events.1002.b.flavor: "什——什么？什么？她刚才做了什么？！她怎么敢？！"
+ futa_ruins_events.1002.c: "期待与你合作。"
+ futa_ruins_events.1002.d: "我们走吧。"
+ futa_ruins_events.1002.d.flavor: "把她的尸体留给蛆虫。"
+ futa_ruins_events.1002.e: "我期待与你#EMP合作#!。"
+
+ #
+
+ futa_ruins_events.1003.title: "赫密斯启示"
+ futa_ruins_events.1003.desc: "探索这片被亵渎的遗址揭示了各种失落的琐事和宝藏。随便你怎么说盗墓，但找回那些被时间遗忘的东西，本身就有一种#EMP难以言喻#!的吸引力。\n\n或者说，我曾经这么认为。\n\n在一个坚固但破旧的箱子里发现了一卷羊皮纸。时间已经侵蚀了大部分文字，但花了一些时间破译剩下的部分后，我得出了一个令人不安的结论。\n\n#EMP 这卷轴讲述了一种闻所未闻的信仰！#!\n\n我的手在颤抖。这不可能是骗局，几个世纪甚至更久以来都没有人来过这里！并非所有写的东西都是真的，但同样的批评也适用于我们当前的经文。找到这样的东西……难道是#EMP命中注定#!的吗？\n\n这份神秘的记载提到了一位名叫……#EMP赫米莉亚？#!的女神。据说，根据描述的“生育节”，她拥有大量的追随者。这些遗址是否与她有关？没有人知道它们的起源……\n\n但这肯定是亵渎的想法吧？如果这位女神真的存在，那么据说她以爱意看待[GetTrait('futa_genetic').GetName( GetNullCharacter )]？\n\n这一切都不可能是真的……对吗？"
+
+ futa_ruins_events.1003.a: "这一定是命运。"
+ futa_ruins_events.1003.b: "烧掉它！"
+
+
+ ## Effect Localization
+ 
+
+ ## Script Localization
+
+
+ ## Decisions
+
+
+
+
+ ## Error log cleanup
+
+
+
+ ## MAA
+
+
+
+ ## Culture
+
+ # Ancient Marital Customs 
+
+ futa_ancient_marital_customs_culture_name: "古代婚姻习俗"
+ futa_ancient_marital_customs_culture_desc: "这种文化认为，没有理由阻止涉及扶她的同性婚姻，也不会将这些夫妇所生的孩子视为低人一等。对配偶的忠诚也受到高度重视。"
+
+ culture_parameter_futa_unlock_futa_marriages: "允许 扶她 与 $SEX_FEMALE$ 角色或其他 扶她 之间进行同性[婚姻|E]"
+ culture_parameter_futa_reverse_child_of_futa_penalties: "扶她之子 [特质|E]不再是负面的，而是被视为[prestige_i][有声望的|E]"
+
+ futa_rulers_with_futa_born_children_desc: "[文化|E]没有 #V 3#! 位拥有 扶她之子 [特质|E] 的[统治者|E] #S 或者#! 没有 #V 3#! 位至少拥有 #V 3#! 个带有 扶她之子 [特质|E] 的孩子的[统治者|E]"
+ futa_you_do_not_have_a_correct_lover_desc: "你没有一个 扶她 [爱人|E]"
+
+ # Sacred Procreation
+
+ futa_sacred_procreation_culture_name: "神圣之育"
+ futa_sacred_procreation_culture_desc: "这种文化珍视扶她的生育能力，并将与他们生育的行为以及由此诞生的孩子视为神圣。在他们眼中，扶她生育的后代越多，在他们的神面前就越显得虔诚。"
+
+ culture_parameter_futa_child_of_futa_is_holy: "扶她之子 [特质|E]被视为[piety_i][虔诚的|E]"
+ culture_parameter_futa_stud_and_bitch_is_holy: "扶她父亲 和 扶她母亲 [特质|E]被视为[piety_i][虔诚的|E]"
+ culture_parameter_futa_procreation_with_futa_is_holy: "涉及 扶她 的生育行为将赋予[piety_i][虔诚|E]"
+ culture_parameter_futa_piety_from_childbirth: "扶她之子 出生时将赋予其父母[piety_i][虔诚|E]"
+ culture_parameter_futa_high_tier_backed_up_opinion_is_positive: "更高等级的 [支持的|E] [特质|E] 会被同一[文化|E]的[角色|E]视为积极的"
+
+ futa_your_faith_missing_childbirth_piety_desc: "你的[信仰|E]没有 $tenet_sacred_childbirth_name$"
+
+ # Hermillia's Law
+
+ futa_hermillia_law_culture_name: "赫密莉亚律法"
+ futa_hermillia_law_culture_desc: "赫密莉亚律法"
+
+ culture_parameter_futa_enables_hermillia_will_succession: "如果拥有 $futa_hermillia_crown_name$ [神器|E]，则可以颁布 [GetLaw('futa_hermillia_will_elective_succession_law').GetName] [继承法|E]"
+ culture_parameter_futa_enables_futa_tributary_vassal_contract: "解锁 [GetVassalContractType( 'futa_tributary' ).GetObligationName( 'futa_tributary_active' )] [附庸契约|E]"
+
+ # Way of the Marauder
+
+ futa_way_of_the_marauder_culture_name: "掠夺者之道"
+ futa_way_of_the_marauder_culture_desc: "这个文化致力于纪念一位古老的传奇人物，他们相信应该从他人那里夺取#EMP理所当然#!属于自己的东西。"
+
+ culture_parameter_futa_enable_captive_raid_cb: "启用 [futa_captive_raid|E] [战争理由|E]"
+ culture_parameter_futa_enable_grand_raid_cb: "启用 [futa_grand_raid|E] [多个战争理由|E]"
+
+
+ ## Activity
+
  futa_ruins_investigation_intent: "调查废墟"
  futa_ruins_investigation_intent_desc: "你将调查废墟，寻找宝藏和知识"
+
  futa_ruins_investigation_option_length: "调查时长"
  futa_ruins_investigation_option_size: "队伍规模"
+
  futa_ruins_investigation_short: "短期探险"
  futa_ruins_investigation_short_desc: "$BULLET_WITH_TAB$将探索和挖掘废墟 #bold 4 #!周。"
+
  futa_ruins_investigation_medium: "中期探险"
  futa_ruins_investigation_medium_desc: "$BULLET_WITH_TAB$将探索和挖掘废墟 #bold 8 #!周。"
+
  futa_ruins_investigation_long: "长期探险"
  futa_ruins_investigation_long_desc: "$BULLET_WITH_TAB$将探索和挖掘废墟 #bold 12 #!周。"
+
  futa_ruins_investigation_size_min: "最小规模"
  futa_ruins_investigation_size_min_desc: "$BULLET_WITH_TAB$你将带上最多 #V 10#! 名你最信任的人。"
+
  futa_ruins_investigation_reward_nothing.t: "你没有找到任何有价值的东西"
+
  futa_ruins_explore_phase: "探索与挖掘"
  futa_ruins_explore_phase_desc: "探索贵重物品并提取尽可能多的宝藏"
+
+
  activity_futa_ruins_investigation: "废墟调查"
  activity_futa_ruins_investigation_desc: "发现了一些被认为是古代的建筑。报告显示这些地点可能仍然有贵重物品。"
  activity_futa_ruins_investigation_selection_tooltip: "调查最近发现的古老神秘废墟"
  activity_futa_ruins_investigation_host_desc: "\n有机会获得各种数量的；\n$BULLET_WITH_TAB$[gold_i][gold|E]\n$BULLET_WITH_TAB$[prestige_i][prestige|E]\n$BULLET_WITH_TAB$[dynasty_prestige_i][dynasty_prestige|E]\n$BULLET_WITH_TAB$#highlight 独特#!的[artifacts|E]"
+ activity_futa_ruins_investigation_settlement_desc: "这个地点似乎包含一个#highlight 定居点#！的遗址"
+ activity_futa_ruins_investigation_bathhouse_desc: "这个地点似乎包含一个#highlight 澡堂#！的遗址"
+ activity_futa_ruins_investigation_temple_desc: "这个地点似乎包含一个#highlight 寺庙#！的遗址"
+ activity_futa_ruins_investigation_excavation_amount_desc: "并且已经被挖掘了 #Y [SCOPE.ScriptValue('futa_ruins_excavation_amount_value_tt')|0]/5#! 次"
  activity_futa_ruins_investigation_guest_desc: "$activity_futa_ruins_investigation_host_desc$"
  activity_futa_ruins_investigation_destination_selection: "只能选择包含废墟的[barony|E]"
  activity_futa_ruins_investigation_predicted_cost: "$activity_futa_ruins_investigation$的花费取决于活动时长以及你的[domain|E]、[realm|E]内的地点和其他[rulerpossessive|E][realm|E]内的影响。"
  activity_futa_ruins_investigation_province_desc: "你将在[ROOT.Province.GetName]挖掘废墟"
  activity_futa_ruins_investigation_guest_help_text: "任何受邀的[guests|E]都会帮助你挖掘废墟并提供支持。\n\n在调查结束时，每位参与的[guest|E]都将获得挖掘期间获得的总战利品的#V 10%#! 。\n#weak （这不会从你的战利品中扣除，也不会影响最终数量。她们只是获得所发现物品的 10%）#!"
  activity_futa_ruins_investigation_conclusion_desc: "由于补给不足，$activity_futa_ruins_investigation$被迫结束了。"
+
  futa_merchant_scholar_special_guest: "$trait_futa$$trait_scholar$"
  futa_merchant_scholar_special_guest_desc: "来自$game_concept_futa_enclave$的$trait_futa$$trait_scholar$对这些废墟具有更丰富的了解。"
  futa_merchant_scholar_special_guest_for_host: "$trait_futa$$trait_scholar$"
  futa_merchant_scholar_special_guest_desc_for_host: "来自$game_concept_futa_enclave$的$trait_futa$$trait_scholar$对这些废墟具有更丰富的了解。"
  activity_window_character_futa_merchant_scholar_special_guest: "$futa_merchant_scholar_special_guest$\n[Character.GetShortUINameNoTooltip|U]"
  activity_window_character_futa_knight: "$futa_knight$\n[Character.GetShortUINameNoTooltip|U]"
+ activity_window_character_futa_dungeon_crawler: "$futa_dungeon_crawler$\n[Character.GetShortUINameNoTooltip|U]"
+
  futa_investigation_generic_rewards_log_title: "$activity_futa_ruins_investigation$发现小房间"
  futa_investigation_generic_rewards_log: "[CHARACTER.GetShortUINamePossessive|U]的队伍发现了一个小藏宝室"
+ 
  futa_investigation_final_rewards_log_title: "$activity_futa_ruins_investigation$发现巨型藏宝室"
  futa_investigation_final_rewards_log: "[CHARACTER.GetShortUINamePossessive|U]的队伍发现了一个巨型藏宝室"
+ 
  futa_investigation_completed_log_title: "$activity_futa_ruins_investigation$结果"
  futa_investigation_completed_log: "[CHARACTER.GetShortUINamePossessive|U]的队伍挖掘出了资源"
+ 
  TRAVEL_NAME_FOR_activity_futa_ruins_investigation: "[Character.GetFirstNamePossessiveNoTooltip]前往$activity_futa_ruins_investigation$之旅"
+ 
+ activity_futa_ruins_investigation_host_an_a: "$host_activity_a$"
+ 
+ ## Modifiers
+ 
  backed_up_xp_gain_mult: "[GetTrait('backed_up').GetName( GetNullCharacter )]获得[trait_level_track_xp|E]"
  backed_up_xp_loss_mult: "[GetTrait('backed_up').GetName( GetNullCharacter )]损失[trait_level_track_xp|E]"
  backed_up_xp_degradation_mult: "每月[GetTrait('backed_up').GetName( GetNullCharacter )]缓解[trait_level_track_xp|E]"
+ 
  futa_ruins_investigation_base_cost_desc: "基础花费"
  futa_ruins_location_cost: "废墟位置"
+ 
  futa_ruins_sighted_modifier: "勘现废墟"
  futa_ruins_sighted_modifier_desc: "最近在这里发现了一些古老的建筑。\n\n#highlight 此[county_modifier|E]的存在允许在此[barony|E]上进行$activity_futa_ruins_investigation$[activity|E]#!"
+ 
  futa_ruins_leftover_modifier: "挖掘完毕"
  futa_ruins_leftover_modifier_desc: "这里的古代建筑中的贵重物品已经被彻底洗劫一空。然而，剩下的资源可以为新的定居点提供建筑材料。\n\n#highlight 当在此 [barony|E] 上建造 [holding|E] 时，此[county_modifier|E]将会改变#!\n\n"
+ 
  futa_ruins_leftover_holding_constructed_modifier: "古代定居点"
  futa_ruins_leftover_holding_constructed_modifier_desc: "这里以前的古代建筑已被整合到新建成的建筑中，为这里的定居点提供了更多空间，并方便进一步建造。\n\n"
+ 
  futa_ruins_elevate_capital_modifier: "首都升级"
  futa_ruins_elevate_capital_modifier_desc: "古代建筑的剩余资源已被转移到这里，为定居点提供了宝贵和有用的材料。\n\n"
+ 
  IS_FUTA_SCHOLAR_REASON: "[ROOT.Char.GetSheHe|U]是$futa_merchant_scholar_special_guest$: $VALUE|=+0$"
+ IS_FUTA_DUNGEON_CRAWLER_REASON: "[ROOT.Char.GetSheHe|U] 是一个扶她地下城探索者：$VALUE|=+0$"
  IS_FUTA_KNIGHT_REASON: "[ROOT.Char.GetSheHe|U]是$futa_knight$: $VALUE|=+0$"
  IS_FUTA_ENCLAVE_CHARACTER_REASON: "[ROOT.Char.GetSheHe|U]来自$game_concept_futa_enclave$: $VALUE|=+0$"
  IS_ENCLAVE_GUARD_REASON: "[ROOT.Char.GetSheHe|U]是$game_concept_futa_enclave_short$守卫: $VALUE|=+0$"
+ 
+ 
+ ## Traits
+
+
+ ## Hired Troops
+
+
+ ## Game Concepts
+
+ ## Character Interactions
+ 
+
+ ## Schemes
+
+
+ ### Custom Tooltips
+ 
  futa_ruins_investigation_generic_reward_small_gold_tt: "#P 在挖掘结束时将获得[SCOPE.ScriptValue('futa_ruins_small_gold_value')|0]#![gold_i]。"
  futa_ruins_investigation_generic_reward_small_prestige_tt: "#P 在挖掘结束时将获得[SCOPE.ScriptValue('futa_ruins_small_prestige_value')|0]#![prestige_i]。"
  futa_ruins_investigation_generic_reward_small_renown_tt: "#P 在挖掘结束时将获得[SCOPE.ScriptValue('futa_ruins_small_renown_value')|0]#![dynasty_prestige_i]。"
  futa_ruins_investigation_generic_reward_small_goodwill_tt: "#P 在挖掘结束时将获得[SCOPE.ScriptValue('futa_ruins_small_goodwill_value')|0]#![futa_goodwill|E]。"
  futa_ruins_investigation_generic_reward_artifact_goodwill_tt: "#P 在挖掘结束时将获得[SCOPE.ScriptValue('futa_ruins_small_goodwill_artifacts_value')|0]#![futa_goodwill|E]。"
+
+ 
  futa_ruins_investigation_final_reward_gold_tt: "#P 在挖掘结束时将获得[SCOPE.ScriptValue('massive_gold_value')|0]#![gold_i]！"
  futa_ruins_investigation_final_reward_prestige_tt: "#P 在挖掘结束时将获得[SCOPE.ScriptValue('massive_prestige_gain')|0]#![prestige_i]！"
  futa_ruins_investigation_final_reward_renown_tt: "#P 在挖掘结束时将获得[SCOPE.ScriptValue('futa_ruins_huge_renown_value')|0]#![dynasty_prestige_i]！"
  futa_ruins_investigation_final_reward_goodwill_tt: "#P 在挖掘结束时将获得[SCOPE.ScriptValue('futa_ruins_huge_goodwill_value')|0]#![futa_goodwill|E]！"
  futa_ruins_investigation_final_reward_artifact_goodwill_tt: "#P 在挖掘结束时将获得[SCOPE.ScriptValue('futa_ruins_huge_goodwill_artifacts_value')|0]#![futa_goodwill|E]！\n\n#X 这是一件独特的宝物！你确定吗？#!"
  futa_ruins_investigation_final_reward_nothing_tt: "在这次探索中你没有找到宝藏。希望下次能成功！"
+
  futa_ruins_investigation_gain_access_tt: "#highlight 你将解锁$activity_futa_ruins_investigation$[activity|E]"
+ 
  futa_ruins_investigation_every_other_guest_tt: "每位宾客"
  futa_ruins_investigation_everyone_tt: "每位参与者"
  futa_ruins_investigation_fknight_scholar_tt: "$futa_knight$和$trait_futa$学者"
+ futa_ruins_investigation_rewards_dungeon_crawler_tt: "$futa_dungeon_crawler$"
+ 
  futa_ruins_investigation_req: "任何[barony|E]都有[GetModifier('futa_ruins_sighted_modifier').GetNameWithTooltip][county_modifier|E]"
+ 
  futa_ruins_investigation_no_ruins_tt: "[barony|E]#bold 没有#![GetModifier('futa_ruins_sighted_modifier').GetNameWithTooltip][county_modifier|E]"
+ 
  futa_ruins_investigation_total_excavation_amount_tt: "[activity_location.GetName]已经被挖掘了#Y [SCOPE.ScriptValue('futa_ruins_excavation_amount_value_tt')|0]#!次"
+
+ futa_enables_picking_marriage_tradition_and_building_tt: "你将能够添加 [GetCultureTradition('futa_ancient_marital_customs_culture').GetName] [文化传统|E] 并建造 [GetDomicileBuilding('futa_shrine_marriage_shrine').GetName]"
+ futa_enables_picking_sacred_procreation_tradition_tt: "你将能够添加 [GetCultureTradition('futa_sacred_procreation_culture').GetName] [文化传统|E]"
+ futa_enables_picking_hermillia_law_tradition_tt: "你将能够添加 [GetCultureTradition('futa_hermillia_law_culture').GetName] [文化传统|E]"
+ futa_enables_picking_way_of_the_marauder_tradition_tt: "你将能够添加 [GetCultureTradition('futa_way_of_the_marauder_culture').GetName] [文化传统|E]"
+
+ futa_dungeon_crawler_robbed_successful: "你成功地抢劫了 [futa_dungeon_crawler.GetShortName]！"
+ futa_dungeon_crawler_robbed_unsuccessful: "[futa_dungeon_crawler.GetShortName] 成功地阻止了你并逃跑了！"
+
+ futa_dungeon_crawler_rob_outcome_success_tt: "#P 在挖掘结束后将获得 [SCOPE.ScriptValue('futa_ruins_crawler_gold_value')|0]#! [gold_i]。"
+ futa_dungeon_crawler_rob_outcome_failure_tt: "[futa_dungeon_crawler.GetSheHe|U] 将成功地阻止你并逃跑！"
+
+ futa_dungeon_crawler_investigate_outcome_success_tt: "如果 [futa_dungeon_crawler.GetSheHe] 隐藏了什么，你将成功地弄清楚那是什么"
+ futa_dungeon_crawler_investigate_outcome_failure_tt: "无论 [futa_dungeon_crawler.GetSheHe] 是否隐藏了什么，你都无法弄清楚那是什么"
+
+ futa_dungeon_crawler_joins: "[futa_dungeon_crawler.GetSheHe|U] 决定加入并与你一起继续 [futa_dungeon_crawler.GetHerHis] 的冒险！"
+ futa_dungeon_crawler_does_not_join: "[futa_dungeon_crawler.GetSheHe|U] 不想加入你"
+
+ futa_dungeon_crawler_join_offer_outcome_success_tt: "[futa_dungeon_crawler.GetSheHe|U] 将加入你"
+ futa_dungeon_crawler_join_offer_outcome_failure_tt: "[futa_dungeon_crawler.GetSheHe|U] 将不会加入你"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

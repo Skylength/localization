@@ -1,0 +1,153 @@
+﻿l_english:
+
+ ## Events
+
+ 
+ futa_tributary_events.0002.title: "$trait_futa$的枷锁"
+ futa_tributary_events.0002.desc: "又到了收取额外贡品的时候了，这些贡品来自我那些非常忠诚的臣民。有些人可能认为这很苛刻，甚至不公正。我说这只是为了保护他们的生命和领土安全而支付的一点微薄的代价而已。\n\n这次的幸运臣民是 [futa_tribute_giver.GetFullName]，[futa_tribute_giver.GetPrimaryTitle.GetName] 的 [futa_tribute_giver.GetTitleAsName]。[futa_tribute_giver.GetTitledFirstName] 已经抵达我的宫廷，正在等待觐见，而 [futa_tribute_giver.GetHerHis] 的随从则站在 [futa_tribute_giver.GetHerHim] 身后。\n\n轮到 [futa_tribute_giver.GetTitledFirstNameNicknamedPossessive] 时，[futa_tribute_giver.GetSheHe] 走到我面前，单膝跪下。\n\n“强大的 [futa_tribute_receiver.GetTitleAsName]，您卑微的臣民来到您的宫廷，是为了表达 [futa_tribute_giver.GetHerHis] 的忠诚。我自己的臣民、我的家人和我将永远感谢您的保护和慷慨。”\n\n如果说有什么的话，这还算是一篇过得去的演讲。根据合同条款，你可以要求 [futa_tribute_giver.GetTitledFirstName] 额外给予一些东西。你也可以什么都不要求，这应该会让 [futa_tribute_giver.GetTitledFirstName] 更喜欢你，并展示你光辉的慷慨。"
+ 
+ futa_tributary_events.0002.a: "国库需要更多财富。"
+ futa_tributary_events.0002.b: "我要求展示谦卑。"
+ futa_tributary_events.0002.c: "你首都的资源在这里可以得到更好的利用。"
+ futa_tributary_events.0002.d: "我希望在我的宫廷里#EMP款待#!你家的一位成员。"
+ futa_tributary_events.0002.e: "我想要进入你们肥沃的土地。"
+ futa_tributary_events.0002.f: "这次你没有额外的义务。"
+
+ #
+
+ futa_tributary_events.0003.title: "$trait_futa$的枷锁"
+
+ futa_tributary_events.0003.material_desc: "遵命，我的领主。我将立即满足您的要求。”\n\n贡品已支付完毕，[futa_tribute_giver.GetTitledFirstName] 开始准备返回的旅程。"
+
+ futa_tributary_events.0003.hostage_desc: "“恕我直言？我认为这没有必要。我们一直在履行我们的职责。不应该有理由提出这个要求！”\n\n我提醒所有 [futa_tribute_giver.GetTitleAsName] 在我的统治下必须承担的义务。\n\n“这不可接受！我不会像牲口一样出卖我的家人！”\n\n经过一些#EMP令人信服#!的话语后，[futa_tribute_giver.GetTitleAsName] 沉默了。“#EMP 当然，我的领主#！” [futa_tribute_giver.GetSheHe] 嘶声道。"
+
+ futa_tributary_events.0003.field_access_desc: "“呃。我的领主，您已经这样做了。我们收集的所有东西的一部分都会送到您那里。如果您是说您希望直接进入一些土地，我相信我们可以达成某种安排——”\n\n你打断了她。看来她没明白你的意思。你把话说得更清楚了一些。你希望为 [futa_tribute_giver.GetTitleAsName] 提供一个合适的继承人。\n\n"
+ futa_tributary_events.0003.field_access_outraged_desc: 她的脸变得通红。“你怎么敢暗示这种事，甚至认为这种建议以任何形式都是恰当的！这太离谱了！”在提醒她这是她的义务之后，如果她不愿意履行这些义务，那么她可以放弃她的领地，甚至是她的生命，如果那真的是她想要的。她之后似乎很快就平静了下来。“请原谅我，我的领主。请接受我的道歉。”我提醒她，我想要的是她的行动，而不是她的道歉。“#EMP 当然，我的领主#！”她咬牙切齿地说。
+ futa_tributary_events.0003.field_access_accepting_desc: "“遵命。我知道我们的安排以及对我的期望。”\n\n直截了当，是吧？"
+ futa_tributary_events.0003.field_access_eager_desc: "她脸红了。“当然，我的领主。您竟然会考虑让我成为您后代的母亲，我感到非常荣幸。我非常愿意成为您的孩子的母亲。”\n\n她的热情和接受确实让你心动，你开始感觉到熟悉的燥热在你下腹升腾。你强忍住自己，以免扑上去就在这里占有她。\n\n她一定注意到了你的意图。她给了你一个诱惑的眼神。\n\n“我是您忠诚的臣民。我的存在就是为了服侍您，并满足您#EMP任何#!的愿望，我的领主。”\n\n哦，她#EMP真的#!快把你逼到极限了。"
+
+ futa_tributary_events.0003.nothing_desc: "“您太仁慈了，我的领主。我们不会忘记您的慷慨大方。”"
+
+ futa_tributary_events.0003.a: "直到下次进贡。"
+ futa_tributary_events.0003.b: "我希望你的女儿 [futa_tribute_giver_daughter.GetFirstName] 来我的宫廷。"
+ futa_tributary_events.0003.c: "我希望你的儿子 [futa_tribute_giver_son.GetFirstName] 来学习我们的习俗。"
+ futa_tributary_events.0003.d: "我希望你的妻子 [futa_tribute_giver_wife.GetFirstName] 留在这里。"
+ futa_tributary_events.0003.e: "来吧，我们有个约会要开始了。"
+ futa_tributary_events.0003.e_eager: "我保证会#EMP奖赏#!你的忠诚。"
+ futa_tributary_events.0003.f: "没关系。"
+
+ #
+
+ futa_tributary_events.0004.title: "$futa_tributary_events.0002.title$"
+ futa_tributary_events.0004.desc: "一切准备就绪。[futa_tribute_giver.GetFirstName] 紧紧拥抱 [futa_tribute_chosen_hostage.GetFirstName]。不久之后，随行人员开始出发。[futa_tribute_chosen_hostage.GetFirstName] 含着泪水望着他们。\n\n"
+
+ futa_tributary_events.0004.adult_desc: "[futa_tribute_chosen_hostage.GetFirstName] 然后转向我鞠躬。“我的领主，我很荣幸来到这里。我随时为您效劳。”我的嘴角露出一丝不易察觉的微笑。"
+
+ futa_tributary_events.0004.child_desc: "我走到 [futa_tribute_chosen_hostage.GetFirstName] 面前，把手放在 [futa_tribute_chosen_hostage.GetHerHis] 的肩膀上，开始试图让 [futa_tribute_chosen_hostage.GetHerHim] 高兴起来。[futa_tribute_chosen_hostage.GetSheHe|U] 过了一会儿似乎平静下来了。"
+
+ futa_tributary_events.0004.a: "请尽情享受我的#EMP款待#!！"
+ futa_tributary_events.0004.b: "别担心！我们在这里会一起玩得很开心的！"
+ futa_tributary_events.0004.b_flavor: "我们还会教你长大后如何得体地行事！"
+
+ #
+
+ futa_tributary_events.0005.title: "最深的誓约" # I made 3 different versions as that made sense to me on previous flavour events. You do not have to write 3 distinct events though.
+
+ futa_tributary_events.0005.field_access_outraged_desc: "“真没想到你会卑鄙到强迫我做出如此堕落之事……” [futa_tribute_giver.GetTitledFirstName] 对我嗤之以鼻，当我的要求被她理解后，她的脸因厌恶而扭曲。无论她怎么想，我都要理所当然地得到我想要的。否则，她宁愿我的军队攻占她的土地，强行夺取我的贡品吗？\n\n在我的威胁下，[futa_tribute_giver.GetFirstName] 公开接受了。我一有机会就前往她的私人房间，收取我应得的东西。\n\n“我做这一切都只是为了我的领地，你这个卑鄙的#EMP恶魔#!。尽管放马过来，我会确保这不会持续太久。”[futa_tribute_giver.GetFirstName] 扔掉她的衣服，脸上写满了反抗。我只是冷笑。她的抵抗很可笑，但毫无意义。当我的身体也暴露出来时，我注意到 [futa_tribute_giver.GetFirstNamePossessive] 的眼睛在我那引以为傲的睾丸自由晃动时抽搐了一下。\n\n“你会在几秒钟内射精的。我知道你这种人。满脑子都是欲望，但很快就完事了。”\n\n……\n\n“#EMP 呃——啊！#！” [futa_tribute_giver.GetFirstName] 因过度刺激而呻吟，我迅速地将我的工具从下方强行插入她的庇护所。她的整个身体都变成了我取乐的玩物，一个仅仅是为了方便的物品。她的脸扭曲成淫荡的皱眉，试图保持她的厌恶，然而……\n\n“你这个#EMP蠢货#!！快点射出来！我不是你的——#EMP 啊！#！”\n\n我想 [futa_tribute_giver.GetFirstName] 有点太放肆了，所以我抓住她的喉咙以控制住她。她再次呻吟，我感觉到她的阴道紧紧地夹住了我的阴茎。\n\n#EMP 她喜欢这样吗？#! 真是一个十足的荡妇。不管她是否愿意承认，看来我的封臣的身体毕竟渴望一些女人的阴茎。\n\n“嗯……停下……#EMP 你必须停下……别他妈的……啊！#！”\n\n#S *啪* *啪* *啪*#! #EMP *噗嗤*#! #S *啪* *啪* *啪*#!\n\n#EMP 嗯……我的阴茎着火了！天哪！[futa_tribute_giver.GetFirstName]，你这个令人恼火的性玩偶，给我承受吧！#!"
+ futa_tributary_events.0005.field_access_accepting_desc: "“You want to… Your cock…. Inside me?” [futa_tribute_giver.GetFirstName] stutters as if in a trance upon hearing my proclamation. She should be honoured not afraid, after all to chance siring my young is amongst the highest privileges I could bestow. [futa_tribute_giver.GetFirstName] straightens her posture - her face now highlighted by a shade of red - before responding. \n\n“Of course, I humbly accept my liege’s request. I am ever… Grateful that you have chosen to entrust your seed to my womb…”. \n\nEh. It's not exactly romantic but it will do. The remaining responsibilities are carried out dutifully, but in truth all I can think about is my upcoming special encounter with [futa_tribute_giver.GetFirstName]. \n\nEventually that anticipation is put to rest as I find myself alone with just my vassal and a bed for company. \n\n“So… Um… How do you want us to proceed?” [futa_tribute_giver.GetFirstName] fidgets with her hands as she awaits my response. Her figure suggested by the folds of her dress. My loins surge with heat as I feel my testicles churning. \n\n”M-!!!” \n\nI grip the back of [futa_tribute_giver.GetFirstNamePossessive] head and pull her in for a deep kiss, catching her by surprise whilst I explore her mouth. She has a distinct scent… Some perfume perhaps. Just for me? [futa_tribute_giver.GetFirstName] soon learns to follow my lead and lets her playful tongue out to joust between our lips. All the whilst my hands eagerly work at removing any clothing they can reach from our bodies. \n\nNow naked, [futa_tribute_giver.GetFirstName] is reminded of her true objective when my hard shaft flicks up against her crotch. \n\n”Ah! You’re certainly eager milady…” \n\nI start to grind my cock against her wet entrance, coating it in her juices. The heat of my shaft enveloped [futa_tribute_giver.GetFirstNamePossessive] clit, getting her more and more #EMP invested#! in fulfilling her duty. \n\nOnce I was sufficiently lubed up, I directed my vassal to prop herself up against the ground, taking my position over her as I felt up her rear and prepared to make my entrance. [futa_tribute_giver.GetFirstNamePossessive] pussy was #EMP dripping#! with anticipation. I could hear my heart thudding away within my chest. She looked so beautiful… So #EMP fuckable!#! \n\nMy cock spears its way inside her vagina. The muscles twitch as my glans makes contact. A subtle tremble of her walls welcomes me in the first few inches. \n\n”#EMP Guuhhhhhhhhh!!!!#!” [futa_tribute_giver.GetFirstName] releases a long drawn gasp as my length gradually sheaths itself inside her body. \n\n#EMP So tight…. Must…. FUCK!#!” My inhibitions evaporated. Instinct took over and drove my cock balls deep inside [futa_tribute_giver.GetFirstName]. She yelped but lost her voice halfway through as my cock scraped against her sensitive spot. \n\nMy hips started bobbing up and down like a rabbit in heat, the pleasure melting my mind away each time [futa_tribute_giver.GetFirstName] contracted against my length. I buckled over, pushing my weight down upon [futa_tribute_giver.GetFirstName] as I used her ass for support. \n\nThe two of us produced obscene noises unbecoming of our station, but we didn’t care. All either of us could do was move our bodies together and ride the wave of ecstasy that had washed over us both. \n\nMy thrusts began to falter, becoming slow. It was more like allowing my hips to give way and have gravity do the work. My balls ripe and round would swing against [futa_tribute_giver.GetFirstNamePossessive] underside. One #EMP clap#! proved to be too much. My vision closed in and my core trembled as I ejaculated into my vassal's womb. Thick hot seed poured down her chamber and flooded past her cervix. \n\n“You’ve filled me up! #EMP FUCK!#!” [futa_tribute_giver.GetFirstName] immediately orgasms, wringing out the remaining cum from my dick as her juices mix with mine against the floor."
+
+ futa_tributary_events.0005.field_access_accepting_desc: "“你想要……你的阴茎……进入我的身体？” 听到我的宣告，[futa_tribute_giver.GetFirstName] 结巴地说着，仿佛陷入了恍惚。她应该感到荣幸而不是害怕，毕竟，有机会孕育我的后代是最高的特权之一。[futa_tribute_giver.GetFirstName] 挺直了腰板——她的脸颊泛起了一抹红色——然后回应道。\n\n“当然，我谦卑地接受我主的要求。我永远……感激您选择将您的种子托付给我的子宫……”\n\n嗯。这不算浪漫，但也可以接受。剩下的职责都尽职尽责地完成了，但事实上，我满脑子想的都是即将到来的与 [futa_tribute_giver.GetFirstName] 的特别会面。\n\n最终，当只剩下我和我的封臣以及一张床作伴时，那份期待也随之消散。\n\n“那么……嗯……您希望我们如何进行？” [futa_tribute_giver.GetFirstName] 紧张地摆弄着双手，等待我的回应。她的身形在裙子的褶皱中若隐若现。我的下腹涌起一股热流，我感觉到我的睾丸在翻腾。\n\n“嗯——！”\n\n我抓住 [futa_tribute_giver.GetFirstNamePossessive] 的后脑勺，将她拉过来深吻，在她毫无防备的时候探索她的嘴唇。她身上有一种独特的香味……也许是香水。是特意为我准备的吗？[futa_tribute_giver.GetFirstName] 很快就学会了跟随我的引导，并伸出她那调皮的舌头在我们嘴唇间嬉戏。与此同时，我的双手也急切地褪去我们身上任何能够触及的衣物。\n\n现在赤身裸体，当我的坚硬的阴茎摩擦她的胯部时，[futa_tribute_giver.GetFirstName] 想起了她真正的目的。\n\n“啊！您真是心急啊，夫人……”\n\n我开始用我的阴茎摩擦她湿润的入口，将她的体液涂满我的阴茎。阴茎的热度包裹着 [futa_tribute_giver.GetFirstNamePossessive] 的阴蒂，让她越来越投入地履行她的职责。\n\n一旦我充分润滑，我就指示我的封臣支撑起身体，我则在她上方就位，抚摸着她的后部，准备进入。[futa_tribute_giver.GetFirstNamePossessive] 的阴道因为期待而湿漉漉的。我能听到自己的心在胸腔里怦怦直跳。她看起来如此美丽……如此令人想要！\n\n我的阴茎刺入了她的阴道。当龟头接触到她的身体时，她的肌肉抽搐了一下。她阴道壁的轻微颤抖欢迎我进入最初的几英寸。\n\n“#EMP 咕——啊！#！” 当我的整个阴茎逐渐没入她的身体时，[futa_tribute_giver.GetFirstName] 发出了一声悠长的喘息。\n\n#EMP 好紧……必须……操！#！” 我的所有顾虑都消失了。本能占据了上风，将我的阴茎深深地插入了 [futa_tribute_giver.GetFirstName] 的身体。她惊叫了一声，但在我的阴茎摩擦到她的敏感点时，声音就消失了。\n\n我的臀部像发情的兔子一样上下摆动，每次 [futa_tribute_giver.GetFirstName] 的阴道收缩时，快感都让我神魂颠倒。我弯下腰，将我的重量压在 [futa_tribute_giver.GetFirstName] 的身上，用她的臀部作为支撑。\n\n我们俩发出了与我们身份不符的淫秽声音，但我们毫不在意。我们所能做的就是让我们的身体紧密相连，共同体验那席卷我们俩的狂喜浪潮。\n\n我的抽插开始变得缓慢而犹豫。更像是让我的臀部放松，让重力发挥作用。我那成熟圆润的睾丸会撞击 [futa_tribute_giver.GetFirstNamePossessive] 的下部。一声#EMP啪#!的撞击太过猛烈。我的视线模糊了，我的核心颤抖着，我射精到我的封臣的子宫里。浓稠滚烫的精液涌入她的体内，流过她的子宫颈。\n\n“你填满了我的身体！#EMP 该死！#！” [futa_tribute_giver.GetFirstName] 立刻达到了高潮，她收缩着阴道，挤出我阴茎里剩余的精液，她的体液和我的精液混合在一起，流淌在地板上。"
+ futa_tributary_events.0005.ploughing_outraged: "要……要出来了！"
+ futa_tributary_events.0005.ploughing: "贡品……已接受……"
+ futa_tributary_events.0005.ploughing_eager: "*射了一大发#!*"
+
+ #
+
+ futa_tributary_events.0006.title: "$futa_tributary_events.0005.title$" # Receiver POV. Necessary as the player can be on the receiving side of these events.
+
+ futa_tributary_events.0006.field_access_outraged_desc: "“I shall take tribute in the form of your womb. As my #EMP loyal#! vassal it is my duty to ensure your bloodline is strong.” [futa_tribute_receiver.GetFirstName] smirks. #EMP That Futa demon thinks she can just claim my womanhood?!#! \n\nThe very idea of her vile sex despoiling my body is enough to make me sick, but my current position leaves me little room to refuse her. As such, I am forced to accept my liege into #EMP my#! bedchamber… \n\n“You should remove those clothes of yours, we shalt be needing them.” [futa_tribute_receiver.GetFirstName] sounds so smug as she says that. Her own garments drop to the floor, emphasising her sinful body as it #EMP throbs#! and #EMP leaks#! like the hellspawn she is! \n\n… \n\n#S *Plap* *Plap* *Plap* *Plap*#! \n\nMy pussy swells with lust, assaulting my mind with waves of euphoric pleasure as [futa_tribute_receiver.GetFirstName] batters my sensitive walls with her brutish cock. Her grip is fierce and causes me some pain, but when I try to protest she clutches at my throat. \n\n#EMP Fuck!#! \n\n“Did you like that? You dirty little girl. Well don’t worry, I happen to be a dirty girl myself!” [futa_tribute_receiver.GetFirstNamePossessive] thrusts ramp up in frequency. I can do little but gag as she completely dominates my body. \n\nIt’s hard to breathe… Hard to think…. #EMP Will I die? Will she… Impregnate me?” \n\n#S *Plap* *Plap* *Plap* *Plap*"
+
+ futa_tributary_events.0006.field_access_accepting_desc: "No, she couldn’t… [futa_tribute_receiver.GetFirstName] has demanded the use of my womb as tribute?! Is this even allowed? What about my personal autonomy? My position? \n\n”To sire my child is of great privilege, you should be proud that I have deemed you fit for the purpose.” [futa_tribute_receiver.GetFirstNamePossessive] word is law, regardless of how I might feel about it. I can’t say this is what I expected, but none-the-less it is my duty to accept her… Task. \n\nI lead [futa_tribute_receiver.GetFirstName] to my bed chambers, holding the door for her entry. \n\n”Mm, how sweet of you.” [futa_tribute_receiver.GetFirstName] brushes my hair on her way inside. \n\n#EMP Okay, I can handle this, She just needs to be satisfied. Surely I can please her?#! \n\n[futa_tribute_receiver.GetFirstName] looks around my home and comments on my furniture. Then she starts looking through my wardrobe. #EMP This is too embarrassing!#! \n\n”Hahaha, sorry dear. I suppose we should be #EMP removing#! Our clothes rather than checking them out?” With that [futa_tribute_receiver.GetFirstName] lightly tugs on the strings of her gown until it gently slides to her feet. On its way down I can’t help but gulp as her package is gradually revealed. Those #EMP DNA workshops#! of hers are visually pulsing already. [futa_tribute_receiver.GetFirstName] has a gentle but knowing smile as she waits for me to join her. \n\nAs I remove my panties I notice a damp patch… #EMP [futa_tribute_receiver.GetFirstName] does look pretty good naked…#! Biting my lip, I approach her. We embrace and she leads me with a warm kiss on my neck. I follow suit by pulling her in closer until our breasts are pressed together. [futa_tribute_receiver.GetFirstName] traces her lips all across my face, taking me in as if I were the most precious thing on earth. I feel my nethers dripping as the heat begins to spread through my veins. \n\n#EMP I want her badly. More than I thought I would.#! \n\nSeeing my arousal, [futa_tribute_receiver.GetFirstName] plants one last kiss on the back of my neck before guiding me towards the floor, spreading my legs and having me hold up my rear towards her. \n\n#EMP *PLAP*#! \n\nWarmth stirs on my ass as [futa_tribute_receiver.GetFirstName] plants her palm upon it for support, kneading my flesh as she admires what I have to offer. “Your holes are looking as good as your wardrobe. I hope you are ready because I #EMP am not#! waiting any longer!” \n\nUgh, Mmm , AhhHAHAHAhHA, Nnnnnnfgfffgg!!! #EMP FUCK! AUGHHH FUCK,#! FUCK, FUCK ME HARDER [futa_tribute_receiver.GetFirstName], ARGH MY GAAWWWDDD!!!!!!! \n\n#S *CLAP* *PLAP* *PAP*#! #EMP *SQUELCH*#! #S *Plap* *CLAP* *CLAP*#! \n\n”You like that? #EMP MMmmmMMMMM! So do I!#! You’re going to be carrying my babies soon! #S ARGGGGHHH!#!” \n\n[futa_tribute_receiver.GetFirstName] plunges in and out of my depths, my position exposing my vulnerable spots to her glorious girl dick. My clit stings as if on fire from all the stimulation. I am drooling all over myself, but I do not care. All I need- #EMP FUCK!. JUST FILL ME UP!#"
+
+ futa_tributary_events.0006.field_access_eager_desc: "To maintain our relations, you will need to commit your womb to me as tribute.” \n\nMy womb? #EMP Urf… I mustn't… Touch myself…#! An exceedingly hard task. [futa_tribute_receiver.GetFirstName] want to fuck me as my “payment”. If anything I should be paying her! Getting bred by her $trait_futa$ prowess whilst encased in her sexy legs and loving bust? What more could a girl ask for! \n\nI pinch myself back to reality to finish the official proceedings, all whilst my juices trail down my legs… \n\n #S *CRASH*#! \n\nThe two of us barrel through the door and throw ourselves right onto the bed. [futa_tribute_receiver.GetFirstName] is pawing all over me, exploring my body with her hands whilst our mouths are busy getting acquainted. #EMP She tastes so good.#! Overwhelmed by lust I reach around her soft ass and slip a few fingers inside. That #EMP really#! gets [futa_tribute_receiver.GetFirstName] going! \n\nThe next thing I know she has me on her lap and her bitch breaker is reshaping my birthing canal, driving into me like a target at archery practice. I grab hold of her hands and give in to passion. #EMP She is SOOOOO GOOOOOOD!#! I want her to FUCK ME! I NEED to Mother her children! Her seed is the ONLY spunk I deserve!#!” \n\n”OOOoOoOOOHH You are driving me crazy!” \n\n#EMP FUCK ME FUCK ME FUCK ME FUCK ME FUCK ME!!!! OHHHHHH YESSSSS, MAKE ME PREGNANT!!!!#"
+
+ futa_tributary_events.0006.ploughing_outraged: "*Faint from your orgasm*"
+ futa_tributary_events.0006.ploughing: "DO IT!"
+ futa_tributary_events.0006.ploughing_eager: "*Slam down on that dick*"
+
+ #
+
+ futa_tributary_events.0007.title: "$futa_tributary_events.0002.title$"
+ futa_tributary_events.0007.desc: "The time has come for another round of extra tribute. The #EMP lucky#! subject this time around is us.\n\nMy entourage arrives at [futa_tribute_receiver.GetTitledFirstNameNicknamedPossessive] court in order to fulfil our obligations and show my loyalty. We wait for what feels like an eternity to receive an audience. When it is our turn, I quickly step up and take a knee, repeating my oaths.\n\n"
+
+ futa_tributary_events.0007.material_desc: "“The crown requires some extra contributions from you this time, [futa_tribute_giver.GetTitledFirstName]. I'm sure you understand.”"
+
+ futa_tributary_events.0007.hostage_desc: "“I wish to #EMP host#! one of your family members at my court. Show them our #EMP hospitality#! and teach them to conduct diplomacy #EMP properly#!.”\n\nShe wants to host someone from my family? Sounds reasonable, what could be the harm in it?"
+
+ futa_tributary_events.0007.field_access_desc: "“I want to access and use your fertile fields.” What? She already does. A portion of everything we gather is sent over to her. I guess she means to access some of the land directly. We can come to some sort of arrang-\n\nShe cuts you off. “Guess the message went over your head. I will make it a bit more clear. I wish to provide you with a #EMP proper#! heir.”\n\n... Is she serious?"
+
+ futa_tributary_events.0007.nothing_desc: "“I do not need anything from you this time. Your show of loyalty is enough.”"
+
+ futa_tributary_events.0007.a: "This is unacceptable! I refuse!"
+ futa_tributary_events.0007.b: "#EMP Of course, my liege...#!"
+ futa_tributary_events.0007.b_ploughing_eager: "I shall gladly accept!"
+
+ #
+
+ futa_tributary_events.0009.title: "$futa_tributary_events.0002.title$ - Release Hostage"
+ futa_tributary_events.0009.desc: "The [futa_tribute_chosen_hostage.GetFirstNamePossessive] time at my court is up. Even if I wish to keep [futa_tribute_chosen_hostage.GetHerHim] here, I know my limits. This tributary system works of off trust, and I cannot afford to break this system.\n\nI gave one final look to [futa_tribute_chosen_hostage.GetFirstName] and send them away."
+ futa_tributary_events.0009.a: "Back to work."
+
+ #
+
+ futa_tributary_events.0011.title: "$futa_tributary_events.0002.title$ - Release Hostage"
+ futa_tributary_events.0011.desc: "The [futa_tribute_chosen_hostage.GetFirstNamePossessive] time at my court is up. Even if I wish to keep [futa_tribute_chosen_hostage.GetHerHim] here, I know my limits. This tributary system works of off trust, and I cannot afford to break this system.\n\nI gave one final look to [futa_tribute_chosen_hostage.GetFirstName].\n\n"
+
+ futa_tributary_events.0011.desc_male: "His time here at my court has definitely... #EMP affected#! him. He has started to dress and look more effeminetely. One would not be at fault to think he iss a girl on a quick look!\n\nHe doesn't really want to leave my court, but alas, I cannot break the rules. It takes some effort, but manage to convince him to be sent away, maybe he can come back later to work for me, but until then, we say our final goodbyes."
+
+ futa_tributary_events.0011.desc_female: "Her time here at my court has definitely... #EMP affected#! her. She doesn't feel put off by $trait_futa$ and she has even started to feel more open to being around them."
+ futa_tributary_events.0011.a: "Back to work."
+
+
+
+
+
+ ## Futanari Tributary
+
+ futa_tributary: "$trait_futa$ Tributary"
+ futa_tributary_active: "$futa_tributary$"
+ futa_tributary_active_short: "Active Tributary"
+ futa_tributary_desc: "#flavor While subject to a $special_contract_futa_tributary$, the [vassal|E] will pay #high [EmptyScope.ScriptValue('futa_tributary_contract_tax_tooltip')|0]%#! more [tax|E] than what their $feudal_government_taxes$ [obligation|E] and provide #high [EmptyScope.ScriptValue('futa_tributary_contract_levies_tooltip')|0]%#! more [levies|E] than what their $feudal_government_levies$ [obligation|E] dictates.#!"
+
+
+
+ ## Succession Law
+
+ futa_hermillia_will_elective_succession_law: "Hermillia's Will"
+ #futa_hermillia_will_elective_succession_law_subname: ""
+ futa_hermillia_will_elective_succession_law_effects: "The [ruler|E] and all [de_jure|E] [direct_vassals|E] can nominate a [title_heir|E] amongst the ruler's [extended_family|E], [direct_vassals|E] and any available [claimants|E].\n[voting_power|E] in this [succession_law|E] is influenced by the [elector|E]'s total [domain|E] [county_development|E], [capital|E] [county_opinion|E], $futa_hermillia_crown_name$ [artifact|E], and many more things related to [GetTrait('futa_genetic').GetName( GetNullCharacter )]"
+
+
+ futa_hermillia_will_elective_candidates: "Extended Family, Vassals and Claimants"
+ futa_hermillia_will_elective_candidates_tooltip: "In order to be a valid Candidate under $futa_hermillia_will_elective_succession_law$, a character must fulfill one of the following conditions:\n$EFFECT_LIST_BULLET$Be a legitimate member of the ruler's [dynasty|E], who is not in line to inherit a Theocracy or Republic.\n$EFFECT_LIST_BULLET$Be a [claimant|E] to the title, who is not in line to inherit a Theocracy or Republic\n$EFFECT_LIST_BULLET$Be a [direct_vassal|E] of the title"
+ futa_hermillia_will_elective_electors: "$feudal_elective_electors$"
+ futa_hermillia_will_elective_electors_tooltip: "In order to be a valid [elector|E] under $futa_hermillia_will_elective_succession_law$, a character must be a [de_jure|E] vassal of the title"
+
+
+ ## Tooltips
+
+ # Modifiers
+
+ futa_hermilla_will_vote_strength_missing_the_crown_tooltip: "Not Wearing $futa_hermillia_crown_name$: $VALUE|=+0$"
+ futa_hermilla_will_vote_strength_is_futa_tooltip: "Is [GetTrait('futa_genetic').GetName( GetNullCharacter )]: $VALUE|=+0$"
+ futa_hermilla_will_vote_strength_is_female_tooltip: "Is $SEX_FEMALE$: $VALUE|=+0$"
+ futa_hermilla_will_vote_strength_is_male_tooltip: "Is $SEX_MALE$: $VALUE|=+0$"
+ futa_hermilla_will_vote_strength_is_futa_bitch_tooltip: "Is a Devoted [GetTrait('futa_bitch').GetName( GetNullCharacter )]: $VALUE|=+0$"
+ futa_hermilla_will_vote_strength_vassal_culture_parameter_tt: "Culture Believes in $futa_hermillia_will_elective_succession_law$: $VALUE|=+0$"
+ futa_hermilla_will_vote_strength_vassal_active_tributary_tt: "Is a $futa_tributary_active$: $VALUE|=+0$"
+
+ futa_hermillia_law_elector_anti_vote_ruler_missing_crown_culture_parameter_tooltip: "The ruler is not wearing $futa_hermillia_crown_name$: $VALUE|=+0$"
+ futa_hermillia_law_elector_vote_ruler_has_crown_culture_parameter_tooltip: "The ruler is wearing $futa_hermillia_crown_name$: $VALUE|=+0$"
+ futa_hermillia_law_elector_vote_candidate_has_crown_culture_parameter_tooltip: "[candidate.GetShortUIName|U] possesses $futa_hermillia_crown_name$: $VALUE|=+0$"
+ futa_hermillia_law_elector_vote_futa_is_unaccepted_tooltip: "I do not accept or respect [GetTrait('futa_genetic').GetName( GetNullCharacter )]: $VALUE|=+0$"
+ futa_hermillia_law_elector_vote_futa_is_virtuous_tooltip: "[GetTrait('futa_genetic').GetName( GetNullCharacter )] are virtuous: $VALUE|=+0$"
