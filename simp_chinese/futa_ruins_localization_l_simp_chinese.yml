@@ -6,6 +6,7 @@
  futa_ruins_events.0002.desc.settlement: "\n\n这些废墟似乎是某个古老的$trait_futa$定居点。"
  futa_ruins_events.0002.desc.temple: "\n\n这些废墟似乎是某个古老的$trait_futa$神庙。"
  futa_ruins_events.0002.desc.bathhouse: "\n\n这些废墟似乎是某个古老的$trait_futa$浴池。"
+ futa_ruins_events.0002.desc.smol_hint: "\n\n这里可能有过去的知识和财富。"
  futa_ruins_events.0002.a: "我应该准备一次探险……"
  futa_ruins_events.0002.b: "出售废墟的位置"
  futa_ruins_events.0002.c: "允许[futa_enclave_short|E]自由探索废墟"

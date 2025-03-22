@@ -1,0 +1,38 @@
+﻿l_simp_chinese:
+ #trait_futa_inquiz:0 "扶她审判官"
+ #futa_inquiz_desc:0 "这位扶她在天主教会的抚养下长大，憎恨自己的同类，并致力于管教她们。"
+
+ ##MODIFIERS:
+ #futa_faithful_modifier:0 "虔诚的"
+
+ # LANDLESS TITLES
+ d_laamp_hermillia: "扶她王国"
+ d_laamp_hermillia_article: "$DEFAULT_TITLE_NAME_ARTICLE$"
+
+ futa_hermillia: "赫米莉亚"
+
+
+ ## BOOKMARKS
+ bookmark_hermillia: "赫米莉亚"
+ bookmark_hermillia_desc: "虽然她的人民遭受苦难，但赫米莉亚一直潜伏在暗处。扶她们需要一个英雄，一个将她们从这个压迫的世界中解放出来，并确立她们应有的至高地位的人！还有谁比她们失踪已久的女神更适合领导她们呢？\n\n赫米莉亚带着一群忠诚的追随者和崇拜者，似乎是 凭空出现。在躲藏了这么久之后，世界将如何回应这样一位强大的扶她统治者？赫米莉亚的真正目标是什么？甚至她最亲近的追随者也不知道……\n\n#XB #BOLD 赫米莉亚是一个未完成的角色。将她放在这里可以看作是对未来内容的预览。#!#！"
+
+ #COURT POSITIONS
+ #futa_nun_court_position:0 "卡尔登尼特修女"
+ #futa_nun_court_position_desc:0 "遵循卡尔登尼主义教义并接受自己天生有罪的扶她，但她们仍然可以在上帝的殿堂中赢得一席之地。这些修女与世隔绝，进行严格的冥想，以增强她们脆弱的心智并克服她们原始的欲望。"
+
+ #DOMICILE BUILDINGS
+ #futa_carldenite_nunnery_domicile_building:0 "卡尔登尼特扶她修道院"
+
+ ##CHARACTER INTERACTIONS
+ #inquiz_nun_interaction:0 "要求忏悔"
+ #inquiz_nun_interaction_desc:0 "如果一个扶她希望留在你的照料下，她只会按照上帝的教义去做！"
+
+ #ARTIFACTS
+ sliver_strike_name:0 "白银之刃"
+ sliver_strike_desc:0 "这把奇特的刀刃来历不明。仅仅握住刀柄就能让人脊背发凉。它似乎拥有超自然的力量..."
+
+
+ ##EVENTS
+ bookmark_hermillia_events.0001.title:0 "神的归来"
+ bookmark_hermillia_events.0001.desc:0 "扶她作为低等阶级在男人的统治下受苦太久了。想到我们竟然不如那些仅仅是低等的人，我就感到恶心。我的存在一直笼罩在避免引人注目、在幕后活动的记忆中。在黑暗中潜行不是#EMP 女王#!，不是像我这样的#BOLD 神#! 的作风。\n\n我并不满足于像奴隶一样生活。我一直在等待时机，磨练我的技能，并在我的#EMP “上级”#! 的眼皮底下建立了自己的军队。\n\n#I 亲爱的玩家，这就是你现在能看到的全部了。如果你愿意，可以以赫米莉亚的身份进行沙盒游戏，她拥有一把非常漂亮的专属剑。#!#！"
+ bookmark_hermillia_accept.0001.a:0 "神秘莫测..."

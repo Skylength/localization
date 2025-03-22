@@ -125,74 +125,63 @@
  #
 
  futa_conversion_events.5101.title: "诱人饮品 - 成功"
- futa_conversion_events.5101.gift.desc: "我准备了一个小包裹，里面装有一些配料，并安排将其送达[target.GetFirstNameRegnal]。当然我也确保其中包含了如何准备和使用这些配料的说明。\n\n不久之后，收到了一封来自[target.GetFirstNameRegnal]的信，感谢我这份“礼物”，并提到用我寄过去的配料制成的饮品味道非常甜美，几乎令人上瘾！[target.GetSheHe]永远不会对此感到厌倦，并且[target.GetSheHe]希望未来能够获得更多这种配料！"
+ futa_conversion_events.5101.gift.desc: "我准备了一个装有神秘材料的小包裹，并安排将其送达[target.GetFirstNameRegnal]。当然我也确保其中包含了如何准备和使用这些配料的说明。\n\n不久之后，我收到了一封来自[target.GetFirstNameRegnal]的信，感谢我这份“礼物”，并提到用我寄过去的配料制成的饮品味道非常甜美，几乎令人上瘾！[target.GetSheHe]永远不会对此感到厌倦，并且[target.GetSheHe]希望未来能够获得更多这种配料！"
  futa_conversion_events.5101.invite.desc: "我邀请[target.GetFirstNameRegnal]来到我的住处，一起品尝新鲜调制的饮品并进行交谈。\n\n我提前准备好房间，并安排为[target.GetFirstNameRegnal]提供饮品。不久之后，[target.GetFirstNameRegnal]抵达，我们随即开始谈论各种话题。[target.GetSheHe|U]不断加快速度，越来越快地喝完[target.GetHerHis]饮品。几乎就像是[target.GetSheHe]停不下来了一样！我尝试巧妙地穿插一些问题和建议，关于[target.GetHerHis]对女人的兴趣。\n\n到了告别的时刻，[target.GetFirstNameRegnal]脸上带着茫然的微笑，同时用涣散的目光看向我。"
 
 
  #
 
  futa_conversion_events.5201.title: "诱人饮品 - 失败"
- futa_conversion_events.5201.gift.desc: "我准备了一个小包裹，里面装有一些配料，并安排将其送达[target.GetFirstNameRegnal]。当然我也确保其中包含了如何准备和使用这些配料的说明。\n\n不久之后，收到了一封来自[target.GetFirstNameRegnal]的信，感谢我的这份“礼物”。然而，[target.GetSheHe]却没有机会品尝，因为那些配料不知怎么地在运送过程中丢失了！尽管如此，[target.GetSheHe|U]表示对我的这份心意[target.GetSheHe]仍旧非常感激。"
+ futa_conversion_events.5201.gift.desc: "我准备了一个装有神秘材料的小包裹，并安排将其送达[target.GetFirstNameRegnal]。当然我也确保其中包含了如何准备和使用这些配料的说明。\n\n不久之后，我收到了一封来自[target.GetFirstNameRegnal]的信，感谢我的这份“礼物”。然而，[target.GetSheHe]却没有机会品尝，因为那些配料不知怎么地在运送过程中丢失了！尽管如此，[target.GetSheHe|U]表示对我的这份心意[target.GetSheHe]仍旧非常感激。"
  futa_conversion_events.5201.invite.desc: "我邀请[target.GetFirstNameRegnal]来到我的住处交谈，一起品尝新鲜调制的饮品。\n\n我提前准备好房间以及为[target.GetFirstNameRegnal]调制的饮品。不久之后，[target.GetFirstNameRegnal]抵达，我们随即开始谈论各种话题。\n\n然而，自始至终[target.GetSheHe]都没有尝试饮品！更糟糕的是，我几次让[target.GetFirstNameRegnal]品尝饮料的试探没有成功，反倒让氛围变得有些尴尬！"
 
 
 
  ## Modifiers
 
- futa_convert_cooldown_opinion: "Rebuffed Sexuality Conversion"
- futa_convert_permanent_blocker_opinion: "Repulsed by Sexuality Conversion"
+ futa_convert_cooldown_opinion: "扭转性向 - 失败"
+ futa_convert_permanent_blocker_opinion: "厌恶扭转性向"
 
- futa_convert_sexuality_scheme_scheme_phase_duration_add: "[GetScheme('futa_convert_sexuality_scheme').GetTypeName] [scheme_speed_single|E]"
- futa_elope_scheme_phase_duration_add: "[GetScheme('futa_elope').GetTypeName] [scheme_speed_single|E]"
+ futa_convert_sexuality_scheme_scheme_phase_duration_add: "[GetScheme('futa_convert_sexuality_scheme').GetTypeName] [计谋速度（单人）|E]"
+ futa_elope_scheme_phase_duration_add: "[GetScheme('futa_elope').GetTypeName] [计谋速度（单人）|E]"
 
- futa_convert_sexuality_scheme_enemy_scheme_phase_duration_add: "Incoming [GetScheme('futa_convert_sexuality_scheme').GetTypeName] [scheme_speed_single|E]"
- futa_elope_enemy_scheme_phase_duration_add: "Incoming [GetScheme('futa_elope').GetTypeName] [scheme_speed_single|E]"
+ futa_convert_sexuality_scheme_enemy_scheme_phase_duration_add: "即将到来的 [GetScheme('futa_convert_sexuality_scheme').GetTypeName] [计谋速度（单人）|E]"
+ futa_elope_enemy_scheme_phase_duration_add: "即将到来的 [GetScheme('futa_elope').GetTypeName] [计谋速度（单人）|E]"
 
 
  ## Character Interactions
- futa_convert_sexuality_interaction: "Convert Sexuality #weak (Scheme)#!"
- futa_convert_sexuality_scheme_interaction_notification: "Sexuality Conversion"
+ futa_convert_sexuality_interaction: "扭转性取向#weak (计谋)#!"
+ futa_convert_sexuality_scheme_interaction_notification: "扭转性向"
  
 
  ## Schemes
 
- futa_convert_sexuality_scheme: "Convert Sexuality"
- futa_convert_sexuality_scheme_action: "Convert Sexuality of"
- futa_convert_sexuality_scheme_desc: "I fancy [SCHEME.GetTargetCharacter.GetShortUINameNoTooltip], however [SCHEME.GetTargetCharacter.GetSheHe] does not seem to share the sentiment. I may be able to #italic convince#! and teach [SCHEME.GetTargetCharacter.GetHerHim] that some girls are as good as men, if not significantly better!"
- futa_convert_sexuality_scheme_desc_general: "$futa_convert_sexuality_scheme$ is a [personal_scheme|E] that aims to show the [scheme_target|E] that $trait_futa$ are the best package deal, being able to provide both what a man and woman could provide, laying with them and causing a sexual awakening in the target in the process with the help of an item called a [futa_maliah_branch|E].\n\nPlenty of factors determine the [success_chance|E], such as [opinion|E], [trait|E] compatibility and many more."
-
- futa_convert_sexuality_lover_relation: "[TARGET_CHARACTER.GetShortUIName|U] fell in love with [CHARACTER.GetShortUIName] upon discovering the sheer amount of pleasure [CHARACTER.GetShortUINamePossessive] $trait_futa$ dick makes [TARGET_CHARACTER.GetHerHim] feel."
-
- futa_convert_sexuality_interaction_notification: "Sexuality Conversion"
-
- FUTA_CONVERT_SEXUALITY_SUCCESS_DESC: "[TARGET_CHARACTER.GetShortUINamePossessive|U] [sexuality|E] will become more receptive towards women. [TARGET_CHARACTER.GetSheHe|U] may also become your [lover|E]"
-
-
- futa_elope: "$trait_futa$ Elope"
- futa_elope_desc: "Bring [SCHEME.GetTargetCharacter.GetShortUINameNoTooltip] to your [court|E] and [marry|E] [SCHEME.GetTargetCharacter.GetHerHim]"
-
- ### Custom Tooltips
- futa_convert_interaction_tt: "Attempt to convert [recipient.GetShortUINameNoTooltip], changing [recipient.GetHerHis] sexual orientation to [homosexual|E] or [bisexual|E], and possibly making [recipient.GetHerHim] your [lover|E]"
-
- futa_convert_sexuality_invalid: "I stop trying to convert the sexuality of [target.GetTitledFirstNameNoTooltip] because it is no longer possible."
- futa_convert_sexuality_invalidated_title: "@personal_scheme_icon! $futa_convert_sexuality_scheme$ Scheme Ends"
-
-
-
-
-
-
- futa_convert_cooldown_opinion: "扭转性向 - 失败"
- futa_convert_permanent_blocker_opinion: "厌恶扭转性向"
- futa_convert_sexuality_interaction: "扭转性取向#weak (计谋)#!"
- futa_convert_sexuality_scheme_interaction_notification: "扭转性向"
  futa_convert_sexuality_scheme: "扭转性取向"
  futa_convert_sexuality_scheme_action: "扭转性取向"
  futa_convert_sexuality_scheme_desc: "我对[SCHEME.GetTargetCharacter.GetShortUINameNoTooltip]产生了好感，然而[SCHEME.GetTargetCharacter.GetSheHe]似乎并未对我抱有同样的情感。我或许能够#italic 说服#!并教导[SCHEME.GetTargetCharacter.GetHerHim]，有些女性丝毫不逊于男性，甚至明显更为出色！"
  futa_convert_sexuality_scheme_desc_general: "$futa_convert_sexuality_scheme$是一种[personal_scheme|E]，目的是向[scheme_target|E]展示$trait_futa$的绝禀天赋——只要与她们共度春宵，便能同时享受男欢女爱的滋味——并借助一种叫做[futa_maliah_branch|E]的物品帮助目标逐渐觉醒「正确」的性取向。\n\n影响[success_chance|E]的因素有很多，如[opinion|E]、[trait|E]的差异性，以及其他。"
+
  futa_convert_sexuality_lover_relation: "[TARGET_CHARACTER.GetShortUIName|U]在发现[CHARACTER.GetShortUINamePossessive]$trait_futa$鸡巴能给[TARGET_CHARACTER.GetHerHim]带来极致的愉悦感受时爱上了[CHARACTER.GetShortUIName]。"
+
  futa_convert_sexuality_interaction_notification: "扭转性向"
+
  FUTA_CONVERT_SEXUALITY_SUCCESS_DESC: "[TARGET_CHARACTER.GetShortUINamePossessive|U][sexuality|E]会更容易接受女性。[TARGET_CHARACTER.GetSheHe|U]可能会成为你的[lover|E]"
+
+
+ futa_elope: "$trait_futa$ Elope"
+ futa_elope_desc: "将 [SCHEME.GetTargetCharacter.GetShortUINameNoTooltip] 带到你的[宫廷|E]并与 [SCHEME.GetTargetCharacter.GetHerHim] [结婚|E]"
+
+ ### Custom Tooltips
  futa_convert_interaction_tt: "尝试转化[recipient.GetShortUINameNoTooltip]，将[recipient.GetHerHis]的性取向转变为[homosexual|E]或[bisexual|E]，并可能让[recipient.GetHerHim]成为你的[lover|E]"
+ 
  futa_convert_sexuality_invalid: "我停止去转化[target.GetTitledFirstNameNoTooltip]的性取向，因为这已不再可能。"
  futa_convert_sexuality_invalidated_title: "@personal_scheme_icon!$futa_convert_sexuality_scheme$计谋结束"
+
+
+
+
+
+
+
+
+

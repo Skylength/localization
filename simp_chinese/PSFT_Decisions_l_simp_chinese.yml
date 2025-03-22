@@ -1,11 +1,15 @@
 ﻿l_simp_chinese:
+
+ ## Act 1 Finale
  PSFT_Act1_Finale_Decision.t: "菟虎之道"
  PSFT_Act1_Finale_Decision.desc: "在亲身领略了菟虎之道的奥妙后，你心中燃起了一团全新的灵感之火，你将帮助扶她结社融入这片土地，而这将是前所未有的盛举。"
  PSFT_Act1_Finale_Decision.confirm: "以菟虎之名！"
  PSFT_Act1_Finale_Decision.tooltip: "解锁新[activity|E]"
+ 
  PSFT_Act1_Finale_Decision.req1: "完成#value 3#!重试炼"
  PSFT_Act1_Finale_Decision.req2: "拥有一个#value 公爵#![title|E]"
  PSFT_Act1_Finale_Decision.req3: "扶她结社已经充分融入了这片土地"
+ 
  PSFT_Act1_Finale_Decision.perk1: "解锁[duchy_building|E]"
  PSFT_Act1_Finale_Decision.perk2: "解锁[activity|E]"
  PSFT_Act1_Finale_Decision.perk3: "获得#P 10#!点菟虎之赐"
