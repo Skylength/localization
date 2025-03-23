@@ -6,7 +6,7 @@
  ## Dynasty Legacies
 
  futa_heirs_of_nog_legacy_track_name: "提尔纳诺后裔"
- futa_heirs_of_nog_legacy_track_desc: "欢乐与永恒青春的土地或许已离我们远去，但我们是它的后代！\n\n#BOLD 骄傲如金#！"
+ futa_heirs_of_nog_legacy_track_desc: "欢乐与永恒青春的土地或许已离我们远去，但我们是它的后代！\n\n#BOLD 骄傲如金#!"
  futa_heirs_of_nog_legacy_1_name: "阳光之路"
  futa_heirs_of_nog_legacy_2_name: "波恩之爱"
  futa_heirs_of_nog_legacy_3_name: "金色野猪"
@@ -14,7 +14,7 @@
  futa_heirs_of_nog_legacy_5_name: "永恒的乐园"
 
  futa_lustful_cursed_legacy_track_name: "受诅咒的欲望"
- futa_lustful_cursed_legacy_track_desc: "所有扶她都知道它，所有扶她都感受到它的吸引。\n\n#BOLD 极致的生育力#！"
+ futa_lustful_cursed_legacy_track_desc: "所有扶她都知道它，所有扶她都感受到它的吸引。\n\n#BOLD 极致的生育力#!"
  futa_lustful_cursed_legacy_1_name: "满桶而出"
  futa_lustful_cursed_legacy_2_name: "在纷争中团结"
  futa_lustful_cursed_legacy_3_name: "著名的爱人"
@@ -60,20 +60,20 @@
  futa_dynasty_legacy_custom_effect_starter_futa: "[dynasty|E]的$trait_futa$"
  futa_dynasty_legacy_custom_effect_starter_general: "[dynasty|E]成员"
 
- FUTA_LUSTFUL_CURSED_LEGACY_REQUIREMENT: "\n#S 传承需求#!：#EMP [dynast|E]必须拥有[GetTrait('futa_genetic').GetName( GetNullCharacter )]、[GetTrait('futa_bitch').GetName( GetNullCharacter )]特质之一，或者其[primary_spouse|E]拥有[GetTrait('futa_genetic').GetName( GetNullCharacter )] [trait|E]#！"
+ FUTA_LUSTFUL_CURSED_LEGACY_REQUIREMENT: "\n#S 传承需求#!：#EMP [dynast|E]必须拥有[GetTrait('futa_genetic').GetName( GetNullCharacter )]、[GetTrait('futa_bitch').GetName( GetNullCharacter )]特质之一，或者其[primary_spouse|E]拥有[GetTrait('futa_genetic').GetName( GetNullCharacter )] [trait|E]#!"
 
- FUTA_HEIRS_OF_NOG_LEGACY_REQUIREMENT: "\n#S 传承需求#!：#EMP [dynast|E]必须拥有[GetTrait('futa_milandrite').GetName( GetNullCharacter )] [trait|E]#！"
- FUTA_HEIRS_OF_NOG_LEGACY_1_REQUIREMENT: "\n#S 传承需求#!：#EMP [dynast|E]必须位于[GetGeographicalRegion('futa_ireland_region').GetName] [region|E]内，并且拥有[GetTrait('futa_milandrite').GetName( GetNullCharacter )] [trait|E]#！"
+ FUTA_HEIRS_OF_NOG_LEGACY_REQUIREMENT: "\n#S 传承需求#!：#EMP [dynast|E]必须拥有[GetTrait('futa_milandrite').GetName( GetNullCharacter )] [trait|E]#!"
+ FUTA_HEIRS_OF_NOG_LEGACY_1_REQUIREMENT: "\n#S 传承需求#!：#EMP [dynast|E]必须位于[GetGeographicalRegion('futa_ireland_region').GetName] [region|E]内，并且拥有[GetTrait('futa_milandrite').GetName( GetNullCharacter )] [trait|E]#!"
 
 
  FUTA_LUSTFUL_CURSED_1_BACKED_UP_EFFECT: "$futa_dynasty_legacy_custom_effect_starter_futa$将有更高的怀孕几率，并且会额外获得和失去[GetTrait('backed_up').GetName( GetNullCharacter )] [trait_level_track_xp|E]"
 
- FUTA_LUSTFUL_CURSED_1_NO_SMOL_BALL_EFFECT: "$futa_dynasty_legacy_custom_effect_starter_futa$无法获得#V 小型#! 睾丸类型"
+ FUTA_LUSTFUL_CURSED_1_NO_SMOL_BALL_EFFECT: "$futa_dynasty_legacy_custom_effect_starter_futa$无法获得#V 小型#!睾丸类型"
 
- FUTA_LUSTFUL_CURSED_1_INCREASED_OVERPRODUCTIVE_EFFECT: "$futa_dynasty_legacy_custom_effect_starter_futa$将有更高的几率获得#V 过度生产#! 睾丸类型"
+ FUTA_LUSTFUL_CURSED_1_INCREASED_OVERPRODUCTIVE_EFFECT: "$futa_dynasty_legacy_custom_effect_starter_futa$将有更高的几率获得#V 过度生产#!睾丸类型"
  #
 
- FUTA_LUSTFUL_CURSED_2_GOODWILL_EFFECT: "每年获得#P 30#! [futa_goodwill|E]"
+ FUTA_LUSTFUL_CURSED_2_GOODWILL_EFFECT: "每年获得#P 30#![futa_goodwill|E]"
 
  FUTA_LUSTFUL_CURSED_2_CONTACT_ENCLAVE_DECISION_EFFECT: "为[adventurer_i|E] [adventurers|E]解锁[futa_contact_enclave|E] [decision|E]"
 
@@ -87,19 +87,19 @@
 
  #
 
- FUTA_LUSTFUL_CURSED_3_FUTA_DICK_SIZE_EFFECT: "$futa_dynasty_legacy_custom_effect_starter_futa$将拥有更大的阴茎尺寸"
+ FUTA_LUSTFUL_CURSED_3_FUTA_DICK_SIZE_EFFECT: "$futa_dynasty_legacy_custom_effect_starter_futa$将拥有更大的肉棒尺寸"
 
- FUTA_LUSTFUL_CURSED_3_FUTA_PREGNANCY_TWIN_EFFECT: "$futa_dynasty_legacy_custom_effect_starter_general$在$trait_futa$怀孕时将有更高的几率生下#V 双胞胎#！"
+ FUTA_LUSTFUL_CURSED_3_FUTA_PREGNANCY_TWIN_EFFECT: "$futa_dynasty_legacy_custom_effect_starter_general$在$trait_futa$怀孕时将有更高的几率生下#V 双胞胎#!"
  #
 
  FUTA_LUSTFUL_CURSED_4_ENABLE_ONE_FREE_FUTA_INVASION_EFFECT: "一生一次，无论[futa_enclave|E]的状态如何，都可以免费进行一次[futa_merchant_invasion|E]"
  FUTA_LUSTFUL_CURSED_4_UNLOCK_LUST_BERSERKERS_MAA_EFFECT: "可以招募[GetMaA('futa_lust_starved_berserkers').GetName]作为[men_at_arms|E]"
- FUTA_LUSTFUL_CURSED_4_GOODWILL_GAIN_PER_BATTLE_VICTORY_EFFECT: "战斗胜利将给予[futa_goodwill|E] #weak （每次击败#V 100#! [soldiers|E]获得#V 1#! 善意）#！"
- FUTA_LUSTFUL_CURSED_4_FUTA_PREGNANCY_TRIPLET_EFFECT: "$futa_dynasty_legacy_custom_effect_starter_general$在$trait_futa$怀孕时将有较低的几率生下#V 三胞胎#！"
+ FUTA_LUSTFUL_CURSED_4_GOODWILL_GAIN_PER_BATTLE_VICTORY_EFFECT: "战斗胜利将给予[futa_goodwill|E] #weak （每次击败#V 100#![soldiers|E]获得#V 1#!善意）#!"
+ FUTA_LUSTFUL_CURSED_4_FUTA_PREGNANCY_TRIPLET_EFFECT: "$futa_dynasty_legacy_custom_effect_starter_general$在$trait_futa$怀孕时将有较低的几率生下#V 三胞胎#!"
 
  #
 
- FUTA_LUSTFUL_CURSED_5_FUTA_PREGNANCY_QUADRUPLET_EFFECT: "$futa_dynasty_legacy_custom_effect_starter_general$在$trait_futa$怀孕时将有极低的几率生下#V 四胞胎#！"
+ FUTA_LUSTFUL_CURSED_5_FUTA_PREGNANCY_QUADRUPLET_EFFECT: "$futa_dynasty_legacy_custom_effect_starter_general$在$trait_futa$怀孕时将有极低的几率生下#V 四胞胎#!"
 
 
  ##MAA
@@ -114,7 +114,7 @@
  #
 
  futa_dynasty_events.0001.title: "黑暗中的身影"
- futa_dynasty_events.0001.desc: "太阳消失在地平线之后，我前往荒野，去寻找我听说的关于结社的传闻。果然，我遇到一个可疑的扶她，或者更确切地说，她用刀指着我。\n\n“独自一人在外面游荡，现在可不是什么安全的时候，你说呢？当然，我非常喜欢#EMP 某些#! 流浪者。”\n\n我清楚地说明了我半夜跋涉的原因，紧张的气氛缓和下来。\n\n“你在找什么？”"
+ futa_dynasty_events.0001.desc: "太阳消失在地平线之后，我前往荒野，去寻找我听说的关于结社的传闻。果然，我遇到一个可疑的扶她，或者更确切地说，她用刀指着我。\n\n“独自一人在外面游荡，现在可不是什么安全的时候，你说呢？当然，我非常喜欢#EMP 某些#!流浪者。”\n\n我清楚地说明了我半夜跋涉的原因，紧张的气氛缓和下来。\n\n“你在找什么？”"
 
  futa_dynasty_events.0001.a: "我想招募战士。"
  futa_dynasty_events.0001.b: "我想看看那些神器。"
@@ -138,10 +138,10 @@
  futa_dynasty_events.0003.desc: "futa_dynasty_events.0003.desc"
 
  futa_dynasty_events.0003.a: "我要[futa_maliah_branch|E]。"
- futa_dynasty_events.0003.b: "“我身上没带多少货，但我有这个。”结社流氓拿出一根粉红色的树枝。“这东西有个奇特的用法。不知什么原因，如果你能把它塞进一个女人体内，她就会开始变得更……#EMP 喜欢#! 我们这种人。我建议像烧香一样烧掉它，但老实说，你如何与你梦中的女人互动取决于你自己。”"
+ futa_dynasty_events.0003.b: "“我身上没带多少货，但我有这个。”结社流氓拿出一根粉红色的树枝。“这东西有个奇特的用法。不知什么原因，如果你能把它塞进一个女人体内，她就会开始变得更……#EMP 喜欢#!我们这种人。我建议像烧香一样烧掉它，但老实说，你如何与你梦中的女人互动取决于你自己。”"
 
  #
 
  futa_dynasty_events.1000.title: "肆无忌惮的欲望"
- futa_dynasty_events.1000.desc: "这是一场如此甜蜜的胜利，必须好好享受，我的狂战士们是这么说的。她们的身体因被迫忍受的#EMP 负担#! 而膨胀。对于扶她来说，如此残酷的条件也可能让她们在能够驾驭她们淫荡的能量时，获得近乎超自然的力量。\n\n她们已经尽了自己的一份力量，我无权阻止她们最终以我们的敌人为代价#EMP 发泄出来#!。那些可怜的家伙直到为时已晚才知道发生了什么。我的扶她非常渴望，她们徒手撕开锁子甲，砸碎盾牌，折断骨头，努力为自己赢得一些玩具。\n\n幸存者可能宁愿被杀死，以各种#EMP 古怪#! 的姿势被摆弄，并被她们体内强行塞入的大量雌性肉体#EMP 撕裂#!。\n\n尖叫声本身就像一声战吼。如果我的敌人还有任何反扑的想法，我敢打赌，他们同胞的痛苦会改变他们的想法。\n\n不仅是士兵，还有敌人的随军人员。我的狂战士冲向后方，以防止任何溃败的可能性，然后一路杀到前方，困住了我的敌人。在此期间，她们一直在殴打和性交。\n\n战场上布满了尸体和活着但危险地膨胀的失去灵魂的人。"
+ futa_dynasty_events.1000.desc: "这是一场如此甜蜜的胜利，必须好好享受，我的狂战士们是这么说的。她们的身体因被迫忍受的#EMP 负担#!而膨胀。对于扶她来说，如此残酷的条件也可能让她们在能够驾驭她们淫荡的能量时，获得近乎超自然的力量。\n\n她们已经尽了自己的一份力量，我无权阻止她们最终以我们的敌人为代价#EMP 发泄出来#!。那些可怜的家伙直到为时已晚才知道发生了什么。我的扶她非常渴望，她们徒手撕开锁子甲，砸碎盾牌，折断骨头，努力为自己赢得一些玩具。\n\n幸存者可能宁愿被杀死，以各种#EMP 古怪#!的姿势被摆弄，并被她们体内强行塞入的大量雌性肉体#EMP 撕裂#!。\n\n尖叫声本身就像一声战吼。如果我的敌人还有任何反扑的想法，我敢打赌，他们同胞的痛苦会改变他们的想法。\n\n不仅是士兵，还有敌人的随军人员。我的狂战士冲向后方，以防止任何溃败的可能性，然后一路杀到前方，困住了我的敌人。在此期间，她们一直在殴打和性交。\n\n战场上布满了尸体和活着但危险地膨胀的失去灵魂的人。"
  futa_dynasty_events.1000.a: "至少我的女孩们现在很高兴。"
