@@ -22,7 +22,7 @@
  death_futa_fertility_shaman_reason: "在耗尽生命力进行生育仪式并诞下后代后，加入了永恒蓝天中的天神"
 
  # LANDLESS TITLES
- d_laamp_warlord: "离散部落"
+ d_laamp_warlord: "边缘部落"
  d_laamp_warlord_article: "$DEFAULT_TITLE_NAME_ARTICLE$"
 
  ## TITLES
@@ -34,7 +34,7 @@
  ## ARTIFACTS
 
  futa_warlords_blade_name: "埃塞尔"
- futa_warlords_blade_desc: "一位注定成为草原及其以外地区霸主的人的佩刀。其金色的光芒是许多人最后看到的东西，因此，它赢得了#EMP “埃塞尔”#! 的名号。死亡，以及随之而来的终结。"
+ futa_warlords_blade_desc: "一位注定成为草原及其以外地区霸主的人的佩刀。其金色的光芒是许多人最后看到的东西，因此，它赢得了#EMP “埃塞尔”#!的名号。死亡，以及随之而来的终结。"
 
  ## CULTURE
  futa_khatun: "可敦"
@@ -44,15 +44,15 @@
  # Legacy of the Struggle
 
  futa_legacy_of_the_struggle_culture_name: "抗争的遗产"
- futa_legacy_of_the_struggle_culture_desc: "饱受摧残。伤痕累累。遭人排斥。#EMP 憎恨。#! 我们不会忘记我们的起源，以及我们的生活方式是如何让我们在严酷而广阔的草原上生存下来的。"
+ futa_legacy_of_the_struggle_culture_desc: "饱受摧残。伤痕累累。遭人排斥。#EMP 憎恨。#!我们不会忘记我们的起源，以及我们的生活方式是如何让我们在严酷而广阔的草原上生存下来的。"
 
  futa_cannot_have_tradition_futa_legacy_of_the_struggle_culture: "$cannot_combine_tradition_trigger_desc$ #high $futa_legacy_of_the_struggle_culture_name$#!"
 
 
  culture_parameter_futa_unlock_maa_futa_steppe_huntress: "可以招募 [GetMaA('futa_steppe_huntress').GetName] 作为 [men_at_arms|E]"
  culture_parameter_futa_sieges_replenish_maa: "成功的 [sieges|E] 将恢复 [men_at_arms|E]"
- culture_parameter_futa_sieges_provide_slave_soldiers: "成功的 [sieges|E] 将提供奴隶 [soldiers|E] #weak (#V 1 年#! 冷却时间。被围攻的 [title|E] 必须至少有 #V 500#! [garrison|E])#!"
- culture_parameter_futa_battles_provide_slave_soldiers: "赢得 [battles|E] 将提供奴隶 [soldiers|E] #weak (#V 1 年#! 冷却时间。敌方 [army|E] 必须至少有 #V 1000#! [soldiers|E])#!"
+ culture_parameter_futa_sieges_provide_slave_soldiers: "成功的 [sieges|E] 将提供奴隶 [soldiers|E] #weak (#V 1 年#!冷却时间。被围攻的 [title|E] 必须至少有 #V 500#![garrison|E])#!"
+ culture_parameter_futa_battles_provide_slave_soldiers: "赢得 [battles|E] 将提供奴隶 [soldiers|E] #weak (#V 1 年#!冷却时间。敌方 [army|E] 必须至少有 #V 1000#![soldiers|E])#!"
  
  ##DYNASTY
  futa_warlord_dynasty: "苍天-阿列维"
@@ -60,7 +60,7 @@
  futa_warlord_dynasty_motto: "雷鸣般的铁蹄踏遍天下"
 
  # MAAs
- futa_disparate_tribe: "离散部落"
+ futa_disparate_tribe: "边缘部落"
  futa_enslaved_troops: "奴隶兵"
 
  futa_steppe_huntress: "草原猎手"
@@ -109,7 +109,7 @@
  trait_track_futa_warlord_warpath: "荣耀之路"
  trait_track_futa_warlord_warpath_desc: "顺者昌，逆者亡。"
 
- futa_warlord_warpath_desc: "充满决心和野心，大地本身也踏上了她的荣耀之路。\n\n#P 您将从以下途径获得经验：\n$BULLET$每一次进攻性战争的胜利\n$BULLET$每一次成功攻城或劫掠 #V ([SCOPE.ScriptValue('futa_warlord_warpath_xp_increase_current_sieges_value')|0]/[SCOPE.ScriptValue('futa_warlord_warpath_xp_increase_sieges_value')|0])#! #V ([SCOPE.ScriptValue('futa_warlord_warpath_xp_increase_current_sieges_value')|0]/[SCOPE.ScriptValue('futa_warlord_warpath_xp_increase_sieges_value')|0])#!\n$BULLET$每一次击败至少拥有 #V 1000#! 名士兵的军队的战斗胜利 #V ([SCOPE.ScriptValue('futa_warlord_warpath_xp_increase_current_battles_value')|0]/[SCOPE.ScriptValue('futa_warlord_warpath_xp_increase_battles_value')|0])#! \n\n#N 您将从以下途径失去经验：\n$BULLET$每一次战争的失败\n$BULLET$每一次战争的无果而终\n\n如果您失去所有土地，您将失去此特性以及相关的故事。#!"
+ futa_warlord_warpath_desc: "充满决心和野心，大地本身也踏上了她的荣耀之路。\n\n#P 您将从以下途径获得经验：\n$BULLET$每一次进攻性战争的胜利\n$BULLET$每一次成功攻城或劫掠 #V ([SCOPE.ScriptValue('futa_warlord_warpath_xp_increase_current_sieges_value')|0]/[SCOPE.ScriptValue('futa_warlord_warpath_xp_increase_sieges_value')|0])#!#V ([SCOPE.ScriptValue('futa_warlord_warpath_xp_increase_current_sieges_value')|0]/[SCOPE.ScriptValue('futa_warlord_warpath_xp_increase_sieges_value')|0])#!\n$BULLET$每一次击败至少拥有 #V 1000#!名士兵的军队的战斗胜利 #V ([SCOPE.ScriptValue('futa_warlord_warpath_xp_increase_current_battles_value')|0]/[SCOPE.ScriptValue('futa_warlord_warpath_xp_increase_battles_value')|0])#!\n\n#N 您将从以下途径失去经验：\n$BULLET$每一次战争的失败\n$BULLET$每一次战争的无果而终\n\n如果您失去所有土地，您将失去此特性以及相关的故事。#!"
 
  futa_warlord_warpath_desc_unlocked_rewards: "\n\n#P 您已解锁以下内容：#!"
 
@@ -144,7 +144,7 @@
  futa_proclaim_khatun_of_khans_decision_tooltip: "成为成吉思可敦——世界的统治者"
 
  futa_found_the_azure_empire_decision: "建立帝国"
- futa_found_the_azure_empire_decision_desc: "我所有的努力终于开始得到回报。他们不敢挑战我的人民。相反，他们充满了#S 恐惧#!。恐惧我对那些胆敢束缚我们的人所做的一切。\n\n是时候宣告我自己是真正的统治者了。我可以随意称呼自己，重要的是#EMP 地球上的所有人#! 都会承认我的身份，我是一位女可汗，一位#EMP 可敦#!"
+ futa_found_the_azure_empire_decision_desc: "我所有的努力终于开始得到回报。他们不敢挑战我的人民。相反，他们充满了#S 恐惧#!。恐惧我对那些胆敢束缚我们的人所做的一切。\n\n是时候宣告我自己是真正的统治者了。我可以随意称呼自己，重要的是#EMP 地球上的所有人#!都会承认我的身份，我是一位女可汗，一位#EMP 可敦#!"
  futa_found_the_azure_empire_decision_confirm: "更进一步"
  futa_found_the_azure_empire_decision_tooltip: "建立你的领土并成为可敦"
 
@@ -164,7 +164,7 @@
  futa_warlord_punishment_desc: "[CHARACTER.GetFirstNameNoTooltip] 认为自己是其神圣旨意的正义权威，以惩罚那些胆敢压迫苍天之子的凡人来执行她的报应。\n\n#weak “如果神不希望她与大地交媾，她就不会生为扶她。”#!"
 
  futa_genghis_khatun: "成吉思可敦"
- futa_genghis_khatun_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] [CharAreIs(CHARACTER)] 是[CHARACTER.GetFaith.HighGodName]对世间所有罪恶的惩罚——因为如果世间没有充满罪人，[CHARACTER.GetFaith.HighGodName] 又怎会派遣像 #EMP [CharYouHerHim(CHARACTER)]#! 这样的人来施加惩罚呢？"
+ futa_genghis_khatun_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat|U] [CharAreIs(CHARACTER)] 是[CHARACTER.GetFaith.HighGodName]对世间所有罪恶的惩罚——因为如果世间没有充满罪人，[CHARACTER.GetFaith.HighGodName] 又怎会派遣像 #EMP [CharYouHerHim(CHARACTER)]#!这样的人来施加惩罚呢？"
 
  futa_warlord_herald: "[CHARACTER.GetFaith.HighGodNameAlternate] 的先驱"
  futa_warlord_herald_desc: "[CHARACTER.GetFirstNameNoTooltip] 是苍天之上扶她之神的先驱，决心将她的恩泽遍洒大地。"
@@ -180,34 +180,34 @@
 
  futa_warlord_all_horsies_will_be_destroyed_tt: "所有 [archer_cavalry|E] [men_at_arms|E] 都将被 #N 摧毁#!"
  futa_warlord_empyrean_legion_warning_tt: "#N 你只会获得 1 个 $futa_empyrean_legion$ [regiment|E]。如果他们被摧毁或以其他方式消失，你将无法再招募新的！#!"
- futa_empyrean_legion_battle_victories_tt: "亲自率领拥有 $futa_empyrean_legion$ [regiment|E] 的 [armies|E] 击败至少拥有 #V 1000#! 名 [soldiers|E] 的 [armies|E] #weak (当前：#V [GetPlayer.MakeScope.Var('futa_lead_empyrean_legion_into_victory').GetValue|0]/[SCOPE.ScriptValue('futa_empyrean_legion_battle_victories_requirement_value')|0]#!)#!"
+ futa_empyrean_legion_battle_victories_tt: "亲自率领拥有 $futa_empyrean_legion$ [regiment|E] 的 [armies|E] 击败至少拥有 #V 1000#!名 [soldiers|E] 的 [armies|E] #weak (当前：#V [GetPlayer.MakeScope.Var('futa_lead_empyrean_legion_into_victory').GetValue|0]/[SCOPE.ScriptValue('futa_empyrean_legion_battle_victories_requirement_value')|0]#!)#!"
  futa_empyrean_legion_will_unlock_for_house_heads_tt: "[GetMaA('futa_empyrean_legion').GetName] 将可供 [GetPlayer.GetDynastyName] [dynasty|E] 的 [house_heads|E] 招募"
 
- futa_warlord_trait_gain_progress_callous_tt: "#V 这将是一个相当 #S 冷酷#! 的决定……#!"
- futa_warlord_trait_gain_progress_arbitrary_tt: "#V 由于某些省份拥有接受 $trait_futa$ 的 [culture|E] 或 [faith|E]，这将是一个相当 #S 专断#! 的决定……#!"
- futa_warlord_trait_gain_progress_just_tt: "#V 这可以被认为是一个 #S 公正#! 的决定……#!"
+ futa_warlord_trait_gain_progress_callous_tt: "#V 这将是一个相当 #S 冷酷#!的决定……#!"
+ futa_warlord_trait_gain_progress_arbitrary_tt: "#V 由于某些省份拥有接受 $trait_futa$ 的 [culture|E] 或 [faith|E]，这将是一个相当 #S 专断#!的决定……#!"
+ futa_warlord_trait_gain_progress_just_tt: "#V 这可以被认为是一个 #S 公正#!的决定……#!"
 
  futa_every_conquered_title_tt: "每一个被征服的头衔"
  futa_every_conquered_title_except_futa_accepting_tt: "每一个没有接受 $trait_futa$ 的 [culture|E] 或 [faith|E] 的被征服头衔"
 
  futa_warlord_kingdom_wars_unlocked_tt: "#V 王国级别的入侵现已可用！#!"
 
- futa_warlord_skyspawn_all_holy_sites_tt: "#V 由于你正处于 [GetTrait('futa_warlord_warpath').GetName( GetNullCharacter )]，完成激活所有隐藏的 [holy_sites|E] 将改为奖励：#!\n$BULLET$[dynasty_prestige_i|E] #P 100000#! [dynasty_prestige|E]"
+ futa_warlord_skyspawn_all_holy_sites_tt: "#V 由于你正处于 [GetTrait('futa_warlord_warpath').GetName( GetNullCharacter )]，完成激活所有隐藏的 [holy_sites|E] 将改为奖励：#!\n$BULLET$[dynasty_prestige_i|E] #P 100000#![dynasty_prestige|E]"
 
  futa_warlord_infertility_story_ritual_decision_available_tt: "#V 获取所需神器的决定现已可用！#!"
  
 
 
  futa_warlord_fertility_ritual_value_tt: "每获得一件所需的 [artifact|E] 都将降低该决定的花费"
- futa_warlord_fertility_ritual_maliah_branch_requirement_tt: "你拥有 #V 5#! 根玛利亚树枝 #weak (当前：#V [SCOPE.ScriptValue('futa_warlord_artifact_amount_branch_value')|0]/5#! )#!"
- futa_warlord_fertility_ritual_ring_of_rut_requirement_tt: "你拥有 #V 2#! 枚发情之戒 #weak (当前：#V [SCOPE.ScriptValue('futa_warlord_artifact_amount_ring_value')|0]/2#! )#!"
+ futa_warlord_fertility_ritual_maliah_branch_requirement_tt: "你拥有 #V 5#!根玛利亚树枝 #weak (当前：#V [SCOPE.ScriptValue('futa_warlord_artifact_amount_branch_value')|0]/5#!)#!"
+ futa_warlord_fertility_ritual_ring_of_rut_requirement_tt: "你拥有 #V 2#!枚发情之戒 #weak (当前：#V [SCOPE.ScriptValue('futa_warlord_artifact_amount_ring_value')|0]/2#!)#!"
  futa_warlord_fertility_shaman_must_be_in_court_tt: "萨满必须是你的 [courtier|E]"
 
  futa_warlord_infertility_removed_tt: "#V 你现在可以随心所欲地受孕和怀孕了！#!"
 
  futa_warlord_will_lose_titles_tt: "#N 如果战争失败，你在战争目标内的任何头衔都将失去！#!"
 
- futa_warlord_azure_integration_title_req_tt: "你 [completely_control|E] 一个 #V 不是#! [GetPlayer.GetPrimaryTitle.GetName] 的 [empire|E] [title|E]"
+ futa_warlord_azure_integration_title_req_tt: "你 [completely_control|E] 一个 #V 不是#![GetPlayer.GetPrimaryTitle.GetName] 的 [empire|E] [title|E]"
  futa_warlord_azure_integration_title_tt: "你 [completely_control|E] 的一个 [empire|E] [title|E] 将会将其 [kingdoms|E] 整合到 [GetPlayer.GetPrimaryTitle.GetName] 中！\n"
 
 
@@ -228,21 +228,21 @@
  # ---------------------------------------------------------------------------- #
 
  bookmark_warlord_events.0001.title: "自由之路"
- bookmark_warlord_events.0001.desc: "时机已到。仅仅因为#EMP 存在#! 就遭受排斥和憎恨。为了勉强维持生计，我们四处奔波，以免激怒当地部落，从而能够再苟延残喘一天。够了！\n\n即使我的新部落接纳了我，收留了我，但他们仍然在袭击中夺走了我唯一的家人的温暖，他们是唯一善待我的人……我甚至#EMP 活着的#! 理由。我终于能够复仇了。\n\n首领满足于仅仅生存。只要我们能再活一天，一切都#EMP 很好#!。可悲。她现在将被遗忘。她仅仅存在过都成了一个疑问。\n\n很容易获得支持，因为部落认为我有些特别。#EMP “即使在扶她之中，你也和我们不太一样”#! 他们说。我不知道他们说的是否属实，但我不会抱怨。\n\n我不会再忍受那样可怜的朝不保夕的生活。我再也不会被赶走了。#EMP 永远不会#!。我们之前旅行时侦察到的一块土地将是一个不错的地点，我们可以将其据为己有。四周环山，靠近一个湖泊，拥有充足的开阔地形。唯一的障碍是当地声称拥有这片土地的 [futa_warlord_settle_war_target.GetTitleAsNameNoTooltip]……"
+ bookmark_warlord_events.0001.desc: "时机已到。仅仅因为#EMP 存在#!就遭受排斥和憎恨。为了勉强维持生计，我们四处奔波，以免激怒当地部落，从而能够再苟延残喘一天。够了！\n\n即使我的新部落接纳了我，收留了我，但他们仍然在袭击中夺走了我唯一的家人的温暖，他们是唯一善待我的人……我甚至#EMP 活着的#!理由。我终于能够复仇了。\n\n首领满足于仅仅生存。只要我们能再活一天，一切都#EMP 很好#!。可悲。她现在将被遗忘。她仅仅存在过都成了一个疑问。\n\n很容易获得支持，因为部落认为我有些特别。#EMP “即使在扶她之中，你也和我们不太一样”#!他们说。我不知道他们说的是否属实，但我不会抱怨。\n\n我不会再忍受那样可怜的朝不保夕的生活。我再也不会被赶走了。#EMP 永远不会#!。我们之前旅行时侦察到的一块土地将是一个不错的地点，我们可以将其据为己有。四周环山，靠近一个湖泊，拥有充足的开阔地形。唯一的障碍是当地声称拥有这片土地的 [futa_warlord_settle_war_target.GetTitleAsNameNoTooltip]……"
  
  bookmark_warlord_events.0001.a: "我们出发。"
 
  #
 
  bookmark_warlord_events.0002.title: "$bookmark_warlord_events.0001.title$"
- bookmark_warlord_events.0002.desc: "完成了。我们成功地拿下了一块可以称之为我们自己的土地。我们终于可以放牧我们的牲畜，并让它们充分生长。不再需要奔波了。\n\n然而，我的工作尚未结束。其他地方势力肯定会试图夺取这片土地，尤其是在这片土地被#EMP 扶她新贵#! 占据的情况下。如果我想确保我们不会再次被打得支离破碎、衣衫褴褛地被赶回草原，我需要积蓄力量，而且可以说更重要的是，#BOLD 建立声誉#!。很快，没有人敢从我们手中夺走属于我们的东西。\n\n#BOLD 这仅仅是我战争之路的开始。我将让他们有真正的理由恐惧，并让大地本身后悔我生为扶她。#!"
+ bookmark_warlord_events.0002.desc: "完成了。我们成功地拿下了一块可以称之为我们自己的土地。我们终于可以放牧我们的牲畜，并让它们充分生长。不再需要奔波了。\n\n然而，我的工作尚未结束。其他地方势力肯定会试图夺取这片土地，尤其是在这片土地被#EMP 扶她新贵#!占据的情况下。如果我想确保我们不会再次被打得支离破碎、衣衫褴褛地被赶回草原，我需要积蓄力量，而且可以说更重要的是，#BOLD 建立声誉#!。很快，没有人敢从我们手中夺走属于我们的东西。\n\n#BOLD 这仅仅是我战争之路的开始。我将让他们有真正的理由恐惧，并让大地本身后悔我生为扶她。#!"
  
  bookmark_warlord_events.0002.a: "这仅仅是个开始。"
 
  #
 
  bookmark_warlord_events.0003.title: "草原的可敦们"
- bookmark_warlord_events.0003.desc: "我们管理一些牧场已经有一段时间了。如此#EMP 卑微#! 的开端，但我们还有很多事情要做。最近我一直在思考我们的……#EMP 身份#!。\n\n我们一直在不停地迁徙。好吧，所有游牧部落都是如此，但我们无法负担在一个地方停留太久。对我们的仇恨确保了这一点。因此，我们发展了一些特定的#EMP 技能#! 和一种在草原上生存的生活方式。我加入这个部落已经十多年了，但他们这样生活了多久就不得而知了。他们肯定已经形成了自己的文化。\n\n现在我们拥有了自己的土地，我们已经开始居住和繁衍这些地区，吸引越来越多的受压迫者加入我们的生活方式。当你们拥有可敦时，谁还需要可汗呢？"
+ bookmark_warlord_events.0003.desc: "我们管理一些牧场已经有一段时间了。如此#EMP 卑微#!的开端，但我们还有很多事情要做。最近我一直在思考我们的……#EMP 身份#!。\n\n我们一直在不停地迁徙。好吧，所有游牧部落都是如此，但我们无法负担在一个地方停留太久。对我们的仇恨确保了这一点。因此，我们发展了一些特定的#EMP 技能#!和一种在草原上生存的生活方式。我加入这个部落已经十多年了，但他们这样生活了多久就不得而知了。他们肯定已经形成了自己的文化。\n\n现在我们拥有了自己的土地，我们已经开始居住和繁衍这些地区，吸引越来越多的受压迫者加入我们的生活方式。当你们拥有可敦时，谁还需要可汗呢？"
  
  bookmark_warlord_events.0003.a: "我们是草原的女儿。"
  bookmark_warlord_events.0003.b: "驱逐当地人，我们将居住在这片土地上。"
@@ -265,9 +265,9 @@
  #
 
  bookmark_warlord_events.0006.title: "$bookmark_warlord_events.0004.title$"
- bookmark_warlord_events.0006.desc_zealous: "当-当然！还能是什么意思呢！而-而-而且我们都是它的孩子！？我们不应该被憎恨！#EMP 这意味着腾格里，永恒的蓝天，天父一直都是一个 #S 扶她#!！#!\n\n这比我那些渺小的野心更重要！我的首要任务是拯救所有天神的孩子们脱离他们的枷锁！我的同胞遭受了巨大的背叛，我将成为天神本身忠实的利剑！\n\n#BOL 我的首要任务应该是从那些其他的#! #S “信徒”#! 手中夺取我们真正信仰的圣地！"
+ bookmark_warlord_events.0006.desc_zealous: "当-当然！还能是什么意思呢！而-而-而且我们都是它的孩子！？我们不应该被憎恨！#EMP 这意味着腾格里，永恒的蓝天，天父一直都是一个 #S 扶她#!！#!\n\n这比我那些渺小的野心更重要！我的首要任务是拯救所有天神的孩子们脱离他们的枷锁！我的同胞遭受了巨大的背叛，我将成为天神本身忠实的利剑！\n\n#BOL 我的首要任务应该是从那些其他的#!#S “信徒”#!手中夺取我们真正信仰的圣地！"
  
- bookmark_warlord_events.0006.desc_cynical: "嗯，梦毕竟只是梦。但这特别的梦给了我一个主意……\n\n如果运用得当，信仰是一种#EMP 非常#! 强大的工具。还有什么比将一位神祇描绘成 #S 扶她#! 更能确保我的新扶她王国的稳定呢？正如我在不同起源的多个部落中所观察到的那样，信仰超越文化，他们仍然都相信永恒的蓝天。\n\n一种宣扬扶她应该被接受的信仰应该有助于人们对我统治的看法。\n\n#BOL 我将继续我的征服，现在以“扶她之主”的名义，我的首要任务应该是夺取我们信仰的“圣地”！"
+ bookmark_warlord_events.0006.desc_cynical: "嗯，梦毕竟只是梦。但这特别的梦给了我一个主意……\n\n如果运用得当，信仰是一种#EMP 非常#!强大的工具。还有什么比将一位神祇描绘成 #S 扶她#!更能确保我的新扶她王国的稳定呢？正如我在不同起源的多个部落中所观察到的那样，信仰超越文化，他们仍然都相信永恒的蓝天。\n\n一种宣扬扶她应该被接受的信仰应该有助于人们对我统治的看法。\n\n#BOL 我将继续我的征服，现在以“扶她之主”的名义，我的首要任务应该是夺取我们信仰的“圣地”！"
  
  bookmark_warlord_events.0006.a: "#BOLD 为了苍天之主的荣耀！#!"
  bookmark_warlord_events.0006.b: "毕竟，信仰能凝聚一切。呵呵。"
@@ -327,7 +327,7 @@
  #
 
  bookmark_warlord_events.1005.title: "永恒之名"
- bookmark_warlord_events.1005.desc: "无人敢质疑我的力量。我击败了许多反对我和我军队的人。空气中弥漫着窃窃私语。人们开始称呼我一些名字。#EMP 强大的#! 名字。\n\n如果这是真的，也许可以利用这一点。毕竟，声誉#EMP 是#! 很重要的。"
+ bookmark_warlord_events.1005.desc: "无人敢质疑我的力量。我击败了许多反对我和我军队的人。空气中弥漫着窃窃私语。人们开始称呼我一些名字。#EMP 强大的#!名字。\n\n如果这是真的，也许可以利用这一点。毕竟，声誉#EMP 是#!很重要的。"
  
  bookmark_warlord_events.1005.a: "我将是传播信仰之人！"
  bookmark_warlord_events.1005.b: "我是 [ROOT.Char.GetFaith.HighGodNameAlternate] 派来的惩罚！"
@@ -344,7 +344,7 @@
  #
 
  bookmark_warlord_events.1007.title: "无可争议的可敦"
- bookmark_warlord_events.1007.desc: "我所有的征服，我赢得的所有战争，最终都导向了这一刻。一个我们可以称之为我们自己的王国。一个任何人都无法质疑其存在的王国。而我则是毫无疑问的领袖。我跻身于世界其他可汗之列。他们都将承认我的身份。一个女可汗。一个 #EMP 扶她#! 可汗。我是一个 #S 可敦#!。"
+ bookmark_warlord_events.1007.desc: "我所有的征服，我赢得的所有战争，最终都导向了这一刻。一个我们可以称之为我们自己的王国。一个任何人都无法质疑其存在的王国。而我则是毫无疑问的领袖。我跻身于世界其他可汗之列。他们都将承认我的身份。一个女可汗。一个 #EMP 扶她#!可汗。我是一个 #S 可敦#!。"
  bookmark_warlord_events.1007.a: "我的工作尚未完成。"
 
 
@@ -362,7 +362,7 @@
  #
 
  bookmark_warlord_events.2001.title: "阿祖拉萨满"
- bookmark_warlord_events.2001.desc: "自从我开始寻求帮助解决我的困境以来，已经过去了一段时间。许多人来来往往，有信仰的男女，治疗师，医生。他们中没有一个人能够治愈我。\n\n就在我快要放弃的时候，一个自称是 [ROOT.Char.GetFaith.HighGodNameAlternate] 的虔诚女祭司的女人来到了我面前。她也#EMP 非常#! 漂亮，你不得不承认。你注意到你的卫兵像老鹰一样盯着她，尽管你怀疑除了你的安全之外还有其他原因。他们可能正迫不及待地想和她#EMP 共度时光#!。\n\n“我光荣的可敦。我听说您在……继承人方面遇到了一些问题。很抱歉这么晚才来见您。我确信您所面临的困境绝非寻常。为了能够治愈您，我们需要采取#EMP 激烈的#! 方法。我知道一个仪式，你可能会称之为……#EMP 沾染了不敬的元素#!！”\n\n嗯？好吧，她竟然敢提出这样的建议，真是够大胆的。感觉我已经用尽了所有可用的选择。这可能是剩下的唯一办法了……"
+ bookmark_warlord_events.2001.desc: "自从我开始寻求帮助解决我的困境以来，已经过去了一段时间。许多人来来往往，有信仰的男女，治疗师，医生。他们中没有一个人能够治愈我。\n\n就在我快要放弃的时候，一个自称是 [ROOT.Char.GetFaith.HighGodNameAlternate] 的虔诚女祭司的女人来到了我面前。她也#EMP 非常#!漂亮，你不得不承认。你注意到你的卫兵像老鹰一样盯着她，尽管你怀疑除了你的安全之外还有其他原因。他们可能正迫不及待地想和她#EMP 共度时光#!。\n\n“我光荣的可敦。我听说您在……继承人方面遇到了一些问题。很抱歉这么晚才来见您。我确信您所面临的困境绝非寻常。为了能够治愈您，我们需要采取#EMP 激烈的#!方法。我知道一个仪式，你可能会称之为……#EMP 沾染了不敬的元素#!！”\n\n嗯？好吧，她竟然敢提出这样的建议，真是够大胆的。感觉我已经用尽了所有可用的选择。这可能是剩下的唯一办法了……"
  
  bookmark_warlord_events.2001.a: "我愿意给你一个机会。"
  
@@ -372,7 +372,7 @@
  #
 
  bookmark_warlord_events.2002.title: "$bookmark_warlord_events.0001.title$"
- bookmark_warlord_events.2002.desc: "“太棒了。我向您保证，您绝不会失望。现在，我需要收集更多的知识，以确保#EMP 一切#! 都会妥善安排。当我记下我需要的一切时，我的陛下，我会来见您的。”"
+ bookmark_warlord_events.2002.desc: "“太棒了。我向您保证，您绝不会失望。现在，我需要收集更多的知识，以确保#EMP 一切#!都会妥善安排。当我记下我需要的一切时，我的陛下，我会来见您的。”"
  
  bookmark_warlord_events.2002.a: "我们将拭目以待。"
 
@@ -386,14 +386,14 @@
  #
 
  bookmark_warlord_events.2004.title: "$bookmark_warlord_events.0001.title$"
- bookmark_warlord_events.2004.desc: "一切都准备就绪。我把所需的资金交给了 [futa_warlord_fertility_shaman.GetFirstName]，她似乎对此消息欣喜若狂。\n\n“谢谢您。我这就去准备仪式。可能需要一段时间。在此期间，我的可敦，请确保您不要忙于战争。这将是时间敏感的，我们不希望因为您忙于战场而错过机会。更不用说您需要休息，尽可能地积蓄#BOLD 更多的#! 精力。”"
+ bookmark_warlord_events.2004.desc: "一切都准备就绪。我把所需的资金交给了 [futa_warlord_fertility_shaman.GetFirstName]，她似乎对此消息欣喜若狂。\n\n“谢谢您。我这就去准备仪式。可能需要一段时间。在此期间，我的可敦，请确保您不要忙于战争。这将是时间敏感的，我们不希望因为您忙于战场而错过机会。更不用说您需要休息，尽可能地积蓄#BOLD 更多的#!精力。”"
  
  bookmark_warlord_events.2004.a: "我想我应该暂时停止我的征服了……"
 
  #
 
  bookmark_warlord_events.2005.title: "仪式"
- bookmark_warlord_events.2005.desc: "期待已久的时刻终于到来了。[futa_warlord_fertility_shaman.GetFirstName] 今天早上告诉我一切都准备好了，我应该尽快前往指定地点。她确保我选择一个几天内都不需要处理任何公务的时间。她一直#EMP 强调#! 这将是一件非常耗时的事情。真奇怪。\n\n我到达了她准备好的地点。外面站着几个守卫。他们一看到我走近，立刻站得笔直。推开门，我走进了她的房间。\n\n我一进去，就感觉到了空气的#EMP 冲击#!。它非常#EMP 浓稠#!，让我呼吸困难。#EMP 她是怎么一直待在这里的！？#! 房间里弥漫着浓雾，感觉像是数百个香炉产生的。\n\n“啊，欢迎您，我的可敦。请随意，我们很快就开始。”\n\n我环顾房间。房间相当宽敞。#EMP 哦#!！似乎有很多新鲜准备好的食物、零食和饮料。#EMP 嗯嗯嗯#!。甚至还有一些你最喜欢的！然后，一个放在一边的瓶子引起了你的注意。你走过去，开始检查这个奇怪的东西。里面的……液体？不断地在不同的白色、粉色和蓝色之间变化。它几乎像是在#EMP 跳动#!。\n\n“啊，请小心。如果那个瓶子出了什么问题，我们就会倒退好几年！但是，那也是我们仪式的工具。我甚至听说一些扶她也在兜售这种东西的改良版，以提高生育能力。这些东西的使用者几乎肯定会怀孕或受孕，#EMP 无论年龄大小#!。虽然他们使用的东西大多是稀释过的，这使得他们可以将其用于娱乐。我准备了纯粹的蒸馏物来治愈您的疾病，因为任何低于此纯度的东西都不会有效。”\n\n“当您准备好时，打开小瓶，喝下里面的东西。#BOLD 然而！#! #BOLD 至关重要#! 的是，您必须一口气吞下所有东西。不要停留，不要停下来吸气和闻里面的气味，不要放一些在嘴里品尝，不要在嘴里留下任何东西。#BOLD 所有东西都需要立即吞下#!。拜托，否则这将不起作用。别担心，我已经告诉您的卫兵，今天一天都不允许任何人打扰我们，无论是他们还是其他人。”\n\n……这每分钟都听起来更可疑了。我#EMP 真的#! 想这么做吗？"
+ bookmark_warlord_events.2005.desc: "期待已久的时刻终于到来了。[futa_warlord_fertility_shaman.GetFirstName] 今天早上告诉我一切都准备好了，我应该尽快前往指定地点。她确保我选择一个几天内都不需要处理任何公务的时间。她一直#EMP 强调#!这将是一件非常耗时的事情。真奇怪。\n\n我到达了她准备好的地点。外面站着几个守卫。他们一看到我走近，立刻站得笔直。推开门，我走进了她的房间。\n\n我一进去，就感觉到了空气的#EMP 冲击#!。它非常#EMP 浓稠#!，让我呼吸困难。#EMP 她是怎么一直待在这里的！？#!房间里弥漫着浓雾，感觉像是数百个香炉产生的。\n\n“啊，欢迎您，我的可敦。请随意，我们很快就开始。”\n\n我环顾房间。房间相当宽敞。#EMP 哦#!！似乎有很多新鲜准备好的食物、零食和饮料。#EMP 嗯嗯嗯#!。甚至还有一些你最喜欢的！然后，一个放在一边的瓶子引起了你的注意。你走过去，开始检查这个奇怪的东西。里面的……液体？不断地在不同的白色、粉色和蓝色之间变化。它几乎像是在#EMP 跳动#!。\n\n“啊，请小心。如果那个瓶子出了什么问题，我们就会倒退好几年！但是，那也是我们仪式的工具。我甚至听说一些扶她也在兜售这种东西的改良版，以提高生育能力。这些东西的使用者几乎肯定会怀孕或受孕，#EMP 无论年龄大小#!。虽然他们使用的东西大多是稀释过的，这使得他们可以将其用于娱乐。我准备了纯粹的蒸馏物来治愈您的疾病，因为任何低于此纯度的东西都不会有效。”\n\n“当您准备好时，打开小瓶，喝下里面的东西。#BOLD 然而！#!#BOLD 至关重要#!的是，您必须一口气吞下所有东西。不要停留，不要停下来吸气和闻里面的气味，不要放一些在嘴里品尝，不要在嘴里留下任何东西。#BOLD 所有东西都需要立即吞下#!。拜托，否则这将不起作用。别担心，我已经告诉您的卫兵，今天一天都不允许任何人打扰我们，无论是他们还是其他人。”\n\n……这每分钟都听起来更可疑了。我#EMP 真的#!想这么做吗？"
  
  bookmark_warlord_events.2005.a: "豁出去了。"
  bookmark_warlord_events.2005.a_flavor: "如果她是你敌人派来的刺客，那么祝贺他们成功策划了这一阴谋。"
@@ -404,52 +404,52 @@
  #
 
  bookmark_warlord_events.2006.title: "$bookmark_warlord_events.0001.title$"
- bookmark_warlord_events.2006.desc: "你在打开小瓶之前最后看了一眼 [futa_warlord_fertility_shaman.GetFirstName]。她穿着一件#EMP 非常#! 暴露的衣服。白色的连衣裙似乎是用丝绸做的。两条布条从她的肩膀垂下，遮住了她的乳头和大部分丰满的乳房，汇成一条布条垂在她的下身。她的脚踝、手腕、大腿和手臂上戴着几条金手镯和珠宝，脖子上戴着一条金色项圈作为点睛之笔。她的大腿和大部分身体都完全暴露在外。虽然这件连衣裙#EMP 试图#! 遮盖住一些东西，但其透明的特性#EMP 什么#! 也没有留下想象空间。\n\n我的目光从她的身体移到她的脸上，发现她正对我温暖地微笑。她向我点了点头，示意我们应该开始了。#EMP 等等，她要亲自参与仪式吗？这是个好主意吗？万一出了什么问题，她不应该在一旁看着吗？你甚至不知道仪式需要什么，尽管她之前关于瓶子和她服装的解释让你大致了解了情况#!。\n\n在你设法阻止自己之前，你脱掉了大部分衣服，打开小瓶，按照她的指示，一口气吞下了所有东西。你刚吞下，胃部就传来一阵剧烈的#EMP 疼痛#!，让你弯下腰，摔掉了小瓶。你抱着肚子，感觉心脏在胸腔里#S 怦怦直跳#!，仿佛要冲破牢笼。身体的震惊和疼痛让你完全错过了你的性器官正在发生的事情。一股股液体不断地从你的腿上流下来，而你的睾丸已经超速运转并增大，每一次#S 抽动#! 和 #S 搏动#! 都从你同样活跃的肉棒中喷射出浓稠的前列腺液。\n\n#EMP 这就是结局吗？你就要死了吗？所以这一切都是一个阴谋。你真是个傻瓜，竟然相信她#!。你感觉到有什么东西压在你身上。一些#EMP 温暖#! 和 #EMP 柔软#! 的东西。哦。是乳房。另一个身体的温暖。你感到快乐。安全。她退开了。#EMP 等等！别走！#!\n\n你抬起头。她躺下了。她把遮盖住她下身的那点衣服推到了一边。她的腿张开了。她正在向你招手。你感觉到的不仅仅是疼痛。你自己的下身也疼痛起来。你感到一股冲动。"
+ bookmark_warlord_events.2006.desc: "你在打开小瓶之前最后看了一眼 [futa_warlord_fertility_shaman.GetFirstName]。她穿着一件#EMP 非常#!暴露的衣服。白色的连衣裙似乎是用丝绸做的。两条布条从她的肩膀垂下，遮住了她的乳头和大部分丰满的乳房，汇成一条布条垂在她的下身。她的脚踝、手腕、大腿和手臂上戴着几条金手镯和珠宝，脖子上戴着一条金色项圈作为点睛之笔。她的大腿和大部分身体都完全暴露在外。虽然这件连衣裙#EMP 试图#!遮盖住一些东西，但其透明的特性#EMP 什么#!也没有留下想象空间。\n\n我的目光从她的身体移到她的脸上，发现她正对我温暖地微笑。她向我点了点头，示意我们应该开始了。#EMP 等等，她要亲自参与仪式吗？这是个好主意吗？万一出了什么问题，她不应该在一旁看着吗？你甚至不知道仪式需要什么，尽管她之前关于瓶子和她服装的解释让你大致了解了情况#!。\n\n在你设法阻止自己之前，你脱掉了大部分衣服，打开小瓶，按照她的指示，一口气吞下了所有东西。你刚吞下，胃部就传来一阵剧烈的#EMP 疼痛#!，让你弯下腰，摔掉了小瓶。你抱着肚子，感觉心脏在胸腔里#S 怦怦直跳#!，仿佛要冲破牢笼。身体的震惊和疼痛让你完全错过了你的性器官正在发生的事情。一股股液体不断地从你的腿上流下来，而你的睾丸已经超速运转并增大，每一次#S 抽动#!和 #S 搏动#!都从你同样活跃的肉棒中喷射出浓稠的前列腺液。\n\n#EMP 这就是结局吗？你就要死了吗？所以这一切都是一个阴谋。你真是个傻瓜，竟然相信她#!。你感觉到有什么东西压在你身上。一些#EMP 温暖#!和 #EMP 柔软#!的东西。哦。是乳房。另一个身体的温暖。你感到快乐。安全。她退开了。#EMP 等等！别走！#!\n\n你抬起头。她躺下了。她把遮盖住她下身的那点衣服推到了一边。她的腿张开了。她正在向你招手。你感觉到的不仅仅是疼痛。你自己的下身也疼痛起来。你感到一股冲动。"
  
  bookmark_warlord_events.2006.a: "我……我必须……#S 怀孕！#!"
 
  #
 
  bookmark_warlord_events.2007.title: "$bookmark_warlord_events.0001.title$"
- bookmark_warlord_events.2007.desc: "你像暴风雨般猛烈地扑向她丰满的身体，不顾一切，只想#EMP 原始地#! #BOLD 繁殖#! 你眼前那美味的洞穴。你的勃起贪婪地从你的大脑中吸走了大量的血液，让你的动作和意识有些笨拙。\n\n#EMP 如此#BOLD 温暖#! 和 #BOLD 湿润#! 的东西正压着我的肉棒，#BOLD 啊！！！#! 进去。我需要进去！#! \n\n“哦！我的可敦！我不会去任何地方，为什么不轻轻地——#EMP 啊啊啊啊！！！#!” 这肉穴的说话声渐渐消失，取而代之的是肉棒周围越来越强烈的温暖感觉。这#EMP 感觉#! 和你记忆中的不一样了。更大。#EMP 更好#!。你的臀部向前挺动，湿漉漉的挤压声为你欢呼。每一次抽送都尽可能地深入她的身体，亲吻着她的内封，并向你的大脑注入一股新鲜的肾上腺素。你的思绪完全被这一刻所占据，以至于你张开了下巴，舌头颤抖着，从那性感的洞穴中抽出，然后再次猛地插入。\n\n“#EMP 呜啊啊啊啊啊啊啊啊！！！！#!” 那贱人发出如此响亮的呻吟和呜咽声，#EMP 几乎#! 盖过了你的心跳声。#EMP 这个洞是在暗示我#! 不够用力吗？格老子……#! \n\n愤怒涌上你的脊椎，在你沉重——疼痛——巨大的种子中沸腾。你的手找到了她躺着的喉咙，用力挤压以获得 leverage，让你那令人尊敬的、搏动的肉棒#EMP 钻入#! 她从未探索过的深度。\n\n#BOLD *啪* *啪* *啪* *啪* *啪* *啪*#! \n\n你猛烈撞击的臀部使它们后面沉重的囊袋撞到了你那饱受蹂躏的母马湿透的后部。你的囊袋已经如此充血，以至于几乎没有离开地面，懒洋洋地蹭着她的臀部，而你的肉棒则在努力工作。每次你这荡妇的阴道壁收缩时，一股股液体就会从你的阴道里喷出来。\n\n#EMP 这个#BOLD 妓女#! 一定是故意吊着我的胃口！！！操她，她怎么敢拒绝我释放！！！#! \n\n是的，没错，你之所以会这样，唯一的原因就是你已经被恶意地戏弄了好几周。甚至好几个月。这个妓女必须#EMP 付出代价#!。\n\n“#weak 可-可敦……我需要，*喘气* 需要空气……#!” 这个#EMP 叛徒#! 以为她可以命令你？你的手没有松开。你咒骂着她那张因窒息而苍白的脸，同时将你的骏马完全插入她的马厩，并在你那沉重的睾丸将无数液体射入她被破开的马厩时#EMP 咆哮#! 起来。每一次射精都导致你的臀部快速抽搐，尽管你并没有意识到。刺激过度，你抓住那贱人脖子的力气减弱了，你那双迷离的眼睛和松弛的舌头望向了 [ROOT.Char.GetFaith.HighGodNameAlternate] 本身。"
+ bookmark_warlord_events.2007.desc: "你像暴风雨般猛烈地扑向她丰满的身体，不顾一切，只想#EMP 原始地#!#BOLD 繁殖#!你眼前那美味的洞穴。你的勃起贪婪地从你的大脑中吸走了大量的血液，让你的动作和意识有些笨拙。\n\n#EMP 如此#BOLD 温暖#!和 #BOLD 湿润#!的东西正压着我的肉棒，#BOLD 啊！！！#!进去。我需要进去！#!\n\n“哦！我的可敦！我不会去任何地方，为什么不轻轻地——#EMP 啊啊啊啊！！！#!” 这肉穴的说话声渐渐消失，取而代之的是肉棒周围越来越强烈的温暖感觉。这#EMP 感觉#!和你记忆中的不一样了。更大。#EMP 更好#!。你的臀部向前挺动，湿漉漉的挤压声为你欢呼。每一次抽送都尽可能地深入她的身体，亲吻着她的内封，并向你的大脑注入一股新鲜的肾上腺素。你的思绪完全被这一刻所占据，以至于你张开了下巴，舌头颤抖着，从那性感的洞穴中抽出，然后再次猛地插入。\n\n“#EMP 呜啊啊啊啊啊啊啊啊！！！！#!” 那贱人发出如此响亮的呻吟和呜咽声，#EMP 几乎#!盖过了你的心跳声。#EMP 这个洞是在暗示我#!不够用力吗？格老子……#!\n\n愤怒涌上你的脊椎，在你沉重——疼痛——巨大的种子中沸腾。你的手找到了她躺着的喉咙，用力挤压以获得 leverage，让你那令人尊敬的、搏动的肉棒#EMP 钻入#!她从未探索过的深度。\n\n#BOLD *啪* *啪* *啪* *啪* *啪* *啪*#!\n\n你猛烈撞击的臀部使它们后面沉重的囊袋撞到了你那饱受蹂躏的母马湿透的后部。你的囊袋已经如此充血，以至于几乎没有离开地面，懒洋洋地蹭着她的臀部，而你的肉棒则在努力工作。每次你这荡妇的阴道壁收缩时，一股股液体就会从你的阴道里喷出来。\n\n#EMP 这个#BOLD 妓女#!一定是故意吊着我的胃口！！！操她，她怎么敢拒绝我释放！！！#!\n\n是的，没错，你之所以会这样，唯一的原因就是你已经被恶意地戏弄了好几周。甚至好几个月。这个妓女必须#EMP 付出代价#!。\n\n“#weak 可-可敦……我需要，*喘气* 需要空气……#!” 这个#EMP 叛徒#!以为她可以命令你？你的手没有松开。你咒骂着她那张因窒息而苍白的脸，同时将你的骏马完全插入她的马厩，并在你那沉重的睾丸将无数液体射入她被破开的马厩时#EMP 咆哮#!起来。每一次射精都导致你的臀部快速抽搐，尽管你并没有意识到。刺激过度，你抓住那贱人脖子的力气减弱了，你那双迷离的眼睛和松弛的舌头望向了 [ROOT.Char.GetFaith.HighGodNameAlternate] 本身。"
  
  bookmark_warlord_events.2007.a: "*再来一次*"
 
  #
 
  bookmark_warlord_events.2008.title: "$bookmark_warlord_events.0001.title$"
- bookmark_warlord_events.2008.desc: "#EMP 喉咙。干涩。疼痛。水。我需要喝水。啊。在那儿#! \n\n#S *脚步声* *脚步声* *脚步声* *脚步声*\n\n*咕嘟* *咕嘟*#! \n\n#EMP 啊……哦。食物。好#! \n\n#S *咀嚼声* *咀嚼声*#! \n\n#EMP 嗯。我-我在哪儿？我在做什么？疼痛。我的身体疼痛。有什么东西在我的胸腔里跳动。剧烈地。剧烈？剧烈！低头看。有什么硬东西。随着我的心跳而搏动。有什么东西溢出来了。它想要什么？是什么？\n\n抬头。环顾四周。看到什么东西。腿？张开着。被液体浸湿。白色。在双腿之间。液体流出来。它想要那个？是的。释放更多。想要繁殖。我想繁殖。繁殖。繁殖。繁殖。繁殖#! #S 繁殖。繁殖。繁殖繁殖繁殖繁殖繁殖繁殖繁殖繁殖繁殖繁殖繁殖"
+ bookmark_warlord_events.2008.desc: "#EMP 喉咙。干涩。疼痛。水。我需要喝水。啊。在那儿#!\n\n#S *脚步声* *脚步声* *脚步声* *脚步声*\n\n*咕嘟* *咕嘟*#!\n\n#EMP 啊……哦。食物。好#!\n\n#S *咀嚼声* *咀嚼声*#!\n\n#EMP 嗯。我-我在哪儿？我在做什么？疼痛。我的身体疼痛。有什么东西在我的胸腔里跳动。剧烈地。剧烈？剧烈！低头看。有什么硬东西。随着我的心跳而搏动。有什么东西溢出来了。它想要什么？是什么？\n\n抬头。环顾四周。看到什么东西。腿？张开着。被液体浸湿。白色。在双腿之间。液体流出来。它想要那个？是的。释放更多。想要繁殖。我想繁殖。繁殖。繁殖。繁殖。繁殖#!#S 繁殖。繁殖。繁殖繁殖繁殖繁殖繁殖繁殖繁殖繁殖繁殖繁殖繁殖"
  
- bookmark_warlord_events.2008.a: "#S 怀孕怀孕怀孕怀孕怀孕怀孕怀孕#! "
+ bookmark_warlord_events.2008.a: "#S 怀孕怀孕怀孕怀孕怀孕怀孕怀孕#!"
 
  #
 
  bookmark_warlord_events.2009.title: "$bookmark_warlord_events.0001.title$"
- bookmark_warlord_events.2009.desc: "*咕嘟* *咕嘟* *咕嘟* *咕嘟* *咕嘟* *咕嘟* #BOLD *喘息*#! \n\n#EMP 嗯嗯嗯嗯嗯嗯！！！喉咙里的阴道#BOLD 真棒#!。温暖而紧致。当我#BOLD 正确地操它#! 时，会发出甜美的声音！#! \n\n你的睾丸——虽然小得多——仍然在生产新的骏马，它们迫切需要一次好的冲锋。对你的肉棒傀儡的表现感到失望，你已经开始用大腿夹住她的喉咙，利用这个支点以你喜欢的速度将她的口交器强行套在你的肉棒上。\n\n当她无助地吮吸时，精液和唾液的气泡不断地从她的鼻子里冒出来并破裂。与此同时，你忙着尽量阻止更多的精液从她的阴道里流出来。你先用一个空罐子收集，但一旦满了，你就直接把它塞进她张开的阴道里，以保持一切都在里面。\n\n#EMP 她仍然浪费了我的一些#BOLD 孩子！！！#!#! \n\n这个#EMP 妓女#! 怎么能做出这种事？你决定在她身边每一个正在变干的种马上都给她一个正义的拍打。不幸的是，她是个如此可悲的荡妇，你注意到她每次被击打时喉咙都会收缩。好吧，你确信你比她更享受这个过程。\n\n当你继续用你的肉棒捅那#BOLD 妓女#! 的嘴时，你的囊袋像一个沉重的钱包一样晃动。摩擦直接作用在你被忽视的阴蒂上，导致一股股蜜汁流淌在你的大腿之间。\n\n#EMP 如果你识相的话，就满足我所有的需求！#! 你吼出了命令。短暂的延迟后，你感觉到一根纤细的手指正在抚摸你的阴蒂。\n\n感觉#EMP 真棒#!，足以让你#EMP 颤抖#!。然后，另一次入侵，但位置更低，而且#EMP 没有#! 预料到。有什么东西突破了你的后门，这冲击让你再次达到高潮。\n\n你的双腿将她的喉咙一直压到你的身体底部，并在你整个精液涌动的性高潮过程中都保持着这个姿势。你#EMP 感觉#! 你的热精液从一个鼻孔反弹出来，溅到你的囊袋外面。幸运的是，更多正确地被强行塞了进去。"
+ bookmark_warlord_events.2009.desc: "*咕嘟* *咕嘟* *咕嘟* *咕嘟* *咕嘟* *咕嘟* #BOLD *喘息*#!\n\n#EMP 嗯嗯嗯嗯嗯嗯！！！喉咙里的阴道#BOLD 真棒#!。温暖而紧致。当我#BOLD 正确地操它#!时，会发出甜美的声音！#!\n\n你的睾丸——虽然小得多——仍然在生产新的骏马，它们迫切需要一次好的冲锋。对你的肉棒傀儡的表现感到失望，你已经开始用大腿夹住她的喉咙，利用这个支点以你喜欢的速度将她的口交器强行套在你的肉棒上。\n\n当她无助地吮吸时，精液和唾液的气泡不断地从她的鼻子里冒出来并破裂。与此同时，你忙着尽量阻止更多的精液从她的阴道里流出来。你先用一个空罐子收集，但一旦满了，你就直接把它塞进她张开的阴道里，以保持一切都在里面。\n\n#EMP 她仍然浪费了我的一些#BOLD 孩子！！！#!#!\n\n这个#EMP 妓女#!怎么能做出这种事？你决定在她身边每一个正在变干的种马上都给她一个正义的拍打。不幸的是，她是个如此可悲的荡妇，你注意到她每次被击打时喉咙都会收缩。好吧，你确信你比她更享受这个过程。\n\n当你继续用你的肉棒捅那#BOLD 妓女#!的嘴时，你的囊袋像一个沉重的钱包一样晃动。摩擦直接作用在你被忽视的阴蒂上，导致一股股蜜汁流淌在你的大腿之间。\n\n#EMP 如果你识相的话，就满足我所有的需求！#!你吼出了命令。短暂的延迟后，你感觉到一根纤细的手指正在抚摸你的阴蒂。\n\n感觉#EMP 真棒#!，足以让你#EMP 颤抖#!。然后，另一次入侵，但位置更低，而且#EMP 没有#!预料到。有什么东西突破了你的后门，这冲击让你再次达到高潮。\n\n你的双腿将她的喉咙一直压到你的身体底部，并在你整个精液涌动的性高潮过程中都保持着这个姿势。你#EMP 感觉#!你的热精液从一个鼻孔反弹出来，溅到你的囊袋外面。幸运的是，更多正确地被强行塞了进去。"
  
  bookmark_warlord_events.2009.a: "你这贱人，全部给我吞下去！！"
 
  #
 
  bookmark_warlord_events.2010.title: "$bookmark_warlord_events.0001.title$"
- bookmark_warlord_events.2010.desc: "#EMP 哎哟。噢噢噢。#! 你全身都#EMP 疼#!！你能感觉到每一块肌肉都在痉挛和尖叫。你看起来正坐在，至少你认为是，一个垫子上。你的全身都覆盖着干的和新鲜的汗水混合物。有什么东西在#EMP 刺痛#!。下面。你低头看。哦，一根肉棒。那是谁的？\n\n……\n\n为什么这么#R 红#!！？你到底怎么了！？它看起来比你记忆中的大得多，#S 太大了#!！一些精液偶尔从顶端微弱地喷出来，可怜的东西别无选择，只能软绵绵地躺在你面前，一点力气都没有了。只是轻轻碰一下它，就会有一阵剧痛传遍你的全身。你的眼珠看起来和#EMP 感觉#! 都不好。\n\n你虚弱地起身。罐子里似乎还剩下一些水。你刚才太渴望地喝着里面的东西，甚至没有注意到自己有多渴。擦了擦嘴，你开始环顾四周。大部分地板看起来完全被#S 覆盖#! 在白色的液体中。有些已经完全干了，有些看起来还是最近才弄的。你大概知道这是什么，下面又传来一丝#EMP 喷射#! 的感觉。但-但是怎么会！？这太荒谬了！\n\n然后你注意到有什么东西放在一个表面上。看起来像一个装满东西的袋子。里面好像伸出了一双腿。#EMP 等等，什么？#! 什么东西？#EMP 不，是人！#! 她似乎和地板的情况一样，里面塞满了更多的精液。偶尔会有一些液体从她的双腿之间喷出来，你甚至看不到她那肿胀的肚子后面是什么。\n\n你慢慢地绕过去，看到了那双腿属于谁。是 [futa_warlord_fertility_shaman.GetFirstName]！一切都慢慢地回到了你的记忆中。那-那个仪式！#S 这就是那个仪式！？#! 她甚至一动不动！她还活着吗？你戳了戳她的手臂和肚子几次。过了一会儿，她#EMP 勉强#! 睁开眼睛看着你。\n\n#weak “啊，你-你好。看起来我们-我们成功了。”#! \n\n成功！？这#EMP 到底#! 哪里算是成功了！你感觉自己好像在一分钟内经历了一千场战斗，随时都可能倒下！\n\n#weak “我理解您的愤怒，我的可-可敦。当我身体状况好一些的时候，我会解释一切的。我-我可以喝掉罐子里剩下的东西吗？我非常渴。”#! \n\n你#EMP 真的#! 在考虑该怎么办，但猜想事情已经发生了。你把罐子递到她的嘴边，让她慢慢地喝。\n\n#weak “啊，非常感谢您，我慷慨的可敦。我感觉到了。我们已经成功完成了我们想要做的事情。别担心房间或其他任何事情。当我……能够……的时候，我会处理一切的。当种子扎根后，我一定会把劳动成果告诉您。”#! "
+ bookmark_warlord_events.2010.desc: "#EMP 哎哟。噢噢噢。#!你全身都#EMP 疼#!！你能感觉到每一块肌肉都在痉挛和尖叫。你看起来正坐在，至少你认为是，一个垫子上。你的全身都覆盖着干的和新鲜的汗水混合物。有什么东西在#EMP 刺痛#!。下面。你低头看。哦，一根肉棒。那是谁的？\n\n……\n\n为什么这么#R 红#!！？你到底怎么了！？它看起来比你记忆中的大得多，#S 太大了#!！一些精液偶尔从顶端微弱地喷出来，可怜的东西别无选择，只能软绵绵地躺在你面前，一点力气都没有了。只是轻轻碰一下它，就会有一阵剧痛传遍你的全身。你的眼珠看起来和#EMP 感觉#!都不好。\n\n你虚弱地起身。罐子里似乎还剩下一些水。你刚才太渴望地喝着里面的东西，甚至没有注意到自己有多渴。擦了擦嘴，你开始环顾四周。大部分地板看起来完全被#S 覆盖#!在白色的液体中。有些已经完全干了，有些看起来还是最近才弄的。你大概知道这是什么，下面又传来一丝#EMP 喷射#!的感觉。但-但是怎么会！？这太荒谬了！\n\n然后你注意到有什么东西放在一个表面上。看起来像一个装满东西的袋子。里面好像伸出了一双腿。#EMP 等等，什么？#!什么东西？#EMP 不，是人！#!她似乎和地板的情况一样，里面塞满了更多的精液。偶尔会有一些液体从她的双腿之间喷出来，你甚至看不到她那肿胀的肚子后面是什么。\n\n你慢慢地绕过去，看到了那双腿属于谁。是 [futa_warlord_fertility_shaman.GetFirstName]！一切都慢慢地回到了你的记忆中。那-那个仪式！#S 这就是那个仪式！？#!她甚至一动不动！她还活着吗？你戳了戳她的手臂和肚子几次。过了一会儿，她#EMP 勉强#!睁开眼睛看着你。\n\n#weak “啊，你-你好。看起来我们-我们成功了。”#!\n\n成功！？这#EMP 到底#!哪里算是成功了！你感觉自己好像在一分钟内经历了一千场战斗，随时都可能倒下！\n\n#weak “我理解您的愤怒，我的可-可敦。当我身体状况好一些的时候，我会解释一切的。我-我可以喝掉罐子里剩下的东西吗？我非常渴。”#!\n\n你#EMP 真的#!在考虑该怎么办，但猜想事情已经发生了。你把罐子递到她的嘴边，让她慢慢地喝。\n\n#weak “啊，非常感谢您，我慷慨的可敦。我感觉到了。我们已经成功完成了我们想要做的事情。别担心房间或其他任何事情。当我……能够……的时候，我会处理一切的。当种子扎根后，我一定会把劳动成果告诉您。”#!"
  
- bookmark_warlord_events.2010.a: "为了你自己，你#EMP 最好#! 怀孕。"
+ bookmark_warlord_events.2010.a: "为了你自己，你#EMP 最好#!怀孕。"
  bookmark_warlord_events.2010.a_flavor: "当你跌跌撞撞地走出去时，她只能给你一个虚弱的微笑。你会确保在她周围安排一些值得信赖的哨兵，以防她试图欺骗你。"
 
  #
 
  bookmark_warlord_events.2011.title: "生命之种"
- bookmark_warlord_events.2011.desc: "我决定再次拜访 [futa_warlord_fertility_shaman.GetFirstName] 的房间。她曾向我承诺过一个继承人和治愈我#EMP 疾病#! 的方法，而且在她用那个整个“仪式”闹剧搞出#EMP 如此滑稽#! 的场面之后，我确保在她身边安排了我最信任的人来监视她的一举一动。谁知道呢，她可能已经背着你偷偷接纳了别人的种子，然后把孩子冒充是你的。你当然知道她身边有很多#EMP 志愿者#! 愿意做这件事。\n\n她什么也没尝试。没有诡计，也没有任何其他欺骗。她已经怀孕一段时间了，你经常拜访你的#EMP 恩人#!，以确保她得到很好的照顾。\n\n这时她的肚子已经明显隆起来了。#EMP 我可爱的孩子……我完全绝望了……#! 然而，还有一些不对劲的地方。她看起来有点不舒服，她的眼下呈现出淡淡的紫色，皮肤也变得更白了。这些年来你已经习惯了她那工作狂的性格和勤奋的精力，现在完全消失了。\n\n“啊，我的可敦，别担心。一切都很好。您的孩子会完全健康的，我向您保证。这可能是仪式和我的工作对我的影响。”\n\n感觉有些不对劲，但我不会逼她太紧。所有的迹象都表明，她体内正在孕育的生命，是我的骨肉。"
+ bookmark_warlord_events.2011.desc: "我决定再次拜访 [futa_warlord_fertility_shaman.GetFirstName] 的房间。她曾向我承诺过一个继承人和治愈我#EMP 疾病#!的方法，而且在她用那个整个“仪式”闹剧搞出#EMP 如此滑稽#!的场面之后，我确保在她身边安排了我最信任的人来监视她的一举一动。谁知道呢，她可能已经背着你偷偷接纳了别人的种子，然后把孩子冒充是你的。你当然知道她身边有很多#EMP 志愿者#!愿意做这件事。\n\n她什么也没尝试。没有诡计，也没有任何其他欺骗。她已经怀孕一段时间了，你经常拜访你的#EMP 恩人#!，以确保她得到很好的照顾。\n\n这时她的肚子已经明显隆起来了。#EMP 我可爱的孩子……我完全绝望了……#!然而，还有一些不对劲的地方。她看起来有点不舒服，她的眼下呈现出淡淡的紫色，皮肤也变得更白了。这些年来你已经习惯了她那工作狂的性格和勤奋的精力，现在完全消失了。\n\n“啊，我的可敦，别担心。一切都很好。您的孩子会完全健康的，我向您保证。这可能是仪式和我的工作对我的影响。”\n\n感觉有些不对劲，但我不会逼她太紧。所有的迹象都表明，她体内正在孕育的生命，是我的骨肉。"
  
  bookmark_warlord_events.2011.a: "确保你得到充分的休息。"
 
  #
 
  bookmark_warlord_events.2012.title: "扶她的天性"
- bookmark_warlord_events.2012.desc: "自从那个仪式之后，我身上总有些#EMP 不对劲#!。或者更准确地说，是#EMP 我的下身#!。\n\n我的肉棒比以前#EMP 大得多#!。虽然没有仪式结束后那么大，但仍然比以前至少#EMP 大两倍#!！\n\n更不用说我的睾丸了。和它们的同伴一样，它们的大小至少翻了一番，甚至更多！而且我能#EMP 感觉到#! 它们更活跃了。最近它们一直让我很分心。我的思绪经常被我需要以某种方式排空它们里面的东西所占据……\n\n我决定去拜访 [futa_warlord_fertility_shaman.GetFirstName]，看看她的健康状况并得到一些答案。她的肚子已经很大了。然而，与她向我保证的不同，她的健康状况并没有好转。事实上，情况恰恰相反。她的皮肤现在#EMP 明显#! 更苍白了，她几乎没有力气起床走动了。\n\n尽管如此，我不想过多打扰她，尤其是在这种状态下，所以我只问了她关于#EMP 我#! 身上发生的事情。她跟你说话的声音很低。\n\n“#EMP 啊，那……是仪式的结果，我的可敦。或者更确切地说，是你喝下的那种物质。我很确定你已经注意到你的扶她战士和守卫在他们的……欲望方面可能会有点麻烦？你生活中其他的扶她呢？你的部落？这些在你身上都消失了。我准备的混合物是为了解决你的不孕症，而它对身体的“后果”是#BOL 永久地#! 让身体在所有与生育有关的事情上都处于超速运转的状态。你的身体现在的功能类似于扶她中最具生育能力的人的身体#!”\n\n这将会是#EMP 永久的#!！？一个人怎么能长期这样生活呢！？"
+ bookmark_warlord_events.2012.desc: "自从那个仪式之后，我身上总有些#EMP 不对劲#!。或者更准确地说，是#EMP 我的下身#!。\n\n我的肉棒比以前#EMP 大得多#!。虽然没有仪式结束后那么大，但仍然比以前至少#EMP 大两倍#!！\n\n更不用说我的睾丸了。和它们的同伴一样，它们的大小至少翻了一番，甚至更多！而且我能#EMP 感觉到#!它们更活跃了。最近它们一直让我很分心。我的思绪经常被我需要以某种方式排空它们里面的东西所占据……\n\n我决定去拜访 [futa_warlord_fertility_shaman.GetFirstName]，看看她的健康状况并得到一些答案。她的肚子已经很大了。然而，与她向我保证的不同，她的健康状况并没有好转。事实上，情况恰恰相反。她的皮肤现在#EMP 明显#!更苍白了，她几乎没有力气起床走动了。\n\n尽管如此，我不想过多打扰她，尤其是在这种状态下，所以我只问了她关于#EMP 我#!身上发生的事情。她跟你说话的声音很低。\n\n“#EMP 啊，那……是仪式的结果，我的可敦。或者更确切地说，是你喝下的那种物质。我很确定你已经注意到你的扶她战士和守卫在他们的……欲望方面可能会有点麻烦？你生活中其他的扶她呢？你的部落？这些在你身上都消失了。我准备的混合物是为了解决你的不孕症，而它对身体的“后果”是#BOL 永久地#!让身体在所有与生育有关的事情上都处于超速运转的状态。你的身体现在的功能类似于扶她中最具生育能力的人的身体#!”\n\n这将会是#EMP 永久的#!！？一个人怎么能长期这样生活呢！？"
  
- bookmark_warlord_events.2012.a: "……你#EMP 很幸运#! 你怀了我的孩子。"
+ bookmark_warlord_events.2012.a: "……你#EMP 很幸运#!你怀了我的孩子。"
  bookmark_warlord_events.2012.a_flavor: "我想我必须习惯这一点。所以这就是大多数扶她的感觉，嗯？"
 
  #
@@ -518,11 +518,11 @@
  #
 
  bookmark_warlord_events.3100.title: "阿祖拉的怒火"
- bookmark_warlord_events.3100.desc: "我的军队夺取了更多土地以供我们事业之用。当我的大部分战士都在我的征服之地忙着劫掠和#EMP “寻欢作乐”#! 时，我将目光投向了一个特定的#EMP 特殊#! 奖赏……\n\n#EMP [futa_warlord_valid_special_sack_province.GetNameNoTier]#!。"
+ bookmark_warlord_events.3100.desc: "我的军队夺取了更多土地以供我们事业之用。当我的大部分战士都在我的征服之地忙着劫掠和#EMP “寻欢作乐”#!时，我将目光投向了一个特定的#EMP 特殊#!奖赏……\n\n#EMP [futa_warlord_valid_special_sack_province.GetNameNoTier]#!。"
  
- bookmark_warlord_events.3100.desc_generic: " 这座城市确实有一些壮丽的——#EMP 富丽堂皇#! 的纪念碑。"
+ bookmark_warlord_events.3100.desc_generic: " 这座城市确实有一些壮丽的——#EMP 富丽堂皇#!的纪念碑。"
  
- bookmark_warlord_events.3100.desc_constantinople: " 那座所谓的#EMP “世界渴望之城”#!。这无疑是一处令人印象深刻的定居点，这是肯定的。令人叹为观止的建筑遍布城市，都被宏伟的城墙所保护。#EMP 但这还不足以阻止你……#! "
+ bookmark_warlord_events.3100.desc_constantinople: " 那座所谓的#EMP “世界渴望之城”#!。这无疑是一处令人印象深刻的定居点，这是肯定的。令人叹为观止的建筑遍布城市，都被宏伟的城墙所保护。#EMP 但这还不足以阻止你……#!"
  
  bookmark_warlord_events.3100.desc_roma: " 压迫者的中心。他们的信仰领袖就居住于此，并决定着所有信仰他们教义的扶她的命运。"
  
@@ -537,7 +537,7 @@
  bookmark_warlord_events.3101.desc_generic: " 已经沦为昔日辉煌的空壳，需要付出巨大的努力才能恢复。"
  
  bookmark_warlord_events.3101.a: "那些扶她野蛮人！"
- bookmark_warlord_events.3101.b: "这#EMP 真的#! 是他们应得的吗？"
+ bookmark_warlord_events.3101.b: "这#EMP 真的#!是他们应得的吗？"
  bookmark_warlord_events.3101.c: "又一座丰碑在我们强大的力量面前倒下了！"
 
  # ---------------------------------------------------------------------------- #
@@ -547,12 +547,12 @@
  bookmark_warlord_events.8000.title: "$bookmark_warlord_events.0001.title$"
  bookmark_warlord_events.8000.desc_accepting_vassal: "我们王国的领袖，[futa_warlord_azure_emperor.GetFullName]，已经成功地开辟了足够的土地，赢得了声望和众多部落的尊重。新的一天来临，[futa_warlord_azure_emperor.GetSheHe] 已经宣布 [futa_warlord_azure_emperor.GetHerselfHimself] 成为 [futa_warlord_azure_emperor.GetTitleAsName]，这是一个 [futa_warlord_azure_emperor.GetSheHe] 当之无愧的头衔！\n\n[futa_warlord_azure_emperor.GetSheHe|U] 现在寻求将我们人民的力量和真理传播到四面八方！"
  
- bookmark_warlord_events.8000.desc_non_accepting_vassal: "我们#EMP 最仁慈的#! 霸主，[futa_warlord_azure_emperor.GetFullName]，已经获得了足够的土地和声望，足以宣布 [futa_warlord_azure_emperor.GetHerselfHimself] 成为 [futa_warlord_azure_emperor.GetTitleAsName]。看来 [futa_warlord_azure_emperor.GetHerHis] 的野心没有止境，因为 [futa_warlord_azure_emperor.GetSheHe] 丝毫没有停止的迹象……"
+ bookmark_warlord_events.8000.desc_non_accepting_vassal: "我们#EMP 最仁慈的#!霸主，[futa_warlord_azure_emperor.GetFullName]，已经获得了足够的土地和声望，足以宣布 [futa_warlord_azure_emperor.GetHerselfHimself] 成为 [futa_warlord_azure_emperor.GetTitleAsName]。看来 [futa_warlord_azure_emperor.GetHerHis] 的野心没有止境，因为 [futa_warlord_azure_emperor.GetSheHe] 丝毫没有停止的迹象……"
  
  bookmark_warlord_events.8000.desc_generic: "我听说草原上出现了一位新的野心勃勃的部落首领，他已经联合了足够的土地，宣布 [futa_warlord_azure_emperor.GetHerselfHimself] 成为 [futa_warlord_azure_emperor.GetHerHis] 人民的正式领袖，并且 [futa_warlord_azure_emperor.GetSheHe] 仍然梦想着将 [futa_warlord_azure_emperor.GetHerHis] 的王国扩张到遥远的地方……"
  
  bookmark_warlord_events.8000.a: "哼，这些草原军阀来来去去。"
- bookmark_warlord_events.8000.b: "为了扶他的命运，这是一个值得称赞的事业，尽管 [futa_warlord_azure_emperor.GetHerHis] 的方法#EMP 有些#! 暴力……"
+ bookmark_warlord_events.8000.b: "为了扶他的命运，这是一个值得称赞的事业，尽管 [futa_warlord_azure_emperor.GetHerHis] 的方法#EMP 有些#!暴力……"
  bookmark_warlord_events.8000.c: "赞美我们的 [futa_warlord_azure_emperor.GetTitleAsName]！"
  bookmark_warlord_events.8000.d: "希望 [futa_warlord_azure_emperor.GetSheHe] 早点暴毙……"
 
@@ -568,14 +568,14 @@
  bookmark_warlord_events.8001.a: "我怀疑 [futa_warlord_genghis_khatun.GetSheHe] 能做更多的事情……"
  bookmark_warlord_events.8001.b: "看来暴力在短期内不会停止……"
  bookmark_warlord_events.8001.c: "我们随时准备着！"
- bookmark_warlord_events.8001.d: "[futa_warlord_genghis_khatun.GetSheHe|U] #EMP 真的#! 应该很快就被 [ROOT.Char.GetFaith.random_EvilGodNames] 带走……"
+ bookmark_warlord_events.8001.d: "[futa_warlord_genghis_khatun.GetSheHe|U] #EMP 真的#!应该很快就被 [ROOT.Char.GetFaith.random_EvilGodNames] 带走……"
 
  #
 
  bookmark_warlord_events.8002.title: "阿祖拉继承"
  bookmark_warlord_events.8002.desc: "[futa_old_azure_emperor.GetTitledFirstName] 已经逝世，帝国迎来了一位新的 [futa_new_azure_emperor.GetTitleAsName]！\n\n据说这位新的 [futa_new_azure_emperor.GetTitleAsName] "
  
- bookmark_warlord_events.8002.desc_martial: "比 [futa_new_azure_emperor.GetHerHis] 的前任更加残酷。[futa_new_azure_emperor.GetSheHe|U] 听到了扶他的困境，并决定乐于让#EMP 有罪者#! 为他们的罪行付出代价。秉承 [futa_old_azure_emperor.GetTitledFirstName] 的愿景，[futa_new_azure_emperor.GetTitledFirstName] 希望继续将帝国扩张到新的高度！"
+ bookmark_warlord_events.8002.desc_martial: "比 [futa_new_azure_emperor.GetHerHis] 的前任更加残酷。[futa_new_azure_emperor.GetSheHe|U] 听到了扶他的困境，并决定乐于让#EMP 有罪者#!为他们的罪行付出代价。秉承 [futa_old_azure_emperor.GetTitledFirstName] 的愿景，[futa_new_azure_emperor.GetTitledFirstName] 希望继续将帝国扩张到新的高度！"
  
  bookmark_warlord_events.8002.desc_scholar: "与 [futa_new_azure_emperor.GetHerHis] 的前任有所不同。[futa_new_azure_emperor.GetSheHe] 决定，与其继续 [futa_old_azure_emperor.GetTitledFirstName] 所走的战争之路，不如放弃他们极端的扩张主义，从部落游牧社会转型。看来阿祖拉侵略的时代已经结束了。"
  
@@ -660,7 +660,7 @@
  #
 
  bookmark_warlord_events.4011.title: "$bookmark_warlord_events.0001.title$"
- bookmark_warlord_events.4011.desc: "[child.Custom2('MyCharacterIntroduction', ROOT.Char)|U] 今天正在训练马匹，突然动物不知被什么东西吓到了，引起了一阵骚动。然而，[child.GetFirstName] 在整个过程中都保持着冷静的头脑，并再次控制住了那匹畜生。\n\n无论她身处何种境地，她似乎都能够保持冷静的头脑。在这片土地上，这是一个#EMP 非常#! 宝贵的特质。"
+ bookmark_warlord_events.4011.desc: "[child.Custom2('MyCharacterIntroduction', ROOT.Char)|U] 今天正在训练马匹，突然动物不知被什么东西吓到了，引起了一阵骚动。然而，[child.GetFirstName] 在整个过程中都保持着冷静的头脑，并再次控制住了那匹畜生。\n\n无论她身处何种境地，她似乎都能够保持冷静的头脑。在这片土地上，这是一个#EMP 非常#!宝贵的特质。"
  
  bookmark_warlord_events.4011.a: "她的判断永远不会被蒙蔽。"
 
@@ -709,7 +709,7 @@
  #
 
  bookmark_warlord_events.5006.title: "苍穹之下"
- bookmark_warlord_events.5006.desc: "我一直在听我周围的萨满们在谈论什么。他们通常#EMP 非常无聊！#! 然而，这次有些事情引起了我的兴趣。我们生活在永恒的蓝天之下，那是天父的领域。凡是天空所触及的一切，我们都将从那些憎恨我母亲和她朋友的残酷之人手中解放出来！我可能不像母亲和大多数其他人那样，但我会在有生之年帮助他们完成这件事！"
+ bookmark_warlord_events.5006.desc: "我一直在听我周围的萨满们在谈论什么。他们通常#EMP 非常无聊！#!然而，这次有些事情引起了我的兴趣。我们生活在永恒的蓝天之下，那是天父的领域。凡是天空所触及的一切，我们都将从那些憎恨我母亲和她朋友的残酷之人手中解放出来！我可能不像母亲和大多数其他人那样，但我会在有生之年帮助他们完成这件事！"
  
  bookmark_warlord_events.5006.a: "我要让他们所有人都跪拜在苍穹之下！"
 
@@ -744,6 +744,6 @@
  #
 
  bookmark_warlord_events.5011.title: "$bookmark_warlord_events.0001.title$"
- bookmark_warlord_events.5011.desc: "我的 [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('child'))] [child.GetTitledFirstName] 已经开始显露出一些……#EMP 令人不安#! 的迹象。她听到的关于扶她处境的消息越多，她的信仰就变得越狂热。她已经非常清楚地表达了她对“罪人”及其应有的命运的看法，以及她将如何乐于亲自负责执行他们的惩罚。她的热情固然令人钦佩，但她可能有点走得太远了……"
+ bookmark_warlord_events.5011.desc: "我的 [ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('child'))] [child.GetTitledFirstName] 已经开始显露出一些……#EMP 令人不安#!的迹象。她听到的关于扶她处境的消息越多，她的信仰就变得越狂热。她已经非常清楚地表达了她对“罪人”及其应有的命运的看法，以及她将如何乐于亲自负责执行他们的惩罚。她的热情固然令人钦佩，但她可能有点走得太远了……"
  
  bookmark_warlord_events.5011.a: "她很可能会让大地哭泣……"
