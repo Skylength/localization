@@ -23,13 +23,13 @@
  futa_ring_of_serenity_desc: "一枚造型奇特的戒指饰品，似乎可以通过某种机关来调整松紧程度。仅仅是拿着它，你就感到心如止水，思绪清明……\n\n它太大了，无法戴在手指上，但戴在手腕上似乎也不是很合适。你不知道该如何佩戴它……"
 
  futa_exploration_gear_name: "勘探用具"
- futa_exploration_gear_desc: "各种装备的组合，旨在帮助进行长途旅行和荒野探索。\n\n#highlight 装备后，此神器将使 $activity_futa_ruins_investigation$ [activity|E] [gold_i|E] 的花费降低 #P -25.0%#!!#!"
+ futa_exploration_gear_desc: "各种装备的组合，旨在帮助进行长途旅行和荒野探索。\n\n#highlight 装备后，此神器将使 $activity_futa_ruins_investigation$ [activity|E] [gold_i|E]的花费降低 #P -25.0%#!!#!"
  
  futa_segais_hazelnuts_name: "色盖斯的榛子"
  futa_segais_hazelnuts_desc: "色盖斯的榛子"
 
  futa_bracers_of_eolas_name: "伊欧拉斯的护腕"
- futa_bracers_of_eolas_desc: "伊欧拉斯的护腕 \n\n#highlight 如果你拥有特质 [GetTrait('futa_milandrite').GetName( GetNullCharacter )]，当装备此饰品旅行时，你还将获得 [provisions_i|E] [provisions|E]！#!"
+ futa_bracers_of_eolas_desc: "伊欧拉斯的护腕 \n\n#highlight 如果你拥有特质 [GetTrait('futa_milandrite').GetName( GetNullCharacter )]，当装备此饰品旅行时，你还将获得[provisions_i|E] [provisions|E]！#!"
  
  ## Outfits
  artifact_futa_armor: "$trait_futa$装束"
@@ -68,7 +68,7 @@
  ## Crowns
  artifact_futa_ancient_crown: "远古遗冠"
 
- futa_hermilia_crown_name: "#highlight 赫米莉亚之冠#! (WIP)"
+ futa_hermilia_crown_name: "#highlight 赫米莉亚之冠#!(WIP)"
  futa_hermilia_crown_desc: "扶她王冠 (WIP)"
 
   ### Custom Tooltips

@@ -142,11 +142,11 @@
  futa_convert_cooldown_opinion: "扭转性向 - 失败"
  futa_convert_permanent_blocker_opinion: "厌恶扭转性向"
 
- futa_convert_sexuality_scheme_scheme_phase_duration_add: "[GetScheme('futa_convert_sexuality_scheme').GetTypeName] [计谋速度（单人）|E]"
- futa_elope_scheme_phase_duration_add: "[GetScheme('futa_elope').GetTypeName] [计谋速度（单人）|E]"
+ futa_convert_sexuality_scheme_scheme_phase_duration_add: "[GetScheme('futa_convert_sexuality_scheme').GetTypeName] [scheme_speed_single|E]"
+ futa_elope_scheme_phase_duration_add: "[GetScheme('futa_elope').GetTypeName] [scheme_speed_single|E]"
 
- futa_convert_sexuality_scheme_enemy_scheme_phase_duration_add: "即将到来的 [GetScheme('futa_convert_sexuality_scheme').GetTypeName] [计谋速度（单人）|E]"
- futa_elope_enemy_scheme_phase_duration_add: "即将到来的 [GetScheme('futa_elope').GetTypeName] [计谋速度（单人）|E]"
+ futa_convert_sexuality_scheme_enemy_scheme_phase_duration_add: "即将到来的 [GetScheme('futa_convert_sexuality_scheme').GetTypeName] [scheme_speed_single|E]"
+ futa_elope_enemy_scheme_phase_duration_add: "即将到来的 [GetScheme('futa_elope').GetTypeName] [scheme_speed_single|E]"
 
 
  ## Character Interactions
@@ -169,7 +169,7 @@
 
 
  futa_elope: "$trait_futa$ Elope"
- futa_elope_desc: "将 [SCHEME.GetTargetCharacter.GetShortUINameNoTooltip] 带到你的[宫廷|E]并与 [SCHEME.GetTargetCharacter.GetHerHim] [结婚|E]"
+ futa_elope_desc: "将 [SCHEME.GetTargetCharacter.GetShortUINameNoTooltip] 带到你的[宫廷|E]并与 [SCHEME.GetTargetCharacter.GetHerHim] [marry|E]"
 
  ### Custom Tooltips
  futa_convert_interaction_tt: "尝试转化[recipient.GetShortUINameNoTooltip]，将[recipient.GetHerHis]的性取向转变为[homosexual|E]或[bisexual|E]，并可能让[recipient.GetHerHim]成为你的[lover|E]"

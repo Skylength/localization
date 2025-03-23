@@ -14,7 +14,7 @@
  futa_event_freq_some_rare_desc: "事件将#bold 罕见地#!出现。"
  futa_event_freq_rare_desc: "事件将#bold 罕见地#!出现。"
  futa_event_freq_very_rare_desc: "事件将#bold 非常罕见地#!出现。"
- futa_event_freq_none_desc: "事件将#bold 永不#! 发生。"
+ futa_event_freq_none_desc: "事件将#bold 永不#!发生。"
 
  ############## Futa POV (Being a Futa) Events
  rule_futa_futa_events_freq: "@futa_icon! 扶她事件频率"
@@ -126,22 +126,22 @@
  rule_futa_consort_events_freq: "@futa_icon! 配偶事件频率"
 
  setting_futa_consort_events_freq_very_frequent: "$futa_event_freq_frequent$"
- setting_futa_consort_events_freq_very_frequent_desc: "控制作为拥有 [GetTrait('futa_genetic').GetName( GetNullCharacter )] 特质的角色的[spouse|E]或[concubine|E]时，相关事件发生的频率。$futa_event_freq_frequent_desc$"
+ setting_futa_consort_events_freq_very_frequent_desc: "控制作为拥有[GetTrait('futa_genetic').GetName( GetNullCharacter )]特质的角色的[spouse|E]或[concubine|E]时，相关事件发生的频率。$futa_event_freq_frequent_desc$"
 
  setting_futa_consort_events_freq_often: "$futa_event_freq_often$"
- setting_futa_consort_events_freq_often_desc: "控制作为拥有 [GetTrait('futa_genetic').GetName( GetNullCharacter )] 特质的角色的[spouse|E]或[concubine|E]时，相关事件发生的频率。$futa_event_freq_often_desc$"
+ setting_futa_consort_events_freq_often_desc: "控制作为拥有[GetTrait('futa_genetic').GetName( GetNullCharacter )]特质的角色的[spouse|E]或[concubine|E]时，相关事件发生的频率。$futa_event_freq_often_desc$"
 
  setting_futa_consort_events_freq_somewhat_rare: "$futa_event_freq_some_rare$"
- setting_futa_consort_events_freq_somewhat_rare_desc: "控制作为拥有 [GetTrait('futa_genetic').GetName( GetNullCharacter )] 特质的角色的[spouse|E]或[concubine|E]时，相关事件发生的频率。$futa_event_freq_some_rare_desc$"
+ setting_futa_consort_events_freq_somewhat_rare_desc: "控制作为拥有[GetTrait('futa_genetic').GetName( GetNullCharacter )]特质的角色的[spouse|E]或[concubine|E]时，相关事件发生的频率。$futa_event_freq_some_rare_desc$"
 
  setting_futa_consort_events_freq_rare: "$futa_event_freq_rare$"
- setting_futa_consort_events_freq_rare_desc: "控制作为拥有 [GetTrait('futa_genetic').GetName( GetNullCharacter )] 特质的角色的[spouse|E]或[concubine|E]时，相关事件发生的频率。$futa_event_freq_rare_desc$"
+ setting_futa_consort_events_freq_rare_desc: "控制作为拥有[GetTrait('futa_genetic').GetName( GetNullCharacter )]特质的角色的[spouse|E]或[concubine|E]时，相关事件发生的频率。$futa_event_freq_rare_desc$"
 
  setting_futa_consort_events_freq_very_rare: "$futa_event_freq_very_rare$"
- setting_futa_consort_events_freq_very_rare_desc: "控制作为拥有 [GetTrait('futa_genetic').GetName( GetNullCharacter )] 特质的角色的[spouse|E]或[concubine|E]时，相关事件发生的频率。$futa_event_freq_very_rare_desc$"
+ setting_futa_consort_events_freq_very_rare_desc: "控制作为拥有[GetTrait('futa_genetic').GetName( GetNullCharacter )]特质的角色的[spouse|E]或[concubine|E]时，相关事件发生的频率。$futa_event_freq_very_rare_desc$"
 
  setting_futa_consort_events_freq_none: "#high 无#!"
- setting_futa_consort_events_freq_none_desc: "控制作为拥有 [GetTrait('futa_genetic').GetName( GetNullCharacter )] 特质的角色的[spouse|E]或[concubine|E]时，相关事件发生的频率。事件将#bold 永不#! 发生。"
+ setting_futa_consort_events_freq_none_desc: "控制作为拥有[GetTrait('futa_genetic').GetName( GetNullCharacter )]特质的角色的[spouse|E]或[concubine|E]时，相关事件发生的频率。事件将#bold 永不#!发生。"
 
 
 
@@ -195,7 +195,7 @@
  setting_futa_child_limit_no_limit_desc: "拥有 $trait_futa$ 特质的夫妇所能拥有的存活的扶她怀孕子女数量将没有限制。"
 
  setting_futa_child_limit_limited: "#high 限制#!"
- setting_futa_child_limit_limited_desc: "每当存活的 [GetTrait('child_of_futa').GetName( GetNullCharacter )] 子女数量超过 #high 5#! 时，进一步扶她怀孕的几率将开始降低，从而将每个角色生育或抚养的扶她怀孕子女数量限制为 #high 10#!。"
+ setting_futa_child_limit_limited_desc: "每当存活的[GetTrait('child_of_futa').GetName( GetNullCharacter )]子女数量超过 #high 5#!时，扶她怀孕的几率将进一步开始降低，从而将每个角色生育或抚养的扶她怀孕子女数量限制为 #high 10#!。"
 
  setting_futa_child_limit_only_ai: "#high 仅限AI#!"
  setting_futa_child_limit_only_ai_desc: "此限制将仅适用于与玩家没有关系的AI角色。"
@@ -213,19 +213,19 @@
  setting_futa_faith_equality_doctrine_seeding_shunned: "#high 避讳#!"
  setting_futa_faith_equality_doctrine_seeding_shunned_desc: "每个[religion|E]都会将[GetTrait('futa_genetic').GetName( GetNullCharacter )]视为[shunned|E]。$futa_equality_setting_non_dynamic_warning$"
 
- setting_futa_faith_equality_doctrine_seeding_criminal: "[game_rule_extreme_i|e] #high 罪犯#!"
+ setting_futa_faith_equality_doctrine_seeding_criminal: "[game_rule_extreme_i|e]#high 罪犯#!"
  setting_futa_faith_equality_doctrine_seeding_criminal_desc: "每个[religion|E]都会将[GetTrait('futa_genetic').GetName( GetNullCharacter )]视为[criminal|E]。$futa_equality_setting_non_dynamic_warning$"
 
- setting_futa_faith_equality_doctrine_seeding_vilified: "[game_rule_extreme_i|e] #high 污蔑#!"
+ setting_futa_faith_equality_doctrine_seeding_vilified: "[game_rule_extreme_i|e]#high 污蔑#!"
  setting_futa_faith_equality_doctrine_seeding_vilified_desc: "每个[religion|E]都会将[GetTrait('futa_genetic').GetName( GetNullCharacter )]视为邪恶的化身。$futa_equality_setting_non_dynamic_warning$"
 
  setting_futa_faith_equality_doctrine_seeding_accepted: "#high 接受#!"
  setting_futa_faith_equality_doctrine_seeding_accepted_desc: "每个[religion|E]都会将[GetTrait('futa_genetic').GetName( GetNullCharacter )]视为被接受的。$futa_equality_setting_non_dynamic_warning$"
 
- setting_futa_faith_equality_doctrine_seeding_virtuous: "[game_rule_unique_i|e] #high 贤德#!"
+ setting_futa_faith_equality_doctrine_seeding_virtuous: "[game_rule_unique_i|e]#high 贤德#!"
  setting_futa_faith_equality_doctrine_seeding_virtuous_desc: "每个[religion|E]都会将[GetTrait('futa_genetic').GetName( GetNullCharacter )]视为[virtuous|E]。$futa_equality_setting_non_dynamic_warning$"
 
- setting_futa_faith_equality_doctrine_seeding_venerated: "[game_rule_unique_i|e] #high 尊崇#!"
+ setting_futa_faith_equality_doctrine_seeding_venerated: "[game_rule_unique_i|e]#high 尊崇#!"
  setting_futa_faith_equality_doctrine_seeding_venerated_desc: "每个[religion|E]都会将[GetTrait('futa_genetic').GetName( GetNullCharacter )]视为崇拜的对象。$futa_equality_setting_non_dynamic_warning$"
 
 

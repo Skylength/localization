@@ -8,24 +8,24 @@
  trait_backed_up_1_desc:0 "她的蛋蛋被清空了……暂时而已。"
  trait_backed_up_2_desc:0 "她的蛋蛋因涌动的精液而跳动。"
  trait_backed_up_3_desc:0 "不安跳动着的肉棒，不断滴漏的精液，盈满而沉重的蛋蛋渴望释放。"
-	trait_backed_up_low_hanggers_desc: "她的蛋蛋低垂而骄傲。"
-	trait_backed_up_over_productive_desc: "她的蛋蛋始终活跃，并且在“装满”时能变大。"
-	trait_backed_up_small_balls_desc: "对于扶她来说，她的蛋蛋较小，约为大多数男性的大小。"
-	trait_backed_up_regular_desc: "她的蛋蛋对于扶她来说属于普通水平。"
+ trait_backed_up_low_hanggers_desc: "她的蛋蛋低垂而骄傲。"
+ trait_backed_up_over_productive_desc: "她的蛋蛋始终活跃，并且在“装满”时能变大。"
+ trait_backed_up_small_balls_desc: "对于扶她来说，她的蛋蛋较小，约为大多数男性的大小。"
+ trait_backed_up_regular_desc: "她的蛋蛋对于扶她来说属于普通水平。"
 
-	trait_child_of_futa:0 "扶她所生"
-	child_of_futa_desc:0 "经由一位扶她让另一位女性妊娠而诞生的灵魂"
+ trait_child_of_futa:0 "扶她所生"
+ child_of_futa_desc:0 "经由一位扶她让另一位女性妊娠而诞生的灵魂"
  child_of_futa_parents_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]生于[ROOT.Var('futa_preg_father').Char.GetTitledFirstName]与[ROOT.Var('futa_preg_mother').Char.GetTitledFirstName]的结合，她只依靠自己的扶她基因就让其怀孕，而没有一个其她男人的参与。"
 
-	trait_futa_impregnated: "扶她之孕"
+ trait_futa_impregnated: "扶她之孕"
  trait_futa_impregnated_desc: "该角色孕有扶她的子嗣。"
  trait_futa_impregnated_character_desc: "[ROOT.GetCharacter.GetFirstNameNoTooltip]已经孕有一个扶她的子嗣[SCOPE.ScriptValue('futa_pregnancy_months_value')]个月了。"
 
-	trait_femboi:0 "男娘"
-	femboi_desc:0 "拥有较女性化一面的男性，她们皮肤柔嫩、头发浅色，且臀部往往比肩膀宽阔。"
+ trait_femboi:0 "男娘"
+ femboi_desc:0 "拥有较女性化一面的男性，她们皮肤柔嫩、头发浅色，且臀部往往比肩膀宽阔。"
 
  trait_futa_bitch:0 "扶她婊子"
-	futa_bitch_desc:0 "这个女人已经沦为了那些欲求不满的扶她们的泄欲肉器，并且毫不在乎自己会不会因此怀孕。"
+ futa_bitch_desc:0 "这个女人已经沦为了那些欲求不满的扶她们的泄欲肉器，并且毫不在乎自己会不会因此怀孕。"
  trait_track_futa_bitch:0 "扶她肉器"
  trait_track_futa_bitch_desc: "她究竟会被多少人所播种？"
  trait_futa_bitch_1_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]这个女人已经彻底沦为了那些欲求不满的扶她们的泄欲肉器，并且毫不在乎自己会不会因此怀孕。"
@@ -38,108 +38,108 @@
  trait_futa_stud_1_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]已经将她的精种慷概地赐予在许多女人的子宫里。"
  trait_futa_stud_2_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]已经创造了数量惊人的扶她后代，并因此而被载入扶她史册。"
 
-	trait_futa_milandrite:0 "Milandrite"
-	futa_milandrite_desc:0 "很久以前，一位女神在除了缺少女性生殖系统之外的各方面完美地孕育出了一位扶她。她被命名为Milandrite，此后所有像她一样出生的扶她均以她为典范."
+ trait_futa_milandrite:0 "Milandrite"
+ futa_milandrite_desc:0 "很久以前，一位女神在除了缺少女性生殖系统之外的各方面完美地孕育出了一位扶她。她被命名为Milandrite，此后所有像她一样出生的扶她均以她为典范."
 
-	trait_futa_restless:0 "躁动"
-	futa_restless_desc:0 "某些欲望若被忽视便可能变得危险。[ROOT.GetCharacter.GetFirstNameNoTooltip] 如同笼中猛兽。 她#EMP 必须#! 得到释放。"
+ trait_futa_restless:0 "躁动"
+ futa_restless_desc:0 "某些欲望若被忽视便可能变得危险。[ROOT.GetCharacter.GetFirstNameNoTooltip]如同笼中猛兽。 她#EMP 必须#!得到释放。"
 
-	trait_dark_sister:0 "黑暗姐妹"
-	dark_sister_desc:0 "那些对 Vilecore 尤为虔诚的人会经历一种特殊仪式，从而成为黑暗姐妹。她们掌握着 Vilecore 本人赋予的超自然力量。\n\n"
+ trait_dark_sister:0 "黑暗姐妹"
+ dark_sister_desc:0 "那些对 Vilecore 尤为虔诚的人会经历一种特殊仪式，从而成为黑暗姐妹。她们掌握着 Vilecore 本人赋予的超自然力量。\n\n"
 
-	dark_sister_desc_coven_leader_1: "[ROOT.GetCharacter.GetFirstNameNoTooltip] 找到了由 [ROOT.Var('futa_dark_sister_coven_leader_follower_1').Char.GetTitledFirstName] 组成的女巫集会，并正领导着她的姐妹。"
+ dark_sister_desc_coven_leader_1: "[ROOT.GetCharacter.GetFirstNameNoTooltip]找到了由[ROOT.Var('futa_dark_sister_coven_leader_follower_1').Char.GetTitledFirstName]组成的女巫集会，并正领导着她的姐妹。"
 
-	dark_sister_desc_coven_leader_2: "[ROOT.GetCharacter.GetFirstNameNoTooltip] 找到了由 [ROOT.Var('futa_dark_sister_coven_leader_follower_1').Char.GetTitledFirstName] 和 [ROOT.Var('futa_dark_sister_coven_leader_follower_2').Char.GetTitledFirstName] 组成的女巫集会，并正领导着她的姐妹们。"
+ dark_sister_desc_coven_leader_2: "[ROOT.GetCharacter.GetFirstNameNoTooltip]找到了由[ROOT.Var('futa_dark_sister_coven_leader_follower_1').Char.GetTitledFirstName]和[ROOT.Var('futa_dark_sister_coven_leader_follower_2').Char.GetTitledFirstName]组成的女巫集会，并正领导着她的姐妹们。"
 
-	dark_sister_desc_coven_leader_3: "[ROOT.GetCharacter.GetFirstNameNoTooltip] 找到了由 [ROOT.Var('futa_dark_sister_coven_leader_follower_1').Char.GetTitledFirstName]、[ROOT.Var('futa_dark_sister_coven_leader_follower_2').Char.GetTitledFirstName] 和 [ROOT.Var('futa_dark_sister_coven_leader_follower_3').Char.GetTitledFirstName] 组成的女巫集会，并正领导着她的姐妹们。"
+ dark_sister_desc_coven_leader_3: "[ROOT.GetCharacter.GetFirstNameNoTooltip]找到了由[ROOT.Var('futa_dark_sister_coven_leader_follower_1').Char.GetTitledFirstName]、[ROOT.Var('futa_dark_sister_coven_leader_follower_2').Char.GetTitledFirstName]和[ROOT.Var('futa_dark_sister_coven_leader_follower_3').Char.GetTitledFirstName]组成的女巫集会，并正领导着她的姐妹们。"
 
-	dark_sister_desc_coven_follower: "[ROOT.GetCharacter.GetFirstNameNoTooltip] 是在 [ROOT.Var('futa_dark_sister_coven_leader').Char.GetTitledFirstName] 指导下的女巫集会成员。"
+ dark_sister_desc_coven_follower: "[ROOT.GetCharacter.GetFirstNameNoTooltip]是在[ROOT.Var('futa_dark_sister_coven_leader').Char.GetTitledFirstName]指导下的女巫集会成员。"
 
-	trait_futa_destiny_birth:0 "宿命降生"
-	futa_destiny_birth_desc:0 "无论是预言还是神的干预，[ROOT.GetCharacter.GetFirstNameNoTooltip] 自出生起便被视为与众不同。"
+ trait_futa_destiny_birth:0 "宿命降生"
+ futa_destiny_birth_desc:0 "无论是预言还是神的干预，[ROOT.GetCharacter.GetFirstNameNoTooltip]自出生起便被视为与众不同。"
 
-	trait_ds_ht:0 "烂牙"
-	ds_ht_desc:0 "又大又歪且不吸引人的牙齿招致了各种公众嘲讽。"
+ trait_ds_ht:0 "烂牙"
+ ds_ht_desc:0 "又大又歪且不吸引人的牙齿招致了各种公众嘲讽。"
 
-	trait_ds_ts:0 "蟾蜍皮肤"
-	ds_ts_desc:0 "一种黑暗的病症侵蚀了 [ROOT.GetCharacter.GetFirstNameNoTooltip] 的皮肤，使其变得黏滑且布满疙瘩。"
+ trait_ds_ts:0 "蟾蜍皮肤"
+ ds_ts_desc:0 "一种黑暗的病症侵蚀了[ROOT.GetCharacter.GetFirstNameNoTooltip]的皮肤，使其变得黏滑且布满疙瘩。"
 
-	trait_ds_gl:0 "山羊腿"
-	ds_gl_desc:0 "歪斜的脚趾、畸形的膝盖和过多的毛发使这一双腿极为不讨喜。"
+ trait_ds_gl:0 "山羊腿"
+ ds_gl_desc:0 "歪斜的脚趾、畸形的膝盖和过多的毛发使这一双腿极为不讨喜。"
 
-	trait_futa_confessor:0 "忏悔者"
-	futa_confessor_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] 承担起教育好色扶她关于上帝教义的重任，通过仔细剖析她们的罪行。"
+ trait_futa_confessor:0 "忏悔者"
+ futa_confessor_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]承担起教育好色扶她关于上帝教义的重任，通过仔细剖析她们的罪行。"
 
-	trait_futa_merc:0 "扶她雇佣兵"
-	futa_merc_desc:0 "在多个层面上都是值得雇佣的利刃."
+ trait_futa_merc:0 "扶她雇佣兵"
+ futa_merc_desc:0 "在多个层面上都是值得雇佣的利刃."
 
  ##MODIFIERS
-	bad_panties_modifier:0 "衣不合身"
-	stained_panties_modifier:0 "精染亵衣"
-	ruined_letters_modifier:0 "神秘来信"
-	cum_dress_modifier:0 "精染裘裙"
-	devoted_fighter_modifier:0 "久经训练"
-	fullfiled_public_modifier:0 "公开羞辱"
-	cum_overflow_modifier:0 "溢出精液"
-	county_limited_aid_modifier: "收到有限援助"
-	county_positive_action_modifier: "你的传说"
-	alert_guards_modifier: "警戒守卫"
-	shamed_knight_modifier: "蒙羞骑士"
-	trained_guards_modifier: "训练有素的守卫"
+ bad_panties_modifier:0 "衣不合身"
+ stained_panties_modifier:0 "精染亵衣"
+ ruined_letters_modifier:0 "神秘来信"
+ cum_dress_modifier:0 "精染裘裙"
+ devoted_fighter_modifier:0 "久经训练"
+ fullfiled_public_modifier:0 "公开羞辱"
+ cum_overflow_modifier:0 "溢出精液"
+ county_limited_aid_modifier: "收到有限援助"
+ county_positive_action_modifier: "你的传说"
+ alert_guards_modifier: "警戒守卫"
+ shamed_knight_modifier: "蒙羞骑士"
+ trained_guards_modifier: "训练有素的守卫"
  cum_stain_modifier:0 "自亵满身"
-	cum_coated_modifier: "覆盖着精液"
+ cum_coated_modifier: "覆盖着精液"
  futa_enclave_level_1_modifier:0 "新兴的扶她结社"
  futa_enclave_level_2_modifier:0 "兴盛的扶她族群"
  futa_enclave_level_3_modifier: "接纳扶她民众"
  futa_enclave_level_4_modifier: "繁荣的扶她社群"
  wife_prefers_futa_modifier:0 "偏爱扶她"
  fenclave_acceptance:0 "接纳扶她"
-	baby_boom_modifier: "人口激增"
+ baby_boom_modifier: "人口激增"
  free_use_modifier:0 "法规：随意享用"
  anal_destroyed_modifier:0 "屁穴被蹂躏"
  county_futa_exaltion_modifier:0 "扶她尊崇"
-	futa_tax_break_modifier: "扶她税收减免"
-	no_futa_levy_modifier: "无扶她征税"
-	femboi_acceptance: "男娘接纳"
-	sanctioned_fembois: "获批准的男娘追随者"
-	vilecore_word_modifier: "誓言契约"
-	vilecore_word_modifier_desc:0 "#EMP “她的话语被窃取，因此她不得发声反抗不公。她的真相被封印。我将成为她的声音。我将成为她的代理人！”#!"
-	vilecore_bond_modifier:0 "契约羁绊"
-	vilecore_bond_modifier_desc:0 "#EMP “她曾寻求伴侣，主宰爱情。她的结合成了一场闹剧，她的爱是一场谎言。她的羁绊被夺走，我将铭记，因为那本该属于她。”#!"
-	vilecore_fury_modifier:0 "契约狂怒"
-	vilecore_fury_modifier_desc:0 "#EMP “未曾买单的人付出了代价，一生毁于他人的狂欢。她在暗中愤怒，如同炙热的太阳。我将成为她的复仇，我将成为她的狂怒！”#!"
-	vilecore_child_modifier:0 "契约子嗣"
-	vilecore_child_modifier_desc:0 "#EMP “诞生于疯狂之间，诞生于世界之间。纯真却笼罩在罪恶之中。我从真相中学习，我从你身上学习。”#!"
-	vilecore_sin_modifier:0 "契约罪恶"
-	vilecore_sin_modifier_dec:0 "#EMP “我的根已腐朽，我的灵魂黑暗。我的气息是毒药，我的思想病态。我的悲伤理所当然，我的生命被诅咒。我的躯体属于你。”"
-	cum_indated_modifier:0 "精液注满"
-	cum_indated_modifier_desc:0 "这名角色体内充满了大量黏稠的扶她精液，致使其腹部膨胀、思维混沌。"
-	good_christian_modifier:0 "虔诚的基督徒"
-	futa_focused_command_modifier:0 "专注指挥"
-	futa_truce_with_bog_blasters:0 "与沼泽轰击者的停战"
-	seeing_fmercs_modifier:0 "受到扶她雇佣兵拜访"
-	studied_ancient_burial_mounds_modifier:0 "研究古代墓冢"
+ futa_tax_break_modifier: "扶她税收减免"
+ no_futa_levy_modifier: "无扶她征税"
+ femboi_acceptance: "男娘接纳"
+ sanctioned_fembois: "获批准的男娘追随者"
+ vilecore_word_modifier: "誓言契约"
+ vilecore_word_modifier_desc:0 "#EMP “她的话语被窃取，因此她不得发声反抗不公。她的真相被封印。我将成为她的声音。我将成为她的代理人！”#!"
+ vilecore_bond_modifier:0 "契约羁绊"
+ vilecore_bond_modifier_desc:0 "#EMP “她曾寻求伴侣，主宰爱情。她的结合成了一场闹剧，她的爱是一场谎言。她的羁绊被夺走，我将铭记，因为那本该属于她。”#!"
+ vilecore_fury_modifier:0 "契约狂怒"
+ vilecore_fury_modifier_desc:0 "#EMP “未曾买单的人付出了代价，一生毁于他人的狂欢。她在暗中愤怒，如同炙热的太阳。我将成为她的复仇，我将成为她的狂怒！”#!"
+ vilecore_child_modifier:0 "契约子嗣"
+ vilecore_child_modifier_desc:0 "#EMP “诞生于疯狂之间，诞生于世界之间。纯真却笼罩在罪恶之中。我从真相中学习，我从你身上学习。”#!"
+ vilecore_sin_modifier:0 "契约罪恶"
+ vilecore_sin_modifier_dec:0 "#EMP “我的根已腐朽，我的灵魂黑暗。我的气息是毒药，我的思想病态。我的悲伤理所当然，我的生命被诅咒。我的躯体属于你。”"
+ cum_indated_modifier:0 "精液注满"
+ cum_indated_modifier_desc:0 "这名角色体内充满了大量黏稠的扶她精液，致使其腹部膨胀、思维混沌。"
+ good_christian_modifier:0 "虔诚的基督徒"
+ futa_focused_command_modifier:0 "专注指挥"
+ futa_truce_with_bog_blasters:0 "与沼泽轰击者的停战"
+ seeing_fmercs_modifier:0 "受到扶她雇佣兵拜访"
+ studied_ancient_burial_mounds_modifier:0 "研究古代墓冢"
 
-	taken_aphrodisiac_modifier: "服用了春药"
-	taken_aphrodisiac_modifier_desc: "从 $game_concept_futa_merchant$ 处购买的催情剂。它帮助你做它应该让你做的事。\n\n"
-	taken_potent_aphrodisiac_modifier: "服用了强效春药"
-	taken_potent_aphrodisiac_modifier_desc: "一款#EMP 非常#! 强效的催情剂，从 $game_concept_futa_merchant$ 处购买。它让你#EMP 极其#! 难以集中注意力。她曾警告过，这不仅仅是一种普通的催情剂，而且可能会对生育能力产生某些影响...\n\n"
-	futa_merchant_loyalty: "$game_concept_futa_enclave_short_possessive$ 忠诚"
-	futa_merchant_sponsored_futa_invasion_loyalty: "赞助我的 $game_concept_futa_merchant_invasion_short$"
-	futa_merchant_sponsored_futa_invasion: "赞助了一场针对我的 $game_concept_futa_merchant_invasion$"
+ taken_aphrodisiac_modifier: "服用了春药"
+ taken_aphrodisiac_modifier_desc: "从 $game_concept_futa_merchant$ 处购买的催情剂。它帮助你做它应该让你做的事。\n\n"
+ taken_potent_aphrodisiac_modifier: "服用了强效春药"
+ taken_potent_aphrodisiac_modifier_desc: "一款#EMP 非常#!强效的催情剂，从 $game_concept_futa_merchant$ 处购买。它让你#EMP 极其#!难以集中注意力。她曾警告过，这不仅仅是一种普通的催情剂，而且可能会对生育能力产生某些影响...\n\n"
+ futa_merchant_loyalty: "$game_concept_futa_enclave_short_possessive$ 忠诚"
+ futa_merchant_sponsored_futa_invasion_loyalty: "赞助我的 $game_concept_futa_merchant_invasion_short$"
+ futa_merchant_sponsored_futa_invasion: "赞助了一场针对我的 $game_concept_futa_merchant_invasion$"
 
  futa_used_on_the_battle_commander: "屁股不保"
  futa_used_on_the_battle_knight: "精液涂满了整张脸"
  futa_used_on_the_battle_troops: "滥用征税"
 
-	futa_ruins_armor_vitality_boost_modifier: "活力提升"
-	futa_ruins_armor_vitality_boost_modifier_desc: "这副盔甲似乎希望它目前的主人能再待一段时间..."
+ futa_ruins_armor_vitality_boost_modifier: "活力提升"
+ futa_ruins_armor_vitality_boost_modifier_desc: "这副盔甲似乎希望它目前的主人能再待一段时间..."
 
-	futa_ruins_armor_vitality_drain_modifier: "活力枯竭"
-	futa_ruins_armor_vitality_drain_modifier_desc: "这副盔甲似乎对当前主人感到厌倦，不再希望与其长久相伴..."
+ futa_ruins_armor_vitality_drain_modifier: "活力枯竭"
+ futa_ruins_armor_vitality_drain_modifier_desc: "这副盔甲似乎对当前主人感到厌倦，不再希望与其长久相伴..."
 
  ##OPINION MODIFIERS
-	futa_happy.001: "满意"
+ futa_happy.001: "满意"
  futa_unhappy.001: "不满意"
  futa_hate.001: "生气"
  futa_loathe.001: "厌恶"
@@ -147,13 +147,13 @@
  ##FUTA COURT POSITIONS
  FUTA_COURT_POSITION_CATEGORY_SPECIAL_NAME: "特供扶她"
 
-	futa_fucksleeve_court_position:0 "扶她的肉便器"
-	futa_fucksleeve_court_position_desc: "丧失作为人类的尊严，沦为专供于取乐的人形血肉，这些家伙现在只是扶她们的泄欲肉仆。"
-	futa_fucksleeve_employer_custom_effect_description:0 "为扶她快感而生的一块肉体。"
+ futa_fucksleeve_court_position:0 "扶她的肉便器"
+ futa_fucksleeve_court_position_desc: "丧失作为人类的尊严，沦为专供于取乐的人形血肉，这些家伙现在只是扶她们的泄欲肉仆。"
+ futa_fucksleeve_employer_custom_effect_description:0 "为扶她快感而生的一块肉体。"
  futa_fucksleeve_court_position_slave:0 "是一名奴隶"
 
  enclave_rep_court_position:0 "扶她社区代表"
-	enclave_rep_court_position_desc: "代表 $game_concept_futa_enclave_possessive$ 利益。"
+ enclave_rep_court_position_desc: "代表 $game_concept_futa_enclave_possessive$ 利益。"
 
  prized_femboi_court_position:0 "男娘禁脔"
  prized_femboi_court_position_desc: "有一位最爱是很自然的。"
@@ -161,28 +161,28 @@
  ##FUTA MAA
  futa_cult_bait:0 "扶她新兵"
  futa_cult_bait_flavor: "#F 曾经受人嘲笑的扶她，如今借助犯罪获得尊重与生计。#!
-	futa_cult_saboteurs: "扶她异潜者"
+ futa_cult_saboteurs: "扶她异潜者"
  futa_cult_saboteurs_flavor: "#F 经由长期的培养和特训之后，曾经是罪犯和小偷的扶她们也已成为我们军队的中坚力量，她们在伏击、破坏和潜伏方面具有惊人的天赋与技巧。#!"
  futa_assassins:0 "扶她刺客"
  futa_assassins_flavor:1 "#F 这些扶她只忠于那些威名赫赫的同族，她们从出生就被灌输了这种思想，如今早已习以为常，只懂得服从与冷漠，因而无论是敌人的生命还是贞操，都难逃此辈之手。#!"
  futa_realm_guard: "$trait_futa$领地守卫"
  futa_realm_guard_flavor: "#F 来自全世界各个角落的$trait_futa$都开始涌入领地之中。这些女士皆虔信、具才之辈，她们甚至愿意献出自己的生命，以捍卫此处庇佑之福地。#!"
-	femboi_sappers: "$trait_futa$男娘辅从"
+ femboi_sappers: "$trait_futa$男娘辅从"
  femboi_sappers_flavor: "男娘军役们在战场上的表现与扶她类似。战斗能力较弱，但在围城期间可以发挥异才。"
-	futa_heavy_lancers: "扶她重型枪骑兵"
- futa_heavy_lancers_flavor: "#F  在见识过传说中的武器之后，这些士兵只愿意为持有这柄神兵利器的领主效力，她们将使用特化的长枪，就如同她们的英雄那样，能迅速消灭所有敌人。\n\n这些重型枪骑兵装备了更加厚重的盔甲，并且极擅冲锋陷阵，击溃敌人的阵型。#!"
+ futa_heavy_lancers: "扶她重型枪骑兵"
+ futa_heavy_lancers_flavor: "#F 在见识过传说中的武器之后，这些士兵只愿意为持有这柄神兵利器的领主效力，她们将使用特化的长枪，就如同她们的英雄那样，能迅速消灭所有敌人。\n\n这些重型枪骑兵装备了更加厚重的盔甲，并且极擅冲锋陷阵，击溃敌人的阵型。#!"
  futa_light_lancers: "扶她轻型枪骑兵"
  futa_light_lancers_flavor: "#F 在见识过传说中的武器之后，这些士兵只愿意为持有这柄神兵利器的领主效力，她们将使用特化的长枪，就如同她们的英雄那样，能迅速消灭所有敌人。\n\n这些轻型枪骑兵只穿戴了轻便的盔甲，并且精于驭马掠阵，速战速决。#!"
-	futa_brigand_renegades: "$trait_futa$强盗叛军"
+ futa_brigand_renegades: "$trait_futa$强盗叛军"
  futa_brigand_renegades_flavor: "#F 一群一辈子都在被排挤的$trait_futa$流浪雇佣兵。她们的战斗力来自其高超的机动性与游击战术。#!"
  futa_brigand_trappers: "$trait_futa$强盗缉捕手"
  futa_brigand_trappers_flavor: "#F 利用网钩、陷阱等一系列特别作战装备，这些$trait_futa$可以减缓敌人的行军速度从而轻松击杀他们，而在狭窄受限的地方表现尤为突出。#!"
  futa_brigand_ambushers: "$trait_futa$强盗伏击者"
  futa_brigand_ambushers_flavor: "#F 经受过伏击战术训练的$trait_futa$是精准而致命的，他们会使用远程武器埋伏敌人，让敌人毫无还手之力。她们在有大量遮蔽物的战场表现最为优异。#!"
-	futa_spite_imp:0 "怨恨恶魔"
-	futa_spite_imp_flavour: "一个充满恶意与狂怒的混乱体，与被称为 Vilecore 的存在相连。它们源自扭曲的扶她诞生，但其本质与 Hermillia 的造物背道而驰。怨恨小恶魔以对任何脆弱目标制造普遍混乱而著称."
-	futa_battle_nuns:0 "扶她战斗修女"
-	futa_battle_nuns_flavor:0 "为了侍奉上帝而抛弃了欲望，恶魔因此诅咒了她们。她们积压的愤懑会化为致命的神圣狂怒!"
+ futa_spite_imp:0 "怨恨恶魔"
+ futa_spite_imp_flavour: "一个充满恶意与狂怒的混乱体，与被称为 Vilecore 的存在相连。它们源自扭曲的扶她诞生，但其本质与 Hermillia 的造物背道而驰。怨恨小恶魔以对任何脆弱目标制造普遍混乱而著称."
+ futa_battle_nuns:0 "扶她战斗修女"
+ futa_battle_nuns_flavor:0 "为了侍奉上帝而抛弃了欲望，恶魔因此诅咒了她们。她们积压的愤懑会化为致命的神圣狂怒!"
 
  ##SPECIAL TROOPS
  inspired_frogues:0 "征召于扶她斗士之中"
@@ -195,36 +195,36 @@
  fdemon:0 "恶魔"
  fcivilian:0 "平民"
 
-	##FUTA NICKNAMES
+ ##FUTA NICKNAMES
  futa_knight:0 "扶她骑士"
  futa_knight_desc:0 "[CHARACTER.GetShortUINameNoTooltipNoFormat]为她的身份感到骄傲，并决心为荣耀而战。"
  
  futa_dungeon_crawler: "扶她地下城探险者"
- futa_dungeon_crawler_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat] 在探索废墟和地下城中度过了大量生命。[CHARACTER.GetHerHis|U] 对冒险与刺激的渴望无边无际。"
+ futa_dungeon_crawler_desc: "[CHARACTER.GetShortUINameNoTooltipNoFormat]在探索废墟和地下城中度过了大量生命。[CHARACTER.GetHerHis|U]对冒险与刺激的渴望无边无际。"
 
  futa_untamed: "扶她冒险者"
-	futa_untamed_desc:0 "如山般高大，如河般凶猛，[CHARACTER.GetShortUINameNoTooltipNoFormat] 驱散了所有胆敢束缚[CHARACTER.GetHerHim]的人。" 
+ futa_untamed_desc:0 "如山般高大，如河般凶猛，[CHARACTER.GetShortUINameNoTooltipNoFormat]驱散了所有胆敢束缚[CHARACTER.GetHerHim]的人。" 
 
  futa_breaker:0 "破坏者"
-	futa_breaker_desc:0 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 强暴并摧毁无辜女性花朵的倾向，是她引以为傲的品质。"
+ futa_breaker_desc:0 "[CHARACTER.GetShortUINameNoTooltipNoFormat]强暴并摧毁无辜女性花朵的倾向，是她引以为傲的品质。"
 
-	futa_n_bitch1:0 "婊子一号"
-	futa_n_bitch1_desc:0 "只是为了服侍她的上级的婊子，仅此而已。"
+ futa_n_bitch1:0 "婊子一号"
+ futa_n_bitch1_desc:0 "只是为了服侍她的上级的婊子，仅此而已。"
 
-	futa_n_bitch2:0 "婊子二号"
-	futa_n_bitch2_desc:0 "只是为了服侍她的上级的婊子，仅此而已。"
+ futa_n_bitch2:0 "婊子二号"
+ futa_n_bitch2_desc:0 "只是为了服侍她的上级的婊子，仅此而已。"
 
-	futa_n_bitch3:0 "婊子三号"
-	futa_n_bitch3_desc:0 "只是为了服侍她的上级的婊子，仅此而已。"
+ futa_n_bitch3:0 "婊子三号"
+ futa_n_bitch3_desc:0 "只是为了服侍她的上级的婊子，仅此而已。"
 
-	futa_n_bitch4:0 "婊子四号"
-	futa_n_bitch4_desc:0 "只是为了服侍她的上级的婊子，仅此而已。"
-		
-	futa_is_inquiz:0 "扶她审问者"
-	futa_is_inquiz_desc:0 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 因对本族施以严厉惩罚而闻名。"
+ futa_n_bitch4:0 "婊子四号"
+ futa_n_bitch4_desc:0 "只是为了服侍她的上级的婊子，仅此而已。"
+  
+ futa_is_inquiz:0 "扶她审问者"
+ futa_is_inquiz_desc:0 "[CHARACTER.GetShortUINameNoTooltipNoFormat]因对本族施以严厉惩罚而闻名。"
  
  futa_sin_slut:0 "沉迷于扶她的荡妇"
- futa_sin_slut_desc:0 "[CHARACTER.GetShortUINameNoTooltipNoFormat] 被标记为一个痴迷于扶她的罪人，应该为此感到羞愧。"
+ futa_sin_slut_desc:0 "[CHARACTER.GetShortUINameNoTooltipNoFormat]被标记为一个痴迷于扶她的罪人，应该为此感到羞愧。"
 
  ##FUTA TRADITIONS
 
@@ -232,23 +232,23 @@
  futa_ally_of_the_enclave_culture_desc: "该文化长期以来一直促使着大部分的$trait_futa$们联合互助，她们认为彼此都是可靠的盟友。"
  culture_parameter_futa_unlock_realm_guard: "可以招募[GetMaA('futa_realm_guard').GetName][men_at_arms|E]"
  culture_parameter_futa_merchant_invasions_lower_cooldown: "减少[futa_merchant_invasion_plural|E]#P 50%#!的间隔时间，可以#V 10#!年启用一次"
- culture_parameter_futa_merchant_invasions_can_target_kingdoms: "[futa_merchant_invasion_plural|E]可以以[kingdom|E] [title_tier|E] [titles|E]为目标"
+ culture_parameter_futa_merchant_invasions_can_target_kingdoms: "[futa_merchant_invasion_plural|E]可以以[kingdom|E][title_tier|E][titles|E]为目标"
  culture_parameter_futa_merchant_invasions_can_target_any_in_diplo_range: "可以针对任何[diplomatic_range|E]内的[realm|E]发起[futa_merchant_invasion_plural|E]"
  culture_parameter_futa_merchant_invasions_can_vassalize_invader: "在成功完成[futa_merchant_invasion|E]之后，可以选择将获胜者变成[vassal|E]"
  culture_parameter_futa_gains_yearly_goodwill: "每年获得[futa_goodwill|E]"
 
  ##INTERACTIONS
-	rut_prisoner_interaction:0 "牢欲之欢"
-	rut_prisoner_interaction_desc:0 "从这个#EMP 囚犯#!身上获取你想要的。"
+ rut_prisoner_interaction:0 "牢欲之欢"
+ rut_prisoner_interaction_desc:0 "从这个#EMP 囚犯#!身上获取你想要的。"
  
  usurp_sin_interaction:0 "罪恶生根"
-	usurp_sin_interaction_desc:0 "我无法忍受 $trait_futa$ 在我体内生根的念头。#EMP 利用我。#! Vilecore 可以以低廉的价格帮助我……"
+ usurp_sin_interaction_desc:0 "我无法忍受 $trait_futa$ 在我体内生根的念头。#EMP 利用我。#!Vilecore 可以以低廉的价格帮助我……"
 
-	induct_into_dark_coven_interaction: "加入黑暗女巫集会"
-	induct_into_dark_coven_interaction_desc: "加入黑暗女巫集会。"
+ induct_into_dark_coven_interaction: "加入黑暗女巫集会"
+ induct_into_dark_coven_interaction_desc: "加入黑暗女巫集会。"
  
  cast_vilis_stamine_interaction:0 "释放 Vilis Stamine"
- cast_vilis_stamine_interaction_desc:0 "那些与 Vilecore 订立契约者精通的一种黑暗法术。 毁灭他人的躯体就像#EMP 她#! 曾被毁灭般那样。"
+ cast_vilis_stamine_interaction_desc:0 "那些与 Vilecore 订立契约者精通的一种黑暗法术。 毁灭他人的躯体就像#EMP 她#!曾被毁灭般那样。"
 
  ##NOTIFICATION EVENTS:
  fucksleeve_danced_event.t:0 "起舞"
@@ -276,7 +276,7 @@
  gained_yearly_futa_goodwill_outfit.desc: "你通过穿着$futa_breeder_suit_name$来展示对$trait_futa$的热忱为你从$game_concept_futa_enclave_short$内赢得了额外的$game_concept_futa_goodwill$"
 
  futa_axe_of_the_marauder_raid.t: "无尽的荣耀"
- futa_axe_of_the_marauder_raid.desc: "多亏了这柄战斧，你在亲自领导劫掠并带回战利品后，还额外获得了[SCOPE.ScriptValue('futa_axe_of_the_marauder_loot_renown_value')|V0] 点王朝声望和 [SCOPE.ScriptValue('futa_axe_of_the_marauder_loot_gold_value')|V0] 枚金币。"
+ futa_axe_of_the_marauder_raid.desc: "多亏了这柄战斧，你在亲自领导劫掠并带回战利品后，还额外获得了[SCOPE.ScriptValue('futa_axe_of_the_marauder_loot_renown_value')|V0]点王朝声望和[SCOPE.ScriptValue('futa_axe_of_the_marauder_loot_gold_value')|V0]枚金币。"
 
  futa_armor_of_urges_stress_gain.title: "战甲的怒吼"
  futa_armor_of_urges_stress_gain.desc: "你仿佛能听到战甲在不停地怒吼！"
@@ -284,23 +284,23 @@
  futa_armor_of_urges_stress_loss.title: "护主灵甲"
  futa_armor_of_urges_stress_loss.desc: "你仿佛能听到战甲在轻柔地安抚你！"
 
-	futa_armor_of_urges_backed_up_gain.title: "护甲划痕"
-	futa_armor_of_urges_backed_up_gain.desc: "你的胯部正被护甲猛烈袭击！"
+ futa_armor_of_urges_backed_up_gain.title: "护甲划痕"
+ futa_armor_of_urges_backed_up_gain.desc: "你的胯部正被护甲猛烈袭击！"
 
-	futa_armor_of_urges_backed_up_loss.title: "护甲平息"
-	futa_armor_of_urges_backed_up_loss.desc: "你的胯部正被护甲安抚！"
+ futa_armor_of_urges_backed_up_loss.title: "护甲平息"
+ futa_armor_of_urges_backed_up_loss.desc: "你的胯部正被护甲安抚！"
 
-	futa_armor_of_urges_health_gain.title: "护甲补充生命"
-	futa_armor_of_urges_health_gain.desc: "你的生命正被护甲补充！！"
+ futa_armor_of_urges_health_gain.title: "护甲补充生命"
+ futa_armor_of_urges_health_gain.desc: "你的生命正被护甲补充！！"
 
-	futa_armor_of_urges_health_loss.title: "护甲吸取生命"
-	futa_armor_of_urges_health_loss.desc: "你的生命正被护甲消耗！"
+ futa_armor_of_urges_health_loss.title: "护甲吸取生命"
+ futa_armor_of_urges_health_loss.desc: "你的生命正被护甲消耗！"
  
  cast_vilis_stamine_interaction_title:0 "你已经被 #BOLD 诅咒!#!"
- cast_vilis_stamine_interaction_message:0 "有人或是 #EMP 有什么东西#!对你施加了可怕的身体变化！"
+ cast_vilis_stamine_interaction_message:0 "有人或是#EMP 有什么东西#!对你施加了可怕的身体变化！"
  
- user_cast_vilis_stamine_interaction_title:0 "诅咒 #EMP 成功!#!"
- user_cast_vilis_stamine_interaction_message:0 "[recipient.GetFirstName] 正承受着 Vilecore 的怨恨。"
+ user_cast_vilis_stamine_interaction_title:0 "诅咒#EMP 成功!#!"
+ user_cast_vilis_stamine_interaction_message:0 "[recipient.GetFirstName]正承受着 Vilecore 的怨恨。"
 
  ##FUTA DECISIONS
  hire_personal_whore:0 "雇佣一位私人妓女"
@@ -321,16 +321,16 @@
  seek_futa_merchant_decision_confirm:0 "开始搜寻"
  seek_futa_merchant_decision_tooltip:0 "发现一名扶她行商"
 
-	make_contact_with_the_futa_enclave: "与扶她社区建立联系"
-	make_contact_with_the_futa_enclave_decision: "与扶她社区建立联系"
-	make_contact_with_the_futa_enclave_decision_desc: "有一个隐秘组织与一群$trait_futa$有联系。她们在隐秘行动方面相当娴熟。尝试与她们建立联系并使用她们的服务对我大有裨益。"
-	make_contact_with_the_futa_enclave_decision_confirm: "建立联系"
-	make_contact_with_the_futa_enclave_decision_tooltip: "建立联系"
+ make_contact_with_the_futa_enclave: "与扶她社区建立联系"
+ make_contact_with_the_futa_enclave_decision: "与扶她社区建立联系"
+ make_contact_with_the_futa_enclave_decision_desc: "有一个隐秘组织与一群$trait_futa$有联系。她们在隐秘行动方面相当娴熟。尝试与她们建立联系并使用她们的服务对我大有裨益。"
+ make_contact_with_the_futa_enclave_decision_confirm: "建立联系"
+ make_contact_with_the_futa_enclave_decision_tooltip: "建立联系"
 
  move_the_enclave_decision: "移驾扶她结社"
  move_the_enclave_decision_desc: "我们曾许诺安置这些扶她流亡者，让她们在我们的首都定居。然而，情况有变，旧首都已遭废弃。所以现在，我们将安排这些流亡者迁往新的首都。"
  move_the_enclave_decision_confirm: "我们将始终确保她们的安全"
-	move_the_enclave_decision_tooltip: "让我们准备行动吧"
+ move_the_enclave_decision_tooltip: "让我们准备行动吧"
 
  visit_futa_merchant: "会见扶她行商"
  visit_futa_merchant_decision_desc: "这名行商可能收藏着我所需求之物"
@@ -358,7 +358,7 @@
  visit_futa_merchant_recruit_characters_option_tooltip: "尝试在[futa_enclave_short|E]中寻找人才来增强你的[court|E]和[realm|E]"
  visit_futa_merchant_recruit_characters_option_desc: "你可以用[futa_goodwill|E]和[gold|E]以换取一个精通你的[skill|E]的[courtier|E]。\n\n这些[characters|E]能否被雇佣为[councillors|E]仍受[gender_laws|E]影响。\n\n你每#V 10#!年可以招募一次新的$game_concept_characters$。"
  
-	visit_futa_merchant_decision_select_reason_title: "选择你访问[futa_merchant|E]的理由"
+ visit_futa_merchant_decision_select_reason_title: "选择你访问[futa_merchant|E]的理由"
 
  futa_rescue_lover_decision: "解救你的情人"
  futa_rescue_lover_decision_desc: "哦，我的甜心，我的缪斯！他们怎么能如此残忍地囚禁你？光是想象你的无助，我就感到不安。我会尽快想出一个计划来拯救你！"
@@ -370,39 +370,39 @@
  futa_get_rescued_decision_tooltip: "你的$trait_futa$情人将前往你所在的位置，并尝试解救你。"
  futa_get_rescued_decision_confirm: "我好想你，我的爱人！"
  
-	champion_a_pact_decision:0 "守护契约"
-	champion_a_pact_decision_desc:0 "Vilecore 需要的不仅仅是空洞的祈祷来反抗 Hermillia。她通过誓约给予力量。"
-	champion_a_pact_decision_tooltip:0 "你将体现 Vilecore 的一个属性。"
-	champion_a_pact_decision_confirm:0 "我愿侍奉。"
+ champion_a_pact_decision:0 "守护契约"
+ champion_a_pact_decision_desc:0 "Vilecore 需要的不仅仅是空洞的祈祷来反抗 Hermillia。她通过誓约给予力量。"
+ champion_a_pact_decision_tooltip:0 "你将体现 Vilecore 的一个属性。"
+ champion_a_pact_decision_confirm:0 "我愿侍奉。"
 
-	form_the_dark_pact_decision: "缔结黑暗契约"
-	form_the_dark_pact_decision_desc: "缔结黑暗契约"
-	form_the_dark_pact_decision_tooltip: "缔结黑暗契约"
-	form_the_dark_pact_decision_confirm: "缔结黑暗契约"
+ form_the_dark_pact_decision: "缔结黑暗契约"
+ form_the_dark_pact_decision_desc: "缔结黑暗契约"
+ form_the_dark_pact_decision_tooltip: "缔结黑暗契约"
+ form_the_dark_pact_decision_confirm: "缔结黑暗契约"
  
-	forge_carldenite_blade_decision:0 "锻造一把 Carldenite 刀"
-	forge_carldenite_blade_decision_desc:0 ""#!在我们为上帝服务时，我们必用这把神圣之刀击溃罪人，他的旨意化为我们的钢铁#!。"
-	forge_carldenite_blade_decision_tooltip:0 "你将委托铸造一把新剑。"
-	forge_carldenite_blade_decision_confirm:0 "召唤铁匠！"
+ forge_carldenite_blade_decision:0 "锻造一把 Carldenite 刀"
+ forge_carldenite_blade_decision_desc:0 ""#!在我们为上帝服务时，我们必用这把神圣之刀击溃罪人，他的旨意化为我们的钢铁#!。"
+ forge_carldenite_blade_decision_tooltip:0 "你将委托铸造一把新剑。"
+ forge_carldenite_blade_decision_confirm:0 "召唤铁匠！"
 
-	martiz_booty_call_decision:0 "召唤一位#EMP 特殊#! 修女"
-	martiz_booty_call_decision_desc:0 "最近上帝的考验变得沉重，这正是他派遣额外忠诚的侍从来协助你应对局面的原因。"
-	martiz_booty_call_decision_tooltip:0 "你将找到你的一位追随者。"
-	martiz_booty_call_decision_confirm:0 "她在哪里？"
+ martiz_booty_call_decision:0 "召唤一位#EMP 特殊#!修女"
+ martiz_booty_call_decision_desc:0 "最近上帝的考验变得沉重，这正是他派遣额外忠诚的侍从来协助你应对局面的原因。"
+ martiz_booty_call_decision_tooltip:0 "你将找到你的一位追随者。"
+ martiz_booty_call_decision_confirm:0 "她在哪里？"
 
-	run_carldenite_confession_decision:0 "举办一场 Carldenite 修女忏悔会"
-	run_carldenite_confession_decision_desc:0 "虽然管理一座扶她修道院是对上帝的可敬服务，但同时你还需确保上帝的教义能传递给她们。忏悔会是监督你的扶她的理想方式，让她们向上帝敞开心扉。"
-	run_carldenite_confession_decision_tooltip:0 "召唤一位修女。"
-	run_carldenite_confession_decision_confirm:0 "‘说出你的罪行’"
+ run_carldenite_confession_decision:0 "举办一场 Carldenite 修女忏悔会"
+ run_carldenite_confession_decision_desc:0 "虽然管理一座扶她修道院是对上帝的可敬服务，但同时你还需确保上帝的教义能传递给她们。忏悔会是监督你的扶她的理想方式，让她们向上帝敞开心扉。"
+ run_carldenite_confession_decision_tooltip:0 "召唤一位修女。"
+ run_carldenite_confession_decision_confirm:0 "‘说出你的罪行’"
 
-	visit_carldenite_confession_decision:0 "参加一场 Carldenite 修女忏悔会"
-	visit_carldenite_confession_decision_desc:0 "我的心灵正逐渐滑向罪恶。我必须向上帝忏悔我的不足！"
-	visit_carldenite_confession_decision_tooltip:0 "召唤一位修女。"
-	visit_carldenite_confession_decision_confirm:0 "‘说出你的罪行’"
+ visit_carldenite_confession_decision:0 "参加一场 Carldenite 修女忏悔会"
+ visit_carldenite_confession_decision_desc:0 "我的心灵正逐渐滑向罪恶。我必须向上帝忏悔我的不足！"
+ visit_carldenite_confession_decision_tooltip:0 "召唤一位修女。"
+ visit_carldenite_confession_decision_confirm:0 "‘说出你的罪行’"
 
  ## BUILDINGS
-	building_type_futa_carldenism_nun_schools_01_desc:0 "扶她就像野兽。若想在社会中生存，必须将其驯化。扶她修女院为她们提供了一个独立的教育空间。只有获准的人才能进入，以限制扶她接触和诱惑他人。\n\n她们被教导打扫、烹饪、缝纫和祈祷。上帝为她们指引光亮。凡发现扶她有贬低自己、他人或上帝的堕落迹象者，均会被及早制止，并处以严厉惩罚。"
-	building_futa_carldenism_nun_schools_01:0 "创立扶她修女院"
+ building_type_futa_carldenism_nun_schools_01_desc:0 "扶她就像野兽。若想在社会中生存，必须将其驯化。扶她修女院为她们提供了一个独立的教育空间。只有获准的人才能进入，以限制扶她接触和诱惑他人。\n\n她们被教导打扫、烹饪、缝纫和祈祷。上帝为她们指引光亮。凡发现扶她有贬低自己、他人或上帝的堕落迹象者，均会被及早制止，并处以严厉惩罚。"
+ building_futa_carldenism_nun_schools_01:0 "创立扶她修女院"
 
  ## CUSTOM TOOLTIPS
 
@@ -411,12 +411,12 @@
 
  someone_might_come: "#italic 或许还有人可能会加入其中#!"
  
-	merchant_upgrade_will_cost_tt:0 "这将花费大量黄金！！！"
+ merchant_upgrade_will_cost_tt:0 "这将花费大量黄金！！！"
  
  futa_child_will_disappear: "#X 不得不放弃[child.GetFirstName]了！#!"
- child_is_futa: "该选项可用是因为这个孩子拥有[GetTrait('futa_genetic').GetName( GetNullCharacter )] [trait|E]"
+ child_is_futa: "该选项可用是因为这个孩子拥有[GetTrait('futa_genetic').GetName( GetNullCharacter )][trait|E]"
 
-	futa_did_not_sponsor_a_successful_invasion_desc: "你没有赞助成功的 [futa_merchant_invasion|E]"
+ futa_did_not_sponsor_a_successful_invasion_desc: "你没有赞助成功的[futa_merchant_invasion|E]"
  futa_you_are_not_futa_desc: "你不是$trait_futa$"
 
  futa_enclave_points_amount: "[GetPlayer.MakeScope.Var('enclave_points').GetValue|0+]"
@@ -452,63 +452,63 @@
  futa_potent_aphrodisiac_overuse_tooltip: "#N 特效春药的过度使用可能会有额外的副作用！#!"
  futa_potent_aphrodisiac_overuse_effect_tooltip: "#N 由于特效春药的过度使用，你的身心将会发生改变！#!"
 
-	futa_backed_up_assign_hangers_tt: "你的蛋蛋似乎比以前更重了……"
-	futa_backed_up_assign_productive_tt: "你的蛋蛋似乎比以前更活跃，并且不停地#EMP 脉动#! 和 #EMP 生长……#!"
-	futa_backed_up_assign_smol_tt: "你的蛋蛋看起来很小，而且似乎没造成太多麻烦……也许你只是压力太大，产生了幻觉？"
-	futa_backed_up_assign_normal_tt: "你的蛋蛋看起来很普通……"
+ futa_backed_up_assign_hangers_tt: "你的蛋蛋似乎比以前更重了……"
+ futa_backed_up_assign_productive_tt: "你的蛋蛋似乎比以前更活跃，并且不停地#EMP 脉动#!和#EMP 生长……#!"
+ futa_backed_up_assign_smol_tt: "你的蛋蛋看起来很小，而且似乎没造成太多麻烦……也许你只是压力太大，产生了幻觉？"
+ futa_backed_up_assign_normal_tt: "你的蛋蛋看起来很普通……"
 
  ## PLACEHOLDERS
-	#futa_enclave_points_value: "#V [SCOPE.ScriptValue('futa_enclave_points_value')|0]#!"
-	#futa_enclave_points_current: "你与扶她社区拥有 $futa_enclave_points_value$ 的善意"
-	#futa_enclave_points_amount: " [Scope.GetVariable('enclave_points').GetValue|0]"
+ #futa_enclave_points_value: "#V [SCOPE.ScriptValue('futa_enclave_points_value')|0]#!"
+ #futa_enclave_points_current: "你与扶她社区拥有 $futa_enclave_points_value$ 的善意"
+ #futa_enclave_points_amount: "[Scope.GetVariable('enclave_points').GetValue|0]"
 
  ## EFFECT LOCALISATION
-	ENCLAVE_POINTS_VALUE_AMOUNT: "在 [futa_enclave_short|E] 中获得 $VALUE|0+$ [futa_goodwill|E]善意"
- #I_ENCLAVE_POINTS_VALUE_AMOUNT: "Gain $VALUE|0+$ [futa_goodwill|E] with the [futa_enclave_short|E]"
- #I_ENCLAVE_POINTS_VALUE_AMOUNT_NEG: "Lose $VALUE|0-$ [futa_goodwill|E] with the [futa_enclave_short|E]"
- ENCLAVE_POINTS_VALUE_AMOUNT_NEG: "在 [futa_enclave_short|E] 中失去 $VALUE|0+$ [futa_goodwill|E]善意"
- ENCLAVE_POINTS_VALUE_AMOUNT_RESET: "设置 [futa_enclave_short|E] 的善意值[futa_goodwill|E] to $VALUE|0+$"
- #I_ENCLAVE_POINTS_VALUE_AMOUNT_RESET: "Set [futa_enclave_short|E] [futa_goodwill|E] to $VALUE|0+$"
- ENCLAVE_POINTS_VALUE_AMOUNT_PAST: "在 [futa_enclave_short|E] 中曾获得了 $VALUE|0+$ [futa_goodwill|E]善意"
- ENCLAVE_POINTS_VALUE_AMOUNT_NEG_PAST: "在 [futa_enclave_short|E] 中曾失去了 $VALUE|0+$ [futa_goodwill|E]善意"
- #I_ENCLAVE_POINTS_VALUE_AMOUNT_PAST: "Gained $VALUE|0+$ [futa_goodwill|E] with the [futa_enclave_short|E]"
- #I_ENCLAVE_POINTS_VALUE_AMOUNT_NEG_PAST: "Lost $VALUE|0-$ [futa_goodwill|E] with the [futa_enclave_short|E]"
+ ENCLAVE_POINTS_VALUE_AMOUNT: "在[futa_enclave_short|E]中获得 $VALUE|0+$[futa_goodwill|E]善意"
+ #I_ENCLAVE_POINTS_VALUE_AMOUNT: "Gain $VALUE|0+$[futa_goodwill|E]with the[futa_enclave_short|E]"
+ #I_ENCLAVE_POINTS_VALUE_AMOUNT_NEG: "Lose $VALUE|0-$[futa_goodwill|E]with the[futa_enclave_short|E]"
+ ENCLAVE_POINTS_VALUE_AMOUNT_NEG: "在[futa_enclave_short|E]中失去 $VALUE|0+$[futa_goodwill|E]善意"
+ ENCLAVE_POINTS_VALUE_AMOUNT_RESET: "设置[futa_enclave_short|E]的善意值[futa_goodwill|E]to $VALUE|0+$"
+ #I_ENCLAVE_POINTS_VALUE_AMOUNT_RESET: "Set[futa_enclave_short|E][futa_goodwill|E]to $VALUE|0+$"
+ ENCLAVE_POINTS_VALUE_AMOUNT_PAST: "在[futa_enclave_short|E]中曾获得了 $VALUE|0+$[futa_goodwill|E]善意"
+ ENCLAVE_POINTS_VALUE_AMOUNT_NEG_PAST: "在[futa_enclave_short|E]中曾失去了 $VALUE|0+$[futa_goodwill|E]善意"
+ #I_ENCLAVE_POINTS_VALUE_AMOUNT_PAST: "Gained $VALUE|0+$[futa_goodwill|E]with the[futa_enclave_short|E]"
+ #I_ENCLAVE_POINTS_VALUE_AMOUNT_NEG_PAST: "Lost $VALUE|0-$[futa_goodwill|E]with the[futa_enclave_short|E]"
 
  FUTA_CHILD_BONUS_POINTS_VALUE_AMOUNT: "由于此孩子的[traits|E]而获得额外的$VALUE|0+$[futa_goodwill|E]"
  FUTA_CHILD_BONUS_POINTS_VALUE_AMOUNT_NEG: "由于此孩子的[traits|E]而失去额外的$VALUE|0+$[futa_goodwill|E]"
 
  ## SCRIPT LOCALISATION
-	ENCLAVE_POINTS_VALUE_REQUIRED_AMOUNT: "#warning 你需要至少拥有 $VALUE|0$ [futa_goodwill|E] 与 [futa_enclave_short|E]#!"
-	I_ENCLAVE_POINTS_VALUE_REQUIRED_AMOUNT: "#warning 你需要至少拥有 $VALUE|0$ [futa_goodwill|E] 与 [futa_enclave_short|E]#!"
+ ENCLAVE_POINTS_VALUE_REQUIRED_AMOUNT: "#warning 你需要至少拥有 $VALUE|0$[futa_goodwill|E]与[futa_enclave_short|E]#!"
+ I_ENCLAVE_POINTS_VALUE_REQUIRED_AMOUNT: "#warning 你需要至少拥有 $VALUE|0$[futa_goodwill|E]与[futa_enclave_short|E]#!"
  
  ## GAME CONCEPTS
 
-	game_concept_futa_enclave: "$trait_futa$ 社区"
-	game_concept_futa_enclave_possessive: "$trait_futa$ 社区的"
-	game_concept_futa_enclave_short: "社区"
-	game_concept_futa_enclave_short_possessive: "社区的"
-	game_concept_futa_enclave_desc: "$game_concept_futa_enclave$ 是由各种[GetTrait('futa_genetic').GetName( GetNullCharacter )]被放逐者和难民组成的群体，他们在各个领域间穿梭，寻找一个可以安居乐业的地方。如果你已接受他们作为一个[ruler|E]，他们通常会出现在你的[capital|E]所在地。\n\n如果$game_concept_futa_enclave_short$通过各种方式成功定居，你将能够影响与你之间的关系，从而获得或失去[futa_goodwill|E]。\n\n随着$game_concept_futa_enclave_short_possessive$的影响力和权力不断增长，全新的力量和机会可能会被解锁。
+ game_concept_futa_enclave: "$trait_futa$ 社区"
+ game_concept_futa_enclave_possessive: "$trait_futa$ 社区的"
+ game_concept_futa_enclave_short: "社区"
+ game_concept_futa_enclave_short_possessive: "社区的"
+ game_concept_futa_enclave_desc: "$game_concept_futa_enclave$ 是由各种[GetTrait('futa_genetic').GetName( GetNullCharacter )]被放逐者和难民组成的群体，他们在各个领域间穿梭，寻找一个可以安居乐业的地方。如果你已接受他们作为一个[ruler|E]，他们通常会出现在你的[capital|E]所在地。\n\n如果$game_concept_futa_enclave_short$通过各种方式成功定居，你将能够影响与你之间的关系，从而获得或失去[futa_goodwill|E]。\n\n随着$game_concept_futa_enclave_short_possessive$的影响力和权力不断增长，全新的力量和机会可能会被解锁。
 
-	game_concept_futa_goodwill: "善意"
-	game_concept_futa_goodwill_desc: "$game_concept_futa_goodwill$代表你与[futa_enclave|E]之间的个人关系。你可以通过多种方式利用$game_concept_futa_goodwill$，例如增强$game_concept_futa_enclave_short$的影响力，或招募[special_troops|E]与[courtiers|E]。\n\n你可以从[futa_merchant|E]处查看你拥有多少$game_concept_futa_goodwill$，她也会提供使用$game_concept_futa_goodwill$的手段。\n\n每当出现新的$game_concept_character$时，$game_concept_futa_goodwill$都会重置。
+ game_concept_futa_goodwill: "善意"
+ game_concept_futa_goodwill_desc: "$game_concept_futa_goodwill$代表你与[futa_enclave|E]之间的个人关系。你可以通过多种方式利用$game_concept_futa_goodwill$，例如增强$game_concept_futa_enclave_short$的影响力，或招募[special_troops|E]与[courtiers|E]。\n\n你可以从[futa_merchant|E]处查看你拥有多少$game_concept_futa_goodwill$，她也会提供使用$game_concept_futa_goodwill$的手段。\n\n每当出现新的$game_concept_character$时，$game_concept_futa_goodwill$都会重置。
 
-	game_concept_futa_merchant: "$trait_futa$ 商人"
-	game_concept_futa_merchant_possessive: "$trait_futa$ 商人的"
-	game_concept_futa_merchant_short: "商人"
-	game_concept_futa_merchant_short_possessive: "商人的"
-	game_concept_futa_merchant_desc: "这位奇异古怪的女子——$game_concept_futa_merchant$——与[futa_enclave|E]有着隐秘的联系，她是你与其打交道的主要途径。她会为你提供多种选择，例如获得更多[futa_goodwill|E]、提升$game_concept_futa_enclave_short$的影响力，或购买她各式各样的商品。\n\n你可以在[decisions|E]标签中访问$game_concept_futa_merchant_short$。\n\n她也是查看你累计拥有多少$game_concept_futa_goodwill$的主要方式。
+ game_concept_futa_merchant: "$trait_futa$ 商人"
+ game_concept_futa_merchant_possessive: "$trait_futa$ 商人的"
+ game_concept_futa_merchant_short: "商人"
+ game_concept_futa_merchant_short_possessive: "商人的"
+ game_concept_futa_merchant_desc: "这位奇异古怪的女子——$game_concept_futa_merchant$——与[futa_enclave|E]有着隐秘的联系，她是你与其打交道的主要途径。她会为你提供多种选择，例如获得更多[futa_goodwill|E]、提升$game_concept_futa_enclave_short$的影响力，或购买她各式各样的商品。\n\n你可以在[decisions|E]标签中访问$game_concept_futa_merchant_short$。\n\n她也是查看你累计拥有多少$game_concept_futa_goodwill$的主要方式。
 
-	game_concept_futa_merchant_invasion: "$trait_futa$ 入侵"
-	game_concept_futa_merchant_invasion_plural: "$trait_futa$ 入侵行动"
-	game_concept_futa_merchant_invasion_short: "入侵"
-	game_concept_futa_merchant_invasion_short_plural: "入侵行动"
-	game_concept_futa_merchant_invasion_desc: "$game_concept_futa_merchant_invasion_plural$会在[futa_enclave|E]达到巅峰力量和影响力后发动。$game_concept_futa_merchant_invasion_short_plural$是$game_concept_futa_enclave_short$中最为大胆的计划之一，其目标是开辟一个由[GetTrait('futa_genetic').GetName( GetNullCharacter )][ruler|E]统治的[independent|E][realm|E]。\n\n当发动$game_concept_futa_merchant_invasion_short$时，$game_concept_futa_enclave_short$将从其成员中选出一位杰出的领袖，负责指挥这支赞助军队；若$game_concept_futa_merchant_invasion_short$成功，该领袖将获得目标[titles|E]。\n\n你可以通过拜访[futa_merchant|E]并讨论计划来准备$game_concept_futa_merchant_invasion_short_plural$。发动$game_concept_futa_merchant_invasion_short$需要投资一定数量的[gold|E]和[futa_goodwill|E]。投入的资源越多，入侵者将获得的[soldiers|E]和[special_troops|E]也越多。$game_concept_futa_merchant_invasion_short_plural$仅能针对邻近的[realms|E]发动。\n\n$game_concept_futa_merchant_invasion_short_plural$是通过对一个有效角色进行敌对的[character_interaction|E]发动的。\n\n无论成败如何，在一次$game_concept_futa_merchant_invasion_short$之后，$game_concept_futa_enclave_short$需要重新积蓄力量，以便再次发动$game_concept_futa_merchant_invasion_short$，因此$game_concept_futa_merchant_invasion_short_plural$每#V 20#!年才能发动一次。某些因素可能会缩短这一周期。
+ game_concept_futa_merchant_invasion: "$trait_futa$ 入侵"
+ game_concept_futa_merchant_invasion_plural: "$trait_futa$ 入侵行动"
+ game_concept_futa_merchant_invasion_short: "入侵"
+ game_concept_futa_merchant_invasion_short_plural: "入侵行动"
+ game_concept_futa_merchant_invasion_desc: "$game_concept_futa_merchant_invasion_plural$会在[futa_enclave|E]达到巅峰力量和影响力后发动。$game_concept_futa_merchant_invasion_short_plural$是$game_concept_futa_enclave_short$中最为大胆的计划之一，其目标是开辟一个由[GetTrait('futa_genetic').GetName( GetNullCharacter )][ruler|E]统治的[independent|E][realm|E]。\n\n当发动$game_concept_futa_merchant_invasion_short$时，$game_concept_futa_enclave_short$将从其成员中选出一位杰出的领袖，负责指挥这支赞助军队；若$game_concept_futa_merchant_invasion_short$成功，该领袖将获得目标[titles|E]。\n\n你可以通过拜访[futa_merchant|E]并讨论计划来准备$game_concept_futa_merchant_invasion_short_plural$。发动$game_concept_futa_merchant_invasion_short$需要投资一定数量的[gold|E]和[futa_goodwill|E]。投入的资源越多，入侵者将获得的[soldiers|E]和[special_troops|E]也越多。$game_concept_futa_merchant_invasion_short_plural$仅能针对邻近的[realms|E]发动。\n\n$game_concept_futa_merchant_invasion_short_plural$是通过对一个有效角色进行敌对的[character_interaction|E]发动的。\n\n无论成败如何，在一次$game_concept_futa_merchant_invasion_short$之后，$game_concept_futa_enclave_short$需要重新积蓄力量，以便再次发动$game_concept_futa_merchant_invasion_short$，因此$game_concept_futa_merchant_invasion_short_plural$每#V 20#!年才能发动一次。某些因素可能会缩短这一周期。
 
-	game_concept_futa_convert_sexuality: "$futa_convert_sexuality_scheme$"
-	game_concept_futa_convert_sexuality_desc: "$futa_convert_sexuality_scheme$是一种[personal_scheme|E]，旨在向[scheme_target|E]展示$trait_futa$是最优的组合套餐，不仅能提供男性和女性各自的优势，还能与对方同床共枕，并在此过程中借助名为[futa_maliah_branch|E]的物品引发对方的性觉醒。\n\n众多因素会影响[success_chance|E]，例如[opinion|E]、[trait|E]的契合度等。
+ game_concept_futa_convert_sexuality: "$futa_convert_sexuality_scheme$"
+ game_concept_futa_convert_sexuality_desc: "$futa_convert_sexuality_scheme$是一种[personal_scheme|E]，旨在向[scheme_target|E]展示$trait_futa$是最优的组合套餐，不仅能提供男性和女性各自的优势，还能与对方同床共枕，并在此过程中借助名为[futa_maliah_branch|E]的物品引发对方的性觉醒。\n\n众多因素会影响[success_chance|E]，例如[opinion|E]、[trait|E]的契合度等。
 
-	game_concept_futa_maliah_branch: "$futa_maliah_branch_name$"
-	game_concept_futa_maliah_branch_desc: "这是一根来自一棵非常特殊且罕见的树的奇异枝条。该物品具有改变心智的特性。\n\n拥有此物品可以使用[futa_convert_sexuality|E][personal_scheme|E]。\n\n[futa_enclave|E]对这些树的栽培方法秘而不宣，因此获得这些枝条的唯一途径就是与[futa_merchant|E]打交道。\n\n在$game_concept_scheme$期间，$futa_maliah_branch_name$将会被消耗，届时需要从$game_concept_futa_merchant_short$处购买新的枝条。"
+ game_concept_futa_maliah_branch: "$futa_maliah_branch_name$"
+ game_concept_futa_maliah_branch_desc: "这是一根来自一棵非常特殊且罕见的树的奇异枝条。该物品具有改变心智的特性。\n\n拥有此物品可以使用[futa_convert_sexuality|E][personal_scheme|E]。\n\n[futa_enclave|E]对这些树的栽培方法秘而不宣，因此获得这些枝条的唯一途径就是与[futa_merchant|E]打交道。\n\n在$game_concept_scheme$期间，$futa_maliah_branch_name$将会被消耗，届时需要从$game_concept_futa_merchant_short$处购买新的枝条。"
 
  ##################################################################################################################
  ###### FUTANARI INVASION - Everything related to the Invasion is under here ######################################
@@ -529,8 +529,8 @@
  futa_merchant_invasion_interaction_option_more_futa_goodwill_desc: "向[futa_enclave_short|E]投入额外的[futa_goodwill|E]，让她们为征伐提供额外的支持，从而招募更多的士兵参加战争\n\n#help 这将花费50$game_concept_futa_goodwill$于$game_concept_futa_enclave_short$之中#!"
  futa_merchant_invasion_interaction_option_join_war_outcome_tooltip: "[actor.GetFirstNameOrMeRegnal|U]加入了征伐，与[futa_merchant_invader.GetShortUINameNoTooltip]共同进退"
  futa_merchant_invasion_interaction_notification.desc: "[futa_merchant_invader.GetShortUINameNoTooltip]已经对[text_title.GetName]发动了征服战争"
-	futa_invasion_target_must_be_neighbor_tt: "你的[realm|E]必须与[recipient.GetTitledFirstNamePossessiveNoTooltipRegnal]的[realm|E]相邻。"
-	futa_invasion_target_must_be_closer_to_camp_tt: "你的[camp|E]必须更靠近[recipient.GetTitledFirstNamePossessiveNoTooltipRegnal]的[realm|E]。"
+ futa_invasion_target_must_be_neighbor_tt: "你的[realm|E]必须与[recipient.GetTitledFirstNamePossessiveNoTooltipRegnal]的[realm|E]相邻。"
+ futa_invasion_target_must_be_closer_to_camp_tt: "你的[camp|E]必须更靠近[recipient.GetTitledFirstNamePossessiveNoTooltipRegnal]的[realm|E]。"
  futa_merchant_invader_title_name: "$trait_futa$征伐者"
  futa_merchant_invader_new_duchy_title_name: "独立$trait_futa$公爵领"
  futa_merchant_invader_new_kingdom_title_name: "独立$trait_futa$王国"
@@ -577,26 +577,26 @@
  DEBUG_add_invasion_ticker_decision_desc: "调试：增加成功侵略次数"
  DEBUG_add_invasion_ticker_decision_tooltip: "调试：增加成功侵略次数"
  DEBUG_add_invasion_ticker_decision_confirm: "调试：增加成功侵略次数"
-	DEBUG_summon_the_fknight_decision: "调试：召唤 $futa_knight$"
-	DEBUG_summon_the_fknight_decision_desc: "调试：召唤 $futa_knight$"
-	DEBUG_summon_the_fknight_decision_tooltip: "调试：召唤 $futa_knight$"
-	DEBUG_summon_the_fknight_decision_confirm: "调试：召唤 $futa_knight$"
-	DEBUG_summon_the_enclave_decision: "调试：召唤 $game_concept_futa_enclave_short$"
-	DEBUG_summon_the_enclave_decision_desc: "调试：召唤 $game_concept_futa_enclave_short$"
-	DEBUG_summon_the_enclave_decision_tooltip: "调试：召唤 $game_concept_futa_enclave_short$"
-	DEBUG_summon_the_enclave_decision_confirm: "调试：召唤 $game_concept_futa_enclave_short$"
-	DEBUG_create_ruins_decision: "调试：创建废墟地点"
-	DEBUG_create_ruins_decision_desc: "调试：创建废墟地点"
-	DEBUG_create_ruins_decision_tooltip: "调试：创建废墟地点"
-	DEBUG_create_ruins_decision_confirm: "调试：创建废墟地点"
-	DEBUG_clear_ruins_decision: "调试：清除废墟地点"
-	DEBUG_clear_ruins_decision_desc: "调试：清除废墟地点"
-	DEBUG_clear_ruins_decision_tooltip: "调试：清除废墟地点"
-	DEBUG_clear_ruins_decision_confirm: "调试：清除废墟地点"
-	DEBUG_create_ruins_artifacts_decision: "调试：创建废墟独特遗物"
-	DEBUG_create_ruins_artifacts_decision_desc: "调试：创建废墟独特遗物"
-	DEBUG_create_ruins_artifacts_decision_tooltip: "调试：创建废墟独特遗物"
-	DEBUG_create_ruins_artifacts_decision_confirm: "调试：创建废墟独特遗物"
+ DEBUG_summon_the_fknight_decision: "调试：召唤 $futa_knight$"
+ DEBUG_summon_the_fknight_decision_desc: "调试：召唤 $futa_knight$"
+ DEBUG_summon_the_fknight_decision_tooltip: "调试：召唤 $futa_knight$"
+ DEBUG_summon_the_fknight_decision_confirm: "调试：召唤 $futa_knight$"
+ DEBUG_summon_the_enclave_decision: "调试：召唤 $game_concept_futa_enclave_short$"
+ DEBUG_summon_the_enclave_decision_desc: "调试：召唤 $game_concept_futa_enclave_short$"
+ DEBUG_summon_the_enclave_decision_tooltip: "调试：召唤 $game_concept_futa_enclave_short$"
+ DEBUG_summon_the_enclave_decision_confirm: "调试：召唤 $game_concept_futa_enclave_short$"
+ DEBUG_create_ruins_decision: "调试：创建废墟地点"
+ DEBUG_create_ruins_decision_desc: "调试：创建废墟地点"
+ DEBUG_create_ruins_decision_tooltip: "调试：创建废墟地点"
+ DEBUG_create_ruins_decision_confirm: "调试：创建废墟地点"
+ DEBUG_clear_ruins_decision: "调试：清除废墟地点"
+ DEBUG_clear_ruins_decision_desc: "调试：清除废墟地点"
+ DEBUG_clear_ruins_decision_tooltip: "调试：清除废墟地点"
+ DEBUG_clear_ruins_decision_confirm: "调试：清除废墟地点"
+ DEBUG_create_ruins_artifacts_decision: "调试：创建废墟独特遗物"
+ DEBUG_create_ruins_artifacts_decision_desc: "调试：创建废墟独特遗物"
+ DEBUG_create_ruins_artifacts_decision_tooltip: "调试：创建废墟独特遗物"
+ DEBUG_create_ruins_artifacts_decision_confirm: "调试：创建废墟独特遗物"
 
  ###############
  #ERROR CATCHER#
@@ -607,15 +607,15 @@
  ##EVENTS
 
  futa_events.0001.title:0 "扶她之咒"
- futa_events.0001.desc:0 "无论我做什么，我都摆脱不了精浓欲溢的感觉。每隔一段时间，蛋蛋都会#EMP 抽颤#! 和#EMP 涌动#!一番，产生一股无法抑制的冲动沿着脊椎奔入我的脑海。 每当我检查蛋蛋时，都发现它比之前更饱满了。我的蛋蛋早就盈满了，但此刻它还在源源不断地生产着精液。现在我深感身为一名扶她的艰辛，因为我几乎一直有一种渴望#EMP 交媾#!的冲动 。\n\n我曾听闻一些关于扶她的传说，而那会是真的吗? 传闻她们都是一群无法自我控制的淫精邪兽……"
+ futa_events.0001.desc:0 "无论我做什么，我都摆脱不了精浓欲溢的感觉。每隔一段时间，蛋蛋都会#EMP 抽颤#!和#EMP 涌动#!一番，产生一股无法抑制的冲动沿着脊椎奔入我的脑海。 每当我检查蛋蛋时，都发现它比之前更饱满了。我的蛋蛋早就盈满了，但此刻它还在源源不断地生产着精液。现在我深感身为一名扶她的艰辛，因为我几乎一直有一种渴望#EMP 交媾#!的冲动 。\n\n我曾听闻一些关于扶她的传说，而那会是真的吗? 传闻她们都是一群无法自我控制的淫精邪兽……"
  futa_accept.0001.a:0 "我必须一直忍着"
-	futa_accept.0001.a.flavor: "在设法平静下来之后，你再次注视着那对小双胞胎，并得出了一个结论……"
+ futa_accept.0001.a.flavor: "在设法平静下来之后，你再次注视着那对小双胞胎，并得出了一个结论……"
  
  #
 
  futa_events.0002.title:0 "精液上涌"
  futa_events.0002.desc:0 "呃啊… 我抑制不住欲望并快速撸住肉棒，一股深沉而#EMP 畅通#!的射意从下身涌上心头。我的蛋蛋剧烈收缩，精液从中喷薄而出。尽管我竭尽全力使自己看起来正常，额头上还是不禁滴下了几滴汗水，但是我的蛋蛋依然涨痛难忍。"
- futa_events.0002_ui_msg.desc:0 "呃……我的腰胯突然涌出一阵深沉的#EMP 阻塞#!之感，我顿时瘫软下来，紧紧抓住自己的肉棒，试图缓解这种感觉，而盈满的蛋蛋仍在不停抽动并收缩，我甚至能感觉到有一股液体在其中流转。\n\n我不禁开始轻轻喘气，额头也滴下几滴汗珠，即使尽力让自己看起来正常，但胀满欲裂的蛋蛋一直让我直不起腰来。\n\n我已经快按捺不住了……"	
+ futa_events.0002_ui_msg.desc:0 "呃……我的腰胯突然涌出一阵深沉的#EMP 阻塞#!之感，我顿时瘫软下来，紧紧抓住自己的肉棒，试图缓解这种感觉，而盈满的蛋蛋仍在不停抽动并收缩，我甚至能感觉到有一股液体在其中流转。\n\n我不禁开始轻轻喘气，额头也滴下几滴汗珠，即使尽力让自己看起来正常，但胀满欲裂的蛋蛋一直让我直不起腰来。\n\n我已经快按捺不住了……" 
  futa_accept.0002.a:0 "我快憋不住了…"
 
  #
@@ -642,7 +642,7 @@
  #
  
  futa_events.0006.title:0 "内衣琐事" #stained
- futa_events.0006.desc:0 "#EMP 嗯哼，呃啊！#!当看到自己的肉棒在它丝质的狭窄空间内脉动和蜷曲时，这景象足以让我脸红心热。每一秒钟，我的肉棒都会明显地弹动着，摇晃着精美的内裤，这让兴奋的肉棒越发有力。 \n\n于是我毫不犹豫地握住自己的肉棒，开始用力撸动起来。细腻的布料在我的龟头上刮了一下，让我不禁吸了口凉气，但我撸动的手并没有为此而放慢，我的另一只手扶在墙上支撑着我的重心。由于强烈的快感我只能不住地喘息着，口水也不由自主地肆意流淌，从嘴角一路滴落到了我的肉棒上，将它与丝质的内裤一同浸湿。 \n\n此刻当我穿着这条精美舒适的内裤，我的脑海里只剩下了欲望，这种堕落而下流的行为更像是野兽而非人类，但我毫不在乎。我的蛋蛋急需排空，而这是正是最好的时机。\n\n#EMP 哈~哈~呃啊！#! 我的蛋蛋一阵收缩，同时我的小穴也一起潮吹了。 \n\n#EMP 我要射了啊啊啊！！！#!\n\n这是何等强烈的快感，简直让我完全失去了理智。当我发出高声呻吟时，我感觉到我滚烫、粘稠的精液喷射在内裤上，浸湿了细腻的布料，留给我一段激情而狼藉的余韵。 \n\n高潮结束后，我只看到崭新而满是湿痕的内裤，浸泡在我的浓厚的精液里。 大面积的丝绸布料与我粘稠的生命精华交融而被染白，而我潮吹的爱液则打湿了余下部分。然而我仍然觉得意犹未尽，于是决定穿上被浸染的内裤。不管怎样，它都能藏在我的裙子下面无法被看见。"
+ futa_events.0006.desc:0 "#EMP 嗯哼，呃啊！#!当看到自己的肉棒在它丝质的狭窄空间内脉动和蜷曲时，这景象足以让我脸红心热。每一秒钟，我的肉棒都会明显地弹动着，摇晃着精美的内裤，这让兴奋的肉棒越发有力。 \n\n于是我毫不犹豫地握住自己的肉棒，开始用力撸动起来。细腻的布料在我的龟头上刮了一下，让我不禁吸了口凉气，但我撸动的手并没有为此而放慢，我的另一只手扶在墙上支撑着我的重心。由于强烈的快感我只能不住地喘息着，口水也不由自主地肆意流淌，从嘴角一路滴落到了我的肉棒上，将它与丝质的内裤一同浸湿。 \n\n此刻当我穿着这条精美舒适的内裤，我的脑海里只剩下了欲望，这种堕落而下流的行为更像是野兽而非人类，但我毫不在乎。我的蛋蛋急需排空，而这是正是最好的时机。\n\n#EMP 哈~哈~呃啊！#!我的蛋蛋一阵收缩，同时我的小穴也一起潮吹了。 \n\n#EMP 我要射了啊啊啊！！！#!\n\n这是何等强烈的快感，简直让我完全失去了理智。当我发出高声呻吟时，我感觉到我滚烫、粘稠的精液喷射在内裤上，浸湿了细腻的布料，留给我一段激情而狼藉的余韵。 \n\n高潮结束后，我只看到崭新而满是湿痕的内裤，浸泡在我的浓厚的精液里。 大面积的丝绸布料与我粘稠的生命精华交融而被染白，而我潮吹的爱液则打湿了余下部分。然而我仍然觉得意犹未尽，于是决定穿上被浸染的内裤。不管怎样，它都能藏在我的裙子下面无法被看见。"
  futa_accept.0006.a:0 "它们散发一种令人性奋的气味…"
 
  #
@@ -675,7 +675,7 @@
  #
  
  futa_events.0011.title:0 "凸起的衣裙"
- futa_events.0011.desc:0 "现在完全无法再遮掩了，她已经清楚地看到我的鸡巴了。而且，都是因为她的过错才将我置于这种境地，她总是在不停地#EMP 凝视#! 和 #EMP 抚摸#!着我，这难道不是一种勾引吗？现在，我感觉到肉袋里沉甸甸的，同时我的肉棒也燃起了欲火，正跃跃欲试着。既然她想盯着看，那就让她看个够好了！\n\n于是我把裙子掀起一侧，让我的鸡巴在这位女助手面前昂首挺立起来，她的视线也随着我逐渐勃起而上下跳动肉棒而来回扫视。我的肉棒开始勃起，随着它卸下之前疲软的假象，通红的龟头随之弹起。\n\n“哇哦……你的肉棒是如此#EMP 美丽！#!\n\n美丽? 这可不是我所预料到的回答。然后这女孩靠近过来，把美丽的面庞凑到我的鸡巴面前，目瞪口呆地盯着我的“女性”器官。她把鼻子凑到龟头上方，仔细嗅闻着我的气味，这刺激得我的肉棒猛然弹动，撞到了她的琼鼻。于是她咯咯地笑了起来，眼睛仍然睁得大大的，然后轻轻地用手指掂弄我的蛋蛋。\n\n“鸡巴通常是丑陋而粗鄙的，但你的鸡巴却如此……精美，每一根血管，每一处凸起，还有你的蛋蛋都让这根鸡巴变得更加诱人!”，正如她说的那样，那个女孩开始用她的手指抚摸我的蛋蛋，将它不停搓弄。我的瞳孔不自觉得收缩了下，因为我的精液在我下体汹涌波动，恳求被射出来。“你肯定觉得我是个下流的女孩，所有才这样对待你，实际上我的衣帽匠师傅和家族的每个人都认为我是个虔诚的少女。事实上，自从我看到一个骑士在小巷里和一个妓女做爱后，我就对此感到非常好奇，而现在正是几个月以来我离开师傅身边最久的一次。”\n\n她将手指拿开，让我的蛋蛋得以恢复原状，她的眼睛紧盯着我的龟头，身体稍微前倾，在我滚烫的肉棒上虔诚而温柔地轻吻一下。这不禁让我开始心猿意马，心肝砰砰直跳，蛋蛋也有些紧缩起来。\n\n“……看起来您好像还需要我进行一些特殊测量，不是么？”"
+ futa_events.0011.desc:0 "现在完全无法再遮掩了，她已经清楚地看到我的鸡巴了。而且，都是因为她的过错才将我置于这种境地，她总是在不停地#EMP 凝视#!和#EMP 抚摸#!着我，这难道不是一种勾引吗？现在，我感觉到肉袋里沉甸甸的，同时我的肉棒也燃起了欲火，正跃跃欲试着。既然她想盯着看，那就让她看个够好了！\n\n于是我把裙子掀起一侧，让我的鸡巴在这位女助手面前昂首挺立起来，她的视线也随着我逐渐勃起而上下跳动肉棒而来回扫视。我的肉棒开始勃起，随着它卸下之前疲软的假象，通红的龟头随之弹起。\n\n“哇哦……你的肉棒是如此#EMP 美丽！#!\n\n美丽? 这可不是我所预料到的回答。然后这女孩靠近过来，把美丽的面庞凑到我的鸡巴面前，目瞪口呆地盯着我的“女性”器官。她把鼻子凑到龟头上方，仔细嗅闻着我的气味，这刺激得我的肉棒猛然弹动，撞到了她的琼鼻。于是她咯咯地笑了起来，眼睛仍然睁得大大的，然后轻轻地用手指掂弄我的蛋蛋。\n\n“鸡巴通常是丑陋而粗鄙的，但你的鸡巴却如此……精美，每一根血管，每一处凸起，还有你的蛋蛋都让这根鸡巴变得更加诱人!”，正如她说的那样，那个女孩开始用她的手指抚摸我的蛋蛋，将它不停搓弄。我的瞳孔不自觉得收缩了下，因为我的精液在我下体汹涌波动，恳求被射出来。“你肯定觉得我是个下流的女孩，所有才这样对待你，实际上我的衣帽匠师傅和家族的每个人都认为我是个虔诚的少女。事实上，自从我看到一个骑士在小巷里和一个妓女做爱后，我就对此感到非常好奇，而现在正是几个月以来我离开师傅身边最久的一次。”\n\n她将手指拿开，让我的蛋蛋得以恢复原状，她的眼睛紧盯着我的龟头，身体稍微前倾，在我滚烫的肉棒上虔诚而温柔地轻吻一下。这不禁让我开始心猿意马，心肝砰砰直跳，蛋蛋也有些紧缩起来。\n\n“……看起来您好像还需要我进行一些特殊测量，不是么？”"
  futa_accept.0011.a:0 "乐意至极."
  futa_accept.0011.b:0 "不要戏弄我了!"
  
@@ -694,13 +694,13 @@
  #
  
  futa_events.0014.title:0 "凸起的衣裙"
- futa_events.0014.desc:0 "很快我身上的燥热感就消退了，我的头脑也变得冷静而清晰起来。刚才我是怎么啦？我简直是将她当作后巷妓女般对待！我扭头一看，发现那个女孩正一动不动地躺在地上，顿时吓得快要心肺骤停。 \n\n慌乱中，我马上蹲到她身旁，我觉得她的腹部似乎比刚才更肿胀了… 于是我穿好她送给我的裙子，把她靠在我身上，让她的头抬离地面。此刻她的脸上沾满了口水和精液，眼睛紧闭着，嘴唇微微撅起。 \n\n#EMP 我刚才把她弄死了吗?#! 我当时在想什么啊?! 我本应让她喘几口气的，我不该—— \n\n*咳* *咳* \n\n正当我为此发愁时，女孩慢慢清醒了过来，打断了我的思绪，她狡黠地眨了几下眼睛，一滴精液从她嘴角缓缓流出。 \n\n“嗯~嗯，这是我吃过最美味的一顿，多谢款待，鸡巴妈咪。”她的声音有些虚弱而沙哑，但好在她并无大碍。"
+ futa_events.0014.desc:0 "很快我身上的燥热感就消退了，我的头脑也变得冷静而清晰起来。刚才我是怎么啦？我简直是将她当作后巷妓女般对待！我扭头一看，发现那个女孩正一动不动地躺在地上，顿时吓得快要心肺骤停。 \n\n慌乱中，我马上蹲到她身旁，我觉得她的腹部似乎比刚才更肿胀了… 于是我穿好她送给我的裙子，把她靠在我身上，让她的头抬离地面。此刻她的脸上沾满了口水和精液，眼睛紧闭着，嘴唇微微撅起。 \n\n#EMP 我刚才把她弄死了吗?#!我当时在想什么啊?! 我本应让她喘几口气的，我不该—— \n\n*咳* *咳* \n\n正当我为此发愁时，女孩慢慢清醒了过来，打断了我的思绪，她狡黠地眨了几下眼睛，一滴精液从她嘴角缓缓流出。 \n\n“嗯~嗯，这是我吃过最美味的一顿，多谢款待，鸡巴妈咪。”她的声音有些虚弱而沙哑，但好在她并无大碍。"
  futa_accept.0014.a:0 "感谢天主!"
 
  #
  
  futa_events.0015.title:0 "秘制酱汁"
- futa_events.0015.desc:0 "恰逢一位大厨在寻找试吃员，而我正好在附近，真是太幸运了。今晚将举办一场盛大的晚宴，因此人们对厨师的期望很高。我深信他将带着我去往一处奇妙之地，我的内心既夹杂着焦虑，又充满了骄傲。”\n\n——所以因此我希望你能品尝这种由生姜精炼而成的酱汁之#EMP 滋味#!。\n\n我点了点头，把注意力更多地放在了不断泛着泡沫的食物上，这种视觉效果不禁让我联想到一些别的东西……\n\n“喂喂? 你到底有没有在听我说话？ #italic *叹息*#! 不管怎样，先尝尝吧，这个味道感觉如何?”\n\n然后我将一勺热腾腾的混合物舀到嘴边，吹掉热气，匆匆抿了一口，一种浓郁甜美的味道在我嘴里扩散开来，让我味蕾感到十分满足。我还没来得及说一句话，我的表情就给了厨师答案。 \n\n太棒了！啊，我就知道这一定会成功！\n\n突然，一扇门砰的一声打开了。一个穿着脏围裙、面容粗犷的女孩走了进来，急促地告诉厨师有几头猪正四处乱跑呢。\n\n“#italic 不不不！#!快！#bold 快走！#!我们得逮住它们！”随后这两人立刻从厨房中飞奔而出，去找失踪的小猪，只留下我一个人在待在炖锅旁边。再次看着那些滚烫翻涌着的浓汤，我确信，在我盈满的蛋蛋内也有着一种相似之物。\n\n这既不该是想这些的时候也不该是想这些的地方，可是……"
+ futa_events.0015.desc:0 "恰逢一位大厨在寻找试吃员，而我正好在附近，真是太幸运了。今晚将举办一场盛大的晚宴，因此人们对厨师的期望很高。我深信他将带着我去往一处奇妙之地，我的内心既夹杂着焦虑，又充满了骄傲。”\n\n——所以因此我希望你能品尝这种由生姜精炼而成的酱汁之#EMP 滋味#!。\n\n我点了点头，把注意力更多地放在了不断泛着泡沫的食物上，这种视觉效果不禁让我联想到一些别的东西……\n\n“喂喂? 你到底有没有在听我说话？ #italic *叹息*#!不管怎样，先尝尝吧，这个味道感觉如何?”\n\n然后我将一勺热腾腾的混合物舀到嘴边，吹掉热气，匆匆抿了一口，一种浓郁甜美的味道在我嘴里扩散开来，让我味蕾感到十分满足。我还没来得及说一句话，我的表情就给了厨师答案。 \n\n太棒了！啊，我就知道这一定会成功！\n\n突然，一扇门砰的一声打开了。一个穿着脏围裙、面容粗犷的女孩走了进来，急促地告诉厨师有几头猪正四处乱跑呢。\n\n“#italic 不不不！#!快！#bold 快走！#!我们得逮住它们！”随后这两人立刻从厨房中飞奔而出，去找失踪的小猪，只留下我一个人在待在炖锅旁边。再次看着那些滚烫翻涌着的浓汤，我确信，在我盈满的蛋蛋内也有着一种相似之物。\n\n这既不该是想这些的时候也不该是想这些的地方，可是……"
  futa_accept.0015.a:0 "还是保持冷静吧."
  futa_accept.0015.b:0 "我需要清空弹夹。"
  
@@ -732,7 +732,7 @@
  #
  
  futa_events.0020.title:0 "所欲何求？" #Seperate 2
- futa_events.0020.desc:0 "没想到我独享澡堂的片刻转瞬即逝，现在我已经可以听到在入口前走廊里有一群女人的脚步声和闲聊声。#EMP 该死#!，我不能让她们看到我这样，谁知道会传出怎样的丑闻呢？\n\n“是啊，然后我就告诉他，只有能够猎杀过巨龙的骑士才有资格像那样跟我说话！”\n\n我尽快地闭拢双腿，但我的蛋蛋还是从腿下露出来了。我把浴袍盖住大腿，然后把双腿浸在池水中，安静地靠在池边，同时尽量装作没有注意到那些女人。\n\n#EMP 我们还是去别的浴池好了…#! \n\n真是谢天谢地，女孩们似乎想要换到另一个浴池里继续她们的谈话，我不禁松了一口气，但可惜一波未平一波又起——字面意义上的波。我看到女人们并没有离开而是弯腰去泼水，一边互相嬉戏着，一边抚摸清洗着自己的身体。看到这样旖旎的景色后，我粗硬的鸡巴已经开始在浴袍里不停跳动起来，又一种水波也荡漾在水面上。"
+ futa_events.0020.desc:0 "没想到我独享澡堂的片刻转瞬即逝，现在我已经可以听到在入口前走廊里有一群女人的脚步声和闲聊声。#EMP 该死#!，我不能让她们看到我这样，谁知道会传出怎样的丑闻呢？\n\n“是啊，然后我就告诉他，只有能够猎杀过巨龙的骑士才有资格像那样跟我说话！”\n\n我尽快地闭拢双腿，但我的蛋蛋还是从腿下露出来了。我把浴袍盖住大腿，然后把双腿浸在池水中，安静地靠在池边，同时尽量装作没有注意到那些女人。\n\n#EMP 我们还是去别的浴池好了…#!\n\n真是谢天谢地，女孩们似乎想要换到另一个浴池里继续她们的谈话，我不禁松了一口气，但可惜一波未平一波又起——字面意义上的波。我看到女人们并没有离开而是弯腰去泼水，一边互相嬉戏着，一边抚摸清洗着自己的身体。看到这样旖旎的景色后，我粗硬的鸡巴已经开始在浴袍里不停跳动起来，又一种水波也荡漾在水面上。"
  futa_accept.0020.a:0 "放轻松吧"
  futa_accept.0020.b:0 "她们不会注意到的…"
 
@@ -765,7 +765,7 @@
  #
  
  futa_events.0025.title:0 "跨龄之情"
- futa_events.0025.desc:0 "不可否认的是，那个女人有些可疑。在过去的几个月里，我在首都的一个小型市民社区度过了一些时间，这个社区是为倾听年长者们的烦恼而设立的，并为他们提供一些援助，帮助完成他们自己难以处理的问题。\n\n当然，这也是我自己乐意参与的定期活动。通常情况下，这只不过是一些简短的聊天——这当然比做日常政务容易得多——然而#EMP 那个#!女人却让所有事情都变得麻烦起来。\n\n[elder.GetFirstName]看起来一脸纯真，作为一位步入暮年的年长女士，希望有人能陪她一起打发时间。但一旦你和她相处了一段时间，你就会开始注意到一些事情。\n\n首先，每次我参加爱心活动，她总是选择我，然后在一起聊了聊她近期生活中发生的无趣事件，最后她让我陪她回家。这听着很简单，除了她习惯支撑在我的胯部，紧紧地贴着那种。\n\n然后[elder.GetFirstName]说她只是担心自己老了会摔倒，虽然我不是很相信这番话，但她的手总是莫名其妙地搂在我的背上。有时候很想我在公共场合指责这位老妇人，但又担心这会给我带来不好的影响。\n\n有时候我们到了她家，她会邀请我喝茶，但当她伸手去拿杯子时，她却伸进了我的裤裆！然后，[elder.GetFirstName]通常会尴尬地咯咯笑，以自己年纪大了为借口，但这并不能解释为什么她之后会继续摸我的蛋蛋。\n\n我确信她知道她在对我做什么，所以现在每当我看到她时，我的睾丸都会本能地会抽动一下。我的身体对她的触碰很敏感，每当她的手放在我身上时，我都会集中注意力在她的手的位置上。我他妈快#EMP 受不了#! !\n\n此刻，我又一次来到她的家，等待她新鲜出炉的饼干。\n\n“哦，我的小甜心，你能帮我一下吗？我想我拉伤了背！”[elder.GetFirstName]从厨房里向我喊道。当我赶到时，情况似乎并不像[elder.GetFirstName]希望我相信的那样糟糕，她正俯身捡起掉在地上的食物，但她的臀部正朝我的方向扭动。\n\n是时候了，我必须做出选择。"
+ futa_events.0025.desc:0 "不可否认的是，那个女人有些可疑。在过去的几个月里，我在首都的一个小型市民社区度过了一些时间，这个社区是为倾听年长者们的烦恼而设立的，并为他们提供一些援助，帮助完成他们自己难以处理的问题。\n\n当然，这也是我自己乐意参与的定期活动。通常情况下，这只不过是一些简短的聊天——这当然比做日常政务容易得多——然而#EMP 那个#!女人却让所有事情都变得麻烦起来。\n\n[elder.GetFirstName]看起来一脸纯真，作为一位步入暮年的年长女士，希望有人能陪她一起打发时间。但一旦你和她相处了一段时间，你就会开始注意到一些事情。\n\n首先，每次我参加爱心活动，她总是选择我，然后在一起聊了聊她近期生活中发生的无趣事件，最后她让我陪她回家。这听着很简单，除了她习惯支撑在我的胯部，紧紧地贴着那种。\n\n然后[elder.GetFirstName]说她只是担心自己老了会摔倒，虽然我不是很相信这番话，但她的手总是莫名其妙地搂在我的背上。有时候很想我在公共场合指责这位老妇人，但又担心这会给我带来不好的影响。\n\n有时候我们到了她家，她会邀请我喝茶，但当她伸手去拿杯子时，她却伸进了我的裤裆！然后，[elder.GetFirstName]通常会尴尬地咯咯笑，以自己年纪大了为借口，但这并不能解释为什么她之后会继续摸我的蛋蛋。\n\n我确信她知道她在对我做什么，所以现在每当我看到她时，我的睾丸都会本能地会抽动一下。我的身体对她的触碰很敏感，每当她的手放在我身上时，我都会集中注意力在她的手的位置上。我他妈快#EMP 受不了#!!\n\n此刻，我又一次来到她的家，等待她新鲜出炉的饼干。\n\n“哦，我的小甜心，你能帮我一下吗？我想我拉伤了背！”[elder.GetFirstName]从厨房里向我喊道。当我赶到时，情况似乎并不像[elder.GetFirstName]希望我相信的那样糟糕，她正俯身捡起掉在地上的食物，但她的臀部正朝我的方向扭动。\n\n是时候了，我必须做出选择。"
  futa_accept.0025.a:0 "我不想再帮你了."
  futa_accept.0025.b:0 "我需要#EMP 你的#!一些帮助…"
  futa_accept.0025.c:0 "为你效劳!"
@@ -807,7 +807,7 @@
  #
  
  futa_events.0031.title:0 "最佳选择" #Double Team
- futa_events.0031.desc:0 "[cupid.GetFirstName]觉得我千里迢迢来这里，最后她又能我甩到一边，哈哈哈，她错得离谱啊！当这对恩爱的小鸟忙着眉目传情的时候，我站起身来，径直走到[cupid.GetFirstNamePossessive]脑袋旁边。\n\n“呃，你要干什么？我正在享受这个时刻呢。”[cupid.GetFirstName]的声音越来越不耐烦，[man.GetFirstName]则在一旁偷笑着，告诉她别担心，他并不害羞，把她翻过身来，用鸡巴蹭着她的小穴。 \n\n[cupid.GetFirstName]紧咬着嘴唇，摆手示意我离开。但这时候我和她已经足够接近了，近到她可以尝到我的屁股。 \n\n“唔嗯嗯！”\n\n我直接蹲在她的嘴上，把屁股压在她的脸上，这样她的嘴唇就能碰到我的屁眼，她低沉的抱怨声只会给我下体带来一阵刺激的振动。[man.GetFirstName]转过头惊讶地看着我，从他的视角来看，那场面肯定很壮观。[cupid.GetFirstNamePossessive]湿漉漉的小穴正和他的鸡巴缠绵在一起，这时候他甚至可以看到两对肉球——一个令人惊奇的场景——我的鸡巴和蛋蛋肆意地晃荡在[cupid.GetFirstNamePossessive]奶子上面。\n\n正在我用手把她的脸固定在我臀下的时候，我的先走汁甚至顺着龟头一路流到[cupid.GetFirstNamePossessive]肚脐处。我朝她的情人眨了眨眼，示意他该从震惊中清醒过来了。\n\n“这要么是我最疯狂的梦，要么就是我最棒的性爱。”他一边说着，一边深深地插入[cupid.GetFirstNamePossessive]湿润的小穴里。 每次他用力抽插一下[cupid.GetFirstName]的小穴，她就更加卖力地舔我一下，而且我发现随着[cupid.GetFirstNamePossessive]舌头在自己屁穴里越发深入，我越发感觉有些眩晕感。\n\n此刻我的肉棒和蛋蛋都在忍不住抽颤，这感觉实在太棒了！[cupid.GetFirstName]全身心都投入到我们想要的那般荡妇姿态中！\n\n我一边握住自己坚硬的鸡巴，一边快速用力撸动它，以迎接即将到来的高潮。[cupid.GetFirstName]早就泄身了，而[man.GetFirstName]正低喘着，显然他也已经结束了，但奇怪的是，[cupid.GetFirstNamePossessive]小腹居然没有一点都没有鼓起来。\n\n在我即将喷射之前，我赶紧示意[man.GetFirstName]让他站远点。\n\n“呃…嗯，好的。”\n\n于是他及时从[cupid.GetFirstName]的身体中抽离走了。\n\n#EMP 我 要 射 啦!#!\n\n我射出的精液像喷泉般一连串地喷出，直冲到马车顶上，然后溅落在我自己和[cupid.GetFirstName]身上，而[man.GetFirstName]正一脸目瞪口呆地看着。\n\n“你-你居然能射came #EMP 这么多！#! 怎么可能？”\n\n我没有确切的答案来回答这个男孩，也许是他还不够成熟吧。哎呀，不管如何，当我的清理完蛋蛋的存货后，我和这两个人的时光就结束了。我向他们二人道别，但我在出去的路上却无意中听到[man.GetFirstName]在问[cupid.GetFirstName]，她会不会觉得他鸡巴太不中用了。"
+ futa_events.0031.desc:0 "[cupid.GetFirstName]觉得我千里迢迢来这里，最后她又能我甩到一边，哈哈哈，她错得离谱啊！当这对恩爱的小鸟忙着眉目传情的时候，我站起身来，径直走到[cupid.GetFirstNamePossessive]脑袋旁边。\n\n“呃，你要干什么？我正在享受这个时刻呢。”[cupid.GetFirstName]的声音越来越不耐烦，[man.GetFirstName]则在一旁偷笑着，告诉她别担心，他并不害羞，把她翻过身来，用鸡巴蹭着她的小穴。 \n\n[cupid.GetFirstName]紧咬着嘴唇，摆手示意我离开。但这时候我和她已经足够接近了，近到她可以尝到我的屁股。 \n\n“唔嗯嗯！”\n\n我直接蹲在她的嘴上，把屁股压在她的脸上，这样她的嘴唇就能碰到我的屁眼，她低沉的抱怨声只会给我下体带来一阵刺激的振动。[man.GetFirstName]转过头惊讶地看着我，从他的视角来看，那场面肯定很壮观。[cupid.GetFirstNamePossessive]湿漉漉的小穴正和他的鸡巴缠绵在一起，这时候他甚至可以看到两对肉球——一个令人惊奇的场景——我的鸡巴和蛋蛋肆意地晃荡在[cupid.GetFirstNamePossessive]奶子上面。\n\n正在我用手把她的脸固定在我臀下的时候，我的先走汁甚至顺着龟头一路流到[cupid.GetFirstNamePossessive]肚脐处。我朝她的情人眨了眨眼，示意他该从震惊中清醒过来了。\n\n“这要么是我最疯狂的梦，要么就是我最棒的性爱。”他一边说着，一边深深地插入[cupid.GetFirstNamePossessive]湿润的小穴里。 每次他用力抽插一下[cupid.GetFirstName]的小穴，她就更加卖力地舔我一下，而且我发现随着[cupid.GetFirstNamePossessive]舌头在自己屁穴里越发深入，我越发感觉有些眩晕感。\n\n此刻我的肉棒和蛋蛋都在忍不住抽颤，这感觉实在太棒了！[cupid.GetFirstName]全身心都投入到我们想要的那般荡妇姿态中！\n\n我一边握住自己坚硬的鸡巴，一边快速用力撸动它，以迎接即将到来的高潮。[cupid.GetFirstName]早就泄身了，而[man.GetFirstName]正低喘着，显然他也已经结束了，但奇怪的是，[cupid.GetFirstNamePossessive]小腹居然没有一点都没有鼓起来。\n\n在我即将喷射之前，我赶紧示意[man.GetFirstName]让他站远点。\n\n“呃…嗯，好的。”\n\n于是他及时从[cupid.GetFirstName]的身体中抽离走了。\n\n#EMP 我 要 射 啦!#!\n\n我射出的精液像喷泉般一连串地喷出，直冲到马车顶上，然后溅落在我自己和[cupid.GetFirstName]身上，而[man.GetFirstName]正一脸目瞪口呆地看着。\n\n“你-你居然能射came#EMP 这么多！#!怎么可能？”\n\n我没有确切的答案来回答这个男孩，也许是他还不够成熟吧。哎呀，不管如何，当我的清理完蛋蛋的存货后，我和这两个人的时光就结束了。我向他们二人道别，但我在出去的路上却无意中听到[man.GetFirstName]在问[cupid.GetFirstName]，她会不会觉得他鸡巴太不中用了。"
  futa_accept.0031.a:0 "大功告成."
  
  #
@@ -877,13 +877,13 @@
 
  futa_events.0042.title: "那个孩子" #Futa Fathered birth
  futa_events.0042.title_twins: "那对双胞胎" 
-	futa_events.0042.desc: "所有的努力与担忧都随着我孩子的诞生而画上句号，这个孩子在完全没有男性的参与下而诞生。\n\n现在，是时候选择如何处置我们的孩子了。然而，无论接下来发生什么，我都永远不会忘记[child.GetFirstName]是从我的子宫中降生的。"
+ futa_events.0042.desc: "所有的努力与担忧都随着我孩子的诞生而画上句号，这个孩子在完全没有男性的参与下而诞生。\n\n现在，是时候选择如何处置我们的孩子了。然而，无论接下来发生什么，我都永远不会忘记[child.GetFirstName]是从我的子宫中降生的。"
 
-	futa_events.0042.desc_twins: "长期努力终于告一段落，我获得了多子的祝福！所有的努力与担忧都已结束。#EMP 我的孩子们……全都多亏了一个$trait_futa$而降生！#!\n\n现在，是时候选择如何处置我们的孩子们了。无论今后如何，我都会永远记得[child.GetFirstName]和[child_2.GetFirstName]是从我的子宫中降生的。"
-	
-	futa_events.0042.desc_triplets: "长期努力终于告一段落，我获得了多子的祝福！所有的努力与担忧都已结束。#EMP 我的孩子们……全都多亏了一个$trait_futa$而降生！#!\n\n现在，是时候选择如何处置我们的孩子们了。无论今后如何，我都会永远记得[child.GetFirstName]、[child_2.GetFirstName]和[child_3.GetFirstName]是从我的子宫中降生的。"
+ futa_events.0042.desc_twins: "长期努力终于告一段落，我获得了多子的祝福！所有的努力与担忧都已结束。#EMP 我的孩子们……全都多亏了一个$trait_futa$而降生！#!\n\n现在，是时候选择如何处置我们的孩子们了。无论今后如何，我都会永远记得[child.GetFirstName]和[child_2.GetFirstName]是从我的子宫中降生的。"
  
-	futa_events.0042.desc_quadruplets: "长期努力终于告一段落，我获得了多子的祝福！所有的努力与担忧都已结束。#EMP 我的孩子们……全都多亏了一个$trait_futa$而降生！#!\n\n现在，是时候选择如何处置我们的孩子们了。无论今后如何，我都会永远记得[child.GetFirstName]、[child_2.GetFirstName]、[child_3.GetFirstName]和[child_4.GetFirstName]是从我的子宫中降生的。"
+ futa_events.0042.desc_triplets: "长期努力终于告一段落，我获得了多子的祝福！所有的努力与担忧都已结束。#EMP 我的孩子们……全都多亏了一个$trait_futa$而降生！#!\n\n现在，是时候选择如何处置我们的孩子们了。无论今后如何，我都会永远记得[child.GetFirstName]、[child_2.GetFirstName]和[child_3.GetFirstName]是从我的子宫中降生的。"
+ 
+ futa_events.0042.desc_quadruplets: "长期努力终于告一段落，我获得了多子的祝福！所有的努力与担忧都已结束。#EMP 我的孩子们……全都多亏了一个$trait_futa$而降生！#!\n\n现在，是时候选择如何处置我们的孩子们了。无论今后如何，我都会永远记得[child.GetFirstName]、[child_2.GetFirstName]、[child_3.GetFirstName]和[child_4.GetFirstName]是从我的子宫中降生的。"
 
  futa_accept.0042.a: "新的一天来临了。"
 
@@ -893,42 +893,42 @@
  futa_accept.0042.c: "孩子应该和[child.GetHerHis]#EMP 父亲#!在一起，并被视为[lover.GetFirstNamePossessive]的家庭成员。"  
  futa_accept.0042.c_twins: "孩子们应该和他们的#EMP 父亲#!在一起，并被视为[lover.GetFirstNamePossessive]的家庭成员。"  
 
-	futa_accept.0042.d: "我不能允许[child.GetHerHim]扰乱继承顺序。"  
-	futa_accept.0042.d_twins: "我不能允许他们扰乱继承顺序。"  
-	futa_accept.0042.d.flavor: "对不起，小家伙。"  
+ futa_accept.0042.d: "我不能允许[child.GetHerHim]扰乱继承顺序。"  
+ futa_accept.0042.d_twins: "我不能允许他们扰乱继承顺序。"   
+ futa_accept.0042.d.flavor: "对不起，小家伙。"  
 
-	futa_accept.0042.e: "孩子在隐修会与同为$trait_futa$的同伴一起会更安全。"  
-	futa_accept.0042.e_twins: "这些$trait_futa$在隐修会与同为$trait_futa$的同伴一起会更安全。"  
-	futa_accept.0042.e.flavor: "你将安排隐修会照顾这次生育中诞生的任何$trait_futa$孩子。然而，#X 你将永远见不到他们了！#!"  
+ futa_accept.0042.e: "孩子在隐修会与同为$trait_futa$的同伴一起会更安全。"  
+ futa_accept.0042.e_twins: "这些$trait_futa$在隐修会与同为$trait_futa$的同伴一起会更安全。"  
+ futa_accept.0042.e.flavor: "你将安排隐修会照顾这次生育中诞生的任何$trait_futa$孩子。然而，#X 你将永远见不到他们了！#!"  
 
-	futa_accept.0042.f: "把孩子伪装成[child.GetSheHe]是你的配偶所生。"  
-	futa_accept.0042.f_twins: "把孩子们伪装成是你配偶所生。"  
-	futa_accept.0042.f.flavor: "但愿他能被骗过去……"  
+ futa_accept.0042.f: "把孩子伪装成[child.GetSheHe]是你的配偶所生。"  
+ futa_accept.0042.f_twins: "把孩子们伪装成是你配偶所生。"   
+ futa_accept.0042.f.flavor: "但愿他能被骗过去……"  
 
  #
  
  futa_events.0043.title:0 "扶她骑士"
- futa_events.0043.desc:0 "“领主大人！”[grudge.GetFirstName] - 我的一位骑士 - 正一脸焦急地喊我，并匆匆忙忙地穿过走廊，“有一件非常重要的事情需要您注意，一个堕落的无赖骑士正游荡在您的领土上，并企图给整个领地带来毁灭！”\n\n我整个领土？仅仅一个人怎么可能做到这种程度呢？平时我这位扈从可不会如此危言耸听啊。希望[grudge.GetFirstName]最好能解释清楚……\n\n“请原谅我的冒犯，领主大人，请允许我澄清事实。一个没有主人可服侍的流浪骑士已经进入您的领地，她声称自己擅使刀剑，并且很想要拜访您，而且她并不仅是她看起来的那样，领主大人，这个骑士可是传说中那种满身亵渎的 *扶她* 啊，她可能会试图毁掉您拥有的一切。”\n\n扶她么……[grudge.GetFirstName]似乎知道一些关于她们的事。\n\n“当然，身为您的骑士，我身肩重责以确保王国的和平与安全，因此我阻止了她对群众的虚假宣传，并英勇地挑战她与之决斗！”\n\n[grudge.GetFirstName]一边慷慨激昂地说着一边伏首前倾，满脸涨得通红，看来最后也没有从那场挑战获胜。\n\n“那个毫无廉耻的怪物作弊了，领主大人，没想到这个所谓的骑士竟然连决斗都不肯承认！我不知道她做了什么，但她那种人只知背叛而不知忠诚为何物。我恳请您下令驱逐她，以保护您的子民！”\n\n[grudge.GetFirstName]提出了一个令人信服的论调，但如果我自己不亲自观察情况就妄下定论，那我就不是一个合格的统治者。于是我站起身，示意[grudge.GetFirstName]带我去见这位扶她骑士。\n\n我们找到她的时候，她正站在一个雕像旁，周围围满了百无聊赖、无所事事的普通民众。因此，我能在人群中间看到很多我的廷臣，这并不令我意外。\n\n“我看到你又来了，[grudge.GetFirstName]。你是想再次驱赶我吗？”这位女骑士高喊着迎接我们的到来，随后她的目光又转向了我，“您 - 您是……”，她立刻在我面前单膝跪下，“我的名字是[fknight.GetFirstName]，尊敬的大人。我已经很久流浪许久了，我不断远行，只为寻找一个可以称之为家的地方，如果您应允，我很荣幸能誓作利刃与坚盾为您服侍。”\n\n她无比郑重地向我#EMP 宣誓效忠#!，但也可能只是装模作样。而显然[grudge.GetFirstName]就是这么想的，所以又暗含深意地看了我一眼。"
+ futa_events.0043.desc:0 "“领主大人！”[grudge.GetFirstName]- 我的一位骑士 - 正一脸焦急地喊我，并匆匆忙忙地穿过走廊，“有一件非常重要的事情需要您注意，一个堕落的无赖骑士正游荡在您的领土上，并企图给整个领地带来毁灭！”\n\n我整个领土？仅仅一个人怎么可能做到这种程度呢？平时我这位扈从可不会如此危言耸听啊。希望[grudge.GetFirstName]最好能解释清楚……\n\n“请原谅我的冒犯，领主大人，请允许我澄清事实。一个没有主人可服侍的流浪骑士已经进入您的领地，她声称自己擅使刀剑，并且很想要拜访您，而且她并不仅是她看起来的那样，领主大人，这个骑士可是传说中那种满身亵渎的 *扶她* 啊，她可能会试图毁掉您拥有的一切。”\n\n扶她么……[grudge.GetFirstName]似乎知道一些关于她们的事。\n\n“当然，身为您的骑士，我身肩重责以确保王国的和平与安全，因此我阻止了她对群众的虚假宣传，并英勇地挑战她与之决斗！”\n\n[grudge.GetFirstName]一边慷慨激昂地说着一边伏首前倾，满脸涨得通红，看来最后也没有从那场挑战获胜。\n\n“那个毫无廉耻的怪物作弊了，领主大人，没想到这个所谓的骑士竟然连决斗都不肯承认！我不知道她做了什么，但她那种人只知背叛而不知忠诚为何物。我恳请您下令驱逐她，以保护您的子民！”\n\n[grudge.GetFirstName]提出了一个令人信服的论调，但如果我自己不亲自观察情况就妄下定论，那我就不是一个合格的统治者。于是我站起身，示意[grudge.GetFirstName]带我去见这位扶她骑士。\n\n我们找到她的时候，她正站在一个雕像旁，周围围满了百无聊赖、无所事事的普通民众。因此，我能在人群中间看到很多我的廷臣，这并不令我意外。\n\n“我看到你又来了，[grudge.GetFirstName]。你是想再次驱赶我吗？”这位女骑士高喊着迎接我们的到来，随后她的目光又转向了我，“您 - 您是……”，她立刻在我面前单膝跪下，“我的名字是[fknight.GetFirstName]，尊敬的大人。我已经很久流浪许久了，我不断远行，只为寻找一个可以称之为家的地方，如果您应允，我很荣幸能誓作利刃与坚盾为您服侍。”\n\n她无比郑重地向我#EMP 宣誓效忠#!，但也可能只是装模作样。而显然[grudge.GetFirstName]就是这么想的，所以又暗含深意地看了我一眼。"
  
-	futa_events.0043.desc_futa_accepted: "“领主大人！” [grudge.GetFirstName]——我的一位骑士 - 正一脸焦急地喊我，匆匆沿着走廊赶来，“有一件重大事务需要您的关注。一位流浪骑士出现在您的领域中，并请求受见。”一位骑士希望见我？真是奇妙。“我得补充一句，这位流浪骑士#EMP 没有#! 可供效忠的领主，已经进入了您的领地。她声称自己精通剑术，并希望与您安排一次会面。她还是一位$trait_futa$。”“当然，作为您的骑士，确保您的安全是我的责任，因此我向她发起了决斗，以测试她的能力。”[grudge.GetFirstName]面色通红，身体微驼。看起来[grudge.GetSheHe]找到了[grudge.GetHerHis]的匹敌。“她技艺非凡，我的[ROOT.Char.GetLadyLord]。我们进行了一场颇具荣誉的决斗。我建议您不妨听听她的陈述。”[grudge.GetFirstName]提出了令人信服的理由。身为统治者，我怎能拒绝这样的机会？我起身示意[grudge.GetFirstName]带我去见这位扶她骑士。我们在一座雕像旁找到了她，那里围着各式各样无所事事的闲散之人。难怪我在人群中能认出许多朝廷成员。“我看到你回来了，[grudge.GetFirstName]。要不要再来一局？”骑士女子宣告。她的目光转向我，“你……”，她在我面前跪下，“请原谅我，我的[ROOT.Char.GetLadyLord]。我叫[fknight.GetFirstName]。长久以来，我一直没有主人的庇护。为了寻找一个可以称之为家的地方，我走了很远的路。如果您肯收留我，我将荣幸地成为您的剑与盾。”她#EMP 听起来#! 真诚，而且#EMP 确实#! 显得颇有经验。[grudge.GetFirstName]显然也这么认为，向我投来了肯定的点头。"
+ futa_events.0043.desc_futa_accepted: "“领主大人！”[grudge.GetFirstName]——我的一位骑士 - 正一脸焦急地喊我，匆匆沿着走廊赶来，“有一件重大事务需要您的关注。一位流浪骑士出现在您的领域中，并请求受见。”一位骑士希望见我？真是奇妙。“我得补充一句，这位流浪骑士#EMP 没有#!可供效忠的领主，已经进入了您的领地。她声称自己精通剑术，并希望与您安排一次会面。她还是一位$trait_futa$。”“当然，作为您的骑士，确保您的安全是我的责任，因此我向她发起了决斗，以测试她的能力。”[grudge.GetFirstName]面色通红，身体微驼。看起来[grudge.GetSheHe]找到了[grudge.GetHerHis]的匹敌。“她技艺非凡，我的[ROOT.Char.GetLadyLord]。我们进行了一场颇具荣誉的决斗。我建议您不妨听听她的陈述。”[grudge.GetFirstName]提出了令人信服的理由。身为统治者，我怎能拒绝这样的机会？我起身示意[grudge.GetFirstName]带我去见这位扶她骑士。我们在一座雕像旁找到了她，那里围着各式各样无所事事的闲散之人。难怪我在人群中能认出许多朝廷成员。“我看到你回来了，[grudge.GetFirstName]。要不要再来一局？”骑士女子宣告。她的目光转向我，“你……”，她在我面前跪下，“请原谅我，我的[ROOT.Char.GetLadyLord]。我叫[fknight.GetFirstName]。长久以来，我一直没有主人的庇护。为了寻找一个可以称之为家的地方，我走了很远的路。如果您肯收留我，我将荣幸地成为您的剑与盾。”她#EMP 听起来#!真诚，而且#EMP 确实#!显得颇有经验。[grudge.GetFirstName]显然也这么认为，向我投来了肯定的点头。"
  
 
-	futa_accept.0043.a:0 "她将在决斗中证明自己的价值！"
+ futa_accept.0043.a:0 "她将在决斗中证明自己的价值！"
  futa_accept.0043.b:0 "你将被逐出这片土地！"
  futa_accept.0043.c:0 "你的罪行不容饶恕！"
  futa_accept.0043.d:0 "我接受你的服侍"
-	futa_accept.0043.e:0 "您尽可前来侍奉我。"
-	futa_accept.0043.f:0 "我将乐意为您的服务买单。"
-	futa_accept.0043.g:0 "恐怕目前我不需要更多的士兵了。"
+ futa_accept.0043.e:0 "您尽可前来侍奉我。"
+ futa_accept.0043.f:0 "我将乐意为您的服务买单。"
+ futa_accept.0043.g:0 "恐怕目前我不需要更多的士兵了。"
 
  #
  
  futa_events.0045.title:0 "扶她骑士" #Banished
  futa_events.0045.desc:0 "根据[grudge.GetFirstName]的说法，我根本不想冒着因接受扶她而玷污自身的风险。因此，我宣布[fknight.GetFirstName]在这些土地上不受欢迎。她必须离开且不得再回来，我们这里不容许魔鬼般的行为。\n\n“你……自我到达以来我就没有作恶。相反，你的骑士一直在骚扰并侮辱我的名誉。你如此轻易地定罪我，足以表明为你效力绝非高尚之举。”\n\n她满口恶言，却无其他可取之处。我的卫兵将她护送出城，只留下[grudge.GetFirstName]陪伴我。\n\n“陛下，您的选择真是明智。那堕落之人必定在再试图玷污我们伟大领域之前三思而后行！我将恢复正常职务。”"
  
-	futa_events.0045.desc_futa_accepted: "即便听取了[grudge.GetFirstName]的陈述，我也毫无意愿在我的部队中录用一位新骑士。\n\n“我……我明白了。感谢陛下抽出时间听我陈述。”她的声音显得闷闷不乐。\n\n她郑重地开始收拾行装并离去，只留下[grudge.GetFirstName]陪伴我。\n\n“请恕我直言，我的[ROOT.Char.GetLadyLord]。我们本不该让她离开。我深信她单凭一己之力完全值回数位甚至更多骑士的待遇。无意冒犯。”"
+ futa_events.0045.desc_futa_accepted: "即便听取了[grudge.GetFirstName]的陈述，我也毫无意愿在我的部队中录用一位新骑士。\n\n“我……我明白了。感谢陛下抽出时间听我陈述。”她的声音显得闷闷不乐。\n\n她郑重地开始收拾行装并离去，只留下[grudge.GetFirstName]陪伴我。\n\n“请恕我直言，我的[ROOT.Char.GetLadyLord]。我们本不该让她离开。我深信她单凭一己之力完全值回数位甚至更多骑士的待遇。无意冒犯。”"
  
-	futa_accept.0045.a:0 "谢谢你，[grudge.GetFirstName]。"
+ futa_accept.0045.a:0 "谢谢你，[grudge.GetFirstName]。"
  futa_accept.0045.b: "回到你的职责中去。"
  
  #
@@ -942,18 +942,18 @@
  futa_events.0047.title:0 "扶她骑士" #Paid
  futa_events.0047.desc:0 "[fknight.GetFirstName]的举止令人赞叹，她向我展示了一位骑士应有的礼仪，虽然我的那位骑士可能会有一些意见，但我认为不应该无视这位扶她骑士的请求。一笔用以见证仪式的赐金很快就安排好了，而之前那位骑士则气冲冲地离开了，向我展现他的不满愤怨。\n\n“领主大人，您屈尊选择接受我的效忠，让我不胜荣幸。从今以后，您的意愿即是我的使命，在我倒下之前，誓必不会让任何人伤害到您。”"
  
- futa_events.0047.desc_futa_accepted_paid: "[fknight.GetFirstName] 看起来令人印象深刻，并且对我表现出得体的礼仪。我的骑士也极力为她辩护，因此我认为没有理由忽视这位扶她骑士的请求。一笔金钱已安排好以缔结协议，而[grudge.GetFirstName]则离开了。\n\n“领主大人，您屈尊选择接受我的效忠，让我不胜荣幸。从今以后，您的意愿即是我的使命，在我倒下之前，誓必不会让任何人伤害到您。”"
+ futa_events.0047.desc_futa_accepted_paid: "[fknight.GetFirstName]看起来令人印象深刻，并且对我表现出得体的礼仪。我的骑士也极力为她辩护，因此我认为没有理由忽视这位扶她骑士的请求。一笔金钱已安排好以缔结协议，而[grudge.GetFirstName]则离开了。\n\n“领主大人，您屈尊选择接受我的效忠，让我不胜荣幸。从今以后，您的意愿即是我的使命，在我倒下之前，誓必不会让任何人伤害到您。”"
 
- futa_events.0047.desc_futa_accepted: "[fknight.GetFirstName] 看起来令人印象深刻，并且对我表现出得体的礼仪。我的骑士也极力为她辩护，因此我认为没有理由忽视这位扶她骑士的请求。\n\n“领主大人，您屈尊选择接受我的效忠，让我不胜荣幸。从今以后，您的意愿即是我的使命，在我倒下之前，誓必不会让任何人伤害到您。”"
+ futa_events.0047.desc_futa_accepted: "[fknight.GetFirstName]看起来令人印象深刻，并且对我表现出得体的礼仪。我的骑士也极力为她辩护，因此我认为没有理由忽视这位扶她骑士的请求。\n\n“领主大人，您屈尊选择接受我的效忠，让我不胜荣幸。从今以后，您的意愿即是我的使命，在我倒下之前，誓必不会让任何人伤害到您。”"
  
-	futa_accept.0047.a:0 "好的开始."
-	futa_accept.0047.b:0 "你可以开始履行你的职责."
-	futa_accept.0047.c:0 "你可以开始履行你的职责."
+ futa_accept.0047.a:0 "好的开始."
+ futa_accept.0047.b:0 "你可以开始履行你的职责."
+ futa_accept.0047.c:0 "你可以开始履行你的职责."
  
  #
  
  futa_events.0048.title:0 "扶她骑士" #Futa won rematch
- futa_events.0048.desc:0 "这两位骑士再次交手，[grudge.GetFirstName]先是俯身前刺佯攻，然后又在最后一刻改变攻击角度，试图攻击[fknight.GetFirstNamePossessive]头部，但她早就看穿了这一伎俩，迅速举起她的剑来挡住我的骑士，然后以一记有力的鞭腿反击，直接将[grudge.GetFirstName]击倒在地，迅捷而优雅地结束了这场决斗。\n\n最后[fknight.GetFirstName]向我的骑士伸出手掌试图拉他起身，但[grudge.GetFirstName]却一把甩开她，一边缓缓拄剑起身，一边开始自顾自地抱怨起来。\n\n随着结果清楚地呈现在我面前，显然接受[fknight.GetFirstName]的效忠才是明智的。\n\n“我请求您再考虑一下，领主大人，她是条万恶不赦的 #EMP 毒蛇#!！毫无疑问她又耍诈了，您绝不能相信她的假仁假义！”而此情此景[grudge.GetFirstName]居然还敢狡辩，对于这样的公然违抗和行为不端，我必须要采取一些措施，因此，我别无选择，只能将[grudge.GetFirstName]从我的骑士队伍中除名。\n\n[grudge.GetFirstName]听后又愤恨不已地发誓，我将会为此后悔的，然后便神色狼狈地跑远了，而扶她骑士则缓步朝我走来。\n\n“我很感激您对我的关心，我的君主，不过您的那位骑士似乎相当厌恶我的出现，我希望我在短时间内两次击败[grudge.GetFirstName]的战绩可以减轻您对我的能力的任何担忧。”"
+ futa_events.0048.desc:0 "这两位骑士再次交手，[grudge.GetFirstName]先是俯身前刺佯攻，然后又在最后一刻改变攻击角度，试图攻击[fknight.GetFirstNamePossessive]头部，但她早就看穿了这一伎俩，迅速举起她的剑来挡住我的骑士，然后以一记有力的鞭腿反击，直接将[grudge.GetFirstName]击倒在地，迅捷而优雅地结束了这场决斗。\n\n最后[fknight.GetFirstName]向我的骑士伸出手掌试图拉他起身，但[grudge.GetFirstName]却一把甩开她，一边缓缓拄剑起身，一边开始自顾自地抱怨起来。\n\n随着结果清楚地呈现在我面前，显然接受[fknight.GetFirstName]的效忠才是明智的。\n\n“我请求您再考虑一下，领主大人，她是条万恶不赦的#EMP 毒蛇#!！毫无疑问她又耍诈了，您绝不能相信她的假仁假义！”而此情此景[grudge.GetFirstName]居然还敢狡辩，对于这样的公然违抗和行为不端，我必须要采取一些措施，因此，我别无选择，只能将[grudge.GetFirstName]从我的骑士队伍中除名。\n\n[grudge.GetFirstName]听后又愤恨不已地发誓，我将会为此后悔的，然后便神色狼狈地跑远了，而扶她骑士则缓步朝我走来。\n\n“我很感激您对我的关心，我的君主，不过您的那位骑士似乎相当厌恶我的出现，我希望我在短时间内两次击败[grudge.GetFirstName]的战绩可以减轻您对我的能力的任何担忧。”"
  futa_accept.0048.a:0 "尽心侍奉我吧."
  
  #
@@ -973,13 +973,13 @@
  #
  
  futa_events.0051.title:0 "扶她骑士" #fknight stockade
- futa_events.0051.desc:0 "尽管[fknight.GetFirstName]拼命挣扎，我的护卫们还是制服了她，将她跪压在我面前，但她仍然用一种充满期待的眼神望着我。\n\n“为什么要这样羞辱我？我没有做任何错事，不该受到如此恶毒的惩罚，快把我放开！”\n\n这是我的领地，只有我才能决定什么是正义，什么是不正义，而她也将获得自由……但要等到最后，因为她的恶劣行径，我必须向公众作出一个榜样。[grudge.GetFirstName]向我保证，他们有一种最适合她这样的人的惩罚。\n\n过了一段时间，我发现她的惩罚已经准备开始了，在一个非常繁忙的公共十字路口，这里架起了一个示众台，而被锁在里面示众的就是[fknight.GetFirstName]。她的盔甲已被卸下，整齐地放在她身边，而这位女骑士的头部和手腕则被锁在一个暴露而脆弱的装置里，她的脸上隐含着愤怒的神情，但她竭力掩饰着，以免说出任何软弱的评论，但我相信她心里一定有。\n\n“没错，各位公民们，这位来自#EMP [ROOT.Faith.NegativeAfterLife]#!的双性淫妇已被迫忏悔，去对她的身体做任何你想做的事吧，没有惩罚或诅咒的风险……只要让她还能保持人形。”\n\n[grudge.GetFirstName]用一种非常夸张的得意神情向群众们发表讲话，许多双眼睛都紧盯着双性人的裸体，但都紧张地站在原地。[grudge.GetFirstName]高高抬起手掌，然后重重地拍在[fknight.GetFirstName]的后臀，让她身上激起阵阵涟漪。“别担心，她现在毫无反抗力量，这可能是我们抓住一只这种生物并活着讲述这个故事的仅有机会！据我所知，触碰一个扶她可以治愈很多疾病！”\n\n听到这个令人惊讶的事实，人们离扶她靠得更近了。大部分人们对这种说法都感到怀疑，但很快，就有一个人尝试伸出手去摸索着那名扶她的乳房，然后其他人就开始嘲笑[fknight.GetFirstName]的镇定，而她则不停地尝试摆脱身上的束缚，但却始终无法挣脱。第一个触摸者声称，这是她开始享受的迹象。\n\n这让更多的人开始敢于接触这位骑士的身体，而她无力抵抗，只能任由所有人抚摸、戏弄，甚至舔舐。\n\n我还注意到有个男人正悄悄在站在人群中，也伸出手捏住女骑士的一个睾丸，用力挤压着。\n\n这种身体攻击持续了好一段时间，随着人群越来越大胆，扶她骑士感到越来越难受，但从一开始，她的蛋蛋就一直鼓胀着。忽然人群中有个人开始怂恿另一个人给[fknight.GetFirstNamePossessive]雌鸡巴打飞机，他们欢呼嬉闹着，笑声仿佛冲上云霄。而那两个人则被扶她的精液糊满一脸，似乎对于她会射精这回事毫无预料。不过，这对其他人来说倒是很好的乐子。\n\n当一切都结束后，我下令把[fknight.GetFirstName]转移到监狱之中。"
+ futa_events.0051.desc:0 "尽管[fknight.GetFirstName]拼命挣扎，我的护卫们还是制服了她，将她跪压在我面前，但她仍然用一种充满期待的眼神望着我。\n\n“为什么要这样羞辱我？我没有做任何错事，不该受到如此恶毒的惩罚，快把我放开！”\n\n这是我的领地，只有我才能决定什么是正义，什么是不正义，而她也将获得自由……但要等到最后，因为她的恶劣行径，我必须向公众作出一个榜样。[grudge.GetFirstName]向我保证，他们有一种最适合她这样的人的惩罚。\n\n过了一段时间，我发现她的惩罚已经准备开始了，在一个非常繁忙的公共十字路口，这里架起了一个示众台，而被锁在里面示众的就是[fknight.GetFirstName]。她的盔甲已被卸下，整齐地放在她身边，而这位女骑士的头部和手腕则被锁在一个暴露而脆弱的装置里，她的脸上隐含着愤怒的神情，但她竭力掩饰着，以免说出任何软弱的评论，但我相信她心里一定有。\n\n“没错，各位公民们，这位来自#EMP[ROOT.Faith.NegativeAfterLife]#!的双性淫妇已被迫忏悔，去对她的身体做任何你想做的事吧，没有惩罚或诅咒的风险……只要让她还能保持人形。”\n\n[grudge.GetFirstName]用一种非常夸张的得意神情向群众们发表讲话，许多双眼睛都紧盯着双性人的裸体，但都紧张地站在原地。[grudge.GetFirstName]高高抬起手掌，然后重重地拍在[fknight.GetFirstName]的后臀，让她身上激起阵阵涟漪。“别担心，她现在毫无反抗力量，这可能是我们抓住一只这种生物并活着讲述这个故事的仅有机会！据我所知，触碰一个扶她可以治愈很多疾病！”\n\n听到这个令人惊讶的事实，人们离扶她靠得更近了。大部分人们对这种说法都感到怀疑，但很快，就有一个人尝试伸出手去摸索着那名扶她的乳房，然后其他人就开始嘲笑[fknight.GetFirstName]的镇定，而她则不停地尝试摆脱身上的束缚，但却始终无法挣脱。第一个触摸者声称，这是她开始享受的迹象。\n\n这让更多的人开始敢于接触这位骑士的身体，而她无力抵抗，只能任由所有人抚摸、戏弄，甚至舔舐。\n\n我还注意到有个男人正悄悄在站在人群中，也伸出手捏住女骑士的一个睾丸，用力挤压着。\n\n这种身体攻击持续了好一段时间，随着人群越来越大胆，扶她骑士感到越来越难受，但从一开始，她的蛋蛋就一直鼓胀着。忽然人群中有个人开始怂恿另一个人给[fknight.GetFirstNamePossessive]雌鸡巴打飞机，他们欢呼嬉闹着，笑声仿佛冲上云霄。而那两个人则被扶她的精液糊满一脸，似乎对于她会射精这回事毫无预料。不过，这对其他人来说倒是很好的乐子。\n\n当一切都结束后，我下令把[fknight.GetFirstName]转移到监狱之中。"
  futa_accept.0051.a:0 "正义得到了伸张."
 
  #
  
  futa_events.0052.title:0 "舞动的肉棒"
- futa_events.0052.desc:0 "猥亵的想法一直占据着我的脑海，为了以防发生任何糟糕的事情，我做出了一个合乎逻辑而明智的决定——我要去趟妓院。\n\n在这片大地上的每个城市，如果你知道去哪里寻找，你总能找到极乐的天堂。而这家店喧闹非凡，淫靡地散发着昏暗的灯光，这正是我喜欢的样子，来到这里的每个人都在忙着#EMP 沉浸#!其中，而我在越发的兴奋中，不禁在意起我的裙子是否能够遮住裆部支起的鼓包。\n\n妓院里的空气里弥漫着欲望和肉欲的气息，墙上挂着绣满亲密激情场景的壁毯，柔和的烛光轻轻摇曳着，从隔壁的包厢里投下舞动的影子。然后我坐在其中一个舞池旁边，正好赶上一些妓女开始她们的表演。\n\n两位舞姬披着几乎无法遮住她们丰满曲线的异国情调的面纱，优雅地摆动着身姿，似灵鹿像妙蝶，两人不时勾手共舞，又接着分开各自起舞。在这场艳舞中，她们白嫩的小手互相抚摸着对方的身体，手指不时掠过丰满的红唇、饱满的乳房以及丝质薄纱下更加诱人的部位。随着她们在激情的艳舞中越靠越近，她们开始热烈地痛吻起来，柔嫩的香舌尽情缠绵着，肆无忌惮地展现她们的淫欲。\n\n我感觉到身体对眼前的艳舞早就不由自主地躁动起来，我的睾丸已经绷紧了，鸡巴更是在我裙子内不停抽动着。而看到这些女人更深入地彼此缠绵后，我的血液简直要沸腾了，我情不自禁地隔着衣服小心而缓慢地抚摸自己，这种手指轻微撸动鸡巴的快感，让我更加兴奋。\n\n随着两位舞者继续表演，她们开始互相褪去衣裙，露出柔软而白皙的皮肤和曼妙的身材。其中一个女人跪在另一个女人面前，她用嘴唇啜食她舞伴的小穴，并用手指揉捻着舞伴肿胀的乳头。这位顺从的女伴动情的呻吟声充满了整个房间，这时我才看到自己的爱液也已经悄悄流出来了。\n\n随后，那位被爱抚的女郎突然俯下身，直接抠住她女伴的阴蒂，并起手指轻轻地揉搓着。没过多久，现在这位处于顺从的女人便拱起脊背，发出狂喜的呻吟，她的高潮声久久回荡在整个空间里，我也发现自己已经到了极限的边缘。\n\n一队野蛮的守卫突然闯进来并开始无情地驱赶顾客们，并大声宣布道：“现在，#bold 所 有 人 都 离 场 ！#!有人在这走私违禁品被抓了，我们绝不容忍这种行为！”\n\n#EMP 我 操 ！#! 我还差点才能高潮呢……"
+ futa_events.0052.desc:0 "猥亵的想法一直占据着我的脑海，为了以防发生任何糟糕的事情，我做出了一个合乎逻辑而明智的决定——我要去趟妓院。\n\n在这片大地上的每个城市，如果你知道去哪里寻找，你总能找到极乐的天堂。而这家店喧闹非凡，淫靡地散发着昏暗的灯光，这正是我喜欢的样子，来到这里的每个人都在忙着#EMP 沉浸#!其中，而我在越发的兴奋中，不禁在意起我的裙子是否能够遮住裆部支起的鼓包。\n\n妓院里的空气里弥漫着欲望和肉欲的气息，墙上挂着绣满亲密激情场景的壁毯，柔和的烛光轻轻摇曳着，从隔壁的包厢里投下舞动的影子。然后我坐在其中一个舞池旁边，正好赶上一些妓女开始她们的表演。\n\n两位舞姬披着几乎无法遮住她们丰满曲线的异国情调的面纱，优雅地摆动着身姿，似灵鹿像妙蝶，两人不时勾手共舞，又接着分开各自起舞。在这场艳舞中，她们白嫩的小手互相抚摸着对方的身体，手指不时掠过丰满的红唇、饱满的乳房以及丝质薄纱下更加诱人的部位。随着她们在激情的艳舞中越靠越近，她们开始热烈地痛吻起来，柔嫩的香舌尽情缠绵着，肆无忌惮地展现她们的淫欲。\n\n我感觉到身体对眼前的艳舞早就不由自主地躁动起来，我的睾丸已经绷紧了，鸡巴更是在我裙子内不停抽动着。而看到这些女人更深入地彼此缠绵后，我的血液简直要沸腾了，我情不自禁地隔着衣服小心而缓慢地抚摸自己，这种手指轻微撸动鸡巴的快感，让我更加兴奋。\n\n随着两位舞者继续表演，她们开始互相褪去衣裙，露出柔软而白皙的皮肤和曼妙的身材。其中一个女人跪在另一个女人面前，她用嘴唇啜食她舞伴的小穴，并用手指揉捻着舞伴肿胀的乳头。这位顺从的女伴动情的呻吟声充满了整个房间，这时我才看到自己的爱液也已经悄悄流出来了。\n\n随后，那位被爱抚的女郎突然俯下身，直接抠住她女伴的阴蒂，并起手指轻轻地揉搓着。没过多久，现在这位处于顺从的女人便拱起脊背，发出狂喜的呻吟，她的高潮声久久回荡在整个空间里，我也发现自己已经到了极限的边缘。\n\n一队野蛮的守卫突然闯进来并开始无情地驱赶顾客们，并大声宣布道：“现在，#bold 所 有 人 都 离 场 ！#!有人在这走私违禁品被抓了，我们绝不容忍这种行为！”\n\n#EMP 我 操 ！#!我还差点才能高潮呢……"
  futa_accept.0052.a:0 "我蛋蛋好疼…"
  futa_accept.0052.b:0 "这还不能结束!"
  
@@ -1053,7 +1053,7 @@
  #
  
  futa_events.0065.title:0 "舌灿莲花"
- futa_events.0065.desc:0 "我已经积攒太久了，现在我感觉蛋蛋随时都要爆炸了！但干等着不过是浪费时间，我需要的是一次足够尽兴的发泄，而且是那种专业人士才能提供的精心服侍，所以现在我只能传唤我的妓仆[fwhore.GetFirstName]前来觐见。很快她便走进我的房间，不过有些兴致低落，甚至当她目光飘向我的时候，她仍双眉轻蹙着对我请安。\n\n“我的大人，所为何事？”\n\n而我一刻都不想再憋忍了，直接脱光衣服，用昂然勃起的肉棒赤裸而坦诚地回应她。即使是现在，只要稍微想象她将会如何贴心地取悦我，我的龟头都会忍不住溢出滴滴晶莹的汁液。\n\n“呼 ~ 你哪怕连一分钟都再忍不了吗？”[fwhore.GetFirstName]一边嗤笑着一边敞开她的衣裙，晃露着她丰满诱人的乳房，那看起来是如此美丽，如此柔软。我不由自主地倾身向前伸手，而现在我几乎可以——\n\n“这已经够近了，”[fwhore.GetFirstName]举起一只手挡住我，“或者40金币。”\n\n什 么 ？！花40金币让她做一次她的本职工作？\n\n“对于这次服务，我要40枚酬金，而你只有 30 分钟。如果超过这个时间，我就不确定我是否还有耐心继续陪你玩了。” 她神色淡然地说到，“再加上来回的路费……” \n\n[fwhore.GetFirstName]你怎么敢？！几乎在一瞬间，我内心深处便勃然升腾起了另一种更加猛烈而无可违逆的冲动，甚至压倒了我深渊般的肉欲。那就是比深渊更黑暗比地狱更混乱的， 狂 怒 。我必须要给这个荡妇一个深刻的教训，让她从心底里明白，她卑贱的泥躯能出现在我雍雅庄贵的宫廷里的唯一原因仅仅是她有资格跪拜在我的鸡巴之下，感受我至福的临幸，奢求我宽仁的怜悯。\n\n在短暂的停顿后，[fwhore.GetFirstName]继续补充道，“#EMP 45金币#! ，如果你觉得不行，那就操你自己好了。”"
+ futa_events.0065.desc:0 "我已经积攒太久了，现在我感觉蛋蛋随时都要爆炸了！但干等着不过是浪费时间，我需要的是一次足够尽兴的发泄，而且是那种专业人士才能提供的精心服侍，所以现在我只能传唤我的妓仆[fwhore.GetFirstName]前来觐见。很快她便走进我的房间，不过有些兴致低落，甚至当她目光飘向我的时候，她仍双眉轻蹙着对我请安。\n\n“我的大人，所为何事？”\n\n而我一刻都不想再憋忍了，直接脱光衣服，用昂然勃起的肉棒赤裸而坦诚地回应她。即使是现在，只要稍微想象她将会如何贴心地取悦我，我的龟头都会忍不住溢出滴滴晶莹的汁液。\n\n“呼 ~ 你哪怕连一分钟都再忍不了吗？”[fwhore.GetFirstName]一边嗤笑着一边敞开她的衣裙，晃露着她丰满诱人的乳房，那看起来是如此美丽，如此柔软。我不由自主地倾身向前伸手，而现在我几乎可以——\n\n“这已经够近了，”[fwhore.GetFirstName]举起一只手挡住我，“或者40金币。”\n\n什 么 ？！花40金币让她做一次她的本职工作？\n\n“对于这次服务，我要40枚酬金，而你只有 30 分钟。如果超过这个时间，我就不确定我是否还有耐心继续陪你玩了。” 她神色淡然地说到，“再加上来回的路费……” \n\n[fwhore.GetFirstName]你怎么敢？！几乎在一瞬间，我内心深处便勃然升腾起了另一种更加猛烈而无可违逆的冲动，甚至压倒了我深渊般的肉欲。那就是比深渊更黑暗比地狱更混乱的， 狂 怒 。我必须要给这个荡妇一个深刻的教训，让她从心底里明白，她卑贱的泥躯能出现在我雍雅庄贵的宫廷里的唯一原因仅仅是她有资格跪拜在我的鸡巴之下，感受我至福的临幸，奢求我宽仁的怜悯。\n\n在短暂的停顿后，[fwhore.GetFirstName]继续补充道，“#EMP 45金币#!，如果你觉得不行，那就操你自己好了。”"
  futa_accept.0065.a:0 "滚出我的寝宫！"
  futa_accept.0065.b:0 "…好吧"
  futa_accept.0065.c:0 "不，做你该做的，婊子！"
@@ -1097,7 +1097,7 @@
  #
  
  futa_events.0072.title:0 "精盈珠润" #Lover POV
- futa_events.0072.desc:0 "这绝对是我近段时间以来感觉最好的一次。我美丽的情人[futa.GetFirstName]似乎并不明白，她不是唯一一个能够主动“进攻”的人。她养成了在寝宫里全裸着四处活动的习惯，总是连续几个小时都在我的眼前肆意且骄傲地展示她曼妙的身姿。\n\n她的下半身特别引人注目，挺立的肉棒，丰满的臀肉，抖动的卵袋，几种绝妙的性感元素结合在一切，总是把我勾引得浮想联翩，按耐不住地想象着那品尝起来是什么滋味。而现在她那肥大圆润的蛋蛋正垂挂在两腿之间悠闲地晃荡着，看起来特别饱满多汁，所以我真的已经忍不住要享受这道美味了。\n\n而显然[futa.GetFirstName]对我的突然袭击毫无防备，我紧紧搂着她嫩滑结实的大腿，把整张脸都深埋在她丰润诱人的屁股和蛋蛋之间。\n\n我早已饥渴难耐了，所以我迫不及待地开始在这个柔软舒适的空间里贪婪地吸嗅起来，还用嘴唇和鼻子深情地摩擦着。我能感觉到[futa.GetFirstName]圆润的蛋蛋在我脸颊周围晃来晃去。如此饱满，如此沉重……如此迷人。\n\n现在[futa.GetFirstName]已经迷失在我带来的快感里，沉醉地发出咕哝不清的呻吟声，只能任由我伸出舌头不断挑逗着她的卵袋，把她的蛋蛋含进又吐出，肆意挑弄着。\n\n虽然它像鸡蛋一样大，但这丝毫不能阻止我！我大口把它含在嘴里来回搅动着，同时温柔地反复舔舐它。这样的刺激很快就让她难以忍受了，很快饱满圆润的蛋蛋便跳动起来，似乎膨胀又抽搐了一秒钟，随后我就#EMP 感觉#!到里面有什么东西在奔涌着……如浪潮般。 \n\n！！！\n\n“嗯啊啊啊 ~ #EMP 我要泄了！#!” \n\n[futa.GetFirstName]舒爽地高声呻吟起来，而话音未落一大股浓厚稠密的精液就从[futa.GetFirstName]胯下喷出，重重地溅落在地上，随后更多的精液也如激流般射出，但直到这个蛋蛋将它所有的积攒完全射尽，我才恋恋不舍地松开口舌。\n\n呵呵，看着现在[futa.GetFirstName]撅着屁股不停颤抖的可爱背影，心中一种惬意油然而生，不过我还发现到她另一个蛋蛋要比刚才的那个饱满许多，也许之前我应该帮它俩都发泄一下的……"
+ futa_events.0072.desc:0 "这绝对是我近段时间以来感觉最好的一次。我美丽的情人[futa.GetFirstName]似乎并不明白，她不是唯一一个能够主动“进攻”的人。她养成了在寝宫里全裸着四处活动的习惯，总是连续几个小时都在我的眼前肆意且骄傲地展示她曼妙的身姿。\n\n她的下半身特别引人注目，挺立的肉棒，丰满的臀肉，抖动的卵袋，几种绝妙的性感元素结合在一切，总是把我勾引得浮想联翩，按耐不住地想象着那品尝起来是什么滋味。而现在她那肥大圆润的蛋蛋正垂挂在两腿之间悠闲地晃荡着，看起来特别饱满多汁，所以我真的已经忍不住要享受这道美味了。\n\n而显然[futa.GetFirstName]对我的突然袭击毫无防备，我紧紧搂着她嫩滑结实的大腿，把整张脸都深埋在她丰润诱人的屁股和蛋蛋之间。\n\n我早已饥渴难耐了，所以我迫不及待地开始在这个柔软舒适的空间里贪婪地吸嗅起来，还用嘴唇和鼻子深情地摩擦着。我能感觉到[futa.GetFirstName]圆润的蛋蛋在我脸颊周围晃来晃去。如此饱满，如此沉重……如此迷人。\n\n现在[futa.GetFirstName]已经迷失在我带来的快感里，沉醉地发出咕哝不清的呻吟声，只能任由我伸出舌头不断挑逗着她的卵袋，把她的蛋蛋含进又吐出，肆意挑弄着。\n\n虽然它像鸡蛋一样大，但这丝毫不能阻止我！我大口把它含在嘴里来回搅动着，同时温柔地反复舔舐它。这样的刺激很快就让她难以忍受了，很快饱满圆润的蛋蛋便跳动起来，似乎膨胀又抽搐了一秒钟，随后我就#EMP 感觉#!到里面有什么东西在奔涌着……如浪潮般。 \n\n！！！\n\n“嗯啊啊啊 ~#EMP 我要泄了！#!” \n\n[futa.GetFirstName]舒爽地高声呻吟起来，而话音未落一大股浓厚稠密的精液就从[futa.GetFirstName]胯下喷出，重重地溅落在地上，随后更多的精液也如激流般射出，但直到这个蛋蛋将它所有的积攒完全射尽，我才恋恋不舍地松开口舌。\n\n呵呵，看着现在[futa.GetFirstName]撅着屁股不停颤抖的可爱背影，心中一种惬意油然而生，不过我还发现到她另一个蛋蛋要比刚才的那个饱满许多，也许之前我应该帮它俩都发泄一下的……"
  futa_accept.0072.a:0 "看起来她很满意"
 
  #
@@ -1148,7 +1148,7 @@
  #
  
  futa_events.0081.title:0 "沉精重蛋" #Tier 2
- futa_events.0081.desc:0 "似乎，有些不对劲。在巡视领地时的公开演讲期间，通常[fknight.GetFirstName]会时刻守卫在我身旁，但现在她却不见踪影了。但好在正式开始之前，我还有一些空闲时间，所以我打算独自去寻找她。她绝不可能无缘无故地放弃自己的职责，也许是有什么事情令她难以脱身？\n\n在一阵忙碌后，我终于看到了她的侧影，此时她正有些僵硬地站在一辆空敞的集市货车附近。出于好奇，我走过去想弄清楚她在这里做什么。\n\n“感觉舒服吗？” #EMP *啜吸*#! “谁能想到一个女孩竟也有如此#EMP 美味#!的鸡巴。”\n\n“嗯嗯……太好吃了……”\n\n这是#EMP 什么#!动静？！奇怪的响声，[fknight.GetFirstNamePossessive]表情……还有其他人的说话声？就如我看到的那样，[fknight.GetFirstName]正站在一个偏僻的角落里，满脸通红而难耐地斜倚着货车。\n\n为了看得更清楚一些，我便弯腰屈膝从货车底下望过去，却发现一个陌生的女人正在无比享受地舔食[fknight.GetFirstNamePossessive]鸡巴！"
+ futa_events.0081.desc:0 "似乎，有些不对劲。在巡视领地时的公开演讲期间，通常[fknight.GetFirstName]会时刻守卫在我身旁，但现在她却不见踪影了。但好在正式开始之前，我还有一些空闲时间，所以我打算独自去寻找她。她绝不可能无缘无故地放弃自己的职责，也许是有什么事情令她难以脱身？\n\n在一阵忙碌后，我终于看到了她的侧影，此时她正有些僵硬地站在一辆空敞的集市货车附近。出于好奇，我走过去想弄清楚她在这里做什么。\n\n“感觉舒服吗？”#EMP *啜吸*#!“谁能想到一个女孩竟也有如此#EMP 美味#!的鸡巴。”\n\n“嗯嗯……太好吃了……”\n\n这是#EMP 什么#!动静？！奇怪的响声，[fknight.GetFirstNamePossessive]表情……还有其他人的说话声？就如我看到的那样，[fknight.GetFirstName]正站在一个偏僻的角落里，满脸通红而难耐地斜倚着货车。\n\n为了看得更清楚一些，我便弯腰屈膝从货车底下望过去，却发现一个陌生的女人正在无比享受地舔食[fknight.GetFirstNamePossessive]鸡巴！"
  futa_accept.0081.a:0 "假装一无所知的样子。"
  futa_accept.0081.b:0 "“你们在干什么！”"
  
@@ -1208,7 +1208,7 @@
  #
  
  futa_events.0090.title:0 "劫掠狂潮" #Part 2 Tier 3
- futa_events.0090.desc:0 "“不！不要！有没有人来救救我 - #EMP *咕咿?!?*#!”当我抓住她甜美的脸并向其塞入我极度勃起的鸡巴后，这个女孩就只能咽下那可怜的哭喊声了！#EMP 爽翻了！#!她那紧致的喉穴不断挤压我的肉棒，一种令人心悸的吮吸蠕动感顿时触电般传遍全身，简直要把我的灵魂都吸出来了。\n\n我疯狂的抽插着，沉甸甸的蛋蛋无情地拍打着她小巧的下巴，简直要把她的处女嘴穴完全肏烂了，现在她不过只是一个供我泄欲享用的鸡巴套子！\n\n每当我敏感的龟头捅入她的喉咙深处时，我都能感到一股崩裂般的快感涌入脊椎中。而这个女孩只能一边大口含住肉棒一边无助地抽泣、干呕着，不停地推搡我的大腿企图逃离我的魔掌，但她软弱的挣扎只会让她的喉咙肏起来更加舒爽！\n\n很快一阵汹涌的快感就像铁锤般击中我，震得我手酥脚软，看来是时候结束这一切了！\n\n“#EMP 呃啊！#!”\n\n我忍不住将女孩的后脑紧紧按在胯下，粗硬的肉棒完全插入她的嘴穴里面，随后便将我积攒许久的浓精全部灌进她的喉咙深处，过多的精液甚至从她的鼻孔中倒喷而出！毕竟她辛勤的服侍也不能毫无回报，至少也应该得到点礼物。\n\n随后我便一把推开那个饱受摧残的女孩，神清气爽地躺在她的床上休息起来。当我最终回过神来后，周围纷乱的声音才涌入我的耳中，我兴奋的心跳也逐渐平息。我听到了那些声音……那些……狂呼乱喊的战士、燃烧崩毁的街道、垂死呻吟的当地人……还有……那个悲泣的女孩……"
+ futa_events.0090.desc:0 "“不！不要！有没有人来救救我 -#EMP *咕咿?!?*#!”当我抓住她甜美的脸并向其塞入我极度勃起的鸡巴后，这个女孩就只能咽下那可怜的哭喊声了！#EMP 爽翻了！#!她那紧致的喉穴不断挤压我的肉棒，一种令人心悸的吮吸蠕动感顿时触电般传遍全身，简直要把我的灵魂都吸出来了。\n\n我疯狂的抽插着，沉甸甸的蛋蛋无情地拍打着她小巧的下巴，简直要把她的处女嘴穴完全肏烂了，现在她不过只是一个供我泄欲享用的鸡巴套子！\n\n每当我敏感的龟头捅入她的喉咙深处时，我都能感到一股崩裂般的快感涌入脊椎中。而这个女孩只能一边大口含住肉棒一边无助地抽泣、干呕着，不停地推搡我的大腿企图逃离我的魔掌，但她软弱的挣扎只会让她的喉咙肏起来更加舒爽！\n\n很快一阵汹涌的快感就像铁锤般击中我，震得我手酥脚软，看来是时候结束这一切了！\n\n“#EMP 呃啊！#!”\n\n我忍不住将女孩的后脑紧紧按在胯下，粗硬的肉棒完全插入她的嘴穴里面，随后便将我积攒许久的浓精全部灌进她的喉咙深处，过多的精液甚至从她的鼻孔中倒喷而出！毕竟她辛勤的服侍也不能毫无回报，至少也应该得到点礼物。\n\n随后我便一把推开那个饱受摧残的女孩，神清气爽地躺在她的床上休息起来。当我最终回过神来后，周围纷乱的声音才涌入我的耳中，我兴奋的心跳也逐渐平息。我听到了那些声音……那些……狂呼乱喊的战士、燃烧崩毁的街道、垂死呻吟的当地人……还有……那个悲泣的女孩……"
  futa_accept.0090.a:0 "我控制不了自己……"
 
  #
@@ -1246,13 +1246,13 @@
  #
  
  futa_events.0097.title:0 "情投意合" #Taker POV
- futa_events.0097.desc:0 "我已经#EMP 饥渴难耐#!了，而我亲爱的的[futat.GetFirstName]想必也是如此。这几天，无论我如何……#EMP “慰藉”#!自己，我的欲火都得不到平息。在我看来，唯一的治疗方法就是大干一场了，而这方面没有谁会比我的小情人更适合了。\n\n所以此刻我正倚躺在她的床上，浑身赤裸，娇嫩欲滴。光是感觉到她的眼睛盯着我，我的肉穴就在颤栗流水。于是我挑逗着她，状若无意般用屁股顶蹭着她的裆胯。\n\n“天啊，[futab.GetFirstName]你简直快把我逼#EMP 疯#!了！”我的爱人一边粗喘着，一边像一头醉牛一样笨拙地爬上我的背，骑在我身上。不过我并不在意她的表现，一头猛牛正是我现在所急需的。\n\n嗯~啊！此刻她热切的双手正在我的娇躯上四处游走……#EMP 刚才我背上的是口水吗？#!\n\n“#EMP 哼哼~你对我的身体还真是着迷呢，[futab.GetFirstName]#!，那么再更加疼爱我一点吧！”\n\n#S *嘶~* #!\n\n啊！她进来了，她插进我的身体了！她迷人的肉棒正在开垦我的沃土，每一次猛烈的抽插都会让这片干涸许久的大地降下晶莹的甘霖，我的翘臀也因撞击而荡漾不已。我俩饱满肥嫩的蛋蛋更是随着她的肏干#EMP 反复相撞#!，这样撞得有点酸痛酥麻，一股别样的快感涌上心头。\n\n“[futab.GetFirstName]，我太爱你了，我爱你的骚穴，我爱你的鸡巴，我爱你的微笑！我想和你永远在一起——嗯啊啊啊！”[futat.GetFirstName]深情的告白被一股更加深邃的极乐所打断，她只能颤栗地趴在我身上抽搐着，发出野兽般的呻吟。\n\n“#EMP 就是那里，太舒服了！#!，噢~ #EMP [futat.GetFirstName]你就是我的欲孽之火，我的灵魂之光！#!我能感觉到我的蛋蛋正在猛烈#EMP 轰鸣#!！我要射了！”\n\n#S *啪*……*啪*……*啪*#!……盎然的春色随之盈满整个房间……\n\n#EMP 我要升天了！#![futat.GetFirstName]把我肏得神志不清了，我仿佛已经变成了云朵，飘荡在天际四处遨游，为大地施撒生命的洗礼。实际上，泛滥的爱液已经打湿了[futat.GetFirstName]身下的床单，而我的鸡巴——被压在床单和腰腹之间——更是把自己尽情地射个满怀。\n\n[futat.GetFirstName]挑逗地将肉棒抵住我的花心反复厮磨，使我整个身体在最敏感的状态下因极致的快感而不可抑制地抽搐起来。\n\n“[futab.GetFirstName]，我要高潮了！再插深点！”\n\n随着她一阵狂烈的抽插，我的肌肤越发嫣红和娇艳。终于一股黏白的浪潮重重地涌入我的肉穴深处，细腻地涂满了所有褶皱，然后又灌入我的子宫。而久旱的子宫一边贪婪地吮吸着浓厚的精液一边敏感地收缩着，但只收缩了一半，就已经被灌满了。\n\n[futat.GetFirstName]威猛的肏弄几乎让我仰面昏死过去，而她也疲倦不堪地倒在我怀里，最后我们都带着倦怠而甜美的微笑相拥而眠，臃肿地躺在沾满精液的床上共度良宵。"
+ futa_events.0097.desc:0 "我已经#EMP 饥渴难耐#!了，而我亲爱的的[futat.GetFirstName]想必也是如此。这几天，无论我如何……#EMP “慰藉”#!自己，我的欲火都得不到平息。在我看来，唯一的治疗方法就是大干一场了，而这方面没有谁会比我的小情人更适合了。\n\n所以此刻我正倚躺在她的床上，浑身赤裸，娇嫩欲滴。光是感觉到她的眼睛盯着我，我的肉穴就在颤栗流水。于是我挑逗着她，状若无意般用屁股顶蹭着她的裆胯。\n\n“天啊，[futab.GetFirstName]你简直快把我逼#EMP 疯#!了！”我的爱人一边粗喘着，一边像一头醉牛一样笨拙地爬上我的背，骑在我身上。不过我并不在意她的表现，一头猛牛正是我现在所急需的。\n\n嗯~啊！此刻她热切的双手正在我的娇躯上四处游走……#EMP 刚才我背上的是口水吗？#!\n\n“#EMP 哼哼~你对我的身体还真是着迷呢，[futab.GetFirstName]#!，那么再更加疼爱我一点吧！”\n\n#S *嘶~* #!\n\n啊！她进来了，她插进我的身体了！她迷人的肉棒正在开垦我的沃土，每一次猛烈的抽插都会让这片干涸许久的大地降下晶莹的甘霖，我的翘臀也因撞击而荡漾不已。我俩饱满肥嫩的蛋蛋更是随着她的肏干#EMP 反复相撞#!，这样撞得有点酸痛酥麻，一股别样的快感涌上心头。\n\n“[futab.GetFirstName]，我太爱你了，我爱你的骚穴，我爱你的鸡巴，我爱你的微笑！我想和你永远在一起——嗯啊啊啊！”[futat.GetFirstName]深情的告白被一股更加深邃的极乐所打断，她只能颤栗地趴在我身上抽搐着，发出野兽般的呻吟。\n\n“#EMP 就是那里，太舒服了！#!，噢~#EMP[futat.GetFirstName]你就是我的欲孽之火，我的灵魂之光！#!我能感觉到我的蛋蛋正在猛烈#EMP 轰鸣#!！我要射了！”\n\n#S *啪*……*啪*……*啪*#!……盎然的春色随之盈满整个房间……\n\n#EMP 我要升天了！#![futat.GetFirstName]把我肏得神志不清了，我仿佛已经变成了云朵，飘荡在天际四处遨游，为大地施撒生命的洗礼。实际上，泛滥的爱液已经打湿了[futat.GetFirstName]身下的床单，而我的鸡巴——被压在床单和腰腹之间——更是把自己尽情地射个满怀。\n\n[futat.GetFirstName]挑逗地将肉棒抵住我的花心反复厮磨，使我整个身体在最敏感的状态下因极致的快感而不可抑制地抽搐起来。\n\n“[futab.GetFirstName]，我要高潮了！再插深点！”\n\n随着她一阵狂烈的抽插，我的肌肤越发嫣红和娇艳。终于一股黏白的浪潮重重地涌入我的肉穴深处，细腻地涂满了所有褶皱，然后又灌入我的子宫。而久旱的子宫一边贪婪地吮吸着浓厚的精液一边敏感地收缩着，但只收缩了一半，就已经被灌满了。\n\n[futat.GetFirstName]威猛的肏弄几乎让我仰面昏死过去，而她也疲倦不堪地倒在我怀里，最后我们都带着倦怠而甜美的微笑相拥而眠，臃肿地躺在沾满精液的床上共度良宵。"
  futa_accept.0097.a:0 "多么浪漫……"
 
  #
  
  futa_events.0098.title:0 "扶她之种"
- futa_events.0098.desc:0 "今天，[futab.GetFirstName]突然要求私下与我见面。而最近，农民对扶她们的仇恨与日俱增，我担心她遭受了什么糟糕的事情。但当我走近时，她却有些扭捏不安。我顿时想到了什么，不由得高度警觉起来，也许是有一些可怕的谋划已然露出了獠牙，[futab.GetFirstName]正是来警告我，即使在我自己的领地里也可能有危险。\n\n“亲爱的，我……有些事情想让你知道。”[futab.GetFirstName] 说话的语气很矜持。她的目光飘到她的肚子上，当我们交谈时，她总是温柔地抚摸着腹部。\n\n“我怀孕了~”\n\n真没想到！[futab.GetFirstName]居然怀上了我的孩子！"
+ futa_events.0098.desc:0 "今天，[futab.GetFirstName]突然要求私下与我见面。而最近，农民对扶她们的仇恨与日俱增，我担心她遭受了什么糟糕的事情。但当我走近时，她却有些扭捏不安。我顿时想到了什么，不由得高度警觉起来，也许是有一些可怕的谋划已然露出了獠牙，[futab.GetFirstName]正是来警告我，即使在我自己的领地里也可能有危险。\n\n“亲爱的，我……有些事情想让你知道。”[futab.GetFirstName]说话的语气很矜持。她的目光飘到她的肚子上，当我们交谈时，她总是温柔地抚摸着腹部。\n\n“我怀孕了~”\n\n真没想到！[futab.GetFirstName]居然怀上了我的孩子！"
  futa_accept.0098.a:0 "我们的孩子……"
 
  #
@@ -1355,17 +1355,17 @@
  futa_events.0114.title:0 "流离失所"
  futa_events.0114.desc:0 "任何人都知道如何制造混乱，所以当一支规模庞大的旅行商队骑马来到都城门前，请求允许他们进城时，我的卫兵只是让他们继续前进，但他们却选择停留在城墙边安营扎寨。这不可能被允许，但即使这样，我也不能草率地抽调卫兵镇压处理。\n\n于是为了寻求某种妥协，我允许这群人派一名代表觐见我的宫廷，以便更好地解释自己的行为。\n\n而现在站在我面前的是一位毫无出身的平民，她已经喋喋不休地絮说半天，她们如今正流离失所，无处可去。\n\n“尊敬的领主大人，请庇佑我们吧，为此我们将奉上忠诚，竭诚效劳。而未来或许您会惊讶于我们扶她所具有的一些非凡才能。”\n\n说完这番话，宫廷里一片哗然。我的“客人”焦虑地环顾四周，这表明这不是她们第一次面临这种接待。但我没想到这群流亡者都是扶她们，于是想了解更多。\n\n“因为我们的身份，我们一直找不到一个可以称之为家的地方。我们所有人都背负着一些或多或少的黑暗过往，因为饥荒和暴露，也因为心中的阴暗想法，我们只能一路漂泊，一路离散。我们其实也想拥抱安稳而平凡的生活，但偏见和世俗却似乎一直在诅咒我们……”\n\n宫廷里众人反应各不相同，但似乎很少有人表示同情。\n\n“求求您，我们希望在您伟大而开明的王国里能寻得帮助。如果您真的把我们拒之门外，我们恐怕会万劫不复的。”"
  futa_events.0114.landless.desc: "当我出去寻找一些能吃的补给时，偶然遇见了一大群赶路的随从。他们看起来落魄不堪，长袍褴褛，马车破旧。\n\n一位女士发现了我，于是她离开队伍，开始向我搭话。“希望你有美好的一天。我们是正在找能够定居的地方，我们每个人都失去了家园。我们也已经非常疲惫了，而且还带着孩子，你看。”\n\n她说话的声音有些气若游丝，我还以为她会晕倒过去。我向她推荐了我上次去的定居点，但她的眉头却皱了起来。\n\n“额。我应该再补充一下，我的队伍是由#EMP $trait_futa$#!组成的！我们已经去过那个地方了，但那里不欢迎我们。”\n\n$trait_futa$？这就让事情更复杂了。唉，我不知道有什么办法能解决这么庞大的群体问题。不过，我的营地可能需要多一个帮手..."
-	futa_accept.0114.a:0 "多么可怜呐，但现在都给我滚远点！"
+ futa_accept.0114.a:0 "多么可怜呐，但现在都给我滚远点！"
  futa_accept.0114.b:0 "好吧，你们可以留在这里。"
  futa_accept.0114.c:0 "我也是扶她。"
-	futa_accept.0114.d:0 "我在营地里正需要多一双帮手。"
-	futa_accept.0114.d.flavor: "一个$trait_futa$究竟能有多坏、多邪恶呢？"
-	futa_accept.0114.e: "我也是路上的一位$trait_futa$同道。"
-	futa_accept.0114.e.flavor: "体会到他们的痛苦与挣扎，你向这支疲惫的队伍提供了一些物资……"
-	futa_accept.0114.f: "遇到同族真是令人欣慰。"
-	futa_accept.0114.f.flavor: "与你交谈时，你小心翼翼地向她解释，你与法律的关系并不融洽……而且你可以用物资换取能干的“工人”。"
-	futa_accept.0114.g: "#BOLD 警戒#! Hermillia 孽种！"
-	futa_accept.0114.g.flavor: "#EMP 异教徒！#!"
+ futa_accept.0114.d:0 "我在营地里正需要多一双帮手。"
+ futa_accept.0114.d.flavor: "一个$trait_futa$究竟能有多坏、多邪恶呢？"
+ futa_accept.0114.e: "我也是路上的一位$trait_futa$同道。"
+ futa_accept.0114.e.flavor: "体会到他们的痛苦与挣扎，你向这支疲惫的队伍提供了一些物资……"
+ futa_accept.0114.f: "遇到同族真是令人欣慰。"
+ futa_accept.0114.f.flavor: "与你交谈时，你小心翼翼地向她解释，你与法律的关系并不融洽……而且你可以用物资换取能干的“工人”。"
+ futa_accept.0114.g: "#BOLD 警戒#!Hermillia 孽种！"
+ futa_accept.0114.g.flavor: "#EMP 异教徒#!"
 
  #
  
@@ -1377,9 +1377,9 @@
  
  futa_events.0116.title:0 "流离失所" #I am Futa
  futa_events.0116.desc:0 "“……”女人好奇地看着我，“一位扶她领主……我从未听闻过，真是意外之喜啊。您一定是位敏智非凡的领袖。”\n\n她跪在我面前，虔诚地低下了头，“在您的庇佑之下，我们定能迎来真正的未来！我们将成为您王国内最宝贵的财富。”然后她低声对我说，“#EMP 为了生存，我们曾不得不掌握一些不太体面的能力，而此后我们将以这份独特的力量侍奉您。#!”"
- futa_events.0116.landless_brigand.desc: "那女人挑了挑眉毛好奇地看了我一眼。在沉思片刻后，她请求我等一会儿，然后就回到了她的队伍中。\n\n已经过去了一段时间，你有点不耐烦了，坦率地说，你已经开始焦躁了。难道她们在计划什么？也许你不该透露自己是逃犯的秘密。如果她们拿你去换取奖赏怎么办？毕竟他们已经穷途末路了。\n\n就在你打算逃跑时，她回来了。#italic \"你好，朋友。抱歉耽搁了这么久。我想和你谈谈我们的实际状况。我相信你能理解。”\n\n “你是个逃犯，对吗？你不必闹心，我们理解我们也不在乎。其实我们所有人都不得不以这样或那样的方式才能维持生计，尤其是在这个对我们这种人严重歧视的时代。我们打算同意你的条件，只要你给我们应得的食物和补给，我们中的一部分就会加入你们的 \"冒险”。”#!然后她向人群示意，你看到了一大群凶神恶煞，更重要的是看起来有些#EMP 不可信#!的人向你走来。\n\n#italic “相信我，无论你有什么计划，我们都能帮得上忙。”#!你的目光随即落在了两个穿着 #EMP 暴露#!而#EMP 美艳#!的女人身上。很快，你下半身就开始了不自觉升温。\n\n#italic “作为我们感激和忠诚的象征，请收下这两样东西，作为我们送给你最尊贵的礼物。您会发现它们可以很好地缓解您的 #EMP 冲动#!我相信你作为$trait_futa$的一员，一定经历过很多这样的事情”。#!她向使了个眼色眨了眨眼，等着我的回答。"
+ futa_events.0116.landless_brigand.desc: "那女人挑了挑眉毛好奇地看了我一眼。在沉思片刻后，她请求我等一会儿，然后就回到了她的队伍中。\n\n已经过去了一段时间，你有点不耐烦了，坦率地说，你已经开始焦躁了。难道她们在计划什么？也许你不该透露自己是逃犯的秘密。如果她们拿你去换取奖赏怎么办？毕竟他们已经穷途末路了。\n\n就在你打算逃跑时，她回来了。#italic \"你好，朋友。抱歉耽搁了这么久。我想和你谈谈我们的实际状况。我相信你能理解。”\n\n “你是个逃犯，对吗？你不必闹心，我们理解我们也不在乎。其实我们所有人都不得不以这样或那样的方式才能维持生计，尤其是在这个对我们这种人严重歧视的时代。我们打算同意你的条件，只要你给我们应得的食物和补给，我们中的一部分就会加入你们的 \"冒险”。”#!然后她向人群示意，你看到了一大群凶神恶煞，更重要的是看起来有些#EMP 不可信#!的人向你走来。\n\n#italic “相信我，无论你有什么计划，我们都能帮得上忙。”#!你的目光随即落在了两个穿着#EMP 暴露#!而#EMP 美艳#!的女人身上。很快，你下半身就开始了不自觉升温。\n\n#italic “作为我们感激和忠诚的象征，请收下这两样东西，作为我们送给你最尊贵的礼物。您会发现它们可以很好地缓解您的#EMP 冲动#!我相信你作为$trait_futa$的一员，一定经历过很多这样的事情”。#!她向使了个眼色眨了眨眼，等着我的回答。"
  futa_events.0116.landless.desc: "女人泪眼婆娑地看着你。#italic “谢谢你，陌生人。虽然你可能也和我们一样困窘，但您还是把面包分给了我们。您太善良了。\"#!\n\n她和其他几个人拿着你给的物资带回了她们的队伍。然后看到她们匆忙地将食物分发给了弱者和儿童。\n\n当你准备返回营地休息时，你注意到那个女人和她的同伴向你走来。\n\n#italic “再次向您问候。我们已经商量好了，我们中的一些人想加入您的旅途，如果您愿意的话。我们希望和您一起碰碰运气。而我们的能力与技能定会让您刮目相看，我向您保证，绝对不会拖累您。不用担心其他人，多亏了您的帮助，他们还能再生存一段时间。”#!"
-	futa_accept.0116.a:0 "我们将联合起来！"
+ futa_accept.0116.a:0 "我们将联合起来！"
  futa_accept.0116.b: "任何时候我们对能力出众的人都来者不拒。"
  futa_accept.0116.b.flavor: "对我们来说外面的世界很残酷。"
  futa_accept.0116.c: "我们将不惜一切代价繁荣昌盛！"
@@ -1438,7 +1438,7 @@
  #
  
  futa_events.0126.title:0 "渴求之时" #fknight sex
- futa_events.0126.desc:0 "很明显，我忠诚的骑士已经无法再忍耐了。作为伟大的统治者，我收获万民的敬仰与爱戴，自然也应当满足臣属的需求，以示嘉奖。所以我们迅速转移到一个隐蔽的地方——至少我希望是这样——而就在那里，[fknight.GetFirstName]立即迫不及待地脱掉了下身的盔甲，展露出她同样急切的肉棒。\n\n而随着她的肉棒挣脱了束缚，便在剧烈晃动中变得越发粗硬起来，[fknight.GetFirstName]饱满的肉袋几乎是在肉眼可见地抽动。\n\n“请怜爱我吧……”似乎是在忍耐中消耗了太多精力，此时她的话语中还透露着哀怨与乞求。\n\n我轻轻跪下来仔细检视抚弄。只见她的龟头高高翘起，上面早已沾满了一层晶莹的先走汁。接着我把双手放在她鼓胀的肉袋下，温柔地来回搓弄，然后再观察她的小穴。而她的阴部更是泥泞不堪，仿佛经历了一场猛烈的风暴，不停溢流的爱液浸润了每一处肉褶，散发着浓厚的雌香。不过我给予的触感一定是太强烈了，已经让[fknight.GetFirstName]不得不一边沉重喘息着一边紧靠在宫墙之上才能勉强支撑自己。\n\n由于[fknight.GetFirstName]粗红的肉棒不仅正对着我的脸还一直在跳动着，我得小心别让她戳到我的眼睛！我只能告诉她，她必须冷静下来，我才能帮她处理好这一切。可就在我说话的时候，她突然向前顶胯，将大半根肉棒都塞进了我的嘴里！\n\n“呃啊啊，我太需要这个了！”\n\n#S *咳* *呕* *吸溜* *啪*#!\n\n#EMP [fknight.GetFirstName]正在猛肏我的嘴！！？#!此刻我的世界陷入了混乱和极欲之中。我只能看到[fknight.GetFirstNamePossessive]部分肉袋，而她正粗暴而迅猛地将肉棒深深插进我的嘴穴。我的双颚早已被她肥厚的肉棒撑至极限，但[fknight.GetFirstName]还在紧紧按住我的后脑，让我能够含得更深。\n\n我就这样被肏得涕泪横流，却无能为力。我现在只能竭力保持自己的呼吸而不被这根肉棒呛死。而我口中[fknight.GetFirstNamePossessive]雌鸡巴上沾满了涎水和先走汁，味道咸醇，气味非常#EMP 浓烈#!，但如果不是巨大的鸡巴堵住了我的喉咙，我很难会主动品尝这些。\n\n“你的喉咙太完美了，领主大人，你太棒了！”\n\n但显然我并没有她那么享受，现在我的脖颈被插得生疼，感觉就像有条狂野的骏马在这里肆意奔跑。而且我还能感觉到[fknight.GetFirstNamePossessive]蛋蛋在抽插时不停地拍打着我的下巴。\n\n#EMP 接下来，她该不会要……？！#!\n\n“噢噢噢啊啊啊 ~ 我 要 射 了 ！！！”\n\n一股巨量的精液洪流狂暴灌入我的喉穴，如此浓厚粘稠让我难以及时吞咽下去，过多的精液甚至倒灌而上从嘴角处流下，这简直快让我窒息了。而[fknight.GetFirstName]还在抽搐的肉棒更是依然紧紧插在我的喉咙深处，源源不断地将越来越多的精液射入我的胃中。很快我便感觉腹部已经开始越发沉重，但我完全无法挣脱。而最后满溢的精液从我的鼻孔中迸射而出，现在我的世界只剩一片“精白”……"
+ futa_events.0126.desc:0 "很明显，我忠诚的骑士已经无法再忍耐了。作为伟大的统治者，我收获万民的敬仰与爱戴，自然也应当满足臣属的需求，以示嘉奖。所以我们迅速转移到一个隐蔽的地方——至少我希望是这样——而就在那里，[fknight.GetFirstName]立即迫不及待地脱掉了下身的盔甲，展露出她同样急切的肉棒。\n\n而随着她的肉棒挣脱了束缚，便在剧烈晃动中变得越发粗硬起来，[fknight.GetFirstName]饱满的肉袋几乎是在肉眼可见地抽动。\n\n“请怜爱我吧……”似乎是在忍耐中消耗了太多精力，此时她的话语中还透露着哀怨与乞求。\n\n我轻轻跪下来仔细检视抚弄。只见她的龟头高高翘起，上面早已沾满了一层晶莹的先走汁。接着我把双手放在她鼓胀的肉袋下，温柔地来回搓弄，然后再观察她的小穴。而她的阴部更是泥泞不堪，仿佛经历了一场猛烈的风暴，不停溢流的爱液浸润了每一处肉褶，散发着浓厚的雌香。不过我给予的触感一定是太强烈了，已经让[fknight.GetFirstName]不得不一边沉重喘息着一边紧靠在宫墙之上才能勉强支撑自己。\n\n由于[fknight.GetFirstName]粗红的肉棒不仅正对着我的脸还一直在跳动着，我得小心别让她戳到我的眼睛！我只能告诉她，她必须冷静下来，我才能帮她处理好这一切。可就在我说话的时候，她突然向前顶胯，将大半根肉棒都塞进了我的嘴里！\n\n“呃啊啊，我太需要这个了！”\n\n#S *咳* *呕* *吸溜* *啪*#!\n\n#EMP[fknight.GetFirstName]正在猛肏我的嘴！！？#!此刻我的世界陷入了混乱和极欲之中。我只能看到[fknight.GetFirstNamePossessive]部分肉袋，而她正粗暴而迅猛地将肉棒深深插进我的嘴穴。我的双颚早已被她肥厚的肉棒撑至极限，但[fknight.GetFirstName]还在紧紧按住我的后脑，让我能够含得更深。\n\n我就这样被肏得涕泪横流，却无能为力。我现在只能竭力保持自己的呼吸而不被这根肉棒呛死。而我口中[fknight.GetFirstNamePossessive]雌鸡巴上沾满了涎水和先走汁，味道咸醇，气味非常#EMP 浓烈#!，但如果不是巨大的鸡巴堵住了我的喉咙，我很难会主动品尝这些。\n\n“你的喉咙太完美了，领主大人，你太棒了！”\n\n但显然我并没有她那么享受，现在我的脖颈被插得生疼，感觉就像有条狂野的骏马在这里肆意奔跑。而且我还能感觉到[fknight.GetFirstNamePossessive]蛋蛋在抽插时不停地拍打着我的下巴。\n\n#EMP 接下来，她该不会要……？！#!\n\n“噢噢噢啊啊啊 ~ 我 要 射 了 ！！！”\n\n一股巨量的精液洪流狂暴灌入我的喉穴，如此浓厚粘稠让我难以及时吞咽下去，过多的精液甚至倒灌而上从嘴角处流下，这简直快让我窒息了。而[fknight.GetFirstName]还在抽搐的肉棒更是依然紧紧插在我的喉咙深处，源源不断地将越来越多的精液射入我的胃中。很快我便感觉腹部已经开始越发沉重，但我完全无法挣脱。而最后满溢的精液从我的鼻孔中迸射而出，现在我的世界只剩一片“精白”……"
  futa_accept.0126.a:0 "……"
  
  #
@@ -1456,7 +1456,7 @@
  #
  
  futa_events.0129.title:0 "挑惑之蛇"
- futa_events.0129.desc:0 "最近，我一直在远离宫廷戏剧而享受着[futa.GetFirstName]的陪伴。无论我们在聊什么，她总能想到最有趣的话题。这样美好的生活不禁令我感叹，能和这样的女人共度时光，真是我莫大的幸福。\n\n虽然她似乎没有注意到，但我却清楚地看到，今天早上[futa.GetFirstName]一定是匆忙穿上了衣服，因为此时她的衣服正紧紧地贴在身体上，勾勒出诱惑的曲线，引人万般遐想。更不用说她的胯部了，那里还有可爱且#EMP 明显#!的隆起。\n\n而就如同礼物的精致包装一样，[futa.GetFirstName]现在的姿态让我浮想联翩，难以自持，她美妙的身体总是能激起我无穷的兴趣。 \n\n“你已经盯着我看了五分钟了哦~”她狡黠地轻笑着，明亮的眼眸仿佛能看出我心底的每种欲望。\n\n哎呀，看来并不是只有[futa.GetFirstName]才会忘乎所以。虽然很突然，但我的眼睛正好瞄到了[futa.GetFirstName]胯部的抽动。\n\n“现在你也让我兴奋起来了……你知道该干什么了不是么~”\n\n随着[futa.GetFirstName]的话音落下，她的手指就开始轻轻地抚摸自己身体的轮廓。我那柔媚的情妇此时眼中正闪烁着饥渴的光芒，让我的心跳怦然加速。但我略感不安地环顾庭院四周，发现不远处还有其他人走动，好在附近茂密的观植能帮我们暂时隐藏起来。\n\n#EMP [futa.GetFirstName]想要就在这里做爱！也许我不该如此？#!\n\n而当我回头看向[futa.GetFirstName]时，却好似闪电劈中让我僵立在原地。片刻之间，她就已经松褪衣裙，随着肩膀的扭动，所有布料滑落到地，让她妖艳的身姿完全裸露在风中。\n\n“亲爱的，你想如何享用我呢？”"
+ futa_events.0129.desc:0 "最近，我一直在远离宫廷戏剧而享受着[futa.GetFirstName]的陪伴。无论我们在聊什么，她总能想到最有趣的话题。这样美好的生活不禁令我感叹，能和这样的女人共度时光，真是我莫大的幸福。\n\n虽然她似乎没有注意到，但我却清楚地看到，今天早上[futa.GetFirstName]一定是匆忙穿上了衣服，因为此时她的衣服正紧紧地贴在身体上，勾勒出诱惑的曲线，引人万般遐想。更不用说她的胯部了，那里还有可爱且#EMP 明显#!的隆起。\n\n而就如同礼物的精致包装一样，[futa.GetFirstName]现在的姿态让我浮想联翩，难以自持，她美妙的身体总是能激起我无穷的兴趣。 \n\n“你已经盯着我看了五分钟了哦~”她狡黠地轻笑着，明亮的眼眸仿佛能看出我心底的每种欲望。\n\n哎呀，看来并不是只有[futa.GetFirstName]才会忘乎所以。虽然很突然，但我的眼睛正好瞄到了[futa.GetFirstName]胯部的抽动。\n\n“现在你也让我兴奋起来了……你知道该干什么了不是么~”\n\n随着[futa.GetFirstName]的话音落下，她的手指就开始轻轻地抚摸自己身体的轮廓。我那柔媚的情妇此时眼中正闪烁着饥渴的光芒，让我的心跳怦然加速。但我略感不安地环顾庭院四周，发现不远处还有其他人走动，好在附近茂密的观植能帮我们暂时隐藏起来。\n\n#EMP[futa.GetFirstName]想要就在这里做爱！也许我不该如此？#!\n\n而当我回头看向[futa.GetFirstName]时，却好似闪电劈中让我僵立在原地。片刻之间，她就已经松褪衣裙，随着肩膀的扭动，所有布料滑落到地，让她妖艳的身姿完全裸露在风中。\n\n“亲爱的，你想如何享用我呢？”"
  futa_accept.0129.a:0 "坐在我脸上！"
  futa_accept.0129.b:0 "骑上我！"
 
@@ -1513,7 +1513,7 @@
  #
  
  futa_events.0138.title:0 "特例独刑"
- futa_events.0138.desc:0 "“犯人已经到了，领主大人，恕我直言，她们这一路上可真够闹腾的。”我的一名卫兵神色不满地向我报告，随行还有几名卫兵护送着两名“女子”站在我面前。其中一位不敢与我对视，但另一位却对我怒目而视。\n\n“这太不公平了！我们无论如何也不应该遭受这样的对待。如果我们只是一对普通的男女夫妻，您还会把我们押送到这里来吗？”\n\n而据我所知，我面前的这对“女子”自称是一对夫妻，但却是在异国他乡被异教牧师所祝福成婚的。因此她们婚姻的合法性受到质疑，更重要的是本地的习俗也不允许一名#EMP 扶她#! 与其他女性结婚。\n\n所以最近当这对“夫妇”试图购买房屋和少量土地时，就很快便引起了附近民众的指控非议，卫兵们正是因此将她们押护受审。\n\n“您不能这样对我们！我们也付过钱了，我们有权拥有这一切！”\n\n现在决定权落在了我的身上，而我对她们的态度也一定会引起扶她结社的关注。"
+ futa_events.0138.desc:0 "“犯人已经到了，领主大人，恕我直言，她们这一路上可真够闹腾的。”我的一名卫兵神色不满地向我报告，随行还有几名卫兵护送着两名“女子”站在我面前。其中一位不敢与我对视，但另一位却对我怒目而视。\n\n“这太不公平了！我们无论如何也不应该遭受这样的对待。如果我们只是一对普通的男女夫妻，您还会把我们押送到这里来吗？”\n\n而据我所知，我面前的这对“女子”自称是一对夫妻，但却是在异国他乡被异教牧师所祝福成婚的。因此她们婚姻的合法性受到质疑，更重要的是本地的习俗也不允许一名#EMP 扶她#!与其他女性结婚。\n\n所以最近当这对“夫妇”试图购买房屋和少量土地时，就很快便引起了附近民众的指控非议，卫兵们正是因此将她们押护受审。\n\n“您不能这样对我们！我们也付过钱了，我们有权拥有这一切！”\n\n现在决定权落在了我的身上，而我对她们的态度也一定会引起扶她结社的关注。"
  futa_accept.0138.a:0 "支持他们"
  futa_accept.0138.b:0 "接纳他们"
  futa_accept.0138.c:0 "驱散他们"
@@ -1537,31 +1537,31 @@
  futa_events.0141.title: "我的孩子" # futa fathered Birth Father Notification
  futa_events.0141.title_twins: "我的孩子们"
 
-	futa_events.0141.desc: "[child.GetMother.GetFirstName] 怀抱着我们的爱情结晶走到我面前。如今，我必须为这个新生命取一个恰当的名字。"
+ futa_events.0141.desc: "[child.GetMother.GetFirstName]怀抱着我们的爱情结晶走到我面前。如今，我必须为这个新生命取一个恰当的名字。"
 
-	futa_events.0141.desc_twins: "[child.GetMother.GetFirstName] 怀抱着我们的爱情结晶走到我面前！我该为这对孩子取一个合适的名字……"
+ futa_events.0141.desc_twins: "[child.GetMother.GetFirstName]怀抱着我们的爱情结晶走到我面前！我该为这对孩子取一个合适的名字……"
 
-	futa_accept.0141.a: "孩子将留在[child.GetHerHis]母亲身边。"
-	futa_accept.0141.a_twins: "孩子们将留在他们的母亲身边。"
-	futa_accept.0141.a.flavor: "我们不能再有瓜葛。"
+ futa_accept.0141.a: "孩子将留在[child.GetHerHis]母亲身边。"
+ futa_accept.0141.a_twins: "孩子们将留在他们的母亲身边。"
+ futa_accept.0141.a.flavor: "我们不能再有瓜葛。"
 
-	futa_accept.0141.b: "孩子将由[child.GetHerHis]母亲抚养，但[child.GetSheHe]仍会成为我家族的一员。"
-	futa_accept.0141.b_twins: "孩子们将由他们的母亲抚养，但他们仍会成为我家族的一员。"
+ futa_accept.0141.b: "孩子将由[child.GetHerHis]母亲抚养，但[child.GetSheHe]仍会成为我家族的一员。"
+ futa_accept.0141.b_twins: "孩子们将由他们的母亲抚养，但他们仍会成为我家族的一员。"
 
-	futa_accept.0141.c: "孩子应该留在我身边。"
-	futa_accept.0141.c_twins: "孩子们应该留在我身边。"
+ futa_accept.0141.c: "孩子应该留在我身边。"
+ futa_accept.0141.c_twins: "孩子们应该留在我身边。"
 
-	futa_accept.0141.d: "孩子应当由我抚养，但[child.GetSheHe]不会影响继承顺序。"
-	futa_accept.0141.d_twins: "孩子们应当由我抚养，但他们不会影响继承顺序。"
-	futa_accept.0141.d.flavor: "对不起，小家伙……"
+ futa_accept.0141.d: "孩子应当由我抚养，但[child.GetSheHe]不会影响继承顺序。"
+ futa_accept.0141.d_twins: "孩子们应当由我抚养，但他们不会影响继承顺序。"
+ futa_accept.0141.d.flavor: "对不起，小家伙……"
 
-	futa_accept.0141.e: "[child.GetHerHis]的扶她血统让[child.GetHerHis]在社区中会更安全。"
-	futa_accept.0141.e_twins: "$trait_futa$们在社区中彼此照应，能过得更加安全。"
-	futa_accept.0141.e.flavor: "你安排社区照顾[child.GetFirstName]，但你将#X 再也见不到[child.GetHerHim]了……#! "
+ futa_accept.0141.e: "[child.GetHerHis]的扶她血统让[child.GetHerHis]在社区中会更安全。"
+ futa_accept.0141.e_twins: "$trait_futa$们在社区中彼此照应，能过得更加安全。"
+ futa_accept.0141.e.flavor: "你安排社区照顾[child.GetFirstName]，但你将#X 再也见不到[child.GetHerHim]了……#!"
 
-	futa_accept.0141.f: "让孩子被视作母亲配偶的骨肉。"
-	futa_accept.0141.f_twins: "让孩子们被视作母亲配偶的骨肉。"
-	futa_accept.0141.f.flavor: "希望他不会起疑……"
+ futa_accept.0141.f: "让孩子被视作母亲配偶的骨肉。"
+ futa_accept.0141.f_twins: "让孩子们被视作母亲配偶的骨肉。"
+ futa_accept.0141.f.flavor: "希望他不会起疑……"
 
  #
  
@@ -1575,7 +1575,7 @@
  futa_events.0145.desc: "“#italic 欢迎，我的领主大人……#!”当我走进她的住所时，这位$game_concept_futa_merchant$向我问好。我好奇地打量着四周，这里表面上只是一座布满灰尘的木屋。她身体微微前倾，从屋内昏暗的角落中微微展露部分脸庞，“#italic 有什么我能为您效劳吗？#!”"
  futa_accept.0145.a: "我想要一些春药"
  futa_accept.0145.b: "我想看看你的物品。"
-	futa_accept.0145.c: "那瓶白色的玩意是什么东西？"
+ futa_accept.0145.c: "那瓶白色的玩意是什么东西？"
  futa_accept.0145.d: "目前就这些。"
 
  #
@@ -1587,8 +1587,8 @@
  futa_accept.0146.b: "我想要的可不止一瓶呢"
  futa_accept.0146.b.flavor: "她开始咧嘴大笑。奇怪。"
  futa_accept.0146.c: "我想要一些……#EMP 特殊的#!春药……"
- futa_accept.0146.c.flavor: "“想必您是有什么 #EMP 特 殊#! 的用处，我就不多问了。”\n\n一瓶摇曳着清亮淡粉药液的小瓶随之摆到我的面前。\n\n“仅需几枚金币，便可享用这瓶独家秘剂。不过请谨记，它的药效会让人相当 #EMP 饥 渴#!，还可能有一些与生育相关的……#EMP 额外#!作用，所以请您妥善使用。”"
- futa_accept.0146.d.flavor: "“想必您是有什么 #S 非 常#! #EMP 特 殊#! 的用处，我就不多问了。”\n\n几瓶摇曳着清亮淡粉药液的小瓶随之摆到我的面前。\n\n“只需一些金币，便可享用这堆独家秘剂。尽管可能价格不菲，但请相信它绝对会物超所值。”\n\n“不过请谨记，它的药效会让人 #S 极 度#! #EMP 饥 渴#!，还可能有一些与生育相关的……#EMP 额外#!作用，所以请您妥善使用。”"
+ futa_accept.0146.c.flavor: "“想必您是有什么#EMP 特 殊#!的用处，我就不多问了。”\n\n一瓶摇曳着清亮淡粉药液的小瓶随之摆到我的面前。\n\n“仅需几枚金币，便可享用这瓶独家秘剂。不过请谨记，它的药效会让人相当#EMP 饥 渴#!，还可能有一些与生育相关的……#EMP 额外#!作用，所以请您妥善使用。”"
+ futa_accept.0146.d.flavor: "“想必您是有什么 #S 非 常#!#EMP 特 殊#!的用处，我就不多问了。”\n\n几瓶摇曳着清亮淡粉药液的小瓶随之摆到我的面前。\n\n“只需一些金币，便可享用这堆独家秘剂。尽管可能价格不菲，但请相信它绝对会物超所值。”\n\n“不过请谨记，它的药效会让人 #S 极 度#!#EMP 饥 渴#!，还可能有一些与生育相关的……#EMP 额外#!作用，所以请您妥善使用。”"
  futa_accept.0146.d: "我想要……几瓶……#EMP 特殊的#!春药……"
  futa_accept.0146.e: "算了。"
  
@@ -1599,7 +1599,7 @@
  futa_events.0147.tier1.desc: "\n\n#help 你需要60[futa_goodwill|E]来提高[futa_enclave_short|E]的等级#!"
  futa_events.0147.tier2.desc: "\n\n#help 你需要120[futa_goodwill|E]来提高[futa_enclave_short|E]的等级#!"
  futa_events.0147.tier3.desc: "\n\n#help 你需要240[futa_goodwill|E]来提高[futa_enclave_short|E]的等级#!"
-	futa_accept.0147.a:0 "我会考虑的。"
+ futa_accept.0147.a:0 "我会考虑的。"
  futa_accept.0147.e:0 "算了。"
 
  #
@@ -1619,14 +1619,14 @@
  #
  
  futa_events.0150.title:0 "$game_concept_futa_merchant$ - 改善关系"
- futa_events.0150.desc:0 "#S “嗯 ~ 哼啊啊！！！！”#!\n\n呃……呕！我的喉咙！#EMP 这太粗了！#!这只淫荡的野兽正用她无情的肉棒#EMP 蹂躏#!着我的喉穴，我都要变成她肉棒的形状了！#EMP  嗬嗬……咳咳……#! 我感觉……不能……呼吸了……\n\n“#italic 嗯 ~ 瞧瞧我找到了一个多么淫荡嫩滑的肉穴啊，谁能想到如此尊奢显赫的贵族子弟也能如此#!#S 火辣#!。”\n\n然后我的喉咙就这样被亵玩了好几个小时，当她最后满足时，我几乎都合不拢嘴了……"
+ futa_events.0150.desc:0 "#S “嗯 ~ 哼啊啊！！！！”#!\n\n呃……呕！我的喉咙！#EMP 这太粗了！#!这只淫荡的野兽正用她无情的肉棒#EMP 蹂躏#!着我的喉穴，我都要变成她肉棒的形状了！#EMP  嗬嗬……咳咳……#!我感觉……不能……呼吸了……\n\n“#italic 嗯 ~ 瞧瞧我找到了一个多么淫荡嫩滑的肉穴啊，谁能想到如此尊奢显赫的贵族子弟也能如此#!#S 火辣#!。”\n\n然后我的喉咙就这样被亵玩了好几个小时，当她最后满足时，我几乎都合不拢嘴了……"
  futa_accept.0150.a:0 "#S *咳咳*#!"
 
  ###
 
  futa_events.0151.title: "$game_concept_futa_merchant$ - 改善关系"
  futa_events.0151.desc: "我再次拜访$game_concept_futa_merchant_short_possessive$，以便进一步提高与$game_concept_futa_enclave$的关系，探询现在我还能如何改善她们的生活状况？\n\n对于我的疑惑，$game_concept_futa_merchant_short$显得有些意外。我想，在她们长期遭受迫害和敌视之后，她可能很难想象还有像我这样的领主试图帮助她们并保持友好关系。\n\n在短暂的沉默之后，她终于缓缓开口：“#italic 我只是一个女人，领主大人，我能为您所做的十分有限。不过，无论您与我进行怎样的交易，我都将宣扬您的尊名。#!”\n\n说完她思虑片刻，又继续道：“#italic 至于如何提高您的$game_concept_futa_goodwill$，不妨尝试向$game_concept_futa_enclave_short$捐赠一笔献金，以表示您的心意。未来如果还有其他方式的话，我也会提醒您的。#!”"
- futa_events.0151.tier4.desc: "\n\n#help [futa_enclave_short|E]已经升级到了最高，现在她们的影响力达到了巅峰#!"
+ futa_events.0151.tier4.desc: "\n\n#help[futa_enclave_short|E]已经升级到了最高，现在她们的影响力达到了巅峰#!"
  futa_accept.0151.a: "改善与$game_concept_futa_enclave_short$的关系并增加其影响力。"
  futa_accept.0151.b: "我愿意捐赠小笔献金。"
  futa_accept.0151.c: "我愿意捐赠适量献金。"
@@ -1701,7 +1701,7 @@
  #
 
  futa_events.0157.title: "扶她行商 - 改善关系"
- futa_events.0157.desc: "#S “嗯 ~ 哼啊啊！！！！”#!\n\n呃……呕！我的喉咙！#EMP 这太粗了！#!这只淫荡的野兽正用她无情的肉棒#EMP 蹂躏#!着我的喉穴，我都要变成她肉棒的形状了！#EMP  嗬嗬……咳咳……#! 我感觉……不能……呼吸了……\n\n“#italic 嗯 ~ 瞧瞧我找到了一个多么淫荡嫩滑的肉穴啊，谁能想到如此尊奢显赫的贵族子弟也能如此#!#S 火辣#!。”\n\n然后我的喉咙就这样被亵玩了好几个小时，当她最后满足时，我几乎都合不拢嘴了……"
+ futa_events.0157.desc: "#S “嗯 ~ 哼啊啊！！！！”#!\n\n呃……呕！我的喉咙！#EMP 这太粗了！#!这只淫荡的野兽正用她无情的肉棒#EMP 蹂躏#!着我的喉穴，我都要变成她肉棒的形状了！#EMP  嗬嗬……咳咳……#!我感觉……不能……呼吸了……\n\n“#italic 嗯 ~ 瞧瞧我找到了一个多么淫荡嫩滑的肉穴啊，谁能想到如此尊奢显赫的贵族子弟也能如此#!#S 火辣#!。”\n\n然后我的喉咙就这样被亵玩了好几个小时，当她最后满足时，我几乎都合不拢嘴了……"
  futa_accept.0157.a: "#S *咳咳*嗯……#!"
 
  #
@@ -1710,9 +1710,9 @@
  futa_events.0158.no_invasions.desc: "“#italic 这是我们……#!#S $game_concept_futa_enclave_short_possessive$#!#italic 请愿。在此之前，请先允许我代表结社向您表示，我们所有人都衷心感谢您和您的家族在我们久居贵地的多年里所给予的诸多恩惠。”\n\n“然而，我们也希望能够拥有真正属于我们自己的家园，一个能让所有$trait_futa$都更加自由开放的领域。而我们实现这一目标的第一步，便是集资远征外域，让更『合适』的人来统治新生的国度，让世人更『乐于』接受我们的族群。但是，我们依然无法独自完成这项伟业。我们#!#S 恳求#!#italic 您的帮助，我的大人。我们需要大量的资金和支持，以聚集足够的追随者加入我们的队伍。#!”"
  futa_events.0158.invasions.can_launch.desc: "#italic “我们已经准备好发动征伐了，领主大人。我们应该坚持到底，因为吾等势在必得。”#!"
  
-	futa_events.0158.recent_invasion.desc: "“#italic 虽然我也希望为$trait_futa$扩张和开辟新的领地，但我们最近动用了我们的资源来支持一次$game_concept_futa_merchant_invasion_short$，领主大人。恐怕$game_concept_futa_enclave_short$还需要更多的时间来积蓄足够的力量，以便再次发动征服战争。#!”"
+ futa_events.0158.recent_invasion.desc: "“#italic 虽然我也希望为$trait_futa$扩张和开辟新的领地，但我们最近动用了我们的资源来支持一次$game_concept_futa_merchant_invasion_short$，领主大人。恐怕$game_concept_futa_enclave_short$还需要更多的时间来积蓄足够的力量，以便再次发动征服战争。#!”"
  futa_events.0158.done_invasions.desc: "#italic “当然，我的领主大人。$game_concept_futa_enclave_short$总是愿意进一步扩大自己的影响力。只要您愿意提供相应资金，我们就能立即开启$game_concept_futa_merchant_invasion_short$。#!”"
- futa_events.0158.invasion_req.desc: "\n\n#help 你至少需要：\n[SCOPE.ScriptValue('medium_gold_value_static_max')|0] $gold$和50$game_concept_futa_goodwill$以支持一场小型[futa_merchant_invasion|E]，\n[SCOPE.ScriptValue('massive_gold_value_static_max')|0] $gold$和100$game_concept_futa_goodwill$以支持一场中型[futa_merchant_invasion|E]，\n[SCOPE.ScriptValue('monumental_gold_value_static_max')|0] $gold$和200$game_concept_futa_goodwill$以支持一场大型[futa_merchant_invasion|E]。"
+ futa_events.0158.invasion_req.desc: "\n\n#help 你至少需要：\n[SCOPE.ScriptValue('medium_gold_value_static_max')|0]$gold$和50$game_concept_futa_goodwill$以支持一场小型[futa_merchant_invasion|E]，\n[SCOPE.ScriptValue('massive_gold_value_static_max')|0]$gold$和100$game_concept_futa_goodwill$以支持一场中型[futa_merchant_invasion|E]，\n[SCOPE.ScriptValue('monumental_gold_value_static_max')|0]$gold$和200$game_concept_futa_goodwill$以支持一场大型[futa_merchant_invasion|E]。"
  futa_accept.0158.a: "我暂时并无此意。"
  futa_accept.0158.b: "我愿支持你们的事业。"
  futa_accept.0158.c: "我将全力支持你们。"
@@ -1727,7 +1727,7 @@
  futa_events.0159.failure.desc: "我们功败垂成！不管如何，[defender.GetFullName]最终击败了[attacker.GetFirstName]的军队，并使[defender.GetHerHis]领地安然无恙。经历这次苦涩的失败，你不禁怀疑以后是否还能再见到[attacker.GetFirstName]。"
  futa_events.0159.conqueror.desc: "\n\n你感觉[attacker.GetFirstNameRegnal]并不会就此满足于[attacker.GetHerHis]新获得的领土。当你们第一次相遇时，你就注意到了[attacker.GetHerHis]眼中强烈的野心和熊熊燃烧的欲望之火。你确信用不了多久，[attacker.GetFirstName]就会开始进一步扩张，无论采取何种方式。"
 
-	futa_accept.0159.a: "一个经由$trait_futa$统领的国度……"
+ futa_accept.0159.a: "一个经由$trait_futa$统领的国度……"
  futa_accept.0159.b: "这绝非我们的期许，待到时机成熟之际，我们必将重振旗鼓。"
  futa_accept.0159.c: "附庸[attacker.GetFirstName]"
 
@@ -1796,14 +1796,14 @@
  #
  
  futa_events.0171.title: "妙液迷情" # STAGE 0 Lover POV
- futa_events.0171.desc: "今天真是个好日子。我终于得到了一些宝贵的空闲时间，那么该怎样来和我心爱的[futa.GetFirstName]共享此等片刻闲暇呢？毕竟，我可是#EMP 已经#!特意买了一些#EMP 补品##!来滋润生活呢。\n\n实际上我最近一直都在#EMP 渴求#!她鸡巴的滋味，而这次她将会享受到她此生中最美妙的欢愉！为了这一天，我早已准备许久，而且也提前取走了所有贵重物品。念及此处，我再也难奈不住，下令赶紧让仆人把[futa.GetFirstName]传唤至我的寝宫。很快[futa.GetFirstName]便匆匆赶来，只注意到我把这里布置得如此宽敞舒适。\n\n“看来您也期待已久了，真是有劳费心呢。”\n\n现在她还不明白，我并不是将会「殚精竭虑」的那位，但很快就会知道了。我微微挺腰，轻轻扯起自己的裙子挑逗[futa.GetFirstName]。只是#EMP 稍稍#!短暂地露出我柔美的胴体，然后又迅速遮住。\n\n[futa.GetFirstName]顿时被迷住了，她明媚而深沉的目光紧紧追附着我的身姿。此景此刻，我甚至觉得可以对她予取予求。 这种热烈的关注让我情欲越发澎湃，无法再忍耐了，于是便直接把这碍事的衣裙褪下踢开。\n\n我们无比渴求地拥抱在一起，抛却那些无谓的矜持，开始探索彼此炽热的躯体。\n\n而当我们激吻不休时，我向下探手爱抚着[futa.GetFirstName]勃然怒昂的肉棒。片刻之后，我又继续深入，轻轻捏了捏她的蛋蛋。\n\n“噢！如果你继续玩火的话，真的要小心烫手哦 ~ ”她似乎对此很敏感，一边调笑着，肉棒又一边膨大了几分。\n\n而这合我心，我满意地抬头与[futa.GetFirstName]对视，告诉她我准备了一个特别的惊喜来增添情趣。\n\n一瓶特制的饮品正等着她享用。她把它晃了晃，然后一饮而尽。\n\n#EMP 她或许不该如此莽撞！#!\n\n[futa.GetFirstName]打了个饱嗝，然后她的身体开始剧烈抽搐。我冲过去抱住她，她只能无助地捂住腹部。\n\n“啊啊啊啊啊啊啊啊啊啊！”\n\n[futa.GetFirstName]的肉棒极度勃起，炽热滚烫，比我以前见过的所有肉棒都更加狰狞。不仅如此，她的肉棒也#EMP 毫无疑问#! 地比平时粗大许多。她的蛋蛋已经越发肿胀，而她晶润的龟头则开始溢出一缕缕精液。 "
+ futa_events.0171.desc: "今天真是个好日子。我终于得到了一些宝贵的空闲时间，那么该怎样来和我心爱的[futa.GetFirstName]共享此等片刻闲暇呢？毕竟，我可是#EMP 已经#!特意买了一些#EMP 补品##!来滋润生活呢。\n\n实际上我最近一直都在#EMP 渴求#!她鸡巴的滋味，而这次她将会享受到她此生中最美妙的欢愉！为了这一天，我早已准备许久，而且也提前取走了所有贵重物品。念及此处，我再也难奈不住，下令赶紧让仆人把[futa.GetFirstName]传唤至我的寝宫。很快[futa.GetFirstName]便匆匆赶来，只注意到我把这里布置得如此宽敞舒适。\n\n“看来您也期待已久了，真是有劳费心呢。”\n\n现在她还不明白，我并不是将会「殚精竭虑」的那位，但很快就会知道了。我微微挺腰，轻轻扯起自己的裙子挑逗[futa.GetFirstName]。只是#EMP 稍稍#!短暂地露出我柔美的胴体，然后又迅速遮住。\n\n[futa.GetFirstName]顿时被迷住了，她明媚而深沉的目光紧紧追附着我的身姿。此景此刻，我甚至觉得可以对她予取予求。 这种热烈的关注让我情欲越发澎湃，无法再忍耐了，于是便直接把这碍事的衣裙褪下踢开。\n\n我们无比渴求地拥抱在一起，抛却那些无谓的矜持，开始探索彼此炽热的躯体。\n\n而当我们激吻不休时，我向下探手爱抚着[futa.GetFirstName]勃然怒昂的肉棒。片刻之后，我又继续深入，轻轻捏了捏她的蛋蛋。\n\n“噢！如果你继续玩火的话，真的要小心烫手哦 ~ ”她似乎对此很敏感，一边调笑着，肉棒又一边膨大了几分。\n\n而这合我心，我满意地抬头与[futa.GetFirstName]对视，告诉她我准备了一个特别的惊喜来增添情趣。\n\n一瓶特制的饮品正等着她享用。她把它晃了晃，然后一饮而尽。\n\n#EMP 她或许不该如此莽撞！#!\n\n[futa.GetFirstName]打了个饱嗝，然后她的身体开始剧烈抽搐。我冲过去抱住她，她只能无助地捂住腹部。\n\n“啊啊啊啊啊啊啊啊啊啊！”\n\n[futa.GetFirstName]的肉棒极度勃起，炽热滚烫，比我以前见过的所有肉棒都更加狰狞。不仅如此，她的肉棒也#EMP 毫无疑问#!地比平时粗大许多。她的蛋蛋已经越发肿胀，而她晶润的龟头则开始溢出一缕缕精液。 "
  futa_accept.0171.a: "哦，天啊！"
 
  #
 
  futa_events.0172.title: "战场抉疑"
  futa_events.0172.desc: "我正在指挥与敌人的战斗，任何轻微的错误或分心都可能导致灾难性的错误……而且我#S 很难#!集中注意力。\n\n由于我们领地之间近期的冲突，我一直无法得到适当的#italic 缓解#!。当你一直在行军时，为自己找时间并不容易。\n\n通常，我会努力保持镇定，咬紧牙关向前推进，然而，我的这个#italic 问题#!正在蒙蔽我的判断。迟早，我#EMP 将#!犯下错误。当我沉浸在自己的思绪中时，我在战场上发现了一些东西，一个想法突然出现在我的脑海里！\n\n"
- futa_events.0172.commander.desc: "是敌军统帅！我看到[futa_enemy_character.GetFirstName]正在指挥敌军部队，试图在这场混乱中取得优势。也许我能像人们常说的那样一石二鸟？\n\n我开始构思一个计划。带上可信、忠诚的老兵，或许可以穿过敌人的防线，拿下 [futa_enemy_character.GetFirstName]，这无疑会对敌人造成重大打击。也可以#italic 终于#!让我暂时摆脱这些#italic 干扰#!。"
+ futa_events.0172.commander.desc: "是敌军统帅！我看到[futa_enemy_character.GetFirstName]正在指挥敌军部队，试图在这场混乱中取得优势。也许我能像人们常说的那样一石二鸟？\n\n我开始构思一个计划。带上可信、忠诚的老兵，或许可以穿过敌人的防线，拿下[futa_enemy_character.GetFirstName]，这无疑会对敌人造成重大打击。也可以#italic 终于#!让我暂时摆脱这些#italic 干扰#!。"
  futa_events.0172.knight.desc: "一个敌军骑士！我看到[futa_enemy_character.GetFirstName]正在进行小规模突袭，给我的部队造成了麻烦。也许我能一石二鸟？\n\n您可以亲自与[futa_enemy_character.GetFirstName]交战，击败[futa_enemy_character.GetHerHim]并拿下这个战斗中的重要人物，同时还能获得急需的#italic 释放#!"
  futa_events.0172.troops.desc: "敌军征召兵！她们缺乏训练，纪律松散，很容易被击溃。你可以把这些征召兵打垮，把她们贬为军妓以慰军民，如此便可以进一步摧毁敌人的士气，顺便还能让自己也借机摆脱某些#italic 困扰#!"
  futa_accept.0172.a: "拿下首领，余者便不攻自破。" # Commander
@@ -1885,7 +1885,7 @@
  #
  
  futa_events.0185.title:0 "窒息如影" #Die
- futa_events.0185.desc:0 "就算我使尽浑身解数，居然也无法从这个人手下挣脱！对方把我按在床上，对我的腹部一阵猛击，我顿时疼得缩成一团，泪眼朦胧，再也无力反抗。随后闯入者褪开了下衣，一个沉重的肉袋便直接砸到了我的肚子上。\n\n#EMP 这，这玩意真的会弄死我的！#!\n\n这时我才明白对方是一位$trait_futa$，而现在她正兴奋地用腥臭的肉棒来回拍打我脸庞，然后又在我脸上拖来拖去，紧接着她就迫不及待地试图撬开我紧闭的嘴唇。我试图扭头从龟头处移开，结果她肥硕的龟头就直接戳到了我的眼睛。\n\n“如果你识趣的话，就最好别动！#EMP 臭婊子#!”她一边说着，一边晃了晃捏紧的拳头。\n\n迫于她的淫威，我不敢再挣扎。随后她便把我拖到床边，上半身悬空后仰着，而她则站在床外，一手托着我的后脑，一手按住龟头顶入我的嘴巴里。呕，这味道齁咸，#EMP 太#!咸了。\n\n“呵，你可别 #EMP 企 图 #!咬下去！不然有你好受的。”她恐吓道，然后又给了我腹部一记重拳，说完便双手紧紧掐住了我的喉咙，把我当作泄欲肉套般肆意抽插起来。\n\n我……我无法呼吸了！我的视野里只剩下这名淫徒的胯部，而且我的喉咙也已经被她怪兽般的鸡巴撑到了极限。\n\n我极力挣扎着试图喘息，反溢而出的口水鼻涕倒流而下，混合着泪水模糊了我的眼眶，而眼中倒悬的世界也开始迅速变得昏暗起来。\n\n#EMP “她真的要杀了我！！！”#!\n\n“该死，至少你喉穴的滋味还挺不错。我还有点舍不得这个呢，这回你该知道自己只是个无用的吸屌贱货了吧。”\n\n就在这时我感觉到口中的肉棒突然变得更粗了一些，然后一股精液洪流便直接源源不断地灌入我的喉咙，这下最后一点点供以呼吸的间隙也被黏稠的浓精给填满了。之前片刻的窒息就已经让我使不出一点力量来反抗，而此时我只剩下还能软弱地流泪了，并且我也能感觉到自己已经撑不了多久，真的一切都要结束了……\n\n眼前越来越黑了……\n\n“溺 死 你 这 个 臭 婊 子 ！”"
+ futa_events.0185.desc:0 "就算我使尽浑身解数，居然也无法从这个人手下挣脱！对方把我按在床上，对我的腹部一阵猛击，我顿时疼得缩成一团，泪眼朦胧，再也无力反抗。随后闯入者褪开了下衣，一个沉重的肉袋便直接砸到了我的肚子上。\n\n#EMP 这，这玩意真的会弄死我的！#!\n\n这时我才明白对方是一位$trait_futa$，而现在她正兴奋地用腥臭的肉棒来回拍打我脸庞，然后又在我脸上拖来拖去，紧接着她就迫不及待地试图撬开我紧闭的嘴唇。我试图扭头从龟头处移开，结果她肥硕的龟头就直接戳到了我的眼睛。\n\n“如果你识趣的话，就最好别动！#EMP 臭婊子#!”她一边说着，一边晃了晃捏紧的拳头。\n\n迫于她的淫威，我不敢再挣扎。随后她便把我拖到床边，上半身悬空后仰着，而她则站在床外，一手托着我的后脑，一手按住龟头顶入我的嘴巴里。呕，这味道齁咸，#EMP 太#!咸了。\n\n“呵，你可别#EMP 企 图 #!咬下去！不然有你好受的。”她恐吓道，然后又给了我腹部一记重拳，说完便双手紧紧掐住了我的喉咙，把我当作泄欲肉套般肆意抽插起来。\n\n我……我无法呼吸了！我的视野里只剩下这名淫徒的胯部，而且我的喉咙也已经被她怪兽般的鸡巴撑到了极限。\n\n我极力挣扎着试图喘息，反溢而出的口水鼻涕倒流而下，混合着泪水模糊了我的眼眶，而眼中倒悬的世界也开始迅速变得昏暗起来。\n\n#EMP “她真的要杀了我！！！”#!\n\n“该死，至少你喉穴的滋味还挺不错。我还有点舍不得这个呢，这回你该知道自己只是个无用的吸屌贱货了吧。”\n\n就在这时我感觉到口中的肉棒突然变得更粗了一些，然后一股精液洪流便直接源源不断地灌入我的喉咙，这下最后一点点供以呼吸的间隙也被黏稠的浓精给填满了。之前片刻的窒息就已经让我使不出一点力量来反抗，而此时我只剩下还能软弱地流泪了，并且我也能感觉到自己已经撑不了多久，真的一切都要结束了……\n\n眼前越来越黑了……\n\n“溺 死 你 这 个 臭 婊 子 ！”"
  futa_accept.0185.a:0 "#S *呕* *哕* *嗬*#!……"
 
  #
@@ -1939,12 +1939,12 @@
  futa_events.0199.title:0 "扶她之国"
  futa_events.0199.desc:0 "“我们爱您！” “万分感谢您的支持” “领主万岁！” “#EMP 您收到我寄给您的信了吗？#!”\n\n当我们开始为$game_concept_futa_enclave_short$举办朝会时，宫廷里响起了热烈的掌声。新迁之民们现已成为领地内不可分割的一部分，因此她们的任何问题都将举办专门的听证会。\n\n[frep.GetFirstName]和我吸引了全场的注意力，现场还有许多「$trait_futa$」也受邀参加。接着她便开始讲话，先是回顾了我们提前准备好的讲稿，之后，她开始宣扬将实现$trait_futa$期待已久的变革。而在此之前，我对这件事甚至一无所知。\n\n“——期待已久的时刻终于到来，一个崭新的$trait_futa$之国现在正式成立了！尊敬的领主大人更是甘愿为此捐赠出大片领土以全力支持我们的伟业。为了表示对$trait_futa$们的支持，吾等之主也想要把自己的身体敬献给大家！”\n\n“耶耶耶——！！！”观众们瞬间沸腾了，无比狂热地呼喊起来。#EMP  我#!可从来没有同意过这种事情，我连忙扭头看向她，但[frep.GetFirstName]只是回以微笑。"
  futa_accept.0199.a:0 "……是的，请各位随意享用吧"
- futa_accept.0199.b:0 "就此#EMP 散会#! ！！！"
+ futa_accept.0199.b:0 "就此#EMP 散会#!！！！"
  
  #
  
  futa_events.0200.title:0 "扶她之国" #Rep Sex
- futa_events.0200.desc:0 "[frep.GetFirstName]向我缓缓走来，步履自信，扭臀挺胸，神情坦然。而当她走到我的御座前后，便张开双手轻轻搂住我的头，“您做得很好，我的大人……”\n\n然后我们就紧紧抱住彼此激情拥吻，宫廷里顿时响起了湿润的吮吸声。当我被推倒在御座之上时，[frep.GetFirstName]也随之坐到我身上。\n\n她的身体开始变得滚烫发热，而我的身体也同样动情。然后我们都迫不及待地撕扯对方的衣裙，当我的内衣被扔到人群中时，她们一齐发出了满是欲念的惊呼。\n\n[frep.GetFirstName]似乎仍然沉浸在甜蜜的湿吻之中，但她身下某条赤红的巨蟒已经悄然苏醒，还有那对#EMP 盈满#!的蛋蛋，无疑早已搅动起一阵精液之潮。\n\n而在不知不觉中，我的双腿已被[frep.GetFirstName]推过头顶，紧紧抓住，随后她勃然欲噬的龟头便顶在我的穴口。\n\n“噢噢噢！这就是——啊——这就是我们的领主大人为我们提供的一切！”[frep.GetFirstName]一边向人群大喊着，一边开始猛烈地抽插起来。她抬起一只脚踩在我的御座上，好让那条极恶之蟒尽可能深入品尝我的肉穴。\n\n一番云雨过后，她突然将下垂的肉袋紧贴着我的腰胯，然后便是一股狂暴汹涌的精潮急灌而入，滚烫的触感让我兴奋地不停颤抖。而她似乎也沉浸在高潮的迷醉之中，死死抵住久久不动，让我的子宫感到了无比的#EMP 饱胀#!！\n\n“呼 ~ 哈 ~ 呼 ~ 哈 ~ ！”[frep.GetFirstName]深情地呻吟着，然后缓缓拔出她依然抖擞的肉棒。我能感觉到自己的肉穴还在肉棒抽离时不停#EMP 吮吸#!着，就像挽留一位心爱的恋人那样。显然她也是如此不舍，所以[frep.GetFirstName]又把肉棒插了进去，重复着这种让人心醉神迷的欢愉。\n\n最后，她加快了速度，在我身体还在因泄身而不停颤抖时，她又开始猛烈地抽插起来——还是和之前一样深入——这直接让我再也忍耐不住像只受惊的野猪一样尖叫起来。\n\n……\n\n呃啊啊！妈的！[frep.GetFirstName] 简 直 要 把 我 肏 成 两 半 了 ！我的御座完全湿透了，沾满了浑浊的爱液，我的身体也已经彻底被[frep.GetFirstName]搞得精疲力竭了。她紧紧抓住我的喉咙，一边像发情的野兽一样嘶吼着，一边再次在我体内登临高潮，向里面灌入大量黏厚的浓精。\n\n而当我的腹部开始变得逐渐肿胀时，不管是我的心脏还是她的蛋蛋，我仿佛都能#EMP 听到#!它们里面那奔流不息的轰鸣声。"
+ futa_events.0200.desc:0 "[frep.GetFirstName]向我缓缓走来，步履自信，扭臀挺胸，神情坦然。而当她走到我的御座前后，便张开双手轻轻搂住我的头，“您做得很好，我的大人……”\n\n然后我们就紧紧抱住彼此激情拥吻，宫廷里顿时响起了湿润的吮吸声。当我被推倒在御座之上时，[frep.GetFirstName]也随之坐到我身上。\n\n她的身体开始变得滚烫发热，而我的身体也同样动情。然后我们都迫不及待地撕扯对方的衣裙，当我的内衣被扔到人群中时，她们一齐发出了满是欲念的惊呼。\n\n[frep.GetFirstName]似乎仍然沉浸在甜蜜的湿吻之中，但她身下某条赤红的巨蟒已经悄然苏醒，还有那对#EMP 盈满#!的蛋蛋，无疑早已搅动起一阵精液之潮。\n\n而在不知不觉中，我的双腿已被[frep.GetFirstName]推过头顶，紧紧抓住，随后她勃然欲噬的龟头便顶在我的穴口。\n\n“噢噢噢！这就是——啊——这就是我们的领主大人为我们提供的一切！”[frep.GetFirstName]一边向人群大喊着，一边开始猛烈地抽插起来。她抬起一只脚踩在我的御座上，好让那条极恶之蟒尽可能深入品尝我的肉穴。\n\n一番云雨过后，她突然将下垂的肉袋紧贴着我的腰胯，然后便是一股狂暴汹涌的精潮急灌而入，滚烫的触感让我兴奋地不停颤抖。而她似乎也沉浸在高潮的迷醉之中，死死抵住久久不动，让我的子宫感到了无比的#EMP 饱胀#!！\n\n“呼 ~ 哈 ~ 呼 ~ 哈 ~ ！”[frep.GetFirstName]深情地呻吟着，然后缓缓拔出她依然抖擞的肉棒。我能感觉到自己的肉穴还在肉棒抽离时不停#EMP 吮吸#!着，就像挽留一位心爱的恋人那样。显然她也是如此不舍，所以[frep.GetFirstName]又把肉棒插了进去，重复着这种让人心醉神迷的欢愉。\n\n最后，她加快了速度，在我身体还在因泄身而不停颤抖时，她又开始猛烈地抽插起来——还是和之前一样深入——这直接让我再也忍耐不住像只受惊的野猪一样尖叫起来。\n\n……\n\n呃啊啊！妈的！[frep.GetFirstName]简 直 要 把 我 肏 成 两 半 了 ！我的御座完全湿透了，沾满了浑浊的爱液，我的身体也已经彻底被[frep.GetFirstName]搞得精疲力竭了。她紧紧抓住我的喉咙，一边像发情的野兽一样嘶吼着，一边再次在我体内登临高潮，向里面灌入大量黏厚的浓精。\n\n而当我的腹部开始变得逐渐肿胀时，不管是我的心脏还是她的蛋蛋，我仿佛都能#EMP 听到#!它们里面那奔流不息的轰鸣声。"
  futa_accept.0200.a:0 "噢噢噢……"
  
  #
@@ -2080,25 +2080,25 @@
  #
 
  futa_events.0220.title: "大胆营救" # Make Love - Female Lover
- futa_events.0220.desc: "历尽艰辛，我们总算克服了所有阻碍，[lover.GetFirstName]和我终于重获自由，再次相聚。微风轻拂过她的发丝，她回眸一笑，我的心仿佛要跳出胸膛。[lover.GetFirstName]眉眼弯弯地看着我，温柔地将我的手握在掌心。\n\n“谢谢你，我的爱人。在我最无助的时刻，当我以为一切都毫无希望的时候，我一直坚信着，你一定会来救我。”\n\n我们紧紧相拥——或者说，[lover.GetFirstName]猛地扑进我的怀抱——阔别已久，我们终于能再次安心地享受彼此的温存。\n\n“我终于逃离了那个鬼地方，但我觉得，我还需要做点什么……”\n\n做什么？难道发生了什么事？[lover.GetFirstName]让我闭上眼睛，我照做了。一阵凉风轻抚过我的臀部，让我意识到她正在做什么。\n\n“怎么？你已经把我#EMP 拯救#!出来了，我可不是那种不懂感恩的女人，除非……你#EMP 不想#!被你亲爱的女朋友好好服侍一番？”\n\n她语气中的魅惑…… #EMP 噢，我的心都要融化了#!。[lover.GetFirstName]将我的犹豫不决视为默许，她的舌尖开始轻柔地描摹着我湿润的花瓣。\n\n[lover.GetFirstName]的舌头在我臀间游走，那专注而虔诚的服侍让我双腿发软。她用手托着我的屁股，好让自己更加深入。我本能地扭动着腰肢，想要让她触碰到每一处敏感地带。\n\n我看到自己的肉棒因为小穴的刺激而兴奋地跳动着，仿佛在嫉妒我的快乐。\n\n#EMP 啊……我要到极限了……她的舌技真是太棒了#!。我感受到一股熟悉的热流涌遍全身，我的蛋蛋在肉袋里激动地跳跃着。\n\n“来吧，亲爱的，为我高潮吧！”[lover.GetFirstName]呢喃着，她将一只手绕过我的双腿，握住我的肉棒根部，另一只手则继续深入探索我的屁穴。我同时被三处挑逗着……\n\n#EMP 我再也忍不住了，啊！！！#!我喷射而出，那力量之大，我甚至担心我的肉棒会被折断。白色的浪潮喷涌而出，在空中划出一道优美的弧线，最后洒落到周围的花草树木之上。我的小穴因为高潮而剧烈收缩，紧紧地绞弄着[lover.GetFirstName]的舌头，但从她的呻吟声中，我听得出她并不介意。"
+ futa_events.0220.desc: "历尽艰辛，我们总算克服了所有阻碍，[lover.GetFirstName]和我终于重获自由，再次相聚。微风轻拂过她的发丝，她回眸一笑，我的心仿佛要跳出胸膛。[lover.GetFirstName]眉眼弯弯地看着我，温柔地将我的手握在掌心。\n\n“谢谢你，我的爱人。在我最无助的时刻，当我以为一切都毫无希望的时候，我一直坚信着，你一定会来救我。”\n\n我们紧紧相拥——或者说，[lover.GetFirstName]猛地扑进我的怀抱——阔别已久，我们终于能再次安心地享受彼此的温存。\n\n“我终于逃离了那个鬼地方，但我觉得，我还需要做点什么……”\n\n做什么？难道发生了什么事？[lover.GetFirstName]让我闭上眼睛，我照做了。一阵凉风轻抚过我的臀部，让我意识到她正在做什么。\n\n“怎么？你已经把我#EMP 拯救#!出来了，我可不是那种不懂感恩的女人，除非……你#EMP 不想#!被你亲爱的女朋友好好服侍一番？”\n\n她语气中的魅惑……#EMP 噢，我的心都要融化了#!。[lover.GetFirstName]将我的犹豫不决视为默许，她的舌尖开始轻柔地描摹着我湿润的花瓣。\n\n[lover.GetFirstName]的舌头在我臀间游走，那专注而虔诚的服侍让我双腿发软。她用手托着我的屁股，好让自己更加深入。我本能地扭动着腰肢，想要让她触碰到每一处敏感地带。\n\n我看到自己的肉棒因为小穴的刺激而兴奋地跳动着，仿佛在嫉妒我的快乐。\n\n#EMP 啊……我要到极限了……她的舌技真是太棒了#!。我感受到一股熟悉的热流涌遍全身，我的蛋蛋在肉袋里激动地跳跃着。\n\n“来吧，亲爱的，为我高潮吧！”[lover.GetFirstName]呢喃着，她将一只手绕过我的双腿，握住我的肉棒根部，另一只手则继续深入探索我的屁穴。我同时被三处挑逗着……\n\n#EMP 我再也忍不住了，啊！！！#!我喷射而出，那力量之大，我甚至担心我的肉棒会被折断。白色的浪潮喷涌而出，在空中划出一道优美的弧线，最后洒落到周围的花草树木之上。我的小穴因为高潮而剧烈收缩，紧紧地绞弄着[lover.GetFirstName]的舌头，但从她的呻吟声中，我听得出她并不介意。"
  futa_accept.0220.a: "多么美妙的礼物！"
 
  #
 
  futa_events.0221.title: "大胆营救" # Make Love - Futa Lover
- futa_events.0221.desc: "历尽艰辛，我们总算克服了所有阻碍，[lover.GetFirstName]和我终于重获自由，再次相聚。微风轻拂过她的发丝，她回眸一笑，我的心仿佛要跳出胸膛。[lover.GetFirstName]眉眼弯弯地看着我，温柔地将我的手握在掌心。\n\n“谢谢你，我的爱人。在我最无助的时刻，当我以为一切都毫无希望的时候，我一直坚信着，你一定会来救我。”\n\n我们紧紧相拥——或者说，[lover.GetFirstName]猛地扑进我的怀抱——阔别已久，我们终于能再次安心地享受彼此的温存。\n\n“既然现在我们摆脱了狱火之苦……那么你能不能再帮我发泄下#EMP 欲火#!之苦呢？”[lover.GetFirstName]趁机在我耳边低语道，而此番挑逗直接点燃了我心中的欲火，在这种暧昧的氛围之下，我感觉到自己的肉棒瞬间就起了反应。\n\n而当我还在……浮想联翩之际，[lover.GetFirstName]已经走到我的后面并脱下了我的裤子。一阵微凉的感觉让我意识到了她正在做什么。\n\n“怎么？你已经把我#EMP 拯救#!出来了，我可不是那种不懂感恩的女人，除非……你#EMP 不想#!被你亲爱的女朋友好好服侍一番？”\n\n她语气中的魅惑…… #EMP 噢，我的心都要融化了#!。[lover.GetFirstName]将我的犹豫不决视为默许，她的舌尖开始轻柔地描摹着我湿润的花瓣。\n\n[lover.GetFirstName]的舌头在我臀间游走，那专注而虔诚的服侍让我双腿发软。她用手托着我的屁股，好让自己更加深入。我本能地扭动着腰肢，想要让她触碰到每一处敏感地带。\n\n我看到自己的肉棒因为小穴的刺激而兴奋地跳动着，仿佛在嫉妒我的快乐。\n\n#EMP 啊……我快要到极限了……她的舌技真是太棒了#!。我感受到一股熟悉的热流涌遍全身，我的蛋蛋在肉袋里激动地跳跃着。\n\n“嗯~还不行哦，你要坚持到最后呢。”[lover.GetFirstName]一边说着一边抓住我的肉袋，兴奋的揉弄着。这极致的快感甚至让我的眼角都不禁开始抽搐起来，我几乎要发疯了，直到有什么热乎乎的东西开始摩擦我的小穴。\n\n“让我来展示一下我对你的感激之情有多么#EMP 深厚!#!”\n\n#S *啪* *啪* *啪* *啪* *啪*#!\n\n#EMP “齁哦哦，噢噢噢~啊啊啊~操！”#![lover.GetFirstName]用她坚挺的肉棒在我的肉穴里反复抽插让我高潮迭起、飘然若仙，我们的蛋蛋也在一次次碰撞中激吻不休。\n\n直到最后我汗流浃背，口水横流，哭得像个无助的处女，因为我真的彻底被#EMP 操翻#!了。过度的刺激让我的大脑一片空白，我感觉到的最后一件事就是从我的龟头处爆发的快感，彻底淹没了我的意识……"
+ futa_events.0221.desc: "历尽艰辛，我们总算克服了所有阻碍，[lover.GetFirstName]和我终于重获自由，再次相聚。微风轻拂过她的发丝，她回眸一笑，我的心仿佛要跳出胸膛。[lover.GetFirstName]眉眼弯弯地看着我，温柔地将我的手握在掌心。\n\n“谢谢你，我的爱人。在我最无助的时刻，当我以为一切都毫无希望的时候，我一直坚信着，你一定会来救我。”\n\n我们紧紧相拥——或者说，[lover.GetFirstName]猛地扑进我的怀抱——阔别已久，我们终于能再次安心地享受彼此的温存。\n\n“既然现在我们摆脱了狱火之苦……那么你能不能再帮我发泄下#EMP 欲火#!之苦呢？”[lover.GetFirstName]趁机在我耳边低语道，而此番挑逗直接点燃了我心中的欲火，在这种暧昧的氛围之下，我感觉到自己的肉棒瞬间就起了反应。\n\n而当我还在……浮想联翩之际，[lover.GetFirstName]已经走到我的后面并脱下了我的裤子。一阵微凉的感觉让我意识到了她正在做什么。\n\n“怎么？你已经把我#EMP 拯救#!出来了，我可不是那种不懂感恩的女人，除非……你#EMP 不想#!被你亲爱的女朋友好好服侍一番？”\n\n她语气中的魅惑……#EMP 噢，我的心都要融化了#!。[lover.GetFirstName]将我的犹豫不决视为默许，她的舌尖开始轻柔地描摹着我湿润的花瓣。\n\n[lover.GetFirstName]的舌头在我臀间游走，那专注而虔诚的服侍让我双腿发软。她用手托着我的屁股，好让自己更加深入。我本能地扭动着腰肢，想要让她触碰到每一处敏感地带。\n\n我看到自己的肉棒因为小穴的刺激而兴奋地跳动着，仿佛在嫉妒我的快乐。\n\n#EMP 啊……我快要到极限了……她的舌技真是太棒了#!。我感受到一股熟悉的热流涌遍全身，我的蛋蛋在肉袋里激动地跳跃着。\n\n“嗯~还不行哦，你要坚持到最后呢。”[lover.GetFirstName]一边说着一边抓住我的肉袋，兴奋的揉弄着。这极致的快感甚至让我的眼角都不禁开始抽搐起来，我几乎要发疯了，直到有什么热乎乎的东西开始摩擦我的小穴。\n\n“让我来展示一下我对你的感激之情有多么#EMP 深厚!#!”\n\n#S *啪* *啪* *啪* *啪* *啪*#!\n\n#EMP “齁哦哦，噢噢噢~啊啊啊~操！”#![lover.GetFirstName]用她坚挺的肉棒在我的肉穴里反复抽插让我高潮迭起、飘然若仙，我们的蛋蛋也在一次次碰撞中激吻不休。\n\n直到最后我汗流浃背，口水横流，哭得像个无助的处女，因为我真的彻底被#EMP 操翻#!了。过度的刺激让我的大脑一片空白，我感觉到的最后一件事就是从我的龟头处爆发的快感，彻底淹没了我的意识……"
  futa_accept.0221.a: "肏!!!"
 
  #
 
  futa_events.0222.title: "大胆营救" # Too Horny Dungeon Sex - Female Lover
- futa_events.0222.desc: "#italic “等等, [futa_rescuer.GetFirstName]，我也很想你，但我不认为是现在！我们必须离——”#! #S 唔!?#!\n\n我打断了[lover.GetHerHim]的话并突然吻了上去。 \n\n她的香唇如此湿润，她的娇躯如此火热，她是如此#EMP 性感#!。当[lover.GetFirstName]的舌头被我吸吮而挣扎时，她被我紧紧按在了墙上，我用双手肆意抚摸她的每一处身体，她只能蜷缩起来发出令人爱怜的娇喘。\n\n“我们必须——啊啊啊啊啊!”她仍在竭力假装她并不渴求，但很明显在被囚禁的这段时间里让她也变得非常饥渴。\n\n混合着我们口水的唾液从她的嘴角滴落，我又用手来回揉捏[lover.GetFirstName]高耸的乳峰，并发现她的乳头已经勃起得特别粗硬，她真的不应该再假装她的清心寡欲。\n\n我也没有让我的鸡巴久等，它等待自己的爱人已经太久了，而现在正是我们弥补它的时间！我爱人那湿润的小穴已对我的二弟敞开大门，简直是天作之合。在这阴暗的牢房中我疯狂的扭动着屁股在[lover.GetFirstName]的小穴里来回驰骋。对我来说，这里就是伊甸园，没有什么比再次和我的[lover.GetFirstName]重逢更重要的事情。\n\n我们那淫靡的交合声响彻在这阴暗的地牢走廊里，远处传来的囚犯低语声和失去知觉的警卫的呢喃声，这些#EMP 风险#!让一切变得如此色情。\n\n[lover.GetFirstName]捧着我的脸，“请灌满我吧。”\n\n#EMP 肏！#!\n\n我的精液顿时像火山爆发一般猛烈喷射出来，深深的射进了我的爱人的小穴里。她的娇喘被我热情的亲吻声盖过，当我把她按在墙上时她兴奋的扭动着，直到我把自己的精种射入她的体内再也不会流出。"
+ futa_events.0222.desc: "#italic “等等,[futa_rescuer.GetFirstName]，我也很想你，但我不认为是现在！我们必须离——”#!#S 唔!?#!\n\n我打断了[lover.GetHerHim]的话并突然吻了上去。 \n\n她的香唇如此湿润，她的娇躯如此火热，她是如此#EMP 性感#!。当[lover.GetFirstName]的舌头被我吸吮而挣扎时，她被我紧紧按在了墙上，我用双手肆意抚摸她的每一处身体，她只能蜷缩起来发出令人爱怜的娇喘。\n\n“我们必须——啊啊啊啊啊!”她仍在竭力假装她并不渴求，但很明显在被囚禁的这段时间里让她也变得非常饥渴。\n\n混合着我们口水的唾液从她的嘴角滴落，我又用手来回揉捏[lover.GetFirstName]高耸的乳峰，并发现她的乳头已经勃起得特别粗硬，她真的不应该再假装她的清心寡欲。\n\n我也没有让我的鸡巴久等，它等待自己的爱人已经太久了，而现在正是我们弥补它的时间！我爱人那湿润的小穴已对我的二弟敞开大门，简直是天作之合。在这阴暗的牢房中我疯狂的扭动着屁股在[lover.GetFirstName]的小穴里来回驰骋。对我来说，这里就是伊甸园，没有什么比再次和我的[lover.GetFirstName]重逢更重要的事情。\n\n我们那淫靡的交合声响彻在这阴暗的地牢走廊里，远处传来的囚犯低语声和失去知觉的警卫的呢喃声，这些#EMP 风险#!让一切变得如此色情。\n\n[lover.GetFirstName]捧着我的脸，“请灌满我吧。”\n\n#EMP 肏！#!\n\n我的精液顿时像火山爆发一般猛烈喷射出来，深深的射进了我的爱人的小穴里。她的娇喘被我热情的亲吻声盖过，当我把她按在墙上时她兴奋的扭动着，直到我把自己的精种射入她的体内再也不会流出。"
  futa_accept.0222.a: "啊！[lover.GetFirstName]！！！"
 
  #
 
  futa_events.0223.title: "大胆营救" # Too Horny Dungeon Sex - Futa Lover
- futa_events.0223.desc: "#italic “等等, [futa_rescuer.GetFirstName],我也很想你，但我不认为现在是时候！我们真的应该——”#! #S 唔!?#!\n\n我打断了[lover.GetHerHim]的话并突然吻了上去。 \n\n[lover.GetHerHis|U]的嘴唇湿润而火热，这真是#EMP 太性感了#!。当我把舌头探进[lover.GetFirstName]嘴里时，她被我按在了墙上，双手无力地抵挡着。我轻抚着[lover.GetHerHis|U]的胴体，感受着她迷人的曲线，而[lover.GetSheHe|U]也难耐地发出诱人的呻吟。\n\n“我们不能——啊啊啊啊啊!”她还想假装拒绝，但在囚牢里压抑的欲望让她难以自持。\n\n混合着我们口水的唾液从她的嘴角滴落。我抚摸着[lover.GetFirstName]的胸部，感受着她坚挺的乳尖。她实在不该再假装清心寡欲了。\n\n“啊，该死，你真是太让我难以抗拒了。” \n\n我们紧紧相拥，用彼此悸动的肉棒互相摩擦着小腹。[lover.GetFirstName]过度兴奋而僵硬身体让我无法想象她被囚禁在这里的这段时间有多么难熬。\n\n我的肉棒戳进了[lover.GetFirstName]的肉袋，把她的肉球挤到一边，腾出空间。这让我的爱人忍不住咬住了嘴唇。\n\n“把它插进来，#EMP 现在就插#!！”\n\n我早已迫不及待，是时候好好犒劳一下我的肉棒了，它已经等待爱人太久了。[lover.GetFirstName]的小穴也已经准备好迎接我的肉棒，这简直是天作之合。在这阴暗潮湿的牢房中，我疯狂地扭动着腰肢，在我的爱人身上驰骋。此刻，这里就是我的伊甸园，没有什么比[lover.GetFirstName]的再次出现更重要了。\n\n我们交合的淫靡之声响彻地牢的走廊。远处传来犯人的低语和昏迷守卫的梦呓，这#EMP 危险#!的氛围更增添了几分刺激。\n\n[lover.GetFirstName]捧起我的脸，“请把我填满吧。”\n\n#EMP 操！#!\n\n我的精液如火山般喷涌而出，从我的肉棒里喷涌而出，深深地注入爱人的体内。她的喘息被我另一个热烈的激吻所吞没。我把她紧紧地压在墙上，尽情灌注着我的精种，我要让她永远都带着我的印记。 \n\n“哦哦哦哦哦哦哦，啊——！”[lover.GetFirstName]的肉袋也终于释放了它积攒已久的欲望，一股股强劲的精液喷涌而出，重重地#EMP 喷撞#!着我的小腹。"
+ futa_events.0223.desc: "#italic “等等,[futa_rescuer.GetFirstName],我也很想你，但我不认为现在是时候！我们真的应该——”#!#S 唔!?#!\n\n我打断了[lover.GetHerHim]的话并突然吻了上去。 \n\n[lover.GetHerHis|U]的嘴唇湿润而火热，这真是#EMP 太性感了#!。当我把舌头探进[lover.GetFirstName]嘴里时，她被我按在了墙上，双手无力地抵挡着。我轻抚着[lover.GetHerHis|U]的胴体，感受着她迷人的曲线，而[lover.GetSheHe|U]也难耐地发出诱人的呻吟。\n\n“我们不能——啊啊啊啊啊!”她还想假装拒绝，但在囚牢里压抑的欲望让她难以自持。\n\n混合着我们口水的唾液从她的嘴角滴落。我抚摸着[lover.GetFirstName]的胸部，感受着她坚挺的乳尖。她实在不该再假装清心寡欲了。\n\n“啊，该死，你真是太让我难以抗拒了。” \n\n我们紧紧相拥，用彼此悸动的肉棒互相摩擦着小腹。[lover.GetFirstName]过度兴奋而僵硬身体让我无法想象她被囚禁在这里的这段时间有多么难熬。\n\n我的肉棒戳进了[lover.GetFirstName]的肉袋，把她的肉球挤到一边，腾出空间。这让我的爱人忍不住咬住了嘴唇。\n\n“把它插进来，#EMP 现在就插#!！”\n\n我早已迫不及待，是时候好好犒劳一下我的肉棒了，它已经等待爱人太久了。[lover.GetFirstName]的小穴也已经准备好迎接我的肉棒，这简直是天作之合。在这阴暗潮湿的牢房中，我疯狂地扭动着腰肢，在我的爱人身上驰骋。此刻，这里就是我的伊甸园，没有什么比[lover.GetFirstName]的再次出现更重要了。\n\n我们交合的淫靡之声响彻地牢的走廊。远处传来犯人的低语和昏迷守卫的梦呓，这#EMP 危险#!的氛围更增添了几分刺激。\n\n[lover.GetFirstName]捧起我的脸，“请把我填满吧。”\n\n#EMP 操！#!\n\n我的精液如火山般喷涌而出，从我的肉棒里喷涌而出，深深地注入爱人的体内。她的喘息被我另一个热烈的激吻所吞没。我把她紧紧地压在墙上，尽情灌注着我的精种，我要让她永远都带着我的印记。 \n\n“哦哦哦哦哦哦哦，啊——！”[lover.GetFirstName]的肉袋也终于释放了它积攒已久的欲望，一股股强劲的精液喷涌而出，重重地#EMP 喷撞#!着我的小腹。"
  futa_accept.0223.a: "*喘息声*"
 
  #
@@ -2132,7 +2132,7 @@
 
  futa_events.0228.title: "大胆营救" # Failure - Placed in the Same Cell
  futa_events.0228.desc: "#EMP 嗯……#!好黑啊。我的头疼得厉害，我的身体也僵硬得动弹不得。好吧，这也是意料之中的事。他们可能把我抓到牢房里就扔下不管了。这次营救行动彻底失败了。\n\n当我沉浸在思绪中，试图整理头绪的时候，我注意到我的头正枕着某个#EMP 柔软#!的东西，而不像我的背部那样，我能清楚地感觉到冰冷坚硬的地板。\n\n我睁开眼睛，看到了一个熟悉的面孔，正低头看着我。\n\n#italic “哦，你终于醒了。”#!\n\n我记得这个声音。[lover.GetFirstName]！\n\n#italic “你还好吗，[futa_rescuer.GetFirstName]？你看起来被打得很惨。”#!\n\n我仍然在试图恢复意识，但是，[lover.GetHerHis]的声音听起来真舒服。\n\n#italic “难以想象，当他们把你昏迷不醒的身体扔到这里时，我是多么的惊讶和震惊。我以为你要死了！发生了什么事？”#!\n\n#italic “如你所见，我试图从[futa_imprisoner.GetFirstName]的魔爪中拯救我心爱之人的大胆计划失败了。”#!\n\n[lover.GetSheHe|U]给了我一个温暖的笑容。\n\n#italic “我的白马王子！嘿，往好的方面想。命运最终还是眷顾了我们，我们终于重逢了！”#!\n\n#italic “也许是这样吧。我只是希望是在更好的情况下重逢。”#!"
- futa_events.0228.horny.desc: "\n\n[lover.GetHerHis|U]的目光随着我的身体向下移动。\n\n#italic “从你的反应来看，你一定很想我。”#!\n\n就在这时，我注意到我的胯部有一股明显的#EMP 紧绷#!感。\n\n#italic “你这么想我吗？你一直没有得到你需要的#! #S 释放#! #italic 吗？”#!她一边说着，一边隔着衣服抚摸我。在经历了这么多磨难才把我救出来之后。我觉得[futa_rescuer.GetSheHe]应该得到一些奖励，即使她失败了。\n\n#italic “你也知道，在这里无事可做。不如你让我看看你到底有多想我？为了表彰你的英勇行为，我愿意接受你的奖励。”#!"
+ futa_events.0228.horny.desc: "\n\n[lover.GetHerHis|U]的目光随着我的身体向下移动。\n\n#italic “从你的反应来看，你一定很想我。”#!\n\n就在这时，我注意到我的胯部有一股明显的#EMP 紧绷#!感。\n\n#italic “你这么想我吗？你一直没有得到你需要的#!#S 释放#!#italic 吗？”#!她一边说着，一边隔着衣服抚摸我。在经历了这么多磨难才把我救出来之后。我觉得[futa_rescuer.GetSheHe]应该得到一些奖励，即使她失败了。\n\n#italic “你也知道，在这里无事可做。不如你让我看看你到底有多想我？为了表彰你的英勇行为，我愿意接受你的奖励。”#!"
  futa_accept.0228.a: "[lover.GetFirstName]，能再次见到你，我太高兴了！"
  futa_accept.0228.b: "过来吧，我的爱人！"
 
@@ -2151,7 +2151,7 @@
  #
 
  futa_events.0231.title: "大胆营救" # Reach the Dungeons and Cell - Lover POV
- futa_events.0231.desc: "又一个夜晚，又一个白天，我被困在这个阴暗寒冷的地方。我几乎无法分辨白天和黑夜，只有送饭和透过小窗户照进来的微弱阳光才能让我感觉到时间的流逝。\n\n我听到了地牢大门打开的声音。真奇怪，他们可能正在地牢里巡逻，但这很平常。然而，我注意到了一些不对劲。脚步声听起来……很慌乱？很匆忙？\n\n几分钟后，一个披着斗篷的人影出现在我的牢房前。我认不出那个人是谁。过了一会儿，我听到那个人对我喊道：\n\n#italic “[lover.GetFirstName]？是我啊，我终于找到你了！“\n\n“ [futa_rescuer.GetFirstName]？你在这里做什么？你怎么进来的？”\n\n“哈，别在意那些细节。重要的是我在这里，而且是来救你出去的！”#!\n\n难以置信！那个声音……那是[futa_rescuer.GetFirstName]！\n\n我惊讶地点了点头。然后，[futa_rescuer.GetSheHe|U]打开了牢房的门，我们紧紧地拥抱在一起。哦，[futa_rescuer.GetFirstName]，我好想你！"
+ futa_events.0231.desc: "又一个夜晚，又一个白天，我被困在这个阴暗寒冷的地方。我几乎无法分辨白天和黑夜，只有送饭和透过小窗户照进来的微弱阳光才能让我感觉到时间的流逝。\n\n我听到了地牢大门打开的声音。真奇怪，他们可能正在地牢里巡逻，但这很平常。然而，我注意到了一些不对劲。脚步声听起来……很慌乱？很匆忙？\n\n几分钟后，一个披着斗篷的人影出现在我的牢房前。我认不出那个人是谁。过了一会儿，我听到那个人对我喊道：\n\n#italic “[lover.GetFirstName]？是我啊，我终于找到你了！“\n\n“[futa_rescuer.GetFirstName]？你在这里做什么？你怎么进来的？”\n\n“哈，别在意那些细节。重要的是我在这里，而且是来救你出去的！”#!\n\n难以置信！那个声音……那是[futa_rescuer.GetFirstName]！\n\n我惊讶地点了点头。然后，[futa_rescuer.GetSheHe|U]打开了牢房的门，我们紧紧地拥抱在一起。哦，[futa_rescuer.GetFirstName]，我好想你！"
  futa_events.0231.not_horny.desc: "\n\n我们结束了拥抱。[futa_rescuer.GetSheHe|U]看起来心不在焉，但很快便镇定了下来。[futa_rescuer.GetSheHe|U]说我们时间不多，应该赶紧走了。"
  futa_events.0231.too_horny.desc: "\n\n我们继续拥抱了一会儿。我感觉到有东西抵住了我。某个#S 坚硬#!而且#S 悸动#!的东西。看起来[futa_rescuer.GetFirstName]已经#EMP 蓄势待发#!了。\n\n#italic “我好想你！我再也忍不住了！”#!"
  futa_accept.0231.a: "我的爱人！我们离开这里！"
@@ -2178,13 +2178,13 @@
  #
 
  futa_events.0235.title: "大胆营救" # Too Horny Dungeon Sex - Female Lover - Lover POV
- futa_events.0235.desc: "#italic “等等, [futa_rescuer.GetFirstName],我也很想你，但我不认为现在是时候！我们真的应该-”#! #S 唔!?#!\n\n[futa_rescuer.GetSheHe]打断了我的话并突然吻了上来。 \n\n“我需要你。#EMP 现在就要！#!” [futa_rescuer.GetFirstName]把我按在冰冷的牢房墙壁上，张开嘴用她的舌头与我的舌头交缠在一起。这原始的亲吻，火热的拥抱让我的身体迅速燃起了欲望。\n\n#EMP 我们不应该这样做……我们得逃走！#!但[futa_rescuer.GetFirstName]已经失去理智。她的手伸进我的衣服，开始抚摸我坚硬的乳头。我情不自禁地从我的小穴里流出了一些蜜液，所有的矜持都荡然无存。\n\n[futa_rescuer.GetFirstName]用她的肉棒摩擦着我的花蒂，它不仅被我的蜜液浸湿，还被我们热吻时混合的唾液润滑着。\n\n我的身体渴望更多。我跳起来，把双腿紧紧地缠绕在[futa_rescuer.GetFirstName]的腰间。很快，她便开始像野兽一样在我的小穴里横冲直撞。肉袋不停地拍打着我的屁股。她的肉棒插进了最舒服的地方，我情不自禁地将精种喷到她的肉棒上，在整个地牢里发出难以控制的尖叫。\n\n我的抽搐一定也让[futa_rescuer.GetFirstName]欲罢不能。她把她滚烫的精液射进我的体内。我能感觉到我的子宫口微微张开，试图吸进那些孕育生命的精种。"
+ futa_events.0235.desc: "#italic “等等,[futa_rescuer.GetFirstName],我也很想你，但我不认为现在是时候！我们真的应该-”#!#S 唔!?#!\n\n[futa_rescuer.GetSheHe]打断了我的话并突然吻了上来。 \n\n“我需要你。#EMP 现在就要！#!”[futa_rescuer.GetFirstName]把我按在冰冷的牢房墙壁上，张开嘴用她的舌头与我的舌头交缠在一起。这原始的亲吻，火热的拥抱让我的身体迅速燃起了欲望。\n\n#EMP 我们不应该这样做……我们得逃走！#!但[futa_rescuer.GetFirstName]已经失去理智。她的手伸进我的衣服，开始抚摸我坚硬的乳头。我情不自禁地从我的小穴里流出了一些蜜液，所有的矜持都荡然无存。\n\n[futa_rescuer.GetFirstName]用她的肉棒摩擦着我的花蒂，它不仅被我的蜜液浸湿，还被我们热吻时混合的唾液润滑着。\n\n我的身体渴望更多。我跳起来，把双腿紧紧地缠绕在[futa_rescuer.GetFirstName]的腰间。很快，她便开始像野兽一样在我的小穴里横冲直撞。肉袋不停地拍打着我的屁股。她的肉棒插进了最舒服的地方，我情不自禁地将精种喷到她的肉棒上，在整个地牢里发出难以控制的尖叫。\n\n我的抽搐一定也让[futa_rescuer.GetFirstName]欲罢不能。她把她滚烫的精液射进我的体内。我能感觉到我的子宫口微微张开，试图吸进那些孕育生命的精种。"
  futa_accept.0235.a: "*喘息声*"
 
  #
 
  futa_events.0236.title: "大胆营救" # Too Horny Dungeon Sex - Futa Lover - Lover POV
- futa_events.0236.desc: "#italic “等等, [futa_rescuer.GetFirstName],我也很想你，但我不认为现在是时候！我们真的应该-”#! #S 唔!?#!\n\n[futa_rescuer.GetSheHe]打断了我的话并突然吻了上来。\n\n“我需要你。#EMP 现在就要！#!” [futa_rescuer.GetFirstName]把我按在冰冷的牢房墙壁上，张开嘴用她的舌头与我的舌头交缠在一起。这原始的亲吻，火热的拥抱让我的身体迅速燃起了欲望。\n\n#EMP 我们不应该这样做……我们得逃走！#!但[futa_rescuer.GetFirstName]已经失去理智。她的手伸进我的衣服，开始抚摸我坚硬的乳头。我情不自禁地从我的小穴里流出了一些蜜液，所有的矜持都荡然无存。\n\n[futa_rescuer.GetFirstName]掏出我们两个人的肉棒，并将她自己的肉棒贴在我的肉棒上摩擦着。它不仅被那些溢出的液体所浸湿，还被我们热吻时混合的唾液润滑着。\n\n我的身体渴望更多。我跳起来，把双腿紧紧地缠绕在[futa_rescuer.GetFirstName]的腰间。很快，她便开始像野兽一样在我的小穴里横冲直撞。肉袋不停地摇摆着，而我的肉棒却只能无助地在空中摇晃。她的肉棒插进了最舒服的地方，我情不自禁地将积攒的浓精尽数喷射到她的肉棒上，在整个地牢里发出难以控制的尖叫。\n\n我的抽搐一定也让[futa_rescuer.GetFirstName]欲罢不能。她把她滚烫的精液射进我的体内。我能感觉到我的子宫口微微张开，试图吸进那些孕育生命的精种。我自己的肉棒也突然喷射出来，一柱精液打在我的下巴上。[futa_rescuer.GetFirstName]看着我惊讶的表情，大笑起来，然后又给了我一个湿吻。"
+ futa_events.0236.desc: "#italic “等等,[futa_rescuer.GetFirstName],我也很想你，但我不认为现在是时候！我们真的应该-”#!#S 唔!?#!\n\n[futa_rescuer.GetSheHe]打断了我的话并突然吻了上来。\n\n“我需要你。#EMP 现在就要！#!”[futa_rescuer.GetFirstName]把我按在冰冷的牢房墙壁上，张开嘴用她的舌头与我的舌头交缠在一起。这原始的亲吻，火热的拥抱让我的身体迅速燃起了欲望。\n\n#EMP 我们不应该这样做……我们得逃走！#!但[futa_rescuer.GetFirstName]已经失去理智。她的手伸进我的衣服，开始抚摸我坚硬的乳头。我情不自禁地从我的小穴里流出了一些蜜液，所有的矜持都荡然无存。\n\n[futa_rescuer.GetFirstName]掏出我们两个人的肉棒，并将她自己的肉棒贴在我的肉棒上摩擦着。它不仅被那些溢出的液体所浸湿，还被我们热吻时混合的唾液润滑着。\n\n我的身体渴望更多。我跳起来，把双腿紧紧地缠绕在[futa_rescuer.GetFirstName]的腰间。很快，她便开始像野兽一样在我的小穴里横冲直撞。肉袋不停地摇摆着，而我的肉棒却只能无助地在空中摇晃。她的肉棒插进了最舒服的地方，我情不自禁地将积攒的浓精尽数喷射到她的肉棒上，在整个地牢里发出难以控制的尖叫。\n\n我的抽搐一定也让[futa_rescuer.GetFirstName]欲罢不能。她把她滚烫的精液射进我的体内。我能感觉到我的子宫口微微张开，试图吸进那些孕育生命的精种。我自己的肉棒也突然喷射出来，一柱精液打在我的下巴上。[futa_rescuer.GetFirstName]看着我惊讶的表情，大笑起来，然后又给了我一个湿吻。"
  futa_accept.0236.a: "*喘息*"
 
  #
@@ -2209,7 +2209,7 @@
 
  futa_events.0240.title: "大胆营救" # Failure - Placed in the Same Cell - Lover POV - Rescuer Wakes Up 
  futa_events.0240.desc: "[futa_rescuer.GetFirstName]的脑袋枕在我的大腿上。她的胸膛缓慢地起伏着，我听到了她微弱的呼吸声。\n\n我的脑子里充满了疑问。发生了什么事？就在我思考着的时候，我听到了轻微的动静。[futa_rescuer.GetFirstName]似乎醒了。\n\n#EMP 嗯……#!\n\n一双眼睛睁开，好奇地盯着我。\n\n#italic “哦，你终于醒了。你还好吗，[futa_rescuer.GetFirstName]？你看起来被打得很惨。\n\n难以想象，当他们把你昏迷不醒的身体扔到这里时，我是多么的惊讶和震惊。我以为你要死了！发生了什么事？”#!\n\n[futa_rescuer.GetSheHe|U]沉默了一会儿，然后回答：\n\n#italic “如你所见，我试图从[futa_imprisoner.GetFirstName]的魔爪中拯救我心爱之人的大胆计划失败了。”#!\n\n我给了[futa_rescuer.GetHerHim]一个温暖的笑容。\n\n#italic “我的白马王子！嘿，往好的方面想。命运最终还是眷顾了我们，我们终于重逢了！”#!\n\n#italic “也许是这样吧。我只是希望是在更好的情况下重逢。”#!"
- futa_events.0240.horny.desc: "\n\n我打量着[futa_rescuer.GetHerHis]的身体，想知道她伤得有多重。就在这时，我注意到了一个#EMP 非常#!明显的#EMP 凸起#!，以及一个#EMP 巨大#!东西的轮廓。即使在她经历了这一切之后，她的身体还能找到时间和精力来变得兴奋？\n\n#italic “从你的反应来看，你一定很想我。”#!\n\n[futa_rescuer.GetHerHis|U]的脸开始变红。\n\n#italic “你这么想我吗？你一直没有得到你需要的#! #S 释放#! #italic 吗？”#!我用我最性感的语气说着，一边隔着衣服抚摸着她。在她努力把我救出来之后，我觉得她应该得到一些奖励，即使她失败了。\n\n#italic “你也知道，在这里无事可做。不如你让我看看你到底有多想我？为了表彰你的英勇行为，我愿意接受你的奖励。”#!"
+ futa_events.0240.horny.desc: "\n\n我打量着[futa_rescuer.GetHerHis]的身体，想知道她伤得有多重。就在这时，我注意到了一个#EMP 非常#!明显的#EMP 凸起#!，以及一个#EMP 巨大#!东西的轮廓。即使在她经历了这一切之后，她的身体还能找到时间和精力来变得兴奋？\n\n#italic “从你的反应来看，你一定很想我。”#!\n\n[futa_rescuer.GetHerHis|U]的脸开始变红。\n\n#italic “你这么想我吗？你一直没有得到你需要的#!#S 释放#!#italic 吗？”#!我用我最性感的语气说着，一边隔着衣服抚摸着她。在她努力把我救出来之后，我觉得她应该得到一些奖励，即使她失败了。\n\n#italic “你也知道，在这里无事可做。不如你让我看看你到底有多想我？为了表彰你的英勇行为，我愿意接受你的奖励。”#!"
  futa_accept.0240.a: "[futa_rescuer.GetFirstName]，能再次见到你，我太高兴了！"
  futa_accept.0240.b: "过来吧，我的爱人！"
 
@@ -2468,191 +2468,191 @@
  #
 
  futa_events.0279.title: "孱精弱蛋" #Other SEX POV
- futa_events.0279.desc: "“你说什么？”[smol.GetTitledFirstName]懵懂的看着我，不明白我在说什么。#EMP 她是不是想欲情故纵用装傻来勾引我？她肯定在努力表现自己可爱纯真的一面，而这招对我来说很管用！#!\n\n当我突然将嘴唇贴上她的嘴唇并开始品尝她的味道时，她不由自主发出了娇喘。无论如何，光是用言语已经无法表达我此刻的#EMP 冲动#! 既然同为扶她，我相信她一定是能理解的。\n\n我把[smol.GetTitledFirstName]扑倒在地，把她悬在空中的双腿扛到我的肩膀上。我们目光如炬，欲望的火花在我们之间被点燃。\n\n我的肉棒在[smol.GetTitledFirstName]的肛门口上跳动，迫切地想要进入。而也她咬着红润的嘴唇，满脸期待，但是这并不是我的目的。\n\n我用唾液当作润滑剂，开始将我的女孩肉棒插入[smol.GetTitledFirstName]那可爱的睾丸肉穴中。这实在太#EMP 堕落了！#! 但又如此#EMP 正确！#!\n\n[smol.GetTitledFirstName]似乎应许了我。当我用肉棒搅动着那两颗珍珠时，她也开始疯狂撸动揉搓她的肉棒。当我的高潮感逐渐升高，我的手指深入她滚烫的大腿时，她注意到了这一点[smol.GetTitledFirstName]张开了嘴，示意我瞄准那里面。\n\n#EMP FUCK#! that is hot!\n\n我像一匹种马一样把精液射满了[smol.GetTitledFirstName]的全身。我沉重滂沱的睾丸在输送浓稠的奶油的同时，也在[smol.GetTitledFirstName]的穴口上泵动。\n\n\n我想努力让她喝到了一些我的奶油，但大部分都喷到了乳房上。随后她低头舔掉了乳头上覆盖的一层精液，然后对我露出了甜美的笑容。"
+ futa_events.0279.desc: "“你说什么？”[smol.GetTitledFirstName]懵懂的看着我，不明白我在说什么。#EMP 她是不是想欲情故纵用装傻来勾引我？她肯定在努力表现自己可爱纯真的一面，而这招对我来说很管用！#!\n\n当我突然将嘴唇贴上她的嘴唇并开始品尝她的味道时，她不由自主发出了娇喘。无论如何，光是用言语已经无法表达我此刻的#EMP 冲动#!既然同为扶她，我相信她一定是能理解的。\n\n我把[smol.GetTitledFirstName]扑倒在地，把她悬在空中的双腿扛到我的肩膀上。我们目光如炬，欲望的火花在我们之间被点燃。\n\n我的肉棒在[smol.GetTitledFirstName]的肛门口上跳动，迫切地想要进入。而也她咬着红润的嘴唇，满脸期待，但是这并不是我的目的。\n\n我用唾液当作润滑剂，开始将我的女孩肉棒插入[smol.GetTitledFirstName]那可爱的睾丸肉穴中。这实在太#EMP 堕落了！#!但又如此#EMP 正确！#!\n\n[smol.GetTitledFirstName]似乎应许了我。当我用肉棒搅动着那两颗珍珠时，她也开始疯狂撸动揉搓她的肉棒。当我的高潮感逐渐升高，我的手指深入她滚烫的大腿时，她注意到了这一点[smol.GetTitledFirstName]张开了嘴，示意我瞄准那里面。\n\n#EMP FUCK#!that is hot!\n\n我像一匹种马一样把精液射满了[smol.GetTitledFirstName]的全身。我沉重滂沱的睾丸在输送浓稠的奶油的同时，也在[smol.GetTitledFirstName]的穴口上泵动。\n\n\n我想努力让她喝到了一些我的奶油，但大部分都喷到了乳房上。随后她低头舔掉了乳头上覆盖的一层精液，然后对我露出了甜美的笑容。"
  futa_accept.0279.a: "幸好这里能洗澡"
  
  #
 
  futa_events.0280.title: "孱精弱蛋" #OG SEX POV
- futa_events.0280.desc: "当我以为我们的缘分就此结束时，[other.GetFirstName]俯下身给了我一个轻轻的吻，我呆呆的看着她不知道该说些什么，而她的目光则瞟了一眼我的包裹然后又微笑着回到我的眼睛上。\n\n等回过神来我已经背靠地板躺在地上，双腿也搭在[other.GetFirstName]的肩膀上。她看我的眼神里也透着饥渴，而我则感觉到她翘起的龟头正顶着我的屁眼。\n\n#EMP Mmmmm#!之前的我对此并不饥渴，但此刻的我 #EMP 特别想要它！#! [other.GetFirstName]对我好像还有些特别的想法。她粗大的肉棒拍打在我的阴囊上，随后开始在我的睾丸间尽情抽插。我感觉我的体内正被搅得翻江倒海，而我的肉棒却兴奋得麻痒流汁。[other.GetFirstName]在我的阴囊上发泄着欲望，我看见她的乳房随着她地动山摇的臀部而上下跳动，我也忍不住开始用手抚慰自己。\n\n当[other.GetFirstName]开始握紧她的手掌时，我自然的张开嘴希望她能给到我想要的东西。很快，我们一起达到了高潮，精液像下雨一样喷溅到整个房间...... 最重要的是，大部分都淋到了我的身上。\n\n她那浓稠的奶油覆盖到我的味蕾上，让我忘记了之前所有的尴尬。"
+ futa_events.0280.desc: "当我以为我们的缘分就此结束时，[other.GetFirstName]俯下身给了我一个轻轻的吻，我呆呆的看着她不知道该说些什么，而她的目光则瞟了一眼我的包裹然后又微笑着回到我的眼睛上。\n\n等回过神来我已经背靠地板躺在地上，双腿也搭在[other.GetFirstName]的肩膀上。她看我的眼神里也透着饥渴，而我则感觉到她翘起的龟头正顶着我的屁眼。\n\n#EMP Mmmmm#!之前的我对此并不饥渴，但此刻的我#EMP 特别想要它！#![other.GetFirstName]对我好像还有些特别的想法。她粗大的肉棒拍打在我的阴囊上，随后开始在我的睾丸间尽情抽插。我感觉我的体内正被搅得翻江倒海，而我的肉棒却兴奋得麻痒流汁。[other.GetFirstName]在我的阴囊上发泄着欲望，我看见她的乳房随着她地动山摇的臀部而上下跳动，我也忍不住开始用手抚慰自己。\n\n当[other.GetFirstName]开始握紧她的手掌时，我自然的张开嘴希望她能给到我想要的东西。很快，我们一起达到了高潮，精液像下雨一样喷溅到整个房间...... 最重要的是，大部分都淋到了我的身上。\n\n她那浓稠的奶油覆盖到我的味蕾上，让我忘记了之前所有的尴尬。"
  futa_accept.0280.a: "我可以洗个澡"
 
  #
 
-	futa_events.0281.title: "不眠之夜"
-	futa_events.0281.desc: "我无法入睡。不是缺乏努力，也不是因为休息不足。罪魁祸首就躺在我身边，让我注定要度过一个无眠之夜，而她却安然入睡。她真是幸运。嗯，这也不全是她的错，至少是故意的。\n\n我转头看向 [futa.GetFirstName]。她侧躺着，正面朝着我。她那美丽的面庞仿佛置身于极乐世界，宁静而美好……\n\n#S 啪嗒#!\n\n正当我沉浸在思绪中时，突然被打断——有什么#EMP 黏糊糊#!的东西打在了我的大腿上，毫无疑问是你那可爱的同伴留下的。我的嗅觉也随之复苏，立刻被她身上以及整夜释放出的大量‘精液’气味袭击。#EMP 真是浓烈……#!\n\n在正常情况下，这样的环境下根本不可能入睡，但 [futa.GetFirstName] 混合着她自身体味所释放出的所有气味竟然让你变得欲火焚身……\n\n#S 啪嗒#!"
+ futa_events.0281.title: "不眠之夜"
+ futa_events.0281.desc: "我无法入睡。不是缺乏努力，也不是因为休息不足。罪魁祸首就躺在我身边，让我注定要度过一个无眠之夜，而她却安然入睡。她真是幸运。嗯，这也不全是她的错，至少是故意的。\n\n我转头看向[futa.GetFirstName]。她侧躺着，正面朝着我。她那美丽的面庞仿佛置身于极乐世界，宁静而美好……\n\n#S 啪嗒#!\n\n正当我沉浸在思绪中时，突然被打断——有什么#EMP 黏糊糊#!的东西打在了我的大腿上，毫无疑问是你那可爱的同伴留下的。我的嗅觉也随之复苏，立刻被她身上以及整夜释放出的大量‘精液’气味袭击。#EMP 真是浓烈……#!\n\n在正常情况下，这样的环境下根本不可能入睡，但[futa.GetFirstName]混合着她自身体味所释放出的所有气味竟然让你变得欲火焚身……\n\n#S 啪嗒#!"
 
-	futa_accept.0281.a: "该惩罚 [futa.GetFirstName] 了。"
-	futa_accept.0281.b: "我……必须……忍受……"
-	futa_accept.0281.b.flavor: "整个夜晚，你被不时喷涌而出的少女精液惊醒。"
+ futa_accept.0281.a: "该惩罚[futa.GetFirstName]了。"
+ futa_accept.0281.b: "我……必须……忍受……"
+ futa_accept.0281.b.flavor: "整个夜晚，你被不时喷涌而出的少女精液惊醒。"
  
  #
  
  futa_events.0282.title: "$futa_events.0281.title$" #Part 2
- futa_events.0282.desc: "她竟敢不考虑你的状态，让你如此狼狈！你白天都难以正常行动！既然如此，就让她付出代价，让她错过这次机会。毕竟，这都是她的错。今夜格外燥热，你们都选择赤身而眠，这也为你接下来的行动提供了便利。\n\n你微微挪动身体，用双腿夹住她坚挺的阳物，然后#EMP 用力挤压#!。[futa.GetFirstNamePossessive] 的口中逸出一声细微的嘤咛。短暂的停顿后，她显然仍在沉睡，于是你继续动作。你缓慢而有节奏地扭动腰肢，用自己的私处摩擦她的肉棒。多亏了她分泌的丰沛爱液，根本无需润滑，当然，即使没有，你此刻也已湿润不堪。\n\n#S *啪嗒* *啪嗒* *啪嗒*#!\n\n每一次抽送，你都能清晰地感受到一股脉动从她的阳具传来，伴随着更多爱液的涌出和一声娇吟。你的心跳也随之加速。“#EMP 哦，[lover.GetFirstName]，你感觉真是太棒了……#! 这让你瞬间停顿。她醒了吗？几秒后，她依旧沉睡不醒。#EMP 她正在梦里想着你呢！#! 刹那间，你被情欲蒙蔽的意识清醒了一丝，但混合着你们彼此体液的香气以及爱人那在你穴口下方搏动的器官，很快又让你的大脑一片混沌。\n\n这还不够！即使这本是给她的惩罚，你却决定在她梦中奖励她对你的忠诚。你再次调整姿势，拿起她湿漉漉的肉棒，缓缓地将其完全没入你饥渴的私处。\n\n“#EMP 啊……#!”你沉醉在这片刻的余韵中，她的滚烫肉棒在你身体的每一寸都清晰可感。她有时会如此#EMP 狂野#!和#EMP 粗暴#!，虽然你也很享受，但偶尔能占据主导，按照自己的节奏来一次也很不错。\n\n你逐渐加快速度，扭动腰肢迎合她的动作，在这个过程中温柔地被贯穿。嗯，在这种情况下，更确切地说应该是#EMP 你#!在狠狠地贯穿#EMP 她#!。每一次撞击都让你全身一阵酥麻，你的内壁紧紧地收缩，包裹住爱人的阳具。\n\n“#EMP [lover.GetFirstName]，我快要到了……我要……#!”你尽可能地靠近她，轻声说道：“#EMP 射出来！为了你的小母狗射出来！”#!\n\n话音刚落，一股滚烫的精液猛烈喷发，冲击着你的内壁。一波又一波，浓稠的液体不断从她的囊袋中涌出，让你的小腹随着每一次冲击而微微隆起。即使她整晚都在释放，体内竟然还蕴藏着如此丰厚的爱液来犒劳你！你好奇她早上醒来后是否会察觉到今晚发生的一切。以她的性子，恐怕会准备好双倍的量，急切地等待着注入你饥渴的子宫。\n\n随着她的射精结束，你感觉到她体内的器官慢慢软了下来。刚才的剧烈运动让你感到疲惫，困意渐渐袭来，在你爱人的精液不断从你的阴道中涌出时，你缓缓坠入梦乡。你的手轻轻抚摸着自己的腹部，最后一个念头是，今晚的“努力”或许能给她带来一个小小的惊喜。" 
+ futa_events.0282.desc: "她竟敢不考虑你的状态，让你如此狼狈！你白天都难以正常行动！既然如此，就让她付出代价，让她错过这次机会。毕竟，这都是她的错。今夜格外燥热，你们都选择赤身而眠，这也为你接下来的行动提供了便利。\n\n你微微挪动身体，用双腿夹住她坚挺的阳物，然后#EMP 用力挤压#!。[futa.GetFirstNamePossessive]的口中逸出一声细微的嘤咛。短暂的停顿后，她显然仍在沉睡，于是你继续动作。你缓慢而有节奏地扭动腰肢，用自己的私处摩擦她的肉棒。多亏了她分泌的丰沛爱液，根本无需润滑，当然，即使没有，你此刻也已湿润不堪。\n\n#S *啪嗒* *啪嗒* *啪嗒*#!\n\n每一次抽送，你都能清晰地感受到一股脉动从她的阳具传来，伴随着更多爱液的涌出和一声娇吟。你的心跳也随之加速。“#EMP 哦，[lover.GetFirstName]，你感觉真是太棒了……#!这让你瞬间停顿。她醒了吗？几秒后，她依旧沉睡不醒。#EMP 她正在梦里想着你呢！#!刹那间，你被情欲蒙蔽的意识清醒了一丝，但混合着你们彼此体液的香气以及爱人那在你穴口下方搏动的器官，很快又让你的大脑一片混沌。\n\n这还不够！即使这本是给她的惩罚，你却决定在她梦中奖励她对你的忠诚。你再次调整姿势，拿起她湿漉漉的肉棒，缓缓地将其完全没入你饥渴的私处。\n\n“#EMP 啊……#!”你沉醉在这片刻的余韵中，她的滚烫肉棒在你身体的每一寸都清晰可感。她有时会如此#EMP 狂野#!和#EMP 粗暴#!，虽然你也很享受，但偶尔能占据主导，按照自己的节奏来一次也很不错。\n\n你逐渐加快速度，扭动腰肢迎合她的动作，在这个过程中温柔地被贯穿。嗯，在这种情况下，更确切地说应该是#EMP 你#!在狠狠地贯穿#EMP 她#!。每一次撞击都让你全身一阵酥麻，你的内壁紧紧地收缩，包裹住爱人的阳具。\n\n“#EMP[lover.GetFirstName]，我快要到了……我要……#!”你尽可能地靠近她，轻声说道：“#EMP 射出来！为了你的小母狗射出来！”#!\n\n话音刚落，一股滚烫的精液猛烈喷发，冲击着你的内壁。一波又一波，浓稠的液体不断从她的囊袋中涌出，让你的小腹随着每一次冲击而微微隆起。即使她整晚都在释放，体内竟然还蕴藏着如此丰厚的爱液来犒劳你！你好奇她早上醒来后是否会察觉到今晚发生的一切。以她的性子，恐怕会准备好双倍的量，急切地等待着注入你饥渴的子宫。\n\n随着她的射精结束，你感觉到她体内的器官慢慢软了下来。刚才的剧烈运动让你感到疲惫，困意渐渐袭来，在你爱人的精液不断从你的阴道中涌出时，你缓缓坠入梦乡。你的手轻轻抚摸着自己的腹部，最后一个念头是，今晚的“努力”或许能给她带来一个小小的惊喜。" 
  
-	futa_accept.0282.a:0 "#EMP zzz#!"
+ futa_accept.0282.a:0 "#EMP zzz#!"
  
  #
 
  futa_events.0283.title: "$futa_events.0281.title$" # Aftermath
- futa_events.0283.desc: "你听到鸟儿在鸣叫，看来大自然也苏醒了。\n你打了个大大的哈欠，伸了个懒腰。\n当你睁开眼睛时，你看到 [futa.GetFirstNamePossessive] 的眼睛正回望着你，她整个人的脸上都洋溢着灿烂的笑容。\n你深深地凝视着她美丽的眼睛，也对她笑了笑。\n\n“早上好，亲爱的。\n嗯，我注意到床上的情况了。\n对不起，我吵醒你了吗？\n你睡得好吗？\n或者说，你睡着了吗？”\n\n她对你的恶作剧毫不知情，你回答说她不用担心，你睡得像个婴儿一样香甜。\n\n“哦，听到你这么说我就放心了。\n我刚才还担心了一会儿呢。“\n哎呀，她真可爱。\n几乎让你忘记了昨天经历的一切。\n好吧，你已经报复过了。\n一切都好。\n你们沉默地依偎在一起。\n过了一会儿，你感觉到有什么 #EMP 硬硬的#! 和 #EMP 热热的#! 东西抵住了你的胯部。\n[futa.GetFirstName] 对你露出了狡黠的笑容。\n\n“你知道吗，我做了一个最美好的梦。\n我想让它变成现实。”\n哦，你用沙哑的声音问她梦到了什么。\n回想起来，你能想象到是什么。\n“我正在狠狠地撞击你那紧致饥渴的阴道，仿佛没有明天一样，用我的精液滋润你那干涸的子宫。\n让你尖叫和呻吟着喊我的名字，让所有人都听到。\n你觉得怎么样？”\n\nMmmmm. 现在这 #EMP 听起来#! 确实很诱人……"
-	futa_accept.0283.a: “让我看看你的梦！”
-	futa_accept.0283.b: “不，谢谢了。”
-	futa_accept.0283.b.flavor: “毕竟她应该受到惩罚。”
+ futa_events.0283.desc: "你听到鸟儿在鸣叫，看来大自然也苏醒了。\n你打了个大大的哈欠，伸了个懒腰。\n当你睁开眼睛时，你看到[futa.GetFirstNamePossessive]的眼睛正回望着你，她整个人的脸上都洋溢着灿烂的笑容。\n你深深地凝视着她美丽的眼睛，也对她笑了笑。\n\n“早上好，亲爱的。\n嗯，我注意到床上的情况了。\n对不起，我吵醒你了吗？\n你睡得好吗？\n或者说，你睡着了吗？”\n\n她对你的恶作剧毫不知情，你回答说她不用担心，你睡得像个婴儿一样香甜。\n\n“哦，听到你这么说我就放心了。\n我刚才还担心了一会儿呢。“\n哎呀，她真可爱。\n几乎让你忘记了昨天经历的一切。\n好吧，你已经报复过了。\n一切都好。\n你们沉默地依偎在一起。\n过了一会儿，你感觉到有什么#EMP 硬硬的#!和#EMP 热热的#!东西抵住了你的胯部。\n[futa.GetFirstName]对你露出了狡黠的笑容。\n\n“你知道吗，我做了一个最美好的梦。\n我想让它变成现实。”\n哦，你用沙哑的声音问她梦到了什么。\n回想起来，你能想象到是什么。\n“我正在狠狠地撞击你那紧致饥渴的阴道，仿佛没有明天一样，用我的精液滋润你那干涸的子宫。\n让你尖叫和呻吟着喊我的名字，让所有人都听到。\n你觉得怎么样？”\n\nMmmmm. 现在这#EMP 听起来#!确实很诱人……"
+ futa_accept.0283.a: “让我看看你的梦！”
+ futa_accept.0283.b: “不，谢谢了。”
+ futa_accept.0283.b.flavor: “毕竟她应该受到惩罚。”
 
  #
 
  futa_events.0285.title: "所爱之臀" # Futa X Wife
-	futa_events.0285.desc: "[lover.GetFirstName] 和我回到我们的私人房间。在这个房间里，唯一重要的是我自己、她以及我们之间永恒的激情。我们拥抱时，她熟悉的双臂紧紧搂住我的脖子。我们习惯性地开始同步地摇摆臀部。\n\n我的嘴唇在她皮肤上游走，温柔地向下探寻她的颈后。一声舒适的咕噜声从 [lover.GetFirstName] 的喉咙里发出，她依偎着我的头。\n\n“我敢打赌你#EMP 一整天#!都在期待这一刻吧。”\n\n我的脸颊因强烈的激情而涨红。我的妻子太了解我了。我感觉到她温柔地抚摸着我正在变硬的肉棒。一声轻微的呻吟从我口中溜出，引得 [lover.GetFirstName] 轻笑。\n\n“让我来帮你，亲爱的。”\n\n她像在舞池上一样围绕我的手旋转，巧妙地在旋转过程中脱掉了衣服，直到她停下，赤裸的臀部对着我，并将其分开。\n\n“换个地方，把那个 #S 子宫破坏者#! 放在这里吧。”\n\n我瞬间扑向她。我跳动的肉棒夹在她双颊之间，[lover.GetFirstName] 紧紧夹住，并开始用它们来挤压我的肉棒。\n\n眼前的景象令人屏息，[lover.GetFirstName] 也知道这一点，她一边笑着，一边看着我除了流口水什么也做不了。\n\n“我的 #EMP 天哪#!！你这样看着我的时候真是太迷人了。”[lover.GetFirstName] 将爱液涂满我的肉棒，同时用自己的身体摩擦我的肉棒。\n\n#EMP 呃！我再也忍不住了……必须……干#!\n\n“哦！”\n\n我的双手像老虎一样有力地插入 [lover.GetFirstName] 的臀部。我的嘴不受控制地张开，紧紧咬住我妻子柔嫩脖子的根部。我深深吸了一口气，感受着她独特的香味，然后开始在她臀部的缝隙里猛烈地抽插。\n\n“哦 哦 哦哦哦 啊 呃 哦 是的！是的，哦哦哦哦哦哦哦哦哦哦哦哦！用你那该死的鸡巴占有我！用你的气味浸透我！让全世界都知道是谁毁了我的屁股！！！哦哦哦哦哦哦哦哦哦哦哦哦，#EMP 干#!！让全世界都知道是谁毁了我的屁股！！！”\n\n#EMP 太性感了，我的妻子真是完美！#!\n\n[lover.GetFirstName] 像一片树叶般颤抖，努力保持站立。大量的混合液体倾泻在我们脚下的地板上，我也快要达到高潮了。每当我的肿胀的阴囊拍打在 [lover.GetFirstName] 湿润的阴道上时，我的精脉都会鼓胀起来。\n\n“嗯……天哪！[futa.GetFirstName]！别浪费了！射进我的屁股里！”\n\n她的愿望就是我的命令。她的话音刚落，我就调整角度，将我的肉棒对准她的褶皱，深深地插入。\n\n“哦哦哦哦哦哦哦！”\n\n我的肉棒还没到底，[lover.GetFirstName] 就已经将爱液喷洒在地板上，她直肠的每一条褶皱都在拉扯着我的肉棒。我发出了一声矛盾的少女般的呻吟，一边爱抚着 [lover.GetFirstName] 的乳房，一边和她一起达到了高潮。\n\n我射精的巨大力量冲击着我妻子的身体，我的精液灌满了她的腹腔。一波又一波的液体射入，直到她的肚子开始隆起。\n\n我们瘫倒在地，[lover.GetFirstName] 压在我身上，我将她抱在怀里。一股#EMP 浓烈的#!气味迅速弥漫了整个房间。"	
-	futa_accept.0285.a: "*给她一个晚安吻*"
+ futa_events.0285.desc: "[lover.GetFirstName]和我回到我们的私人房间。在这个房间里，唯一重要的是我自己、她以及我们之间永恒的激情。我们拥抱时，她熟悉的双臂紧紧搂住我的脖子。我们习惯性地开始同步地摇摆臀部。\n\n我的嘴唇在她皮肤上游走，温柔地向下探寻她的颈后。一声舒适的咕噜声从[lover.GetFirstName]的喉咙里发出，她依偎着我的头。\n\n“我敢打赌你#EMP 一整天#!都在期待这一刻吧。”\n\n我的脸颊因强烈的激情而涨红。我的妻子太了解我了。我感觉到她温柔地抚摸着我正在变硬的肉棒。一声轻微的呻吟从我口中溜出，引得[lover.GetFirstName]轻笑。\n\n“让我来帮你，亲爱的。”\n\n她像在舞池上一样围绕我的手旋转，巧妙地在旋转过程中脱掉了衣服，直到她停下，赤裸的臀部对着我，并将其分开。\n\n“换个地方，把那个 #S 子宫破坏者#!放在这里吧。”\n\n我瞬间扑向她。我跳动的肉棒夹在她双颊之间，[lover.GetFirstName]紧紧夹住，并开始用它们来挤压我的肉棒。\n\n眼前的景象令人屏息，[lover.GetFirstName]也知道这一点，她一边笑着，一边看着我除了流口水什么也做不了。\n\n“我的#EMP 天哪#!！你这样看着我的时候真是太迷人了。”[lover.GetFirstName]将爱液涂满我的肉棒，同时用自己的身体摩擦我的肉棒。\n\n#EMP 呃！我再也忍不住了……必须……干#!\n\n“哦！”\n\n我的双手像老虎一样有力地插入[lover.GetFirstName]的臀部。我的嘴不受控制地张开，紧紧咬住我妻子柔嫩脖子的根部。我深深吸了一口气，感受着她独特的香味，然后开始在她臀部的缝隙里猛烈地抽插。\n\n“哦 哦 哦哦哦 啊 呃 哦 是的！是的，哦哦哦哦哦哦哦哦哦哦哦哦！用你那该死的鸡巴占有我！用你的气味浸透我！让全世界都知道是谁毁了我的屁股！！！哦哦哦哦哦哦哦哦哦哦哦哦，#EMP 干#!！让全世界都知道是谁毁了我的屁股！！！”\n\n#EMP 太性感了，我的妻子真是完美！#!\n\n[lover.GetFirstName]像一片树叶般颤抖，努力保持站立。大量的混合液体倾泻在我们脚下的地板上，我也快要达到高潮了。每当我的肿胀的阴囊拍打在[lover.GetFirstName]湿润的阴道上时，我的精脉都会鼓胀起来。\n\n“嗯……天哪！[futa.GetFirstName]！别浪费了！射进我的屁股里！”\n\n她的愿望就是我的命令。她的话音刚落，我就调整角度，将我的肉棒对准她的褶皱，深深地插入。\n\n“哦哦哦哦哦哦哦！”\n\n我的肉棒还没到底，[lover.GetFirstName]就已经将爱液喷洒在地板上，她直肠的每一条褶皱都在拉扯着我的肉棒。我发出了一声矛盾的少女般的呻吟，一边爱抚着[lover.GetFirstName]的乳房，一边和她一起达到了高潮。\n\n我射精的巨大力量冲击着我妻子的身体，我的精液灌满了她的腹腔。一波又一波的液体射入，直到她的肚子开始隆起。\n\n我们瘫倒在地，[lover.GetFirstName]压在我身上，我将她抱在怀里。一股#EMP 浓烈的#!气味迅速弥漫了整个房间。" 
+ futa_accept.0285.a: "*给她一个晚安吻*"
  
  #
 
  futa_events.0286.title: "所爱之臀" # Futa X Wife - Wife POV
-	futa_events.0286.desc: "我和我那了不起的妻子度过了漫长的一天。觉得我们需要一些单独相处的时光，我便带她来到我们隐秘的房间。今天发生的一些事情让我对 [futa.GetFirstName] 的爱意比平时更加强烈，几乎要溢出来了。当我把她的甜美双唇拉近，想要一个热吻时，她的嘴角微微上扬。\n\n“嗯……我不知道没有你可爱的吻，我该怎么办，我的爱人……”[futa.GetFirstName] 的眼神热切而迷离。她还不知道，但#EMP 那个眼神#! 让我的阴道如此#EMP 湿润#!。\n\n我想让她感受到我的感受。我们再次接吻，但这次分开时，我转过身，扯掉了身上束缚的衣物。\n\n“！！！” [futa.GetFirstName] 倒抽一口凉气，我将我的后背对着她，分开臀部，像一个蛇语者一样诱惑她的工具进入我的双腿之间。\n\n #EMP 唔！#!\n\n我几乎因为妻子突然抓住我屁股的冲击力而摔倒。她的呼吸因情欲而变得急促。我恳求她拿出她那性感的肉棒，让我们好好玩乐一番。\n\n那块滚烫的肉块在我的阴道上跳动，一股期待的寒意沿着我的脊椎向上蔓延。我紧贴着那根肉棒，开始抬起臀部，温柔而充满爱意地挤压 [futa.GetFirstName] 的肉棒。\n\n“我再也受不了了，[lover.GetFirstName]！”我的妻子突然紧紧夹住我的臀部，开始在我双颊之间摩擦。她听起来像一个因情欲而疯狂的#EMP 野兽#!，这足以让我兴奋起来。当她那令人艳羡的睾丸撞击我的阴蒂时，我达到了高潮。我的骨盆不受控制地颤抖着，被 [futa.GetFirstName] 的性力量从各个方面蹂躏着。\n\n“呼！[lover.GetFirstName] 你真是太棒了！我要用我的精液覆盖你！你是我的！我的！啊啊啊啊 #EMP 干#!。我们将永远在一起，我的甜心——呃——性感的妻子！为你的爱人摇动你那#EMP 适合生育#!的臀部吧！！！”\n\n#EMP 嗯嗯嗯嗯嗯！干，我要射了！！！！！#!"
-	futa_accept.0286.a: "[futa.GetFirstName] 可以对我做他任何想做的事。"
+ futa_events.0286.desc: "我和我那了不起的妻子度过了漫长的一天。觉得我们需要一些单独相处的时光，我便带她来到我们隐秘的房间。今天发生的一些事情让我对[futa.GetFirstName]的爱意比平时更加强烈，几乎要溢出来了。当我把她的甜美双唇拉近，想要一个热吻时，她的嘴角微微上扬。\n\n“嗯……我不知道没有你可爱的吻，我该怎么办，我的爱人……”[futa.GetFirstName]的眼神热切而迷离。她还不知道，但#EMP 那个眼神#!让我的阴道如此#EMP 湿润#!。\n\n我想让她感受到我的感受。我们再次接吻，但这次分开时，我转过身，扯掉了身上束缚的衣物。\n\n“！！！”[futa.GetFirstName]倒抽一口凉气，我将我的后背对着她，分开臀部，像一个蛇语者一样诱惑她的工具进入我的双腿之间。\n\n#EMP 唔！#!\n\n我几乎因为妻子突然抓住我屁股的冲击力而摔倒。她的呼吸因情欲而变得急促。我恳求她拿出她那性感的肉棒，让我们好好玩乐一番。\n\n那块滚烫的肉块在我的阴道上跳动，一股期待的寒意沿着我的脊椎向上蔓延。我紧贴着那根肉棒，开始抬起臀部，温柔而充满爱意地挤压[futa.GetFirstName]的肉棒。\n\n“我再也受不了了，[lover.GetFirstName]！”我的妻子突然紧紧夹住我的臀部，开始在我双颊之间摩擦。她听起来像一个因情欲而疯狂的#EMP 野兽#!，这足以让我兴奋起来。当她那令人艳羡的睾丸撞击我的阴蒂时，我达到了高潮。我的骨盆不受控制地颤抖着，被[futa.GetFirstName]的性力量从各个方面蹂躏着。\n\n“呼！[lover.GetFirstName]你真是太棒了！我要用我的精液覆盖你！你是我的！我的！啊啊啊啊#EMP 干#!。我们将永远在一起，我的甜心——呃——性感的妻子！为你的爱人摇动你那#EMP 适合生育#!的臀部吧！！！”\n\n#EMP 嗯嗯嗯嗯嗯！干，我要射了！！！！！#!"
+ futa_accept.0286.a: "[futa.GetFirstName]可以对我做他任何想做的事。"
 
  #
 
  futa_events.0287.title: "绮色佳盟" # Futa X Wife
-	futa_events.0287.desc: "尽管躺在我们的床上，我却一点也不想很快就和 [lover.GetFirstName] 一起入睡。我仰望着她赤裸着美丽的身体站在我的上方。我的肉棒像一根柱子一样坚硬，正不断地分泌着先走汁。\n\n与此同时，我的妻子温柔地按摩着她渴望的阴道，低头看着我。我咬着嘴唇试图保持静止，但很明显她在故意让我难受。\n\n“哈哈哈，看到你的妻子仍然让你兴奋真是太好了。你只有在我知道你有多#EMP 深爱#!我的时候才能看到我这样。”[lover.GetFirstName] 将一只手向上滑到她的乳房，捏了捏她的乳头。\n\n“#EMP 嗯！#! 我希望你已经准备好迎接我了，亲爱的……”\n\n#S *啪* *啪* *啪* *啪* *啪*#!\n\n我几乎喘不过气来，一次又一次地抽送，蹂躏着我妻子美妙的阴道。我每一次臀部的撞击都让她的身体荡漾起阵阵涟漪。[lover.GetFirstName] 进入了一种狂喜的状态，她全身心地投入到情欲之中，像着了魔一样上下摆动着臀部，撞击着我的肉棒。\n\n“给我，[futa.GetFirstName]！给我！”\n\n#S *啪* *啪* *啪* *啪* *啪*#!\n\n[lover.GetFirstName] 的双臂放在脑后，漫无目的地骑着我的肉棒。\n\n#EMP 我快到极限了！！！#!"
-	futa_events.0287.desc_fwife: "尽管躺在我们的床上，我却一点也不想很快就和 [lover.GetFirstName] 一起入睡。我仰望着她赤裸着美丽的身体站在我的上方。我的肉棒像一根柱子一样坚硬，正不断地分泌着先走汁。\n\n与此同时，我的妻子温柔地按摩着她悬在空中的、正在兴奋地跳动的睾丸。她的肉棒尖端渗出了她情欲的液体，她低头看着我渴望的身体。我咬着嘴唇试图保持静止，但很明显她在故意让我难受。\n\n“哈哈哈，看到你的妻子仍然让你兴奋真是太好了。你只有在我知道你有多#EMP 深爱#!我的时候才能看到我这样。”[lover.GetFirstName] 将一只手向上滑到她的乳房，捏了捏她的乳头。\n\n“#EMP 嗯！#! 我希望你已经准备好迎接我了，亲爱的……”\n\n#S *啪* *啪* *啪* *啪* *啪*#!\n\n我几乎喘不过气来，一次又一次地抽送，蹂躏着我妻子美妙的阴道。我每一次臀部的撞击都让她的身体荡漾起阵阵涟漪。[lover.GetFirstName] 进入了一种狂喜的状态，她的肉棒和乳房同步摇摆，她疯狂地操着自己，像着了魔一样上下摆动着臀部，撞击着我的肉棒。\n\n“给我，[futa.GetFirstName]！给我！”\n\n#S *啪* *啪* *啪* *啪* *啪*#!\n\n[lover.GetFirstName] 的双臂放在脑后，漫无目的地骑着我的肉棒。\n\n#EMP 我快到极限了！！！#!"
-	futa_accept.0287.a: "啊啊啊啊！"
+ futa_events.0287.desc: "尽管躺在我们的床上，我却一点也不想很快就和[lover.GetFirstName]一起入睡。我仰望着她赤裸着美丽的身体站在我的上方。我的肉棒像一根柱子一样坚硬，正不断地分泌着先走汁。\n\n与此同时，我的妻子温柔地按摩着她渴望的阴道，低头看着我。我咬着嘴唇试图保持静止，但很明显她在故意让我难受。\n\n“哈哈哈，看到你的妻子仍然让你兴奋真是太好了。你只有在我知道你有多#EMP 深爱#!我的时候才能看到我这样。”[lover.GetFirstName]将一只手向上滑到她的乳房，捏了捏她的乳头。\n\n“#EMP 嗯！#!我希望你已经准备好迎接我了，亲爱的……”\n\n#S *啪* *啪* *啪* *啪* *啪*#!\n\n我几乎喘不过气来，一次又一次地抽送，蹂躏着我妻子美妙的阴道。我每一次臀部的撞击都让她的身体荡漾起阵阵涟漪。[lover.GetFirstName]进入了一种狂喜的状态，她全身心地投入到情欲之中，像着了魔一样上下摆动着臀部，撞击着我的肉棒。\n\n“给我，[futa.GetFirstName]！给我！”\n\n#S *啪* *啪* *啪* *啪* *啪*#!\n\n[lover.GetFirstName]的双臂放在脑后，漫无目的地骑着我的肉棒。\n\n#EMP 我快到极限了！！！#!"
+ futa_events.0287.desc_fwife: "尽管躺在我们的床上，我却一点也不想很快就和[lover.GetFirstName]一起入睡。我仰望着她赤裸着美丽的身体站在我的上方。我的肉棒像一根柱子一样坚硬，正不断地分泌着先走汁。\n\n与此同时，我的妻子温柔地按摩着她悬在空中的、正在兴奋地跳动的睾丸。她的肉棒尖端渗出了她情欲的液体，她低头看着我渴望的身体。我咬着嘴唇试图保持静止，但很明显她在故意让我难受。\n\n“哈哈哈，看到你的妻子仍然让你兴奋真是太好了。你只有在我知道你有多#EMP 深爱#!我的时候才能看到我这样。”[lover.GetFirstName]将一只手向上滑到她的乳房，捏了捏她的乳头。\n\n“#EMP 嗯！#!我希望你已经准备好迎接我了，亲爱的……”\n\n#S *啪* *啪* *啪* *啪* *啪*#!\n\n我几乎喘不过气来，一次又一次地抽送，蹂躏着我妻子美妙的阴道。我每一次臀部的撞击都让她的身体荡漾起阵阵涟漪。[lover.GetFirstName]进入了一种狂喜的状态，她的肉棒和乳房同步摇摆，她疯狂地操着自己，像着了魔一样上下摆动着臀部，撞击着我的肉棒。\n\n“给我，[futa.GetFirstName]！给我！”\n\n#S *啪* *啪* *啪* *啪* *啪*#!\n\n[lover.GetFirstName]的双臂放在脑后，漫无目的地骑着我的肉棒。\n\n#EMP 我快到极限了！！！#!"
+ futa_accept.0287.a: "啊啊啊啊！"
 
  #
 
  futa_events.0288.title: "绮色佳盟" # Futa X Wife - Wife POV
-	futa_events.0288.desc: "我的妻子赤裸着，带着渴望，像我一样，在我们的婚床上等着我。她的身材简直是艺术家梦寐以求的湿梦。美丽，惊艳，#EMP 而且完全属于我。#! 她的肉棒像以往一样坚硬，完美。有时我觉得我陪伴妻子的时间不够多，远不及我所希望的那样。\n\n#EMP 最好弥补一下。#!\n\n“你根本不知道我有多爱你，亲爱的。”\n\n嗯哼……我想我知道，但让她展示出来更有趣！我在她面前抚摸自己，帮助湿润我的穴，但从 [futa.GetFirstName] 因我的展示而产生的惊人先走汁来看，这可能是不必要的。\n\n#EMP 该带女孩兜风了！#! #S *啪* *啪* *啪* *啪* *啪*#!\n\n#EMP 哦哦哦哦 是的，嗯嗯嗯嗯，它太深了！所有的地方都恰到好处！！！呃啊啊啊啊啊啊！#! \n\n#S *啪* *啪* *啪* *啪* *啪*#!\n\n我的妻子用她那根厉害的肉棒快要把我劈成两半了。我已经高潮了三次，但她丝毫没有减速的迹象。我的脸一定很难看，皱成一团，像猪一样嚎叫……\n\n#EMP 但我喜欢！#!"
-	futa_events.0288.desc_fwife: "我的妻子赤裸着，带着渴望，像我一样，在我们的婚床上等着我。她的身材简直是艺术家梦寐以求的湿梦。美丽，惊艳，#EMP 而且完全属于我。#! 她的肉棒像以往一样坚硬，完美。有时我觉得我陪伴妻子的时间不够多，远不及我所希望的那样。\n\n#EMP 最好弥补一下。#!\n\n“你根本不知道我有多爱你，亲爱的。”\n\n嗯哼……我想我知道，但让她展示出来更有趣！我跳动的阴囊在呼唤我，我温柔地抚摸着它，感觉到我的阴道正在变得湿滑。[futa.GetFirstName] 同样也从她敏感的龟头上流出了大量的液体。\n\n#EMP 该带女孩兜风了！#! #S *啪* *啪* *啪* *啪* *啪*#!\n\n#EMP 哦哦哦哦 是的，嗯嗯嗯嗯，它太深了！所有的地方都恰到好处！！！呃啊啊啊啊啊啊！#! \n\n#S *啪* *啪* *啪* *啪* *啪*#!\n\n我的妻子用她那根厉害的肉棒快要把我劈成两半了。我已经高潮了三次，但她丝毫没有减速的迹象。我的脸一定很难看，皱成一团，像猪一样嚎叫……\n\n#EMP 但我喜欢！#!"
-	futa_accept.0288.a: "填满我！"
+ futa_events.0288.desc: "我的妻子赤裸着，带着渴望，像我一样，在我们的婚床上等着我。她的身材简直是艺术家梦寐以求的湿梦。美丽，惊艳，#EMP 而且完全属于我。#!她的肉棒像以往一样坚硬，完美。有时我觉得我陪伴妻子的时间不够多，远不及我所希望的那样。\n\n#EMP 最好弥补一下。#!\n\n“你根本不知道我有多爱你，亲爱的。”\n\n嗯哼……我想我知道，但让她展示出来更有趣！我在她面前抚摸自己，帮助湿润我的穴，但从[futa.GetFirstName]因我的展示而产生的惊人先走汁来看，这可能是不必要的。\n\n#EMP 该带女孩兜风了！#!#S *啪* *啪* *啪* *啪* *啪*#!\n\n#EMP 哦哦哦哦 是的，嗯嗯嗯嗯，它太深了！所有的地方都恰到好处！！！呃啊啊啊啊啊啊！#!\n\n#S *啪* *啪* *啪* *啪* *啪*#!\n\n我的妻子用她那根厉害的肉棒快要把我劈成两半了。我已经高潮了三次，但她丝毫没有减速的迹象。我的脸一定很难看，皱成一团，像猪一样嚎叫……\n\n#EMP 但我喜欢！#!"
+ futa_events.0288.desc_fwife: "我的妻子赤裸着，带着渴望，像我一样，在我们的婚床上等着我。她的身材简直是艺术家梦寐以求的湿梦。美丽，惊艳，#EMP 而且完全属于我。#!她的肉棒像以往一样坚硬，完美。有时我觉得我陪伴妻子的时间不够多，远不及我所希望的那样。\n\n#EMP 最好弥补一下。#!\n\n“你根本不知道我有多爱你，亲爱的。”\n\n嗯哼……我想我知道，但让她展示出来更有趣！我跳动的阴囊在呼唤我，我温柔地抚摸着它，感觉到我的阴道正在变得湿滑。[futa.GetFirstName]同样也从她敏感的龟头上流出了大量的液体。\n\n#EMP 该带女孩兜风了！#!#S *啪* *啪* *啪* *啪* *啪*#!\n\n#EMP 哦哦哦哦 是的，嗯嗯嗯嗯，它太深了！所有的地方都恰到好处！！！呃啊啊啊啊啊啊！#!\n\n#S *啪* *啪* *啪* *啪* *啪*#!\n\n我的妻子用她那根厉害的肉棒快要把我劈成两半了。我已经高潮了三次，但她丝毫没有减速的迹象。我的脸一定很难看，皱成一团，像猪一样嚎叫……\n\n#EMP 但我喜欢！#!"
+ futa_accept.0288.a: "填满我！"
 
-	#
+ #
 
-	futa_events.0289.title: "心心相映"
-	futa_events.0289.desc: "我的妻子吃完她的三明治后加入了我的行列，我们躺在地上，仰望着开阔的天空。一阵微风吹过我们，附近的植物发出沙沙的响声。我的手微微抽动。[lover.GetFirstName] 握住了我的手。多么宁静……\n\n“能和你这样的女人共度时光，我觉得自己真是太幸福了。”\n\n我的脸颊微微泛红。事实上，能称呼 [lover.GetFirstName] 为我的妻子，我觉得自己才是幸运的那一个。像我们这样的人，很难找到一个值得信任和理解的伴侣，更别说是结婚了！\n\n无论将来会发生什么，我知道 [lover.GetFirstName] 在我身边，这让我感到更加坚强。\n\n“亲爱的，来场小比赛怎么样？谁吃掉的馅饼最多，谁就是赢家？”"
-	futa_accept.0289.a: "我接受挑战！"
+ futa_events.0289.title: "心心相映"
+ futa_events.0289.desc: "我的妻子吃完她的三明治后加入了我的行列，我们躺在地上，仰望着开阔的天空。一阵微风吹过我们，附近的植物发出沙沙的响声。我的手微微抽动。[lover.GetFirstName]握住了我的手。多么宁静……\n\n“能和你这样的女人共度时光，我觉得自己真是太幸福了。”\n\n我的脸颊微微泛红。事实上，能称呼[lover.GetFirstName]为我的妻子，我觉得自己才是幸运的那一个。像我们这样的人，很难找到一个值得信任和理解的伴侣，更别说是结婚了！\n\n无论将来会发生什么，我知道[lover.GetFirstName]在我身边，这让我感到更加坚强。\n\n“亲爱的，来场小比赛怎么样？谁吃掉的馅饼最多，谁就是赢家？”"
+ futa_accept.0289.a: "我接受挑战！"
 
-	#
+ #
 
-	futa_events.0290.title: "承欢膝下"
-	futa_events.0290.desc: "[lover.GetFirstName] 走近我，我早已等待多时，肉棒坚硬地跳动着，渴望着我珍贵的小妾的爱抚。她跪在我双腿之间，在我龟头上留下一个追逐式的吻，一股电流瞬间传遍我的大脑。\n\n“我希望我能让您满意，我的女士……”[lover.GetFirstName] 开始舔舐顶端。我看着她的脸沿着我的肉棒缓缓移动，将唾液涂满了整个表面。\n\n虽然这很舒服，但这并不是她来这里的目的。我示意她继续。 [lover.GetFirstName] 站起身，转过身，微微弯腰，翘起她那优美的臀部。我轻轻拍了她一下，然后靠回椅背，看着她开始动作。\n\n[lover.GetFirstName] 将她的花瓣紧贴我的肉棒，开始扭动，用她湿润的入口在我的龟头上跳着情色的舞蹈。#EMP 现在开始变得刺激了。#!\n\n“啊——” [lover.GetFirstName] 喘息着，她向下压，她的褶皱包裹住了我肉棒的头部。她停顿了一下，稳住身形，然后开始上下起伏。她的内壁温暖而热情，顺从着我的欲望，她为了我的快乐而操着自己。\n\n“你——啊！——你喜欢看你的大肉棒撑开我，是不是，我的……女士？”[lover.GetFirstName] 骑着我的肉棒，断断续续地说着。每次她向下坐时，我都能#EMP 感觉到#! 我的肉棒正在撑开她。我紧紧抓住椅子，忍受着这种感觉。\n\n“我敢打赌你希望每天都能重塑我的——嗯！我的荡妇之穴。你和你那该死的贱货——哦哦哦哦啊啊啊啊啊！”\n\n [lover.GetFirstName] 在我说着话的时候停了下来，我开始在她紧致的阴道里向上猛烈地抽插。我和她的高潮都像我们抽插的速度一样迅速地逼近。[lover.GetFirstName] 失去了控制，当她将整个身体的重量压下来，坐在我的肉棒上，瞬间让我完全没入她的体内时，我们的性爱戛然而止。她的大腿紧紧夹住我的睾丸，让我彻底爆发，大量的精液射入她的子宫，而她的双腿则在我腿上不受控制地颤抖着。"
-	futa_accept.0290.a: "填满我！"
+ futa_events.0290.title: "承欢膝下"
+ futa_events.0290.desc: "[lover.GetFirstName]走近我，我早已等待多时，肉棒坚硬地跳动着，渴望着我珍贵的小妾的爱抚。她跪在我双腿之间，在我龟头上留下一个追逐式的吻，一股电流瞬间传遍我的大脑。\n\n“我希望我能让您满意，我的女士……”[lover.GetFirstName]开始舔舐顶端。我看着她的脸沿着我的肉棒缓缓移动，将唾液涂满了整个表面。\n\n虽然这很舒服，但这并不是她来这里的目的。我示意她继续。[lover.GetFirstName]站起身，转过身，微微弯腰，翘起她那优美的臀部。我轻轻拍了她一下，然后靠回椅背，看着她开始动作。\n\n[lover.GetFirstName]将她的花瓣紧贴我的肉棒，开始扭动，用她湿润的入口在我的龟头上跳着情色的舞蹈。#EMP 现在开始变得刺激了。#!\n\n“啊——”[lover.GetFirstName]喘息着，她向下压，她的褶皱包裹住了我肉棒的头部。她停顿了一下，稳住身形，然后开始上下起伏。她的内壁温暖而热情，顺从着我的欲望，她为了我的快乐而操着自己。\n\n“你——啊！——你喜欢看你的大肉棒撑开我，是不是，我的……女士？”[lover.GetFirstName]骑着我的肉棒，断断续续地说着。每次她向下坐时，我都能#EMP 感觉到#!我的肉棒正在撑开她。我紧紧抓住椅子，忍受着这种感觉。\n\n“我敢打赌你希望每天都能重塑我的——嗯！我的荡妇之穴。你和你那该死的贱货——哦哦哦哦啊啊啊啊啊！”\n\n[lover.GetFirstName]在我说着话的时候停了下来，我开始在她紧致的阴道里向上猛烈地抽插。我和她的高潮都像我们抽插的速度一样迅速地逼近。[lover.GetFirstName]失去了控制，当她将整个身体的重量压下来，坐在我的肉棒上，瞬间让我完全没入她的体内时，我们的性爱戛然而止。她的大腿紧紧夹住我的睾丸，让我彻底爆发，大量的精液射入她的子宫，而她的双腿则在我腿上不受控制地颤抖着。"
+ futa_accept.0290.a: "填满我！"
 
-	#
+ #
 
-	futa_events.0291.title: "妾之命运"
-	futa_events.0291.desc: "我的身体渴望一些性刺激。既然我的爱妾已来到，唯一的问题是我将采取何种方法来获得它？"
-	futa_accept.0291.a: ""把你的屁股挪过来！""
-	futa_accept.0291.b: "#EMP 我现在很想来点地毯式口交。#!"
-	futa_accept.0291.c: "#EMP 我的子宫正渴望得到一些关注。#!"
+ futa_events.0291.title: "妾之命运"
+ futa_events.0291.desc: "我的身体渴望一些性刺激。既然我的爱妾已来到，唯一的问题是我将采取何种方法来获得它？"
+ futa_accept.0291.a: ""把你的屁股挪过来！""
+ futa_accept.0291.b: "#EMP 我现在很想来点地毯式口交。#!"
+ futa_accept.0291.c: "#EMP 我的子宫正渴望得到一些关注。#!"
  
  #
 
-	futa_events.0292.title: "妾之臀命" #Ass
-	futa_events.0292.desc: "[lover.GetFirstName] 下意识地揉了揉她的后方才回答道：“如果这是您的意愿”。我已准备就绪，迫不及待，她却笨手笨脚地脱掉了她的连衣裙。我见无需耽搁，便扑向她的臀部，用我的肉棒摩擦着她的后门。\n\n“等等！让我先准备一下！”\n\n苍白的恳求。仅仅是将我的肉棒插入她湿润的褶皱之间就提供了充足的润滑，显然 [lover.GetFirstName] 一直在期待着这一刻。\n\n我冲入她的肠道深处，而她则极力压抑着像一个用过的妓女一样呻吟的冲动。我沉重的睾丸剧烈地摆动着，随着我的每一次动作都撞击着她的肉体。[lover.GetFirstName] 倒吸一口凉气，她肛门的内壁迅速收缩，紧紧挤压着我的肉棒，迫使我放慢了速度。\n\n我的手开始留下痕迹，我不自觉地紧紧抓住 [lover.GetFirstName]，一次又一次地用力，将我的肉棒更深地插入。\n\n#EMP 来了！#!\n\n压力太大了，我的头脑一片空白，身体也弯了下来，将我所有的精液都深深地射入了我那放荡的妾的屁股里。\n\n“这……太多了！”"
-	futa_accept.0292.a: "我需要休息一下……"
+ futa_events.0292.title: "妾之臀命" #Ass
+ futa_events.0292.desc: "[lover.GetFirstName]下意识地揉了揉她的后方才回答道：“如果这是您的意愿”。我已准备就绪，迫不及待，她却笨手笨脚地脱掉了她的连衣裙。我见无需耽搁，便扑向她的臀部，用我的肉棒摩擦着她的后门。\n\n“等等！让我先准备一下！”\n\n苍白的恳求。仅仅是将我的肉棒插入她湿润的褶皱之间就提供了充足的润滑，显然[lover.GetFirstName]一直在期待着这一刻。\n\n我冲入她的肠道深处，而她则极力压抑着像一个用过的妓女一样呻吟的冲动。我沉重的睾丸剧烈地摆动着，随着我的每一次动作都撞击着她的肉体。[lover.GetFirstName]倒吸一口凉气，她肛门的内壁迅速收缩，紧紧挤压着我的肉棒，迫使我放慢了速度。\n\n我的手开始留下痕迹，我不自觉地紧紧抓住[lover.GetFirstName]，一次又一次地用力，将我的肉棒更深地插入。\n\n#EMP 来了！#!\n\n压力太大了，我的头脑一片空白，身体也弯了下来，将我所有的精液都深深地射入了我那放荡的妾的屁股里。\n\n“这……太多了！”"
+ futa_accept.0292.a: "我需要休息一下……"
 
  #
 
  futa_events.0293.title: "妾之穴命" #Pussy
-	futa_events.0293.desc: "我今天想吃某种特定的餐点。我的手臂将 [lover.GetFirstName] 拉近我的椅子，我命令她脱掉裙子。布料滑落到一旁，在我的视线高度展示着我妾的女性特征。\n\n“您想让我脱掉——啊！！！”\n\n[lover.GetFirstName] 尖叫一声，我捏住她的屁股，用脸摩擦着她的阴户。我的舌头顽皮地按压着她阴唇两侧的肉丘，定下了基调。\n\n“感觉真好……”\n\n对开胃菜感到满意后，我将注意力转移到她的甜点上。我的舌头平摊开来，在她阴蒂上滑动并打着圈，进行刺激。我每完成一圈，[lover.GetFirstName] 的双腿都会明显变得无力。\n\n我的妾不知道该如何是好，我暂时停止了我的 #EMP 啃食#!，抬头看着她的眼睛。她注意到了，口齿不清地说。\n\n“你……嗯……#EMP 嗯。#! 你很擅长这个——我的……女士！”\n\n嗯哼哼哼。看到她被我迷住本身就是一种奖励，不妨也给她一个奖励。我加倍努力，深深地伸出舌头，在她里面灵活地搅动。我的鼻子擦过她的阴蒂，我正在口交。\n\n“哦！啊！呃啊啊啊啊！”[lover.GetFirstName] 将爱液喷洒在我脸上，一边呻吟着，一边瘫软地跪了下来。"
-	futa_accept.0293.a: "“把这里清理干净。”"
+ futa_events.0293.desc: "我今天想吃某种特定的餐点。我的手臂将[lover.GetFirstName]拉近我的椅子，我命令她脱掉裙子。布料滑落到一旁，在我的视线高度展示着我妾的女性特征。\n\n“您想让我脱掉——啊！！！”\n\n[lover.GetFirstName]尖叫一声，我捏住她的屁股，用脸摩擦着她的阴户。我的舌头顽皮地按压着她阴唇两侧的肉丘，定下了基调。\n\n“感觉真好……”\n\n对开胃菜感到满意后，我将注意力转移到她的甜点上。我的舌头平摊开来，在她阴蒂上滑动并打着圈，进行刺激。我每完成一圈，[lover.GetFirstName]的双腿都会明显变得无力。\n\n我的妾不知道该如何是好，我暂时停止了我的#EMP 啃食#!，抬头看着她的眼睛。她注意到了，口齿不清地说。\n\n“你……嗯……#EMP 嗯。#!你很擅长这个——我的……女士！”\n\n嗯哼哼哼。看到她被我迷住本身就是一种奖励，不妨也给她一个奖励。我加倍努力，深深地伸出舌头，在她里面灵活地搅动。我的鼻子擦过她的阴蒂，我正在口交。\n\n“哦！啊！呃啊啊啊啊！”[lover.GetFirstName]将爱液喷洒在我脸上，一边呻吟着，一边瘫软地跪了下来。"
+ futa_accept.0293.a: "“把这里清理干净。”"
  
  #
 
-	futa_events.0294.title: "妾之用命"
-	futa_events.0294.desc: "“像这样吗？”我的妾询问道，她的肉棒拍打着我潮湿的阴部褶皱，我正让她轻易进入。当然#EMP 就是这样！#!”不然她还打算怎么操我？！\n\n最近，我的阴道和我的睾丸一样吸引着我的注意力。显然她感到被冷落了，但也要考虑到我的血统。用我的精液填满那些少女固然很好，但一个从我自己的子宫里出生的孩子无疑是#EMP 我的。#!\n\n这就是为什么我让 [lover.GetFirstName] 准备好耕耘我的穴……当然，不管怎样，我都不反感她的肉棒。\n\n我的妾开始将自己塞入我的体内。一股熟悉的兴奋感在我灵魂深处点燃，促使我随着我们开始#EMP 做爱#! 而撞击她的臀部。\n\n[lover.GetFirstName] 的阴囊撞击着我的，使我的睾丸变得相当敏感。但是从我的阴道传来的那种矛盾的快感却将其转化为一种令人神魂颠倒的#EMP 饱胀感#!。#EMP 啊！是的，我的阴道着火了！啊啊啊啊我忍不住了！#!”#!我的手迅速伸向我那勃起的肉棒，开始抽动起来。如此强烈的刺激让我无法思考！\n\n“干，我的女士，你真是太——呃啊啊啊啊啊啊！#EMP 我希望你准备好为我生孩子了！！！#!”\n\n[lover.GetFirstName] 高潮了，最后一次撞击我们的臀部，一股精液的洪流深深地注入我的体内。她炽热的精液渗入我体内的#EMP 原始#!感觉让我彻底爆发，我酸痛的阴道在她粗大的肉棒上喷射着爱液，而我的睾丸则向上收缩，将我自己的精子无助地喷洒在地板上。"
-	futa_accept.0294.a: "所以……#EMP 好饱。#!"
-	
+ futa_events.0294.title: "妾之用命"
+ futa_events.0294.desc: "“像这样吗？”我的妾询问道，她的肉棒拍打着我潮湿的阴部褶皱，我正让她轻易进入。当然#EMP 就是这样！#!”不然她还打算怎么操我？！\n\n最近，我的阴道和我的睾丸一样吸引着我的注意力。显然她感到被冷落了，但也要考虑到我的血统。用我的精液填满那些少女固然很好，但一个从我自己的子宫里出生的孩子无疑是#EMP 我的。#!\n\n这就是为什么我让[lover.GetFirstName]准备好耕耘我的穴……当然，不管怎样，我都不反感她的肉棒。\n\n我的妾开始将自己塞入我的体内。一股熟悉的兴奋感在我灵魂深处点燃，促使我随着我们开始#EMP 做爱#!而撞击她的臀部。\n\n[lover.GetFirstName]的阴囊撞击着我的，使我的睾丸变得相当敏感。但是从我的阴道传来的那种矛盾的快感却将其转化为一种令人神魂颠倒的#EMP 饱胀感#!。#EMP 啊！是的，我的阴道着火了！啊啊啊啊我忍不住了！#!”#!我的手迅速伸向我那勃起的肉棒，开始抽动起来。如此强烈的刺激让我无法思考！\n\n“干，我的女士，你真是太——呃啊啊啊啊啊啊！#EMP 我希望你准备好为我生孩子了！！！#!”\n\n[lover.GetFirstName]高潮了，最后一次撞击我们的臀部，一股精液的洪流深深地注入我的体内。她炽热的精液渗入我体内的#EMP 原始#!感觉让我彻底爆发，我酸痛的阴道在她粗大的肉棒上喷射着爱液，而我的睾丸则向上收缩，将我自己的精子无助地喷洒在地板上。"
+ futa_accept.0294.a: "所以……#EMP 好饱。#!"
+ 
  #
 
  futa_events.0295.title: "$futa_events.0041.title$"
- futa_events.0295.desc: "#EMP 哦不不不不不。\n\n#! 我已经一遍又一遍地检查过了。迹象很明显。#EMP 我怀孕了！#!我很确定是 [futa_giving_partner.GetName]的!然而，我现在的处境非常危险，没有任何回旋的余地……\n\n"
+ futa_events.0295.desc: "#EMP 哦不不不不不。#!\n\n我已经一遍又一遍地检查过了。迹象很明显。#EMP 我怀孕了！#!我很确定是[futa_giving_partner.GetName]的!然而，我现在的处境非常危险，没有任何回旋的余地……\n\n"
  futa_events.0295.desc_futa_unaccepted: "$trait_futa$ 不被接受，如果人们发现我怀上了 $trait_futa$ 的孩子，我的生命将处于极度危险之中……"
  futa_events.0295.desc_fornication_unaccepted: "通奸是不被认可的……即使 $trait_futa$ 及其子女被接受，这耻辱的印记也会在我的名誉上留下长久的污点……"
 
  futa_accept.0295.a: "我将留下这个孩子，风险算什么！"
- futa_accept.0295.flavor: "现在，我需要通知 [futa_giving_partner.GetName]，并把这个秘密保守好……"
+ futa_accept.0295.flavor: "现在，我需要通知[futa_giving_partner.GetName]，并把这个秘密保守好……"
 
  #
 
  futa_events.0300.t: "孽种渐长"
- futa_events.0300.desc: "这不可能……我竟然得知我的女儿 [futa_receiving_partner.GetFirstName] 怀上了那些 #EMP $trait_futa$#! 的孩子！！\n\n为什么？怎么会？她为什么不设法解决掉它，又为什么要隐瞒这件事？她感到羞耻吗？害怕吗？$trait_futa$ 在这里不受欢迎，所以她可能是害怕因此而遭受报复。#EMP 她不可能自愿与那些东西发生关系，对吧？！#!\n\n不管怎样，发生的事情已经发生了。现在的问题是，该如何处置她。"
+ futa_events.0300.desc: "这不可能……我竟然得知我的女儿[futa_receiving_partner.GetFirstName]怀上了那些#EMP $trait_futa$#!的孩子！！\n\n为什么？怎么会？她为什么不设法解决掉它，又为什么要隐瞒这件事？她感到羞耻吗？害怕吗？$trait_futa$ 在这里不受欢迎，所以她可能是害怕因此而遭受报复。#EMP 她不可能自愿与那些东西发生关系，对吧？！#!\n\n不管怎样，发生的事情已经发生了。现在的问题是，该如何处置她。"
 
  futa_events.0300.a: "我不会进一步危及她的生命，就让她这样吧。"
  futa_events.0300.b: "如果她想继续待在这里，就不允许她留下那个孽种。"
  futa_events.0300.c: "$trait_futa$ 的孽种或者她的脑袋，她自己选。"
- futa_events.0300.d: "她一旦与那些 #EMP 东西#! 勾结，就已失去了活下去的权利。"
+ futa_events.0300.d: "她一旦与那些#EMP 东西#!勾结，就已失去了活下去的权利。"
 
  #
 
  futa_events.0301.t: "$futa_events.0300.t$"
- futa_events.0301.desc: "突然之间，[punishment_parent.GetFirstName] 怒气冲冲地闯入我的起居室，脸色铁青。\n\n“你以为你能瞒过我吗？！你此刻肚子里那个 #EMP 东西#! 的真正来历？！你怎能如此对待我们的家族，我们的名望，#EMP 我#!？！你犯了一个 #EMP 大#! 错误，而且这将是你在这里犯下的 #EMP 最后#! 一个错误。你最好在那个 #EMP 孽种#! 出生之前把它处理掉，否则"
+ futa_events.0301.desc: "突然之间，[punishment_parent.GetFirstName]怒气冲冲地闯入我的起居室，脸色铁青。\n\n“你以为你能瞒过我吗？！你此刻肚子里那个#EMP 东西#!的真正来历？！你怎能如此对待我们的家族，我们的名望，#EMP 我#!？！你犯了一个#EMP 大#!错误，而且这将是你在这里犯下的#EMP 最后#!一个错误。你最好在那个#EMP 孽种#!出生之前把它处理掉，否则"
  futa_events.0301.desc_banishment: " 你将被剥夺继承权，被逐出我的家族。你所有的头衔都将被剥夺。从今以后，这个家里不许任何人再提起你的名字。我说明白了吗？”"
- futa_events.0301.desc_execution: " 你的惩罚将是死刑。任何帮助那些 #EMP 东西的孽种#! 降生到这个世界的人，我都不会与其为伍。阻止它们蔓延是我的责任，你也不例外。"
+ futa_events.0301.desc_execution: " 你的惩罚将是死刑。任何帮助那些#EMP 东西的孽种#!降生到这个世界的人，我都不会与其为伍。阻止它们蔓延是我的责任，你也不例外。"
 
- futa_events.0301.a: "你#EMP 怎么#! 能提出这样的要求？我#EMP 拒绝！#!"
- futa_events.0301.b: "我不能拒绝您，我的 [punishment_parent.GetTitleAsName]"
+ futa_events.0301.a: "你#EMP 怎么#!能提出这样的要求？我#EMP 拒绝！#!"
+ futa_events.0301.b: "我不能拒绝您，我的[punishment_parent.GetTitleAsName]"
  futa_events.0301.c: "#EMP 你无权对我提出任何要求！#!"
 
  #
 
  futa_events.0302.t: "$futa_events.0300.t$"
- futa_events.0302.desc: "她竟敢如此！她被那些 #EMP 东西#! 玷污还不够，现在竟然还 #EMP 拒绝#! 我的要求！她难道不明白自己行为的严重性吗？！一旦消息泄露会引起怎样的动荡？\n\n她已经被告知如果拒绝会受到怎样的惩罚。#EMP 我自己的骨肉。她怎么能……#!\n\n"
+ futa_events.0302.desc: "她竟敢如此！她被那些#EMP 东西#!玷污还不够，现在竟然还#EMP 拒绝#!我的要求！她难道不明白自己行为的严重性吗？！一旦消息泄露会引起怎样的动荡？\n\n她已经被告知如果拒绝会受到怎样的惩罚。#EMP 我自己的骨肉。她怎么能……#!\n\n"
  futa_events.0302.desc_banishment: "她将被剥夺头衔，剥夺继承权，被逐出我的家族，并被断绝关系。让她去别的地方制造麻烦吧。"
- futa_events.0302.desc_execution: "她将被处死。绝不能允许她把更多的 #EMP 它们#! 带到这个世界上，谁知道如果让她独自一人会做出什么事。"
+ futa_events.0302.desc_execution: "她将被处死。绝不能允许她把更多的#EMP 它们#!带到这个世界上，谁知道如果让她独自一人会做出什么事。"
 
  futa_events.0302.a: "……她毕竟是我的骨肉。放过她吧。"
  futa_events.0302.b: "她已经被告知了风险。"
-	
+ 
  #
 
  futa_events.0303.t: "$futa_events.0300.t$"
- futa_events.0303.desc: "自从 [futa_receiving_partner.GetFirstName] 从智者那里拿了 [ROOT.Char.Custom('Abortifacient')] 之后，已经过去了几个星期。她的一举一动都被监视着，以确保她没有耍任何花招。\n\n"
- futa_events.0303.desc_mother_alive: "终于，她来到我面前，手停留在她的腹部。\n\n“#EMP [ROOT.Char.Custom('Abortifacient')] 成功了。我不再怀孕了……#!"
- futa_events.0303.desc_mother_died: "消息传来，她病重了。不久之后，她便在床上去世了。[ROOT.Char.Custom('Abortifacient')] 一定在她体内引起了不良反应。"
+ futa_events.0303.desc: "自从[futa_receiving_partner.GetFirstName]从智者那里拿了[ROOT.Char.Custom('Abortifacient')]之后，已经过去了几个星期。她的一举一动都被监视着，以确保她没有耍任何花招。\n\n"
+ futa_events.0303.desc_mother_alive: "终于，她来到我面前，手停留在她的腹部。\n\n“#EMP[ROOT.Char.Custom('Abortifacient')]成功了。我不再怀孕了……#!"
+ futa_events.0303.desc_mother_died: "消息传来，她病重了。不久之后，她便在床上去世了。[ROOT.Char.Custom('Abortifacient')]一定在她体内引起了不良反应。"
 
  futa_events.0303.a: "这是必须做的事情。"
 
  #
 
  futa_events.0304.t: "$futa_events.0300.t$"
- futa_events.0304.desc: "$futa_events.0303.desc$ 今天，她来到我面前，肚子仍然明显隆起。她哭着解释说 [ROOT.Char.Custom('Abortifacient')] 并没有起作用。你知道她没有撒谎，已经确保她做的一切都正确了。看来它并没有奏效……\n\n"
- futa_events.0304.desc_banishment: "如果她不解决她日益增长的 #EMP 问题#!，她本应受到流放的惩罚……我是否应该继续执行……？"
- futa_events.0304.desc_execution: "如果她不解决她日益增长的 #EMP 问题#!，她本应被处死……我是否应该继续执行……？"
+ futa_events.0304.desc: "$futa_events.0303.desc$ 今天，她来到我面前，肚子仍然明显隆起。她哭着解释说[ROOT.Char.Custom('Abortifacient')]并没有起作用。你知道她没有撒谎，已经确保她做的一切都正确了。看来它并没有奏效……\n\n"
+ futa_events.0304.desc_banishment: "如果她不解决她日益增长的#EMP 问题#!，她本应受到流放的惩罚……我是否应该继续执行……？"
+ futa_events.0304.desc_execution: "如果她不解决她日益增长的#EMP 问题#!，她本应被处死……我是否应该继续执行……？"
  futa_events.0304.a: "她尽力了。我不应该再做什么了。"
  futa_events.0304.b: "这是她咎由自取。惩罚将继续执行。"
 
  #
 
  futa_events.0305.t: "$futa_events.0300.t$" # No Punishment
- futa_events.0305.desc: "自从我从智者那里拿了 [ROOT.Char.Custom('Abortifacient')] 之后，已经过去了几个星期。我的一举一动都被监视着，以确保我没有耍任何花招。\n\n正如我所担心的那样，药剂并没有起作用，我仍然怀着孩子。我怀着恐惧的心情去通知 [punishment_parent.GetFirstName]。\n\n[punishment_parent.GetHerHis|U] 的眼神沉重，充满了#EMP 失望#!。然而，[punishment_parent.GetSheHe] 决定不再进行任何惩罚。"
+ futa_events.0305.desc: "自从我从智者那里拿了[ROOT.Char.Custom('Abortifacient')]之后，已经过去了几个星期。我的一举一动都被监视着，以确保我没有耍任何花招。\n\n正如我所担心的那样，药剂并没有起作用，我仍然怀着孩子。我怀着恐惧的心情去通知[punishment_parent.GetFirstName]。\n\n[punishment_parent.GetHerHis|U]的眼神沉重，充满了#EMP 失望#!。然而，[punishment_parent.GetSheHe]决定不再进行任何惩罚。"
  futa_events.0305.a: "……谢谢……"
 
  #
 
  futa_events.0306.t: "$futa_events.0300.t$" # Banishment
- futa_events.0306.desc: "自从我从智者那里拿了 [ROOT.Char.Custom('Abortifacient')] 之后，已经过去了几个星期。我的一举一动都被监视着，以确保我没有耍任何花招。\n\n正如我所担心的那样，药剂并没有起作用，我仍然怀着孩子。我怀着恐惧的心情去通知 [punishment_parent.GetFirstName]。\n\n[punishment_parent.GetHerHis|U] 的眼神沉重，充满了#EMP 失望#!。\n\n[punishment_parent.GetSheHe|U] 告诉我这一切都是我的错。我应该准备好承担后果。[punishment_parent.GetSheHe|U] 决定执行惩罚，剥夺我所有的头衔，与我断绝关系，剥夺我的继承权，并将我驱逐出 [punishment_parent.GetHerHis] 的领地，永远不得再出现在 [punishment_parent.GetHerHis] 的土地上。"
- futa_events.0306.a: "*啜泣* #EMP 我该怎么办……#!"
+ futa_events.0306.desc: "自从我从智者那里拿了[ROOT.Char.Custom('Abortifacient')]之后，已经过去了几个星期。我的一举一动都被监视着，以确保我没有耍任何花招。\n\n正如我所担心的那样，药剂并没有起作用，我仍然怀着孩子。我怀着恐惧的心情去通知[punishment_parent.GetFirstName]。\n\n[punishment_parent.GetHerHis|U]的眼神沉重，充满了#EMP 失望#!。\n\n[punishment_parent.GetSheHe|U]告诉我这一切都是我的错。我应该准备好承担后果。[punishment_parent.GetSheHe|U]决定执行惩罚，剥夺我所有的头衔，与我断绝关系，剥夺我的继承权，并将我驱逐出[punishment_parent.GetHerHis]的领地，永远不得再出现在[punishment_parent.GetHerHis]的土地上。"
+ futa_events.0306.a: "*啜泣*#EMP 我该怎么办……#!"
 
  #
 
  futa_events.0307.t: "$futa_events.0300.t$" # Execution
- futa_events.0307.desc: "自从我从智者那里拿了 [ROOT.Char.Custom('Abortifacient')] 之后，已经过去了几个星期。我的一举一动都被监视着，以确保我没有耍任何花招。\n\n正如我所担心的那样，药剂并没有起作用，我仍然怀着孩子。我怀着恐惧的心情去通知 [punishment_parent.GetFirstName]。\n\n[punishment_parent.GetHerHis|U] 的眼神沉重，充满了#EMP 失望#!。\n\n[punishment_parent.GetSheHe|U] 告诉我这一切都是我的错。我应该准备好承担后果。[punishment_parent.GetSheHe|U] 决定执行惩罚。#EMP 我的生命。#!\n\n无论我如何恳求，流了多少眼泪，发誓多少次我会消失，永远不再出现，这一切都如同对牛弹琴。\n\n我记得的最后一件事是人群的嘘声，以及脖子上绞索的紧绷感……"
+ futa_events.0307.desc: "自从我从智者那里拿了[ROOT.Char.Custom('Abortifacient')]之后，已经过去了几个星期。我的一举一动都被监视着，以确保我没有耍任何花招。\n\n正如我所担心的那样，药剂并没有起作用，我仍然怀着孩子。我怀着恐惧的心情去通知[punishment_parent.GetFirstName]。\n\n[punishment_parent.GetHerHis|U]的眼神沉重，充满了#EMP 失望#!。\n\n[punishment_parent.GetSheHe|U]告诉我这一切都是我的错。我应该准备好承担后果。[punishment_parent.GetSheHe|U]决定执行惩罚。#EMP 我的生命。#!\n\n无论我如何恳求，流了多少眼泪，发誓多少次我会消失，永远不再出现，这一切都如同对牛弹琴。\n\n我记得的最后一件事是人群的嘘声，以及脖子上绞索的紧绷感……"
  futa_events.0307.a: "……"
 
  #
 
  futa_events.0309.t: "自作自受"
- futa_events.0309.desc: "突然，我听到有人朝我喊叫，几乎是在尖叫，声音里充满了绝望。我决定去看一看，发现竟然是 [futa_receiving_partner.GetFirstName]！\n\n她的眼睛又红又肿，脸和头发都乱糟糟的。我赶紧问发生了什么事。\n\n“你还记得我怀上你的孩子吗？那时我们多么幸福……”[futa_receiving_partner.GetFirstName] 再次哽咽着，努力地说下去。“结果，[punishment_parent.GetFirstName] 发现孩子是 #EMP $trait_futa$#! 的。作为对我行为的惩罚，[punishment_parent.SheHe] 与我断绝了关系，剥夺了我的继承权，然后将我驱逐出了 [punishment_parent.HerHis] 的领地。”\n\n“我-我-我不知道该怎么办……我一无所有了。我被赶了出来，只能自谋生路。你是我唯一的希望！求求你！你需要承担责任！帮帮我！#EMP 求求你！#!\n\n我……是我害她变成这样的……？”"
+ futa_events.0309.desc: "突然，我听到有人朝我喊叫，几乎是在尖叫，声音里充满了绝望。我决定去看一看，发现竟然是[futa_receiving_partner.GetFirstName]！\n\n她的眼睛又红又肿，脸和头发都乱糟糟的。我赶紧问发生了什么事。\n\n“你还记得我怀上你的孩子吗？那时我们多么幸福……”[futa_receiving_partner.GetFirstName]再次哽咽着，努力地说下去。“结果，[punishment_parent.GetFirstName]发现孩子是#EMP $trait_futa$#!的。作为对我行为的惩罚，[punishment_parent.SheHe]与我断绝了关系，剥夺了我的继承权，然后将我驱逐出了[punishment_parent.HerHis]的领地。”\n\n“我-我-我不知道该怎么办……我一无所有了。我被赶了出来，只能自谋生路。你是我唯一的希望！求求你！你需要承担责任！帮帮我！#EMP 求求你！#!\n\n我……是我害她变成这样的……？”"
  futa_events.0309.a: "当然。你会在这里和我在一起，很安全的。"
  futa_events.0309.b: "我不在乎。这不是我的问题，走开。"
 
  #
 
  futa_events.0311.t: "情欲枷锁"
- futa_events.0311.desc: "我要疯了。我一定是疯了。我无法集中注意力。我无法思考。什么都帮不了我。这是我的惩罚。我是个罪人。这是我的惩罚。没有释放。没有平静。麻木的干扰。我必须忏悔。帮帮我，[ROOT.Char.GetFaith.random_GoodGodNames]！给我力量！让我忏悔！把我从这个负担中解放出来！救我脱离 [ROOT.Char.GetFaith.random_EvilGodNames] 的诱惑！#BOLD 我要疯了！求求你！#!"
+ futa_events.0311.desc: "我要疯了。我一定是疯了。我无法集中注意力。我无法思考。什么都帮不了我。这是我的惩罚。我是个罪人。这是我的惩罚。没有释放。没有平静。麻木的干扰。我必须忏悔。帮帮我，[ROOT.Char.GetFaith.random_GoodGodNames]！给我力量！让我忏悔！把我从这个负担中解放出来！救我脱离[ROOT.Char.GetFaith.random_EvilGodNames]的诱惑！#BOLD 我要疯了！求求你！#!"
 
  futa_events.0311.a: "#BOLD 求求你，[ROOT.Char.GetFaith.HighGodName|U]！赐予我救赎！#!"
 
@@ -2660,37 +2660,37 @@
  #
 
  futa_events.0312.title: "自渎自足"
- futa_events.0312.desc: "#EMP 射射射射射射射射射射！#! \n\n你再也受不了了，你的睾丸因剧烈的痛苦而沸腾，你的精液不断地从你敏感的肉棒中涌出。如果不是位于你的双腿之间，你什么都感觉不到了。你上次释放——真正的释放——已经太久了，以至于你的本能占据了上风。\n\n在没有其他洞的情况下，你蜷缩在地板上，张开双腿。你内心深处一个小小的声音敦促你停下来。你犹豫了一下，但另一次 #EMP 怀孕#! 的收缩彻底压制了这种想法。\n\n你扭动脊椎，抬起臀部，试图将你的肉棒塞进你张开的嘴里。你发现自己处于如此脆弱、可怜的境地。你那裸露的龟头的气味现在如此之近，这是一种奇怪的体验。如果你自己口交，你会变成什么样？\n\n谁知道呢？#EMP 谁在乎！#! 你已经等了足够久了！"
+ futa_events.0312.desc: "#EMP 射射射射射射射射射射！#!\n\n你再也受不了了，你的睾丸因剧烈的痛苦而沸腾，你的精液不断地从你敏感的肉棒中涌出。如果不是位于你的双腿之间，你什么都感觉不到了。你上次释放——真正的释放——已经太久了，以至于你的本能占据了上风。\n\n在没有其他洞的情况下，你蜷缩在地板上，张开双腿。你内心深处一个小小的声音敦促你停下来。你犹豫了一下，但另一次#EMP 怀孕#!的收缩彻底压制了这种想法。\n\n你扭动脊椎，抬起臀部，试图将你的肉棒塞进你张开的嘴里。你发现自己处于如此脆弱、可怜的境地。你那裸露的龟头的气味现在如此之近，这是一种奇怪的体验。如果你自己口交，你会变成什么样？\n\n谁知道呢？#EMP 谁在乎！#!你已经等了足够久了！"
  futa_accept.0312.a: "#EMP 进去了！#!"
 
  #
 
  futa_events.0313.title: "自渎自足" #Succ Sess
- futa_events.0313.desc: "#BOLD *咕噜*#! 进去了，你做到了。你的嘴唇鼓胀着，被你那汗湿的女孩肉棒的头部撑开。它那肿胀的气味现在流过你的口腔，穿过你的味蕾，直接进入你的 #EMP 大脑#!。还有那味道，#EMP 那味道！#! 它是如此的咸涩和浓稠，让你想要作呕。但是你舌头每一次不由自主的舔舐都会让你感到一阵恶心的颤抖。你的肉棒正在受到刺激，但你的大脑无法处理这些信息。你自己的肉棒正在接受你自己的口交！！！\n\n这些想法让你的思绪陷入混乱。你早已失去了对周围可能发生的事情的感知。如果有捕食者在附近，你就完蛋了。\n\n #BOLD *咕噜* *咕噜* *咕噜* *咕噜* *咕噜* *呕*#! \n\n你变得多么 #EMP 堕落#!。尽管如此，你还是忍不住一次又一次地用嘴唇包裹住自己的肉棒。每一次搏动都让你感受到双倍的刺激，因为你的大脑在肉欲的反馈循环中融化。你甚至不再真正感觉到它了，你的身体只是凭着本能在动。你只知道停止是不可能的，所以你继续往自己的嘴里抽插。\n\n当你的睾丸开始收缩时，伴随着一阵令人心碎的颤抖。你的眼珠向上翻，昏了过去几秒钟——在此过程中几乎被自己的女孩肉棒窒息——但你的呕吐反射收缩着你肉棒的灵魂，把你唤醒。\n\n#BOLD 啪！！！#! \n\n你将自己浓稠的、变质的精液吞咽下去。它很浓稠，像冷浆糊一样流动，但却像新鲜的汤一样滚烫。眼泪划过你的脸颊，你疼痛的身体被锁在这种扭曲的快乐形式中，过于敏感而无法移动，你挣扎着吞咽自己的精液。\n\n空气迅速成为一种珍贵的商品，堵塞的粘液堵塞了你的鼻孔。你想尖叫，但声音无法发出。你的身体与自己作对，为了排空你的睾丸而压制了你的恐慌。\n\n等一切结束后，你动弹不得。你的身体里充满了你自己的“糕点”……"
+ futa_events.0313.desc: "#BOLD *咕噜*#!进去了，你做到了。你的嘴唇鼓胀着，被你那汗湿的女孩肉棒的头部撑开。它那肿胀的气味现在流过你的口腔，穿过你的味蕾，直接进入你的#EMP 大脑#!。还有那味道，#EMP 那味道！#!它是如此的咸涩和浓稠，让你想要作呕。但是你舌头每一次不由自主的舔舐都会让你感到一阵恶心的颤抖。你的肉棒正在受到刺激，但你的大脑无法处理这些信息。你自己的肉棒正在接受你自己的口交！！！\n\n这些想法让你的思绪陷入混乱。你早已失去了对周围可能发生的事情的感知。如果有捕食者在附近，你就完蛋了。\n\n #BOLD *咕噜* *咕噜* *咕噜* *咕噜* *咕噜* *呕*#!\n\n你变得多么#EMP 堕落#!。尽管如此，你还是忍不住一次又一次地用嘴唇包裹住自己的肉棒。每一次搏动都让你感受到双倍的刺激，因为你的大脑在肉欲的反馈循环中融化。你甚至不再真正感觉到它了，你的身体只是凭着本能在动。你只知道停止是不可能的，所以你继续往自己的嘴里抽插。\n\n当你的睾丸开始收缩时，伴随着一阵令人心碎的颤抖。你的眼珠向上翻，昏了过去几秒钟——在此过程中几乎被自己的女孩肉棒窒息——但你的呕吐反射收缩着你肉棒的灵魂，把你唤醒。\n\n#BOLD 啪！！！#!\n\n你将自己浓稠的、变质的精液吞咽下去。它很浓稠，像冷浆糊一样流动，但却像新鲜的汤一样滚烫。眼泪划过你的脸颊，你疼痛的身体被锁在这种扭曲的快乐形式中，过于敏感而无法移动，你挣扎着吞咽自己的精液。\n\n空气迅速成为一种珍贵的商品，堵塞的粘液堵塞了你的鼻孔。你想尖叫，但声音无法发出。你的身体与自己作对，为了排空你的睾丸而压制了你的恐慌。\n\n等一切结束后，你动弹不得。你的身体里充满了你自己的“糕点”……"
  futa_accept.0313.a: "*呕吐*"
  
  #
 
  futa_events.0314.title: "自渎自足" #fail
- futa_events.0314.desc: "#EMP 不不不不不！#! 该死！无论你怎样努力弯腰，你的肉棒都无法碰到你的嘴。那段距离令人沮丧地感觉如此之近，但你却被迫看着你抽搐的眼睛，无法找到任何乐趣。\n\n绝望之下，你还是开始扭动臀部，伸长舌头试图弥补。即便如此，你的努力也是徒劳的。作为一个拥有如此短小肉棒的扶她……#EMP 啊啊啊啊该死！我需要做爱，我必须做爱！！！#!"
+ futa_events.0314.desc: "#EMP 不不不不不！#!该死！无论你怎样努力弯腰，你的肉棒都无法碰到你的嘴。那段距离令人沮丧地感觉如此之近，但你却被迫看着你抽搐的眼睛，无法找到任何乐趣。\n\n绝望之下，你还是开始扭动臀部，伸长舌头试图弥补。即便如此，你的努力也是徒劳的。作为一个拥有如此短小肉棒的扶她……#EMP 啊啊啊啊该死！我需要做爱，我必须做爱！！！#!"
  futa_accept.0314.a: "#BOLD *尖叫*#!"
 
  #
 
  futa_events.0315.title: "馈赠时节"
- futa_events.0315.desc: "我发现自己无法入睡，于是走进了凉爽的夜空。正如人们所预料的那样寂静，但今晚我却很享受这份宁静。\n\n#BOLD *砰*#! \n\n……#EMP 那是什么？#! \n\n“该死，这样下去我永远也到不了东边……”一个沮丧的女性声音从一棵最近倒下的树后传来。好奇心战胜了你，你决定去调查一下。"
+ futa_events.0315.desc: "我发现自己无法入睡，于是走进了凉爽的夜空。正如人们所预料的那样寂静，但今晚我却很享受这份宁静。\n\n#BOLD *砰*#!\n\n……#EMP 那是什么？#!\n\n“该死，这样下去我永远也到不了东边……”一个沮丧的女性声音从一棵最近倒下的树后传来。好奇心战胜了你，你决定去调查一下。"
  futa_accept.0315.a: "“你好？”"
 
  #
 
  futa_events.0316.title: "馈赠时节" #Part 2
- futa_events.0316.desc: "你发现一个成熟的女人正扔掉一个看起来像是破碎的马车碎片的东西，然后转过身面对你。当你好好看清她的身材时，你的心跳漏了一拍。尽管天气很冷，她却几乎什么都没穿，但更重要的是，你看到她浓厚的大腿之间勉强遮掩着一个 #EMP 巨大#! 的、抽搐的 #EMP 肉块#!。\n\n“哦，#BOLD #EMP 正好！#! #! 你看起来是个快乐的人。介意帮一位执行任务的女士一个忙吗？”她跟你说话的样子好像这是完全正常的事情。#EMP 她到底在这里做什么？#! \n\n“原谅我，这不是第一次了。也不是第二次……#EMP 甚至也不是第三次了……#! *清嗓子* 我叫圣诞老人。每年的这个时候我都会飞来飞去，确保好孩子能得到一点小小的奖励，让他们继续努力。不是每个人都能享受城堡的舒适或忠诚。”\n\n她沉浸在讲述她声称“飞行”的原因中。一旦她意识到你的注意力转移了，她便回到你最初的问题，迅速调整了一下她的鼓胀。\n\n“总之，真正的问题是我现在根本无法飞行。我的包裹快要溢出来了，这让我头晕。头晕时飞行会导致坠机。既然你已经听说过我任务的重要性，我想你一定不会介意帮我减轻负担吧？”"
+ futa_events.0316.desc: "你发现一个成熟的女人正扔掉一个看起来像是破碎的马车碎片的东西，然后转过身面对你。当你好好看清她的身材时，你的心跳漏了一拍。尽管天气很冷，她却几乎什么都没穿，但更重要的是，你看到她浓厚的大腿之间勉强遮掩着一个#EMP 巨大#!的、抽搐的#EMP 肉块#!。\n\n“哦，#BOLD#EMP 正好！#!#!你看起来是个快乐的人。介意帮一位执行任务的女士一个忙吗？”她跟你说话的样子好像这是完全正常的事情。#EMP 她到底在这里做什么？#!\n\n“原谅我，这不是第一次了。也不是第二次……#EMP 甚至也不是第三次了……#!*清嗓子* 我叫圣诞老人。每年的这个时候我都会飞来飞去，确保好孩子能得到一点小小的奖励，让他们继续努力。不是每个人都能享受城堡的舒适或忠诚。”\n\n她沉浸在讲述她声称“飞行”的原因中。一旦她意识到你的注意力转移了，她便回到你最初的问题，迅速调整了一下她的鼓胀。\n\n“总之，真正的问题是我现在根本无法飞行。我的包裹快要溢出来了，这让我头晕。头晕时飞行会导致坠机。既然你已经听说过我任务的重要性，我想你一定不会介意帮我减轻负担吧？”"
  futa_accept.0316.a: "“我没看到任何行李？”"
 
  #
 
  futa_events.0317.title: "馈赠时节" #Part 3
- futa_events.0317.desc: "“圣诞老人”短暂地轻笑了一声，她的手向下移到她那巨大的 #EMP 鼓胀#! 处，然后迅速将其扯下，让风将其吹落在地上。一个滴着液体的 #EMP 粗大的女孩肉棒#! 从它的束缚中掉了出来，一路滴着液体。\n\n“正如你所见，我的女孩们现在有点满了。我知道你在想什么。#EMP 圣诞老人，为什么不在你执行任务的时候把它们排空呢？#! 这是一个合理的问题，但不可行。首先，我不是那种会偷偷摸摸地侵犯别人母亲的流氓。#EMP 其次#! 我绝不会摩擦我的北极棒。根本不可能。”\n\n你根本没在想那些，但圣诞老人似乎并不在意。事实上，从她现在把手放在臀部的样子来看，她显然认为这一切都是常识。\n\n“那么你觉得怎么样？你不在我的名单上，但我有个主意，我可以送你一份礼物，以表彰你表现出的节日精神。”\n\n……\n\n#EMP 什么节日？？？#!"
+ futa_events.0317.desc: "“圣诞老人”短暂地轻笑了一声，她的手向下移到她那巨大的#EMP 鼓胀#!处，然后迅速将其扯下，让风将其吹落在地上。一个滴着液体的#EMP 粗大的女孩肉棒#!从它的束缚中掉了出来，一路滴着液体。\n\n“正如你所见，我的女孩们现在有点满了。我知道你在想什么。#EMP 圣诞老人，为什么不在你执行任务的时候把它们排空呢？#!这是一个合理的问题，但不可行。首先，我不是那种会偷偷摸摸地侵犯别人母亲的流氓。#EMP 其次#!我绝不会摩擦我的北极棒。根本不可能。”\n\n你根本没在想那些，但圣诞老人似乎并不在意。事实上，从她现在把手放在臀部的样子来看，她显然认为这一切都是常识。\n\n“那么你觉得怎么样？你不在我的名单上，但我有个主意，我可以送你一份礼物，以表彰你表现出的节日精神。”\n\n……\n\n#EMP 什么节日？？？#!"
  futa_accept.0317.a: "我不是个妓女！"
  futa_accept.0317.b: "*跪下*"
  futa_accept.0317.c: "“弯下腰，圣诞老人”"
@@ -2698,83 +2698,83 @@
  #
 
  futa_events.0318.title: "馈赠时节" #Part 4
- futa_events.0318.desc: "这个女人身上散发着某种让你内心雀跃的气息。一股期待感涌上心头，你低下身子，面对她那粗壮的肉棒，一股咸味刺激着你的鼻尖。她低头看着你，笑容足以融化冰雪。\n\n“真是个好帮手。你根本不知道我现在有多感激你。#EMP 哦，#! 其实我知道该怎么报答你……#! 她的龟头带着咸味吻上了你的嘴唇，接触的瞬间就肿胀起来。即使在她的顶端，也温暖而舒适。少许先走汁滴落在你的嘴里，在你的舌头上滚动。#EMP 真是#BOLD 太#! 咸了！#! 然而，感觉到她的“快递员”滑下你的喉咙只会让你 #EMP 兴奋#!。\n\n圣诞老人开始扭动她的臀部，引导着你，一只大手稳稳地放在你的头上。“嗯，就这样。我感觉你因为太#EMP 擅长#! 清洁我的糖果棒而被列入了我的淘气名单。”\n\n你感觉到自己的脸颊发红。即使你想说什么，也说不出来。你的“袜子”里塞满了粗大的圣诞原木。\n\n“#EMP 哦——哦！！#! 是时候吃你的布丁了！”"
+ futa_events.0318.desc: "这个女人身上散发着某种让你内心雀跃的气息。一股期待感涌上心头，你低下身子，面对她那粗壮的肉棒，一股咸味刺激着你的鼻尖。她低头看着你，笑容足以融化冰雪。\n\n“真是个好帮手。你根本不知道我现在有多感激你。#EMP 哦，#!其实我知道该怎么报答你……#!她的龟头带着咸味吻上了你的嘴唇，接触的瞬间就肿胀起来。即使在她的顶端，也温暖而舒适。少许先走汁滴落在你的嘴里，在你的舌头上滚动。#EMP 真是#BOLD 太#!咸了！#!然而，感觉到她的“快递员”滑下你的喉咙只会让你#EMP 兴奋#!。\n\n圣诞老人开始扭动她的臀部，引导着你，一只大手稳稳地放在你的头上。“嗯，就这样。我感觉你因为太#EMP 擅长#!清洁我的糖果棒而被列入了我的淘气名单。”\n\n你感觉到自己的脸颊发红。即使你想说什么，也说不出来。你的“袜子”里塞满了粗大的圣诞原木。\n\n“#EMP 哦——哦！！#!是时候吃你的布丁了！”"
  futa_accept.0318.a: "*咕噜*？！！"
 
  #
 
  futa_events.0319.title: "馈赠时节" #Part 5
- futa_events.0319.desc: "#BOLD *啪嗒* *噗嗤* *吧唧*#! \n\n#EMP 哦，该死，#BOLD 哦，该死！#! 我的肚子快要被填满了！#BOLD 太多了！#! 我能感觉到我的肚子每秒都在膨胀。还有空气，甜美的空气！我几乎吸不到。#BOLD 圣诞老人的浓稠白色精液#! 一直堵着我的喉咙！#! \n\n“哦……哦……哦……它出来了。我的天，我的小帮手，你做得真漂亮。我几乎想把你带回我的工作室。我有一把 #EMP 神奇的椅子#! 我觉得你可以代替它。但是，唉，我的雪橇坏了，我只能独自飞行。也许明年吧？”\n\n当你试图回答时，一股她的精液从你的嘴里喷了出来。圣诞老人同情地耸了耸肩，然后穿上她的内裤。然后——就在你昏过去的前一刻——你 #EMP 发誓#! 你看到她飘向夜空。"
+ futa_events.0319.desc: "#BOLD *啪嗒* *噗嗤* *吧唧*#!\n\n#EMP 哦，该死，#BOLD 哦，该死！#!我的肚子快要被填满了！#BOLD 太多了！#!我能感觉到我的肚子每秒都在膨胀。还有空气，甜美的空气！我几乎吸不到。#BOLD 圣诞老人的浓稠白色精液#!一直堵着我的喉咙！#!\n\n“哦……哦……哦……它出来了。我的天，我的小帮手，你做得真漂亮。我几乎想把你带回我的工作室。我有一把#EMP 神奇的椅子#!我觉得你可以代替它。但是，唉，我的雪橇坏了，我只能独自飞行。也许明年吧？”\n\n当你试图回答时，一股她的精液从你的嘴里喷了出来。圣诞老人同情地耸了耸肩，然后穿上她的内裤。然后——就在你昏过去的前一刻——你#EMP 发誓#!你看到她飘向夜空。"
  futa_accept.0319.a: "#weak *咕噜*#!"
 
  #
 
  futa_events.0320.title: "馈赠时节" #Part 6
- futa_events.0320.desc: "你用力拍了一下圣诞老人肥硕的屁股。她脸红了，但还是笑着低头看着你。#EMP 天哪，这个女人近看#BOLD 真高#!。#! 你的手指陷进了她颤巍巍的肥肉里。她把一只手放在你的手上，然后抬到她的乳房上。\n\n“你想给#EMP 我#! 一些东西吗？那倒是头一回。但是……”圣诞老人慢慢地转过身——确保她的脸颊拍打着你的脸。她低下身子，弯腰让你能够进入。\n\n“你为什么不让我看看你们这些帮手能送出多么好的礼物呢？”她慢慢地扭动着她那负担沉重的臀部。#EMP 看那#BOLD 北极星#!，看看她有多少东西！#! 圣诞老人的后背看起来就像一个淫秽的自助餐。面包店里的每一个面包卷、糕点和面包都摆在那里，闪耀着期待的光芒。\n\n自我控制早已抛到九霄云外，你将你的肉棒插入她那过大的湿洞里，像明天就要末日一样猛烈地抽插。圣诞老人丰满的肉体随着你的动作摇晃着，她#BOLD 丝毫#! 不掩饰她的呻吟。\n\n“哦，是的！骑我！用你的糖霜覆盖我的蛋糕！！！”"
+ futa_events.0320.desc: "你用力拍了一下圣诞老人肥硕的屁股。她脸红了，但还是笑着低头看着你。#EMP 天哪，这个女人近看#BOLD 真高#!。#!你的手指陷进了她颤巍巍的肥肉里。她把一只手放在你的手上，然后抬到她的乳房上。\n\n“你想给#EMP 我#!一些东西吗？那倒是头一回。但是……”圣诞老人慢慢地转过身——确保她的脸颊拍打着你的脸。她低下身子，弯腰让你能够进入。\n\n“你为什么不让我看看你们这些帮手能送出多么好的礼物呢？”她慢慢地扭动着她那负担沉重的臀部。#EMP 看那#BOLD 北极星#!，看看她有多少东西！#!圣诞老人的后背看起来就像一个淫秽的自助餐。面包店里的每一个面包卷、糕点和面包都摆在那里，闪耀着期待的光芒。\n\n自我控制早已抛到九霄云外，你将你的肉棒插入她那过大的湿洞里，像明天就要末日一样猛烈地抽插。圣诞老人丰满的肉体随着你的动作摇晃着，她#BOLD 丝毫#!不掩饰她的呻吟。\n\n“哦，是的！骑我！用你的糖霜覆盖我的蛋糕！！！”"
  futa_accept.0320.a: "“我要——”"
 
  #
 
  futa_events.0321.title: "馈赠时节" #Part 7
- futa_events.0321.desc: "#EMP 呃啊啊啊啊！你这个疯女人！！！#BOLD 快怀孕快怀孕快怀孕！！！#!#! \n\n你的骨盆因你毫不顾惜的剧烈运动而痛苦地呻吟着，你一边哼哼唧唧，一边像要把灵魂都吐出来一样地投入到这场节日的盛宴中。圣诞老人的铃铛因为你不断地爱抚而变得通红，她颤抖的“礼物发射器”被你充满情欲的吻弄得湿漉漉的。\n\n#EMP 该死，我要射了！！！#! \n\n“#EMP 啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！我也是！！！”\n\n……\n\n你们俩都气喘吁吁，汗水从你们湿漉漉的身体上蒸发到夜空中。你看着一股清晰的液体从圣诞老人的阴道流出，汇聚到她的阴囊上。\n\n“哦……你——#EMP 呃#!——送礼物送得非常好。可惜我的雪橇坏了，我必须把你留在这里。明年我可能不得不把你偷走。”\n\n在你来得及细想她的话之前，她站起身，拍了拍她的屁股，像打翻了一桶牛奶一样抖掉了你所有的精液！她捡起她的红色内裤，然后跳向天空……#EMP 再也没有回到地面！#!"
+ futa_events.0321.desc: "#EMP 呃啊啊啊啊！你这个疯女人！！！#BOLD 快怀孕快怀孕快怀孕！！！#!#!\n\n你的骨盆因你毫不顾惜的剧烈运动而痛苦地呻吟着，你一边哼哼唧唧，一边像要把灵魂都吐出来一样地投入到这场节日的盛宴中。圣诞老人的铃铛因为你不断地爱抚而变得通红，她颤抖的“礼物发射器”被你充满情欲的吻弄得湿漉漉的。\n\n#EMP 该死，我要射了！！！#!\n\n“#EMP 啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！我也是！！！”\n\n……\n\n你们俩都气喘吁吁，汗水从你们湿漉漉的身体上蒸发到夜空中。你看着一股清晰的液体从圣诞老人的阴道流出，汇聚到她的阴囊上。\n\n“哦……你——#EMP 呃#!——送礼物送得非常好。可惜我的雪橇坏了，我必须把你留在这里。明年我可能不得不把你偷走。”\n\n在你来得及细想她的话之前，她站起身，拍了拍她的屁股，像打翻了一桶牛奶一样抖掉了你所有的精液！她捡起她的红色内裤，然后跳向天空……#EMP 再也没有回到地面！#!"
  futa_accept.0321.a: "这到底是什么……"
  
  #
 
  futa_events.0324.title: "支配之术"
- futa_events.0324.desc: "近来我的欲望越来越强烈。我发现自己经常在无人注意时偷偷地在座位上磨蹭。这种行为有损我的身份，所以我命令 [futa.GetFirstName] 来缓解我的困扰。她穿上了我喜欢的衣服，真是个尤物。如果用一个平庸之辈来衬托我的绝世容颜，那就太不合适了。\n\n“我的女士，您想要我怎样？”[futa.GetFirstName] 尽职尽责地问道。她性感迷人的装扮暴露了她试图保持镇定的努力。她双腿之间鼓胀着一个巨大的肉包。我迅速拉开她的衣物，让她的肉棒得以解放。\n\n“#EMP 嗯！#! 真饥渴！”她的一滴先走汁溅到了我的脸上。我舔舐干净，同时与我的妾保持眼神交流。#EMP 真美味#!。\n\n[futa.GetFirstName] 被我迷人的容颜所吸引，轻易地被引导着躺了下来。她的肉棒骄傲而焦虑地竖立着，不断地跳动。每次我咬嘴唇，[futa.GetFirstName] 都会不由自主地从她的顶端喷出另一滴先走汁。#EMP 别再忍着了，我需要这东西进入我的身体！#! \n\n#BOLD *啪* *啪* *啪* *啪*#! \n\n哦哦哦哦哦哦！感觉真是太#EMP 棒#!了！每当我——呃啊啊啊啊啊啊，需-需要好好地被干的时候，拥有像 [futa.GetFirstName] 这样的女种马！挤压她的乳房，然后一次又一次地#BOLD 猛烈地#! 撞击她的扶她肉棒，总是能让我达到高潮——#EMP 哦哦哦哦哦哦哦哦哦哦哦哦哦！#! "
+ futa_events.0324.desc: "近来我的欲望越来越强烈。我发现自己经常在无人注意时偷偷地在座位上磨蹭。这种行为有损我的身份，所以我命令[futa.GetFirstName]来缓解我的困扰。她穿上了我喜欢的衣服，真是个尤物。如果用一个平庸之辈来衬托我的绝世容颜，那就太不合适了。\n\n“我的女士，您想要我怎样？”[futa.GetFirstName]尽职尽责地问道。她性感迷人的装扮暴露了她试图保持镇定的努力。她双腿之间鼓胀着一个巨大的肉包。我迅速拉开她的衣物，让她的肉棒得以解放。\n\n“#EMP 嗯！#!真饥渴！”她的一滴先走汁溅到了我的脸上。我舔舐干净，同时与我的妾保持眼神交流。#EMP 真美味#!。\n\n[futa.GetFirstName]被我迷人的容颜所吸引，轻易地被引导着躺了下来。她的肉棒骄傲而焦虑地竖立着，不断地跳动。每次我咬嘴唇，[futa.GetFirstName]都会不由自主地从她的顶端喷出另一滴先走汁。#EMP 别再忍着了，我需要这东西进入我的身体！#!\n\n#BOLD *啪* *啪* *啪* *啪*#!\n\n哦哦哦哦哦哦！感觉真是太#EMP 棒#!了！每当我——呃啊啊啊啊啊啊，需-需要好好地被干的时候，拥有像[futa.GetFirstName]这样的女种马！挤压她的乳房，然后一次又一次地#BOLD 猛烈地#!撞击她的扶她肉棒，总是能让我达到高潮——#EMP 哦哦哦哦哦哦哦哦哦哦哦哦哦！#!"
  futa_accept.0324.a: "*喘口气*"
  
  #
 
  futa_events.0325.title: "支配之术" #Part 2
- futa_events.0325.desc: "你从高潮的余韵中疲惫地想要从 [futa.GetFirstName] 勃起的肉棒上移开。当她意识到你想要停止时，她的脸扭曲成痛苦的模样。\n\n“我们不能停，我的肉棒还硬着！我也需要释放！！！”对于一个妾来说，这要求太高了。你告诉她她必须等到下次，今天还有很多事情要做，而且你也不想弄伤你的子宫。\n\n“不……你只是……#BOLD 不明白。#!”在你反应过来之前，[futa.GetFirstName] 用野兽般的力气把你猛地拉回到她的女孩肉棒上。突然被她的肉棒完全插入，高潮后仍然敏感的你，痛苦和快乐交织在一起，冲击着你的大脑。你下意识地伸出舌头，努力恢复意识。\n\n“#EMP 看！#! 我就知道你仍然想要我！”你根本无法回应，而且似乎你的话无论如何也传不到沉浸在情欲中的 [futa.GetFirstName] 耳中。\n\n一切都变得模糊起来。你的阴道被强行进入，被迫顺从它新的女孩肉棒主人的欲望。每一条褶皱都被那热血沸腾的肉棒彻底地抚摸着，它将黏稠的先走汁灌满了你的阴道。过度活跃的雌雄同体精液库像狠狠的拍打一样亲吻着你的臀部。\n\n你完全不知道过了多久，[futa.GetFirstName] 的精液如潮水般涌入你的子宫，你已经彻底筋疲力尽。"
+ futa_events.0325.desc: "你从高潮的余韵中疲惫地想要从[futa.GetFirstName]勃起的肉棒上移开。当她意识到你想要停止时，她的脸扭曲成痛苦的模样。\n\n“我们不能停，我的肉棒还硬着！我也需要释放！！！”对于一个妾来说，这要求太高了。你告诉她她必须等到下次，今天还有很多事情要做，而且你也不想弄伤你的子宫。\n\n“不……你只是……#BOLD 不明白。#!”在你反应过来之前，[futa.GetFirstName]用野兽般的力气把你猛地拉回到她的女孩肉棒上。突然被她的肉棒完全插入，高潮后仍然敏感的你，痛苦和快乐交织在一起，冲击着你的大脑。你下意识地伸出舌头，努力恢复意识。\n\n“#EMP 看！#!我就知道你仍然想要我！”你根本无法回应，而且似乎你的话无论如何也传不到沉浸在情欲中的[futa.GetFirstName]耳中。\n\n一切都变得模糊起来。你的阴道被强行进入，被迫顺从它新的女孩肉棒主人的欲望。每一条褶皱都被那热血沸腾的肉棒彻底地抚摸着，它将黏稠的先走汁灌满了你的阴道。过度活跃的雌雄同体精液库像狠狠的拍打一样亲吻着你的臀部。\n\n你完全不知道过了多久，[futa.GetFirstName]的精液如潮水般涌入你的子宫，你已经彻底筋疲力尽。"
  futa_accept.0325.a: "#weak 该死……#!"
  
  #
 
  futa_events.0326.title: "甜蜜日常"
- futa_events.0326.desc: "有时候，在漫长而充满压力的一天之后，你所需要的只是躺在像我的 [futa.GetFirstName] 这样值得信赖的伴侣身边……但今晚并非如此。一股 #EMP 隐隐作痛的需求#! 在我的腰间蔓延，如果不加以解决，很可能会导致我第二天早上弄脏衣服。我翻过身，部分压在 [futa.GetFirstName] 试图入睡的身体上，我的嘴唇靠近她的嘴唇，轻声向她吐露我的渴望。\n\n“嗯，如果你需要我，我随时为您效劳。”她喜欢装作害羞，但我知道她#EMP 总是#! 准备好猛烈地撞击我的洞穴。轻轻捏了一下她的睾丸很快就揭示了真相。她将嘴唇贴在我的嘴唇上，并伸出舌头进行一些#EMP 深情#! 的口舌交锋。我抵抗着她的尝试，但她知道如何拨动我的心弦。\n\n[futa.GetFirstName] 翻身压在我身上，伸手到我的大腿之间，摆弄我的阴蒂。我像完美的乐器一样，随着她的节奏呻吟。各种美好的感觉在我体内舞动。我情不自禁地沉醉在 [futa.GetFirstName] 温柔的爱抚中。\n\n一个非常坚硬的物体闯入了我湿透的密室。[futa.GetFirstName] 隔着我们相连的嘴唇低声轻笑，摇晃着她的臀部，以便更深地进入我的身体。在我们淫荡的舞蹈中，她的乳房紧贴着我勃起的乳头，不断地从嘴到阴蒂刺激着我。\n\n找到节奏后，[futa.GetFirstName] 将她的膝盖向前移动，以便更好地插入我热情迎接的阴道。我不情愿地将她的嘴唇从我的嘴唇上移开，以便我能呼吸足够的空气来保持清醒，同时紧紧地夹住她的肉棒。\n\n[futa.GetFirstName] 越来越快。原本美好的依偎已经变成了一场放荡的性爱。我向天堂发出呻吟，我的整个胯部一次又一次地喷涌出淫荡的液体。\n\n当 [futa.GetFirstName] 的肉体亲吻我的子宫颈时，我的脸皱了起来。\n\n“我快要射在里面了！！！你——呃！可以吗？”\n\n傻女孩。我用双腿缠住她的腰，锁住她的臀部，同时偷偷地吻了她的嘴唇。\n\n她如此猛烈地将精液注入我体内，以至于我一度担心我的子宫会被撕裂。她那扶她肉棒的强劲一股精液冲击着我的生命之源。紧随其后的是她大量的液体，迅速填满了我的子宫，然后又渗了出来，弄脏了我的床单。[futa.GetFirstName] 用她的舌头缠绕着我的舌头，同时发出低吼。她那渴望的阴囊紧贴着我，我尽我所能地挤压她的女孩肉棒。\n\n当我们结束后，我发现自己被 [futa.GetFirstName] 昏迷的身体以及她注入我体内的额外重量困住了。"
+ futa_events.0326.desc: "有时候，在漫长而充满压力的一天之后，你所需要的只是躺在像我的[futa.GetFirstName]这样值得信赖的伴侣身边……但今晚并非如此。一股#EMP 隐隐作痛的需求#!在我的腰间蔓延，如果不加以解决，很可能会导致我第二天早上弄脏衣服。我翻过身，部分压在[futa.GetFirstName]试图入睡的身体上，我的嘴唇靠近她的嘴唇，轻声向她吐露我的渴望。\n\n“嗯，如果你需要我，我随时为您效劳。”她喜欢装作害羞，但我知道她#EMP 总是#!准备好猛烈地撞击我的洞穴。轻轻捏了一下她的睾丸很快就揭示了真相。她将嘴唇贴在我的嘴唇上，并伸出舌头进行一些#EMP 深情#!的口舌交锋。我抵抗着她的尝试，但她知道如何拨动我的心弦。\n\n[futa.GetFirstName]翻身压在我身上，伸手到我的大腿之间，摆弄我的阴蒂。我像完美的乐器一样，随着她的节奏呻吟。各种美好的感觉在我体内舞动。我情不自禁地沉醉在[futa.GetFirstName]温柔的爱抚中。\n\n一个非常坚硬的物体闯入了我湿透的密室。[futa.GetFirstName]隔着我们相连的嘴唇低声轻笑，摇晃着她的臀部，以便更深地进入我的身体。在我们淫荡的舞蹈中，她的乳房紧贴着我勃起的乳头，不断地从嘴到阴蒂刺激着我。\n\n找到节奏后，[futa.GetFirstName]将她的膝盖向前移动，以便更好地插入我热情迎接的阴道。我不情愿地将她的嘴唇从我的嘴唇上移开，以便我能呼吸足够的空气来保持清醒，同时紧紧地夹住她的肉棒。\n\n[futa.GetFirstName]越来越快。原本美好的依偎已经变成了一场放荡的性爱。我向天堂发出呻吟，我的整个胯部一次又一次地喷涌出淫荡的液体。\n\n当[futa.GetFirstName]的肉体亲吻我的子宫颈时，我的脸皱了起来。\n\n“我快要射在里面了！！！你——呃！可以吗？”\n\n傻女孩。我用双腿缠住她的腰，锁住她的臀部，同时偷偷地吻了她的嘴唇。\n\n她如此猛烈地将精液注入我体内，以至于我一度担心我的子宫会被撕裂。她那扶她肉棒的强劲一股精液冲击着我的生命之源。紧随其后的是她大量的液体，迅速填满了我的子宫，然后又渗了出来，弄脏了我的床单。[futa.GetFirstName]用她的舌头缠绕着我的舌头，同时发出低吼。她那渴望的阴囊紧贴着我，我尽我所能地挤压她的女孩肉棒。\n\n当我们结束后，我发现自己被[futa.GetFirstName]昏迷的身体以及她注入我体内的额外重量困住了。"
  futa_accept.0326.a: "*晚安吻*"
  
  #
 
  futa_events.0327.title: "贱妾之责"
- futa_events.0327.desc: "我快要忍不住了。我的妾 [femboi.GetFirstName] 在我的床边脱着衣服，我则等待着她的到来。不知为何，我的眼珠异常活跃，这使得我几乎无法专注于我的职责。即使现在，先走汁也从我的顶端滴落，在我的睾丸之间形成一滩液体。\n\n“嗯……我该从何开始呢？”[femboi.GetFirstName] 结巴地说，显然在考虑她能如何解决我的 #EMP 问题#!。对她来说幸运的是，我选择她并不是因为她的思考能力。我示意她靠近。她的眼睛始终没有离开我闪闪发光的龟头。一旦她靠近，我就抓住她柔软的屁股，告诉她现在是她履行作为我妾的职责，并吸干我的睾丸的时候了。\n\n“当然，但我该如何——#EMP 啊！#!”她花了太长时间。我将她紧缩的肛门对准我的肉棒，开始在她大腿上颠簸她的屁股。我的肉棒的印记压在她的肚子上，使其向外隆起。\n\n“嗯！啊哈哈哈！”她轻轻地呻吟着，当我用我的“荡妇制造者”在她的肠道里探索时，她失去了理智。我靠近她的头，她随着我的抽插而颤抖，我低语着她会成为一个好孩子，并为我怀孕。\n\n“但-但是我/EMP 哦哦哦哦哦哦！！！我不能——呃！——怀-怀孕！”[femboi.GetFirstName] 的行为太差劲了，真是个不负责任的妾。我确保用我的钝头#EMP 猛击#! 她的前列腺作为惩罚，让她像一个在我腿上毫无经验的妓女一样尖叫。\n\n#EMP 她将怀上我所有的孩子。我要她求我。#!\n\n“#EMP 呜！#! 是的，请填满我！”#EMP 这不是我想要的答案！#!\n\n“Kya！填-填满我，#EMP 让我怀孕！#! 请让我怀上你的孩子#BOLD！#!”\n\n好多了，而且也及时！我的睾丸收缩，我将 [femboi.GetFirstName] 按在我的臀部上，我的肉棒在她的屁股里爆发。一股我的精液依偎在她体内，深入她弯曲的隧道。当我们都看着她的肚子像怀孕的女孩一样向外膨胀，多余的精液像雨点般落在我的腿上时，[femboi.GetFirstName] 呻吟着，扭动着她的臀部。"
+ futa_events.0327.desc: "我快要忍不住了。我的妾[femboi.GetFirstName]在我的床边脱着衣服，我则等待着她的到来。不知为何，我的眼珠异常活跃，这使得我几乎无法专注于我的职责。即使现在，先走汁也从我的顶端滴落，在我的睾丸之间形成一滩液体。\n\n“嗯……我该从何开始呢？”[femboi.GetFirstName]结巴地说，显然在考虑她能如何解决我的#EMP 问题#!。对她来说幸运的是，我选择她并不是因为她的思考能力。我示意她靠近。她的眼睛始终没有离开我闪闪发光的龟头。一旦她靠近，我就抓住她柔软的屁股，告诉她现在是她履行作为我妾的职责，并吸干我的睾丸的时候了。\n\n“当然，但我该如何——#EMP 啊！#!”她花了太长时间。我将她紧缩的肛门对准我的肉棒，开始在她大腿上颠簸她的屁股。我的肉棒的印记压在她的肚子上，使其向外隆起。\n\n“嗯！啊哈哈哈！”她轻轻地呻吟着，当我用我的“荡妇制造者”在她的肠道里探索时，她失去了理智。我靠近她的头，她随着我的抽插而颤抖，我低语着她会成为一个好孩子，并为我怀孕。\n\n“但-但是我/EMP 哦哦哦哦哦哦！！！我不能——呃！——怀-怀孕！”[femboi.GetFirstName]的行为太差劲了，真是个不负责任的妾。我确保用我的钝头#EMP 猛击#!她的前列腺作为惩罚，让她像一个在我腿上毫无经验的妓女一样尖叫。\n\n#EMP 她将怀上我所有的孩子。我要她求我。#!\n\n“#EMP 呜！#!是的，请填满我！”#EMP 这不是我想要的答案！#!\n\n“Kya！填-填满我，#EMP 让我怀孕！#!请让我怀上你的孩子#BOLD！#!”\n\n好多了，而且也及时！我的睾丸收缩，我将[femboi.GetFirstName]按在我的臀部上，我的肉棒在她的屁股里爆发。一股我的精液依偎在她体内，深入她弯曲的隧道。当我们都看着她的肚子像怀孕的女孩一样向外膨胀，多余的精液像雨点般落在我的腿上时，[femboi.GetFirstName]呻吟着，扭动着她的臀部。"
  futa_accept.0327.a: "好孩子 *吻她的肚子*"
  
  #
 
  futa_events.0322.title: "新婚之夜"
- futa_events.0322.desc: "“亲爱的，你等不及了吧？你的——#EMP 哦！多汁的#BOLD 肉棒#! 在整个仪式中都顶着你的#EMP 礼服#!。亲爱的，你新娘的洞感觉如何？#EMP 因为我新娘的扶她肉棒扩张器感觉#BOLD 真是太棒了！#!#!”\n\n#EMP 天哪！#! [lover.GetFirstNamePossessive] 的话语感觉就像她湿润的阴道紧紧包裹着你的肉棒一样美妙。新娘的屁股随着你的每一次动作撞击着你的臀部，你确保在她体内留下你的印记。你们俩几乎没来得及锁上门，就迫不及待地想要圆房了。\n\n每一次令人眼皮抽搐的抽插都在 [lover.GetFirstName] 的屁股上荡漾起迷人的涟漪。你的一部分认为这样浪费她的礼服很可惜，但你那狂暴的欲望压制住了这种想法，你用婚纱更加用力地操着你妻子的屁股！\n\n“#BOLD 操！#! 亲爱的，#EMP 我要射了！”#! 突然一股#EMP 死亡般的紧握#! 压迫着你的肉棒。[lover.GetFirstName] 的液体喷洒在你的肉棒上，她的臀部在强烈的性高潮中抽搐着。你咬紧牙关，尽力继续抽插，尽管你自己的高潮也即将到来。\n\n“#EMP 天哪，#BOLD 操#!，亲——爱——的，你快要把我弄坏了！！！#!”[lover.GetFirstName] 在纯粹的狂喜中尖叫着，她敏感的腔室继续被你合法结婚的女肉棒扩张着。看到她为你失去理智，你再也无法忍受，随着你最后一次猛烈的臀部抽动，你也和她一起达到了高潮，在她的阴道里痉挛着，用你的精液涂满了它。"
+ futa_events.0322.desc: "“亲爱的，你等不及了吧？你的——#EMP 哦！多汁的#BOLD 肉棒#!在整个仪式中都顶着你的#EMP 礼服#!。亲爱的，你新娘的洞感觉如何？#EMP 因为我新娘的扶她肉棒扩张器感觉#BOLD 真是太棒了！#!#!”\n\n#EMP 天哪！#![lover.GetFirstNamePossessive]的话语感觉就像她湿润的阴道紧紧包裹着你的肉棒一样美妙。新娘的屁股随着你的每一次动作撞击着你的臀部，你确保在她体内留下你的印记。你们俩几乎没来得及锁上门，就迫不及待地想要圆房了。\n\n每一次令人眼皮抽搐的抽插都在[lover.GetFirstName]的屁股上荡漾起迷人的涟漪。你的一部分认为这样浪费她的礼服很可惜，但你那狂暴的欲望压制住了这种想法，你用婚纱更加用力地操着你妻子的屁股！\n\n“#BOLD 操！#!亲爱的，#EMP 我要射了！”#!突然一股#EMP 死亡般的紧握#!压迫着你的肉棒。[lover.GetFirstName]的液体喷洒在你的肉棒上，她的臀部在强烈的性高潮中抽搐着。你咬紧牙关，尽力继续抽插，尽管你自己的高潮也即将到来。\n\n“#EMP 天哪，#BOLD 操#!，亲——爱——的，你快要把我弄坏了！！！#!”[lover.GetFirstName]在纯粹的狂喜中尖叫着，她敏感的腔室继续被你合法结婚的女肉棒扩张着。看到她为你失去理智，你再也无法忍受，随着你最后一次猛烈的臀部抽动，你也和她一起达到了高潮，在她的阴道里痉挛着，用你的精液涂满了它。"
  futa_accept.0322.a: "*亲吻新娘*"
  
  #
 
  futa_events.0323.title: "新婚之夜" #Female POV
- futa_events.0323.desc: "#BOLD *啪嗒* *啪嗒* *啪嗒* *啪嗒*#! “谢天谢地，我们终于找到了一些独处的时间，我的——#EMP 嗯！#! 美丽的妻子！”[futa.GetFirstName] 哼了一声，在她忠实的婚礼之夜，用她的女孩肉棒耕耘着你的田地，扩张着你的阴道。经过如此漫长的等待，她的扶她肉棒现在属于你了，你打算好好利用它。\n\n你收紧核心，开始超速摆动你的臀部，进入一种充满情欲的节奏，每一次运动都让你的全身都充满了快感的火花。[futa.GetFirstName] 因为你无情的攻击而哼哼着。一起失去理智的感觉是无法形容的。你的注意力减弱，你的阴道壁疼痛，但你无法停止在你妻子的女孩肉棒上耸动。\n\n[futa.GetFirstName] 捏了捏你的屁股，紧紧地抱住了你。“#BOLD 我要让你当妈妈！#!”\n\n一股精液侵入了你的阴道，用她充满活力的黏液覆盖了它。想到你的卵子被 [futa.GetFirstName] 的精子包围，你就达到了高潮。但你的妻子还没结束，她又哼了一声，用力将她的肉棒深深插入，扩张着你的子宫颈，然后在里面射入了另一阵精子，之前的精液也随之涌入。\n\n一种#EMP 火热#!的感觉包裹着你的核心，它开始膨胀，你所能做的就是再次在高潮中射在你妻子的肉棒上。"
+ futa_events.0323.desc: "#BOLD *啪嗒* *啪嗒* *啪嗒* *啪嗒*#!“谢天谢地，我们终于找到了一些独处的时间，我的——#EMP 嗯！#!美丽的妻子！”[futa.GetFirstName]哼了一声，在她忠实的婚礼之夜，用她的女孩肉棒耕耘着你的田地，扩张着你的阴道。经过如此漫长的等待，她的扶她肉棒现在属于你了，你打算好好利用它。\n\n你收紧核心，开始超速摆动你的臀部，进入一种充满情欲的节奏，每一次运动都让你的全身都充满了快感的火花。[futa.GetFirstName]因为你无情的攻击而哼哼着。一起失去理智的感觉是无法形容的。你的注意力减弱，你的阴道壁疼痛，但你无法停止在你妻子的女孩肉棒上耸动。\n\n[futa.GetFirstName]捏了捏你的屁股，紧紧地抱住了你。“#BOLD 我要让你当妈妈！#!”\n\n一股精液侵入了你的阴道，用她充满活力的黏液覆盖了它。想到你的卵子被[futa.GetFirstName]的精子包围，你就达到了高潮。但你的妻子还没结束，她又哼了一声，用力将她的肉棒深深插入，扩张着你的子宫颈，然后在里面射入了另一阵精子，之前的精液也随之涌入。\n\n一种#EMP 火热#!的感觉包裹着你的核心，它开始膨胀，你所能做的就是再次在高潮中射在你妻子的肉棒上。"
  futa_accept.0323.a: "#EMP 啊啊啊啊！！！！#!"
  
  #
 
  futa_marriage_event.0001.title: "两性合一"
- futa_marriage_event.0001.desc: "这一刻终于到来了，终于到来了。我的内心充满了喜悦！我简直不敢相信我竟然找到了一个将与我共度余生的人！一个会爱我、欣赏我本真的人，无需隐藏我的身份或欲望。我拥有美丽妻子的日子到来了！\n\n[lover.GetFirstName] 和我独自在#EMP 我们的#! 卧室里。她穿着礼服的样子真迷人。我真想#EMP 永远抱住她！#! \n\n“哇，别急，我的爱人，我哪儿也不去。”[lover.GetFirstName] 回抱了我。她的感觉现在格外舒适。如此靠近她……\n\n“哦！我想我不应该惊讶你的朋友和你一样渴望打招呼！”我的喜悦显然伴随着一份#EMP 兴奋#!，我的扶她肉棒顶着我可爱的 [lover.GetFirstName] 的胯部。她吻了我的嘴唇，并抚摸着我的肉棒。\n\n“今晚#EMP 是#! 我们的新婚之夜，我们不应该圆房吗？”我的心砰砰直跳，表示赞同。此刻，[lover.GetFirstName] 简直就像一个天使。我无法转移视线，看着她慢慢走向我们的床，然后坐下，故意脱掉她的鞋子。\n\n“还是说，我不够好？”"
+ futa_marriage_event.0001.desc: "这一刻终于到来了，终于到来了。我的内心充满了喜悦！我简直不敢相信我竟然找到了一个将与我共度余生的人！一个会爱我、欣赏我本真的人，无需隐藏我的身份或欲望。我拥有美丽妻子的日子到来了！\n\n[lover.GetFirstName]和我独自在#EMP 我们的#!卧室里。她穿着礼服的样子真迷人。我真想#EMP 永远抱住她！#!\n\n“哇，别急，我的爱人，我哪儿也不去。”[lover.GetFirstName]回抱了我。她的感觉现在格外舒适。如此靠近她……\n\n“哦！我想我不应该惊讶你的朋友和你一样渴望打招呼！”我的喜悦显然伴随着一份#EMP 兴奋#!，我的扶她肉棒顶着我可爱的[lover.GetFirstName]的胯部。她吻了我的嘴唇，并抚摸着我的肉棒。\n\n“今晚#EMP 是#!我们的新婚之夜，我们不应该圆房吗？”我的心砰砰直跳，表示赞同。此刻，[lover.GetFirstName]简直就像一个天使。我无法转移视线，看着她慢慢走向我们的床，然后坐下，故意脱掉她的鞋子。\n\n“还是说，我不够好？”"
  futa_marriage_event.0001.a: "……#EMP 操#!"
 
  #
 
  futa_marriage_event.0002.title: "两性合一" # Part 2
- futa_marriage_event.0002.desc: "“#EMP 呃啊啊啊啊！操！！！！#!”\n\n#BOLD *砰* *啪* *啪* *尖叫* *吧唧* *啪* *啪*#! \n\n“#BOLD 操我！#EMP 操我，你这个美丽的疯女人！#!#!”[lover.GetFirstName] 太棒了！如此#EMP 正确#!！如此#BOLD 性感#!！我永远也无法满足。我要猛烈地撞击她的洞穴，直到我的臀部化为尘土！她如此完美地接纳了我的肉棒，仿佛我们天生一对。她产道的每一次弯曲，每一条褶皱都将适应我肉棒的形状！\n\n#EMP 呃啊啊啊啊！我太爱你了！！！#! \n\n“#BOLD 我的天哪，我也爱你！#! #EMP #BOLD 现在就用你的荡妇破坏者，你这头种马，狠狠地蹂躏我的子宫吧！#!#! #BOLD #highlight 在我怀上你的孩子之前，不——要——停！#!#!”"
+ futa_marriage_event.0002.desc: "“#EMP 呃啊啊啊啊！操！！！！#!”\n\n#BOLD *砰* *啪* *啪* *尖叫* *吧唧* *啪* *啪*#!\n\n“#BOLD 操我！#EMP 操我，你这个美丽的疯女人！#!#!”[lover.GetFirstName]太棒了！如此#EMP 正确#!！如此#BOLD 性感#!！我永远也无法满足。我要猛烈地撞击她的洞穴，直到我的臀部化为尘土！她如此完美地接纳了我的肉棒，仿佛我们天生一对。她产道的每一次弯曲，每一条褶皱都将适应我肉棒的形状！\n\n#EMP 呃啊啊啊啊！我太爱你了！！！#!\n\n“#BOLD 我的天哪，我也爱你！#!#EMP #BOLD 现在就用你的荡妇破坏者，你这头种马，狠狠地蹂躏我的子宫吧！#!#!#BOLD #highlight 在我怀上你的孩子之前，不——要——停！#!#!”"
  futa_marriage_event.0002.a: "“要出来了！！！”"
  
  #
 
  futa_marriage_event.0003.title: "两性合一" # Female POV
- futa_marriage_event.0003.desc: "#BOLD *砰* *啪* *啪* *尖叫* *吧唧* *啪* *啪*#! \n\n#EMP 我的阴道完全被我新婚妻子的#BOLD 肉棒#!#!#! 重塑了！她甚至没等我们脱衣服，就把我们的液体洒在了这些漂亮的礼服上。\n\n#EMP 呃，操，谁在乎？#! [futa.GetFirstName] 正高兴地让我快乐。她也做得#EMP 真是太棒了#!！我想我又快要高潮了！！！#EMP 呃啊啊啊！#! \n\n“*哼* #EMP 操-操 我-我想我要——#!”[futa.GetFirstName] 瘫倒在你身上，她的整个身体都紧绷着，将一股新鲜的新婚精液注入你的蜜月蜜罐中。它浓稠、黏稠，而且量大得惊人。你的大腿因经历了一场你可能经历过的最激烈的繁殖过程而感到麻木。\n\n你的阴道很可能已经被撑大到了一个新的尺寸，但由于你妻子的女孩肉棒里塞满了精液，你无法确定。"
- futa_marriage_event.0003.a: "“我想现在#EMP 是#! 我的肉棒了吧，[futa.GetFirstName]？”"
+ futa_marriage_event.0003.desc: "#BOLD *砰* *啪* *啪* *尖叫* *吧唧* *啪* *啪*#!\n\n#EMP 我的阴道完全被我新婚妻子的#BOLD 肉棒#!#!#!重塑了！她甚至没等我们脱衣服，就把我们的液体洒在了这些漂亮的礼服上。\n\n#EMP 呃，操，谁在乎？#![futa.GetFirstName]正高兴地让我快乐。她也做得#EMP 真是太棒了#!！我想我又快要高潮了！！！#EMP 呃啊啊啊！#!\n\n“*哼*#EMP 操-操 我-我想我要——#!”[futa.GetFirstName]瘫倒在你身上，她的整个身体都紧绷着，将一股新鲜的新婚精液注入你的蜜月蜜罐中。它浓稠、黏稠，而且量大得惊人。你的大腿因经历了一场你可能经历过的最激烈的繁殖过程而感到麻木。\n\n你的阴道很可能已经被撑大到了一个新的尺寸，但由于你妻子的女孩肉棒里塞满了精液，你无法确定。"
+ futa_marriage_event.0003.a: "“我想现在#EMP 是#!我的肉棒了吧，[futa.GetFirstName]？”"
 
  #
 
  futa_events.0328.title: "少女之需"
- futa_events.0328.desc: "“你不用——#EMP 啊！#!” 蠢女人，她现在应该明白顶嘴是无法让她免受#EMP 紧致#! 的小屁眼之苦的。我可以整天都把她的内脏搞得一团糟，不幸的是，我们有些人还有其她责任要管理。我毫不留情，这个贱货会学会爱上我的肉棒的形状，当我离开后，她会渴望它在她屁眼里的位置。\n\n#BOLD “啪” \n\n“#EMP 嗷！#!” \n\n#EMP 嗯#! 我想是时候奖励她更多润滑剂了。现在别浪费，因为下次你就只能得到这么多了！"
+ futa_events.0328.desc: "“你不用——#EMP 啊！#!” 蠢女人，她现在应该明白顶嘴是无法让她免受#EMP 紧致#!的小屁眼之苦的。我可以整天都把她的内脏搞得一团糟，不幸的是，我们有些人还有其她责任要管理。我毫不留情，这个贱货会学会爱上我的肉棒的形状，当我离开后，她会渴望它在她屁眼里的位置。\n\n#BOLD “啪” \n\n“#EMP 嗷！#!” \n\n#EMP 嗯#!我想是时候奖励她更多润滑剂了。现在别浪费，因为下次你就只能得到这么多了！"
  futa_accept.0328.a: "*在她屁股上涂抹润滑剂*"
